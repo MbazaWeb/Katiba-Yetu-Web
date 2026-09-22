@@ -771,6 +771,16 @@
                   "section": "132",
                   "title": "Attempted rape",
                   "file": "sections/132.json"
+                },
+                {
+                  "section": "133",
+                  "title": "Abduction",
+                  "file": "sections/133.json"
+                },
+                {
+                  "section": "134",
+                  "title": "Abduction of girls under sixteen",
+                  "file": "sections/134.json"
                 }
               ]
             }
