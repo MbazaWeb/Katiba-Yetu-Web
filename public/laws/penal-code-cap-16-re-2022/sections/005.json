@@ -6,5 +6,26 @@
     "law": "The Penal Code",
     "chapterNumber": "16",
     "edition": "Revised Edition 2022"
+  },
+  "explanation": {
+    "summary": "Kifungu hiki kinafafanua baadhi ya maneno yanayotumika ndani ya Penal Code ili yawe na maana maalum yanapotokea katika sheria.",
+    "points": [
+      "Maana zilizowekwa hapa hutumika isipokuwa muktadha wa kifungu kingine uhitaji maana tofauti.",
+      "Baadhi ya istilahi kama court, harm, dangerous harm na grievous harm zina maana maalum kwa matumizi ya Code."
+    ],
+    "terms": [
+      {
+        "term": "Harm",
+        "meaning": "Bodily hurt, disease au disorder, iwe ya kudumu au ya muda."
+      },
+      {
+        "term": "Dangerous harm",
+        "meaning": "Harm inayohatarisha maisha."
+      },
+      {
+        "term": "Grievous harm",
+        "meaning": "Aina nzito ya harm kama ilivyofafanuliwa kwenye official text."
+      }
+    ]
   }
 }
