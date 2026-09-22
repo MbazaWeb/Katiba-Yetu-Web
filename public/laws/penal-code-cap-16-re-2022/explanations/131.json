@@ -1,12 +1,12 @@
 {
   "section": "131",
   "language": "sw",
-  "plainLanguage": "Section 131 — Punishment for rape. Ufafanuzi huu unafuata vipengele vya statutory text ya R.E. 2022 bila kubadilisha official wording.",
-  "meaning": "Section 131 must be read together with the precise statutory definitions, circumstances, evidential rules and punishment provisions that apply to the offence.",
+  "plainLanguage": "Section 131 — Punishment for rape. Ufafanuzi huu unafuata statutory elements za kifungu bila kubadilisha official text.",
+  "meaning": "Section 131 must be read from its exact definitions, conduct, consent, age, intention, authority, evidential rules and sentencing provisions where applicable.",
   "keyPoints": [
-    "Use the exact statutory elements and age thresholds stated in the R.E. 2022 text.",
-    "Consent, authority, penetration, participation, intention and other circumstances matter only as the relevant provision specifies.",
-    "Do not substitute the explanation for the official statutory wording."
+    "Use the official provision element by element.",
+    "Age, consent, intention, authority and penetration must be treated exactly as the relevant subsection provides.",
+    "Do not infer an element or penalty from the heading alone."
   ],
   "legalTerms": [],
   "examples": [],
@@ -14,22 +14,22 @@
   "history": {
     "summary": "Section 131 appears in Chapter XV — Offences Against Morality — Penal Code [CAP. 16 R.E. 2022].",
     "notes": [
-      "Official text verified against the government-hosted R.E. 2022 Penal Code."
+      "Official statutory text checked against the government R.E. 2022 publication."
     ],
-    "sourceUrl": "https://oagmis.oag.go.tz/portal/revised-acts/revised/87"
+    "sourceUrl": "https://www.oag.go.tz/uploads/documents/en-1772434211-THE%20PENAL%20CODE%202022%20%281%29.pdf"
   },
   "expertPerspectives": [
     {
       "label": "Mtazamo A",
-      "focus": "Statutory elements",
-      "view": "Each express element, circumstance and threshold should be proved rather than inferred from the offence label."
+      "focus": "Elements and evidence",
+      "view": "Each statutory ingredient must be established from admissible evidence; the section heading is not a substitute for the elements."
     },
     {
       "label": "Mtazamo B",
-      "focus": "Evidence and safeguards",
-      "view": "The analysis should distinguish the definition of the offence, evidential rules and sentencing provisions."
+      "focus": "Consent and statutory safeguards",
+      "view": "Consent, age, authority relationships and statutory evidential rules should be analysed only as the relevant subsection expressly provides."
     }
   ],
-  "debateQuestion": "Je, evidence inathibitisha kila statutory element inayohitajika na section 131?",
+  "debateQuestion": "Je, evidence inathibitisha kila statutory requirement ya section 131?",
   "disclaimer": "Ufafanuzi huu si maandishi rasmi ya sheria."
 }
