@@ -16,7 +16,8 @@
     "typescript": "~5.9.2",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
-    "@supabase/supabase-js": "^2.57.4"
+    "@supabase/supabase-js": "^2.57.4",
+    "pdfjs-dist": "6.3.289"
   },
   "devDependencies": {
     "@types/react": "^19.1.16",
