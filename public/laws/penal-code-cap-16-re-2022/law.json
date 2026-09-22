@@ -428,6 +428,31 @@
                   "section": "76",
                   "title": "Punishment for riot",
                   "file": "sections/076.json"
+                },
+                {
+                  "section": "77",
+                  "title": "Making proclamation for rioters to disperse",
+                  "file": "sections/077.json"
+                },
+                {
+                  "section": "78",
+                  "title": "Dispersion of rioters after proclamation",
+                  "file": "sections/078.json"
+                },
+                {
+                  "section": "79",
+                  "title": "Rioting after proclamation",
+                  "file": "sections/079.json"
+                },
+                {
+                  "section": "80",
+                  "title": "Preventing or obstructing making of proclamation",
+                  "file": "sections/080.json"
+                },
+                {
+                  "section": "81",
+                  "title": "Rioters demolishing buildings, etc.",
+                  "file": "sections/081.json"
                 }
               ]
             }
