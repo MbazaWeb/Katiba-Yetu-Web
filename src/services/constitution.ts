@@ -46,7 +46,7 @@ const manifestCache:{promise?:Promise<string[]>}={};
 async function loadManifestPaths(){
   if(!manifestCache.promise) manifestCache.promise=fetch('/katiba/snapshot.csv').then(async r=>{
     if(!r.ok) throw new Error('Katiba path manifest haijapatikana.');
-    const text=await r.text();
+    const text=(await r.text()).replace(/^\uFEFF/,'');
     return text.split(/\r?\n/).slice(1).map(line=>{
       const match=line.match(/^"((?:[^"]|"")*)"/);
       return match?match[1].replace(/""/g,'"').replace(/\\/g,'/').replace(/^\//,''):'';
