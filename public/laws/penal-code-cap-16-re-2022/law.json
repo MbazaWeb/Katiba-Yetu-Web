@@ -591,6 +591,41 @@
                   "section": "107",
                   "title": "False swearing",
                   "file": "sections/107.json"
+                },
+                {
+                  "section": "108",
+                  "title": "Deceiving witnesses",
+                  "file": "sections/108.json"
+                },
+                {
+                  "section": "109",
+                  "title": "Destroying evidence",
+                  "file": "sections/109.json"
+                },
+                {
+                  "section": "110",
+                  "title": "Conspiracy to defeat justice and interference with witnesses",
+                  "file": "sections/110.json"
+                },
+                {
+                  "section": "111",
+                  "title": "Compounding offences",
+                  "file": "sections/111.json"
+                },
+                {
+                  "section": "112",
+                  "title": "Compounding penal actions",
+                  "file": "sections/112.json"
+                },
+                {
+                  "section": "113",
+                  "title": "Advertisements for stolen property",
+                  "file": "sections/113.json"
+                },
+                {
+                  "section": "114",
+                  "title": "Offences relating to judicial proceedings",
+                  "file": "sections/114.json"
                 }
               ]
             }
