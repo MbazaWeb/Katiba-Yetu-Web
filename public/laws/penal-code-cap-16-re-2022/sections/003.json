@@ -6,32 +6,5 @@
     "law": "The Penal Code",
     "chapterNumber": "16",
     "edition": "Revised Edition 2022"
-  },
-  "explanation": {
-    "summary": "Kifungu hiki kinalinda kuendelea kutumika kwa mamlaka na sheria nyingine zinazotajwa, hata kama Penal Code ipo. Pia kinazuia mtu kuadhibiwa mara mbili kwa kosa lilelile chini ya Penal Code na sheria nyingine ya aina iliyotajwa hapa.",
-    "points": [
-      "Penal Code haifuti moja kwa moja uwajibikaji au adhabu chini ya sheria nyingine inayotumika Mainland Tanzania.",
-      "Mamlaka ya mahakama kuhusu contempt of court yanaendelea kuwepo.",
-      "Mamlaka ya Rais kuhusu pardon, remission, commutation au respite hayaondolewi na Penal Code.",
-      "Ikiwa kitendo kilekile kinaadhibiwa chini ya Penal Code na sheria nyingine inayotajwa hapa, mtu hatakiwi kuadhibiwa kwa kosa hilo chini ya sheria zote mbili."
-    ],
-    "terms": [
-      {
-        "term": "Contempt of court",
-        "meaning": "Kitendo kinachodharau au kuingilia mamlaka au mwenendo wa mahakama."
-      },
-      {
-        "term": "Pardon",
-        "meaning": "Msamaha wa adhabu unaotolewa kwa mamlaka inayotambuliwa na sheria."
-      },
-      {
-        "term": "Commute",
-        "meaning": "Kubadilisha adhabu kuwa adhabu nyingine."
-      },
-      {
-        "term": "Respite",
-        "meaning": "Kuahirisha utekelezaji wa adhabu."
-      }
-    ]
   }
 }
