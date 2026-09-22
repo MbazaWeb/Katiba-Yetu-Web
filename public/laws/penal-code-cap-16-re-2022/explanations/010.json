@@ -49,5 +49,25 @@
       "view": "Subsection (3) hutenganisha motive na criminal responsibility kwa kawaida. Sababu iliyomsukuma mtu si sawa moja kwa moja na element ya intention, isipokuwa sheria imesema vinginevyo expressly."
     }
   ],
-  "debateQuestion": "Katika offence husika, sheria imetaja expressly intention gani kama element, na hoja inayojadiliwa ni intention, motive, accident, au negligence?"
+  "debateQuestion": "Katika offence husika, sheria imetaja expressly intention gani kama element, na hoja inayojadiliwa ni intention, motive, accident, au negligence?",
+  "examples": [
+    {
+      "title": "Mfano wa accident",
+      "scenario": "Event inayosababisha alleged offence inatokea bila kukusudiwa, na accused anasema ilikuwa accident.",
+      "analysis": "Section 10(1) inafanya swali la will/accident kuwa relevant, lakini pia inaweka rule hiyo subject to express provisions kuhusu negligent acts and omissions."
+    },
+    {
+      "title": "Mfano wa motive na intention",
+      "scenario": "Mtu ana motive fulani ya kufanya act, lakini offence husika ina elements zake maalum.",
+      "analysis": "Section 10(2)-(3) inaonyesha umuhimu wa kutenganisha particular intention ambayo offence imetaja expressly na motive iliyomsukuma mtu."
+    }
+  ],
+  "history": {
+    "summary": "Rule inayotenganisha accident, intention na motive imeonekana katika matoleo ya zamani ya Penal Code na inaendelea katika R.E. 2022. Case law kuhusu specific offences inaweza kuongeza maana kulingana na elements za offence husika.",
+    "notes": [
+      "Motive na intention si maneno yanayoweza kubadilishana moja kwa moja katika uchambuzi wa section 10.",
+      "Kabla ya kutumia subsection (2), soma offence inayodaiwa ili kuona kama particular intention imetajwa expressly kuwa element."
+    ],
+    "sourceUrl": "https://www.sheria.go.tz/uploads/documents/sw-1677665965-THE%20PENAL%20CODE.pdf"
+  }
 }
