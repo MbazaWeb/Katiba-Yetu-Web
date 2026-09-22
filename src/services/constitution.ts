@@ -136,14 +136,27 @@ export async function loadAllArticles(documentId:string){
 
 export async function searchConstitution(query:string,documentId?:string){
   const q=query.trim().toLocaleLowerCase('sw');
+  if(!q) return [];
+  const tokens=q.split(/\s+/).filter(Boolean);
   const sources=documentId?constitutionSources.filter(s=>s.id===documentId):constitutionSources;
   const groups=await Promise.all(sources.map(async source=>{
     const articles=await loadAllArticles(source.id);
-    return articles.filter(a=>!q||[
-      String(a.ibara),a.jina,a.sura,a.sehemu||'',a.maudhui,...(a.vifungu||[])
-    ].join(' ').toLocaleLowerCase('sw').includes(q)).map(a=>({source,article:a}));
+    return articles.map(article=>{
+      const number=String(article.ibara).toLocaleLowerCase('sw'),title=(article.jina||'').toLocaleLowerCase('sw'),chapter=(article.sura||'').toLocaleLowerCase('sw'),part=(article.sehemu||'').toLocaleLowerCase('sw'),body=[article.maudhui,...(article.vifungu||[])].join(' ').toLocaleLowerCase('sw');
+      const searchable=[number,title,chapter,part,body].join(' ');
+      if(!tokens.every(token=>searchable.includes(token))) return null;
+      let score=0;
+      if(number===q||('ibara '+number)===q)score+=1000;
+      if(title===q)score+=800;
+      if(title.startsWith(q))score+=500;
+      if(title.includes(q))score+=300;
+      if(chapter.includes(q)||part.includes(q))score+=150;
+      if(body.includes(q))score+=80;
+      for(const token of tokens){if(number===token)score+=180;if(title.includes(token))score+=60;if(body.includes(token))score+=10}
+      return {source,article,score};
+    }).filter((x):x is {source:ConstitutionSource;article:ConstitutionArticle;score:number}=>Boolean(x));
   }));
-  return groups.flat();
+  return groups.flat().sort((a,b)=>b.score-a.score||String(a.article.ibara).localeCompare(String(b.article.ibara),undefined,{numeric:true}));
 }
 
 export interface SourceIntegrityIssue {sourceId:string;chapter?:string;file?:string;kind:'missing_chapter_index'|'missing_article'|'unreferenced_article'|'invalid_json';message:string}
