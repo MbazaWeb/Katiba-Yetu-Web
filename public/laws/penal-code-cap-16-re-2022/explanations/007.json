@@ -18,5 +18,23 @@
       "meaning": "Kushtakiwa/kusikilizwa shauri na kuadhibiwa kwa mujibu wa Penal Code kama masharti ya kifungu yanatimia."
     }
   ],
-  "disclaimer": "Ufafanuzi huu si maandishi rasmi ya sheria."
+  "disclaimer": "Ufafanuzi huu si maandishi rasmi ya sheria.",
+  "expertPerspectives": [
+    {
+      "label": "Mtazamo A",
+      "focus": "Kiungo cha ndani ya jurisdiction",
+      "view": "Msisitizo unaweza kuwekwa kwenye sehemu ya act iliyofanywa ndani ya jurisdiction: kifungu kinamruhusu mtu aliyefanya sehemu hiyo kujaribiwa kana kwamba act nzima ilifanyika ndani."
+    },
+    {
+      "label": "Mtazamo B",
+      "focus": "Sharti la msingi",
+      "view": "Kabla ya kutumia kifungu, uchambuzi mwingine huanza kwa kuuliza kama act hiyo, ikiwa ingefanyika wholly within jurisdiction, kweli ingekuwa offence against the Code."
+    },
+    {
+      "label": "Hoja ya uchambuzi",
+      "focus": "Facts za mpakani",
+      "view": "Katika tukio linalovuka jurisdiction, mgogoro unaweza kuwa ni kutambua ni sehemu gani ya act ilifanyika ndani na nani aliifanya."
+    }
+  ],
+  "debateQuestion": "Ni facts zipi zinatosha kuonyesha kwamba accused alifanya “any part” ya act ndani ya jurisdiction?"
 }
