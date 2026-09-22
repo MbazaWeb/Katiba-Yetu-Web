@@ -146,6 +146,30 @@ export async function searchConstitution(query:string,documentId?:string){
   return groups.flat();
 }
 
+export interface SourceIntegrityIssue {sourceId:string;chapter?:string;file?:string;kind:'missing_chapter_index'|'missing_article'|'unreferenced_article'|'invalid_json';message:string}
+export interface SourceIntegrityReport {manifestFiles:number;jsonFiles:number;chapterIndexes:number;articleFiles:number;referencedArticles:number;issues:SourceIntegrityIssue[]}
+
+export async function checkSourceIntegrity():Promise<SourceIntegrityReport>{
+  const paths=await loadManifestPaths(),jsonPaths=paths.filter(p=>p.toLowerCase().endsWith('.json'));
+  const issues:SourceIntegrityIssue[]=[];let chapterIndexes=0,articleFiles=0,referencedArticles=0;
+  for(const source of constitutionSources){
+    const prefix=sourceManifestPrefix(source),sourcePaths=jsonPaths.filter(p=>p.startsWith(prefix));
+    const chapters=new Map<string,Set<string>>();
+    for(const path of sourcePaths){const rest=path.slice(prefix.length),parts=rest.split('/');if(parts.length<2)continue;const [chapter,file]=parts;if(!chapters.has(chapter))chapters.set(chapter,new Set());chapters.get(chapter)!.add(file);if(/^Ibara .+\.json$/i.test(file))articleFiles++}
+    for(const [chapter,files] of chapters){
+      const indexFile=chapter+'.json';
+      if(!files.has(indexFile)){issues.push({sourceId:source.id,chapter,file:indexFile,kind:'missing_chapter_index',message:'Chapter index haipo kwenye manifest.'});continue}
+      chapterIndexes++;
+      let data:ConstitutionChapter;
+      try{data=await fetchJson<ConstitutionChapter>(source.basePath+'/'+chapter+'/'+indexFile)}catch{issues.push({sourceId:source.id,chapter,file:indexFile,kind:'invalid_json',message:'Chapter index haiwezi kusomwa kama JSON.'});continue}
+      const refs=new Set(data.ibara||[]);referencedArticles+=refs.size;
+      for(const file of refs)if(!files.has(file))issues.push({sourceId:source.id,chapter,file,kind:'missing_article',message:'Ibara imetajwa na chapter index lakini file haipo kwenye manifest.'});
+      for(const file of files)if(/^Ibara .+\.json$/i.test(file)&&!refs.has(file))issues.push({sourceId:source.id,chapter,file,kind:'unreferenced_article',message:'Article file ipo kwenye manifest lakini haijatajwa na chapter index.'});
+    }
+  }
+  return {manifestFiles:paths.length,jsonFiles:jsonPaths.length,chapterIndexes,articleFiles,referencedArticles,issues};
+}
+
 export function articleFileName(articleNumber:number|string){
   return `Ibara ${articleNumber}.json`;
 }
