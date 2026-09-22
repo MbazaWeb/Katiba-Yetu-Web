@@ -297,3 +297,25 @@ a.publicIdentity{color:inherit;text-decoration:none}a.publicIdentity:hover b{tex
  .brand span{display:block}
  .brand{min-width:auto}
 }
+
+/* Expert legal debate */
+.lawExpertDebate{margin:4px 20px 18px;border:1px solid #dce8df;border-radius:14px;overflow:hidden;background:#fff}
+.lawExpertDebateHead{padding:15px 16px;background:#f5faf7;border-bottom:1px solid #e2ebe5}
+.lawExpertDebateHead>span{font-size:7px;font-weight:900;letter-spacing:.13em;color:var(--green)}
+.lawExpertDebateHead h4{margin:4px 0 5px;font-size:11px}
+.lawExpertDebateHead p{font-size:8px!important;line-height:1.55!important;color:#69736c!important}
+.lawExpertDebateGrid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0}
+.lawExpertDebateGrid article{padding:14px 16px;border-right:1px solid #e7ece9;border-bottom:1px solid #e7ece9}
+.lawExpertDebateGrid article:nth-child(even){border-right:0}
+.lawExpertDebateGrid article>div{display:flex;flex-direction:column;gap:3px;margin-bottom:7px}
+.lawExpertDebateGrid article b{font-size:9px;color:#173c29}
+.lawExpertDebateGrid article small{font-size:7px;color:var(--green);font-weight:800}
+.lawExpertDebateGrid article p{font-size:8px!important;line-height:1.6!important;color:#5f6b63!important}
+.lawDebateQuestion{padding:13px 16px;background:#fbfcfb}
+.lawDebateQuestion b{font-size:8px;color:#173c29}
+.lawDebateQuestion p{margin-top:4px!important;font-size:8px!important;line-height:1.55!important}
+:root[data-theme="dark"] .lawExpertDebate,:root[data-theme="dark"] .lawExpertDebateHead,:root[data-theme="dark"] .lawDebateQuestion{background:#0f1714;border-color:#26342f}
+:root[data-theme="dark"] .lawExpertDebateGrid article{border-color:#26342f}
+:root[data-theme="dark"] .lawExpertDebateHead h4,:root[data-theme="dark"] .lawExpertDebateGrid article b,:root[data-theme="dark"] .lawDebateQuestion b{color:#f5f7f6}
+:root[data-theme="dark"] .lawExpertDebateHead p,:root[data-theme="dark"] .lawExpertDebateGrid article p,:root[data-theme="dark"] .lawDebateQuestion p{color:#aab8b1!important}
+@media(max-width:600px){.lawExpertDebate{margin-inline:14px}.lawExpertDebateGrid{grid-template-columns:1fr}.lawExpertDebateGrid article{border-right:0}}
