@@ -1,14 +1,12 @@
 {
   "name": "katiba-yetu-web",
   "private": true,
-  "version": "0.2.0",
+  "version": "0.3.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
-    "preview": "vite preview",
-    "import:katiba": "node scripts/import-katiba.mjs \"katiba file\"",
-    "import:katiba:custom": "node scripts/import-katiba.mjs"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@vitejs/plugin-react": "^5.0.4",
