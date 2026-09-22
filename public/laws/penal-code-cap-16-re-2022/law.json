@@ -205,6 +205,144 @@
               "section": "29",
               "title": "Fines",
               "file": "sections/029.json"
+            },
+            {
+              "section": "30",
+              "title": "Forfeiture",
+              "file": "sections/030.json"
+            },
+            {
+              "section": "31",
+              "title": "Compensation",
+              "file": "sections/031.json"
+            },
+            {
+              "section": "32",
+              "title": "Costs",
+              "file": "sections/032.json"
+            },
+            {
+              "section": "33",
+              "title": "Security for keeping peace",
+              "file": "sections/033.json"
+            },
+            {
+              "section": "34",
+              "title": "Repealed",
+              "file": "sections/034.json"
+            },
+            {
+              "section": "35",
+              "title": "General punishment for offences where penalty not prescribed",
+              "file": "sections/035.json"
+            },
+            {
+              "section": "36",
+              "title": "Sentences cumulative unless otherwise ordered",
+              "file": "sections/036.json"
+            },
+            {
+              "section": "37",
+              "title": "Escaped convicts to serve unexpired sentences when recaptured",
+              "file": "sections/037.json"
+            },
+            {
+              "section": "38",
+              "title": "Absolute and conditional discharge",
+              "file": "sections/038.json"
+            },
+            {
+              "section": "38A",
+              "title": "Commission of further offence",
+              "file": "sections/38A.json"
+            },
+            {
+              "section": "38B",
+              "title": "Effect of conviction and discharge",
+              "file": "sections/38B.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part-ii",
+      "title": "CRIMES",
+      "divisions": [
+        {
+          "id": "division-i",
+          "title": "Offences against Public Order",
+          "chapters": [
+            {
+              "id": "chapter-vii",
+              "title": "TREASON AND OTHER OFFENCES AGAINST THE REPUBLIC",
+              "sections": [
+                {
+                  "section": "39",
+                  "title": "Treason",
+                  "file": "sections/039.json"
+                },
+                {
+                  "section": "40",
+                  "title": "Treasonable offences",
+                  "file": "sections/040.json"
+                },
+                {
+                  "section": "41",
+                  "title": "Misprision of treason",
+                  "file": "sections/041.json"
+                },
+                {
+                  "section": "42",
+                  "title": "Omitted",
+                  "file": "sections/042.json"
+                },
+                {
+                  "section": "43",
+                  "title": "Promoting warlike undertakings",
+                  "file": "sections/043.json"
+                },
+                {
+                  "section": "44",
+                  "title": "Replaced",
+                  "file": "sections/044.json"
+                },
+                {
+                  "section": "45",
+                  "title": "Inciting to mutiny",
+                  "file": "sections/045.json"
+                },
+                {
+                  "section": "46",
+                  "title": "Aiding soldiers or police officers in acts of mutiny",
+                  "file": "sections/046.json"
+                },
+                {
+                  "section": "47",
+                  "title": "Inducing soldiers or police officers to desert",
+                  "file": "sections/047.json"
+                },
+                {
+                  "section": "48",
+                  "title": "Aiding prisoners of war to escape",
+                  "file": "sections/048.json"
+                },
+                {
+                  "section": "49",
+                  "title": "Definition of overt act",
+                  "file": "sections/049.json"
+                },
+                {
+                  "section": "50-54",
+                  "title": "Repealed",
+                  "file": "sections/50-54.json"
+                },
+                {
+                  "section": "55",
+                  "title": "Seditious intention",
+                  "file": "sections/055.json"
+                }
+              ]
             }
           ]
         }
