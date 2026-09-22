@@ -1,0 +1,11 @@
+﻿{
+  "sura": "Sura ya Kumi",
+  "ibara": 123,
+  "jina": "Uwezo wa Rais katika Idara Maalum",
+  "maudhui": "(1) Rais atakuwa Kamanda Mkuu wa Idara Maalum na atakuwa na uwezo wa kufanya chochote kile anachohisi, kwa maslahi ya Taifa, kinafaa. (2) Uwezo wa Rais chini ya kijifungu cha (1) unaingiza uwezo wa kutoa amri ya kufanya shughuli yoyote inayohusiana na Idara hiyo kwa manufaa ya Taifa.",
+  "vifungu": [
+    "(1) Rais atakuwa Kamanda Mkuu wa Idara Maalum na atakuwa na uwezo wa kufanya chochote kile anachohisi, kwa maslahi ya Taifa, kinafaa.",
+    "(2) Uwezo wa Rais chini ya kijifungu cha (1) unaingiza uwezo wa kutoa amri ya kufanya shughuli yoyote inayohusiana na Idara hiyo kwa manufaa ya Taifa."
+  ],
+  "chanzo": { "documentId": "doc-zanzibar-1984", "sourceLocator": "Ibara ya 123", "verificationStatus": "pending" }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "sura": "Sura ya Tano",
+  "sehemu": "Sehemu ya Pili: Sheria na Taratibu katika Baraza la Wawakilishi",
+  "ibara": 85,
+  "jina": "Kamati za Baraza la Wawakilishi",
+  "maudhui": "(1) Kutakuwa na Kamati za Kudumu za Baraza la Wawakilishi zitazoundwa kwa mujibu wa Kanuni za Baraza la Wawakilishi. (2) Kwa madhumuni ya kifungu hiki cha Katiba hii, kazi na shughuli za Kamati za Baraza la Wawakilishi zitakuwa kama zitakavyoainishwa katika Kanuni za Baraza la Wawakilishi. (3) Baraza linaweza likaanzisha Kamati nyengine zozote inazohisi zinafaa.",
+  "vifungu": [
+    "(1) Kutakuwa na Kamati za Kudumu za Baraza la Wawakilishi zitazoundwa kwa mujibu wa Kanuni za Baraza la Wawakilishi.",
+    "(2) Kwa madhumuni ya kifungu hiki cha Katiba hii, kazi na shughuli za Kamati za Baraza la Wawakilishi zitakuwa kama zitakavyoainishwa katika Kanuni za Baraza la Wawakilishi.",
+    "(3) Baraza linaweza likaanzisha Kamati nyengine zozote inazohisi zinafaa."
+  ],
+  "chanzo": { "documentId": "doc-zanzibar-1984", "sourceLocator": "Ibara ya 85", "verificationStatus": "pending" }
+}

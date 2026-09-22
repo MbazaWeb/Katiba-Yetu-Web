@@ -1,0 +1,13 @@
+﻿{
+  "sura": "Sura ya Sita",
+  "sehemu": "Sehemu ya Pili: Mahkama ya Rufaa",
+  "ibara": 99,
+  "jina": "Kazi na uwezo wa Mahkama ya Rufaa",
+  "maudhui": "Mahkama ya Rufaa ya Jamhuri ya Muungano wa Tanzania itakuwa na uwezo wa kusikiliza rufaa kutoka Mahkama Kuu ya Zanzibar isipokuwa kesi zozote zinazohusika na: (a) tafsiri ya Katiba hii; (b) mambo ya Kiislamu ambayo yameanzia katika Mahkama za Kadhi; (c) mambo mengine yoyote yaliyoainishwa katika Katiba hii na Sheria nyengine yoyote iliyotungwa na Baraza la Wawakilishi.",
+  "vifungu": [
+    "(a) tafsiri ya Katiba hii;",
+    "(b) mambo ya Kiislamu ambayo yameanzia katika Mahkama za Kadhi;",
+    "(c) mambo mengine yoyote yaliyoainishwa katika Katiba hii na Sheria nyengine yoyote iliyotungwa na Baraza la Wawakilishi."
+  ],
+  "chanzo": { "documentId": "doc-zanzibar-1984", "sourceLocator": "Ibara ya 99", "verificationStatus": "pending" }
+}

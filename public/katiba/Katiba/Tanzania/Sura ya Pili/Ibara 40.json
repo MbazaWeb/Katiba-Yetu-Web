@@ -1,0 +1,14 @@
+﻿{
+  "sura": "Sura ya Pili",
+  "sehemu": "Sehemu ya Kwanza: Rais",
+  "ibara": 40,
+  "jina": "Haki ya kuchaguliwa tena",
+  "maudhui": "(1) Mtu ambaye ni Rais anaweza kuchaguliwa tena. (2) Hakuna mtu atakayechaguliwa zaidi ya mara mbili. (3) Mtu aliyewahi kuwa Rais wa Zanzibar hatapoteza sifa. (4) Endapo Makamu wa Rais anashika kiti cha Rais kwa kipindi kinachopungua miaka mitatu ataruhusiwa kugombea mara mbili.",
+  "vifungu": [
+    "(1) Bila ya kuathiri masharti mengineyo yaliyomo katika ibara hii, mtu yeyote ambaye ni Rais anaweza kuchaguliwa tena kushika kiti hicho.",
+    "(2) Hakuna mtu atakayechaguliwa zaidi ya mara mbili kushika kiti cha Rais.",
+    "(3) Mtu aliyewahi kuwa Rais wa Zanzibar hatapoteza sifa za kuweza kuchaguliwa kuwa Rais wa Jamhuri ya Muungano kwa sababu tu kwamba aliwahi kushika madaraka ya Rais wa Zanzibar.",
+    "(4) Endapo Makamu wa Rais anashika kiti cha Rais kwa mujibu wa masharti ya ibara ya 37(5) kwa kipindi kinachopungua miaka mitatu ataruhusiwa kugombea nafasi ya Rais mara mbili, lakini kama akishika kiti cha Rais kwa muda wa miaka mitatu au zaidi ataruhusiwa kugombea nafasi ya Rais mara moja tu."
+  ],
+  "chanzo": { "documentId": "doc-union-1977", "sourceLocator": "Ibara ya 40", "verificationStatus": "pending" }
+}

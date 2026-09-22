@@ -1,0 +1,15 @@
+﻿{
+  "sura": "Sura ya Pili",
+  "sehemu": "Sehemu ya Tatu: Waziri Mkuu, Baraza la Mawaziri na Serikali",
+  "ibara": 61,
+  "jina": "Wakuu wa Mikoa",
+  "maudhui": "(1) Kutakuwa na Mkuu wa Mkoa kwa kila mkoa. (2) Wakuu wa Mikoa Tanzania Bara watateuliwa na Rais baada ya kushauriana na Waziri Mkuu. (3) Wakuu wa Mikoa Tanzania Zanzibar watateuliwa na Rais wa Zanzibar baada ya kushauriana na Rais. (4) Kila Mkuu wa Mkoa atakuwa na wajibu wa kusimamia utekelezaji wa kazi na shughuli za Serikali. (5) Kwa Tanzania Zanzibar, atatekeleza kazi za Serikali ya Mapinduzi.",
+  "vifungu": [
+    "(1) Kutakuwa na Mkuu wa Mkoa kwa kila mkoa katika Jamhuri ya Muungano ambaye, bila ya kuathiri ibara ndogo ya (3), atakuwa ni kiongozi katika Serikali ya Jamhuri ya Muungano.",
+    "(2) Wakuu wa Mikoa katika Tanzania Bara watateuliwa na Rais baada ya kushauriana na Waziri Mkuu.",
+    "(3) Wakuu wa Mikoa katika Tanzania Zanzibar watateuliwa na Rais wa Zanzibar baada ya kushauriana na Rais.",
+    "(4) Bila ya kuathiri masharti ya ibara ndogo ya (5), kila Mkuu wa Mkoa, atakuwa na wajibu wa kusimamia utekelezaji wa kazi na shughuli zote za Serikali ya Jamhuri ya Muungano katika Mkoa aliokabidhiwa.",
+    "(5) Pamoja na wajibu na madaraka yake, Mkuu wa Mkoa kwa Mkoa wowote katika Tanzania Zanzibar atatekeleza kazi na shughuli za Serikali ya Mapinduzi ya Zanzibar atakazokabidhiwa na Rais wa Zanzibar, na kwa mujibu wa Katiba ya Zanzibar, 1984, au Sheria yoyote iliyotungwa na Baraza la Wawakilishi."
+  ],
+  "chanzo": { "documentId": "doc-union-1977", "sourceLocator": "Ibara ya 61", "verificationStatus": "pending" }
+}

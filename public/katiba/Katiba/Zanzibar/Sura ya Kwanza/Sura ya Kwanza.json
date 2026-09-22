@@ -1,0 +1,15 @@
+﻿{
+  "sura": "Sura ya Kwanza",
+  "jina": "ZANZIBAR NA WATU",
+  "documentId": "doc-zanzibar-1984",
+  "chapterNumber": 1,
+  "sehemu": [
+    "Sehemu ya Kwanza: Zanzibar",
+    "Sehemu ya Pili: Watu"
+  ],
+  "ibara": [
+    "Ibara 1.json", "Ibara 2.json", "Ibara 2A.json",
+    "Ibara 3.json", "Ibara 4.json", "Ibara 5.json",
+    "Ibara 5A.json", "Ibara 6.json", "Ibara 7.json"
+  ]
+}

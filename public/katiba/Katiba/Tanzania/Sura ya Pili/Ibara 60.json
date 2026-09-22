@@ -1,0 +1,14 @@
+﻿{
+  "sura": "Sura ya Pili",
+  "sehemu": "Sehemu ya Tatu: Waziri Mkuu, Baraza la Mawaziri na Serikali",
+  "ibara": 60,
+  "jina": "Katibu wa Baraza la Mawaziri",
+  "maudhui": "Kutakuwa na Katibu wa Baraza la Mawaziri ambaye atakuwa mtendaji mkuu katika Ofisi ya Baraza la Mawaziri, na atatekeleza shughuli zifuatazo kwa kufuata maagizo ya Rais: (a) kuandaa ratiba ya mikutano; (b) kuandika na kuweka kumbukumbu; (c) kutoa taarifa na maelezo ya maamuzi; (d) kutekeleza kazi nyingine zozote.",
+  "vifungu": [
+    "(a) kuandaa ratiba ya mikutano ya Baraza na kutayarisha orodha ya shughuli za kila mkutano;",
+    "(b) kuandika na kuweka kumbukumbu za mikutano ya Baraza;",
+    "(c) kutoa taarifa na maelezo ya maamuzi ya Baraza kwa kila mtu au chombo cha umma kinachohusika na uamuzi wowote; na",
+    "(d) kutekeleza kazi na shughuli nyingine zozote atakazoagizwa mara kwa mara na Rais."
+  ],
+  "chanzo": { "documentId": "doc-union-1977", "sourceLocator": "Ibara ya 60", "verificationStatus": "pending" }
+}

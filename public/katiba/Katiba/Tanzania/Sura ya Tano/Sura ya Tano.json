@@ -1,0 +1,23 @@
+﻿{
+  "sura": "Sura ya Tano",
+  "jina": "UTOAJI HAKI KATIKA JAMHURI YA MUUNGANO, MAHAKAMA KUU YA JAMHURI YA MUUNGANO, TUME YA KUAJIRI YA MAHAKAMA YA TANZANIA BARA, MAHAKAMA KUU YA ZANZIBAR, MAHAKAMA YA RUFANI YA JAMHURI YA MUUNGANO NA MAHAKAMA MAALUM YA KATIBA YA JAMHURI YA MUUNGANO",
+  "documentId": "doc-union-1977",
+  "chapterNumber": 5,
+  "sehemu": [
+    "Sehemu ya Kwanza: Utoaji Haki katika Jamhuri ya Muungano",
+    "Sehemu ya Pili: Mahakama Kuu ya Jamhuri ya Muungano",
+    "Sehemu ya Tatu: Tume ya Utumishi wa Mahakama",
+    "Sehemu ya Nne: Mahakama Kuu ya Zanzibar",
+    "Sehemu ya Tano: Mahakama ya Rufani ya Jamhuri ya Muungano",
+    "Sehemu ya Sita: Utekelezaji wa Maagizo ya Mahakama",
+    "Sehemu ya Saba: Mahakama Maalum ya Katiba ya Jamhuri ya Muungano"
+  ],
+  "ibara": [
+    "Ibara 107A.json","Ibara 107B.json","Ibara 108.json","Ibara 109.json","Ibara 110.json",
+    "Ibara 110A.json","Ibara 111.json","Ibara 112.json","Ibara 113.json","Ibara 113A.json",
+    "Ibara 114.json","Ibara 115.json","Ibara 116.json","Ibara 117.json","Ibara 118.json",
+    "Ibara 119.json","Ibara 120.json","Ibara 120A.json","Ibara 121.json","Ibara 122.json",
+    "Ibara 123.json","Ibara 124.json","Ibara 125.json","Ibara 126.json","Ibara 127.json",
+    "Ibara 128.json"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "sura": "Sura ya Tatu",
+  "sehemu": "Sehemu ya Pili: Wabunge, Wilaya za Uchaguzi na Uchaguzi wa Wabunge",
+  "ibara": 76,
+  "jina": "Uchaguzi katika Majimbo ya Uchaguzi",
+  "maudhui": "(1) Kila mara baada ya Bunge kuvunjwa, kutakuwa na uchaguzi wa Wabunge katika majimbo yote ya uchaguzi. (2) Kutakuwa na uchaguzi wa Mbunge katika jimbo, ikiwa kiti cha Mbunge kitakuwa wazi kwa sababu nyingine isiyohusika na kuvunjwa kwa Bunge. (3) Iwapo tarehe ya kuvunjwa Bunge imetangazwa, uchaguzi hautafanywa katika kipindi cha miezi kumi na miwili ya nyuma.",
+  "vifungu": [
+    "(1) Kila mara baada ya Bunge kuvunjwa,kutakuwa na uchaguzi wa Wabunge katika majimbo yote ya uchaguzi.",
+    "(2) Hali kadhalika, kutakuwa na uchaguzi wa Mbunge katika jimbo la uchaguzi,ikiwa kiti cha Mbunge yeyote aliyechaguliwa kuwakilisha jimbo hilo kitakuwa wazi kwa sababu nyingine yoyote isiyohusika na kuvunjwa kwa Bunge.",
+    "(3) Bila ya kujali masharti ya ibara hii yaliyotangulia, ifahamike kwamba ikiwa tarehe ya kuvunjwa Bunge imetangazwa au inafahamika kutokana na matukio yaliyoelezwa katika ibara ndogo ya (3) ya ibara ya 90, basi uchaguzi wa namna hiyo hautafanywa katika kipindi chote cha miezi kumi na miwili ya nyuma ikihesabiwa tangu tarehe hiyo."
+  ],
+  "chanzo": { "documentId": "doc-union-1977", "sourceLocator": "Ibara ya 76", "verificationStatus": "pending" }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "sura": "Sura ya Pili",
+  "sehemu": "Sehemu ya Tatu: Waziri Mkuu, Baraza la Mawaziri na Serikali",
+  "ibara": 52,
+  "jina": "Kazi na Mamlaka ya Waziri Mkuu",
+  "maudhui": "(1) Waziri Mkuu atakuwa na madaraka ya udhibiti, usimamiaji, utekelezaji wa kazi za Serikali. (2) Atakuwa Kiongozi wa Shughuli za Serikali Bungeni. (3) Atatekeleza maagizo ya Rais.",
+  "vifungu": [
+    "(1) Waziri Mkuu atakuwa na madaraka juu ya udhibiti, usimamiaji, utekelezaji wa siku hata siku wa kazi na shughuli za Serikali ya Jamhuri ya Muungano.",
+    "(2) Waziri Mkuu atakuwa Kiongozi wa Shughuli za Serikali Bungeni.",
+    "(3) Katika utekelezaji wa madaraka yake, Waziri Mkuu atatekeleza au kusababisha utekelezaji wa jambo lolote au mambo yoyote ambayo Rais ataagiza kwamba yatekelezwe."
+  ],
+  "chanzo": { "documentId": "doc-union-1977", "sourceLocator": "Ibara ya 52", "verificationStatus": "pending" }
+}

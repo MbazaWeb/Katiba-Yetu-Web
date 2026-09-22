@@ -1,0 +1,13 @@
+﻿{
+  "sura": "Sura ya Tano",
+  "sehemu": "Sehemu ya Pili: Sheria na Taratibu katika Baraza la Wawakilishi",
+  "ibara": 81,
+  "jina": "Uongozi wa kikao cha Baraza la Wawakilishi",
+  "maudhui": "Kila Kikao cha Baraza la Wawakilishi kitaongozwa na: (a) Spika; au (b) ikiwa hayupo Naibu Spika; au (c) ikiwa Spika hayupo na Naibu Spika hayupo, Mjumbe mwengine wa Baraza la Wawakilishi (asiyekuwa Makamo wa Pili wa Rais, Waziri, Naibu Waziri, Mjumbe wa Baraza la Mapinduzi au Mkuu wa Mkoa) kama Wajumbe wa Baraza la Wawakilishi watakayemchagua kwa ajili hiyo.",
+  "vifungu": [
+    "(a) Spika; au",
+    "(b) ikiwa hayupo Naibu Spika; au",
+    "(c) ikiwa Spika hayupo na Naibu Spika hayupo, Mjumbe mwengine wa Baraza la Wawakilishi (asiyekuwa Makamo wa Pili wa Rais, Waziri, Naibu Waziri, Mjumbe wa Baraza la Mapinduzi au Mkuu wa Mkoa) kama Wajumbe wa Baraza la Wawakilishi watakayemchagua kwa ajili hiyo."
+  ],
+  "chanzo": { "documentId": "doc-zanzibar-1984", "sourceLocator": "Ibara ya 81", "verificationStatus": "pending" }
+}

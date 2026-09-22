@@ -1,0 +1,13 @@
+﻿{
+  "sura": "Sura ya Nne",
+  "sehemu": "Sehemu ya Nne: Madaraka ya Serikali",
+  "ibara": 61,
+  "jina": "Mkuu wa Mkoa na Mkuu wa Wilaya",
+  "maudhui": "(1) Kutakuwa na Mkuu wa Mkoa katika kila Mkoa wa Zanzibar ataeteuliwa na Rais. (2) Kutakuwa na Mkuu wa Wilaya katika kila Wilaya ya Zanzibar ataeteuliwa na Rais. (3) Mkuu wa Mkoa au Mkuu wa Wilaya aliyeteuliwa kwa mpangilio chini ya kijifungu (1) na (2) cha kifungu hiki hatoanza kazi zake hadi kwanza aapishwe kiapo cha uaminifu na kiapo cha utendaji wake wa kazi zake mbele ya Rais.",
+  "vifungu": [
+    "(1) Kutakuwa na Mkuu wa Mkoa katika kila Mkoa wa Zanzibar ataeteuliwa na Rais.",
+    "(2) Kutakuwa na Mkuu wa Wilaya katika kila Wilaya ya Zanzibar ataeteuliwa na Rais.",
+    "(3) Mkuu wa Mkoa au Mkuu wa Wilaya aliyeteuliwa kwa mpangilio chini ya kijifungu (1) na (2) cha kifungu hiki hatoanza kazi zake hadi kwanza aapishwe kiapo cha uaminifu na kiapo cha utendaji wake wa kazi zake mbele ya Rais."
+  ],
+  "chanzo": { "documentId": "doc-zanzibar-1984", "sourceLocator": "Ibara ya 61", "verificationStatus": "pending" }
+}

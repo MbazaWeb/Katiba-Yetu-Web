@@ -1,0 +1,18 @@
+﻿{
+    "chanzo":  {
+                   "sourceLocator":  "Ibara ya 4",
+                   "documentId":  "doc-rasimu-tanzania-2014",
+                   "verificationStatus":  "pending"
+               },
+    "ibara":  4,
+    "vifungu":  [
+                    "(1) Lugha ya Taifa ya Jamhuri ya Muungano wa Tanzania ni Kiswahili na itatumika katika mawasiliano rasmi ya kitaifa na kiserikali.",
+                    "(2) Bila kuathiri masharti ya ibara ndogo ya (1), lugha ya Kiingereza au lugha nyingine yoyote ya kimataifa inaweza kutumika kama lugha rasmi ya mawasiliano ya kiserikali, pale itakapohitajika.",
+                    "(3) Kwa mujibu wa Ibara hii, lugha ya alama kwa viziwi na lugha ya alama mguso kwa viziwi wasioona, zitakuwa lugha rasmi za mawasiliano.",
+                    "(4) Serikali itaweka mazingira yatakayowezesha kuwepo kwa mawasiliano mbadala zikiwemo lugha ya alama, lugha ya alama mguso, maandishi yaliyokuzwa na nukta nundu kwenye sehemu muhimu za umma na katika vyombo vya habari vinavyotangaza habari zake kitaifa kwa ajili ya watu wenye ulemavu."
+                ],
+    "maudhui":  "Lugha ya Taifa ya Jamhuri ya Muungano wa Tanzania ni Kiswahili na itatumika katika mawasiliano rasmi ya kitaifa na kiserikali. Bila kuathiri masharti ya ibara ndogo ya (1), lugha ya Kiingereza au lugha nyingine yoyote ya kimataifa inaweza kutumika kama lugha rasmi ya mawasiliano ya kiserikali, pale itakapohitajika. Kwa mujibu wa Ibara hii, lugha ya alama kwa viziwi na lugha ya alama mguso kwa viziwi wasioona, zitakuwa lugha rasmi za mawasiliano. Serikali itaweka mazingira yatakayowezesha kuwepo kwa mawasiliano mbadala zikiwemo lugha ya alama, lugha ya alama mguso, maandishi yaliyokuzwa na nukta nundu kwenye sehemu muhimu za umma na katika vyombo vya habari vinavyotangaza habari zake kitaifa kwa ajili ya watu wenye ulemavu.",
+    "sehemu":  "Sehemu ya Kwanza: Jina, Mipaka, Alama, Lugha na Tunu za Taifa",
+    "sura":  "Sura ya Kwanza",
+    "jina":  "Lugha ya Taifa na Mawasiliano Mbadala"
+}

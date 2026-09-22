@@ -1,0 +1,12 @@
+﻿{
+  "sura": "Sura ya Kwanza",
+  "sehemu": "Sehemu ya Kwanza: Zanzibar",
+  "ibara": 3,
+  "jina": "Muhuri wa Serikali na alama nyenginezo",
+  "maudhui": "(1) Kutakuwa na Muhuri wa Serikali ya Mapinduzi ya Zanzibar ambao alama yake itakuwa kama itavyokubaliwa na sheria iliyotungwa na Baraza la Wawakilishi. (2) Serikali ya Mapinduzi ya Zanzibar itakuwa na uwezo wa kuweka kitu chochote kitachokuwa kielelezo cha Serikali kama itavyokubaliwa na sheria iliyotungwa na Baraza la Wawakilishi.",
+  "vifungu": [
+    "(1) Kutakuwa na Muhuri wa Serikali ya Mapinduzi ya Zanzibar ambao alama yake itakuwa kama itavyokubaliwa na sheria iliyotungwa na Baraza la Wawakilishi.",
+    "(2) Serikali ya Mapinduzi ya Zanzibar itakuwa na uwezo wa kuweka kitu chochote kitachokuwa kielelezo cha Serikali kama itavyokubaliwa na sheria iliyotungwa na Baraza la Wawakilishi."
+  ],
+  "chanzo": { "documentId": "doc-zanzibar-1984", "sourceLocator": "Ibara ya 3", "verificationStatus": "pending" }
+}

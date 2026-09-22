@@ -1,0 +1,13 @@
+﻿{
+  "sura": "Sura ya Kwanza",
+  "ibara": 20,
+  "jina": "Uhuru wa mtu kushirikiana na wengine",
+  "maudhui": "(1) Kila mtu anao uhuru wa kukutana na watu wengine kwa hiari yake na kwa amani, kuchanganyika, kushirikiana, na kuanzisha na kujiunga na vyama. (2) Haitakuwa halali kwa chama chochote cha siasa kuandikishwa ambacho kinakusudia kukuza maslahi ya dini, kabila, rangi au jinsia; kinapigania kuvunjwa kwa Jamhuri ya Muungano; kinakubali matumizi ya nguvu; kinapigania kuendesha shughuli katika sehemu moja tu; hakiruhusu uongozi kuchaguliwa kwa kidemokrasia. (3) Bunge laweza kutunga sheria. (4) Ni marufuku kulazimishwa kujiunga na chama.",
+  "vifungu": [
+    "(1) Kila mtu anao uhuru wa kukutana na watu wengine kwa hiari yake na kwa amani, kuchanganyika, kushirikiana na watu wengine, na kwa ajili hiyo kutoa mawazo yake hadharani na kuanzisha na kujiunga na vyama au mashirika.",
+    "(2) Bila ya kujali masharti ya ibara ndogo ya (1) na ya (4), haitakuwa halali kwa chama chochote cha siasa kuandikishwa ambacho: (a) kinakusudia kukuza maslahi ya dini, kabila, rangi au jinsia; (b) kinapigania kuvunjwa kwa Jamhuri ya Muungano; (c) kinakubali matumizi ya nguvu; (d) kinapigania kuendesha shughuli zake za kisiasa katika sehemu moja tu; (e) hakiruhusu uongozi wake kuchaguliwa kwa vipindi na kwa njia za kidemokrasia.",
+    "(3) Bunge laweza kutunga sheria inayoweka masharti yatakayohakikisha kuwa vyama vya siasa vinazingatia mipaka na vigezo vilivyowekwa.",
+    "(4) Itakuwa ni marufuku kwa mtu yeyote kulazimishwa kujiunga na chama chochote au shirika lolote."
+  ],
+  "chanzo": { "documentId": "doc-union-1977", "sourceLocator": "Ibara ya 20", "verificationStatus": "pending" }
+}

@@ -1,0 +1,22 @@
+﻿{
+    "chapterNumber":  1,
+    "ibara":  [
+                  "Ibara 1.json",
+                  "Ibara 2.json",
+                  "Ibara 3.json",
+                  "Ibara 4.json",
+                  "Ibara 5.json",
+                  "Ibara 6.json",
+                  "Ibara 7.json",
+                  "Ibara 8.json",
+                  "Ibara 9.json",
+                  "Ibara 10.json"
+              ],
+    "documentId":  "doc-rasimu-tanzania-2014",
+    "sehemu":  [
+                   "Sehemu ya Kwanza: Jina, Mipaka, Alama, Lugha na Tunu za Taifa",
+                   "Sehemu ya Pili: Mamlaka ya Wananchi, Utii na Hifadhi ya Katiba"
+               ],
+    "sura":  "Sura ya Kwanza",
+    "jina":  "Jamhuri ya Muungano wa Tanzania"
+}

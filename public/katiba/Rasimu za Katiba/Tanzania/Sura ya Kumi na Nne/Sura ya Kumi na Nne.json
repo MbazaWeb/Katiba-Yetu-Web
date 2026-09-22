@@ -1,0 +1,26 @@
+﻿{
+    "chapterNumber":  14,
+    "ibara":  [
+                  "Ibara 209.json",
+                  "Ibara 210.json",
+                  "Ibara 211.json",
+                  "Ibara 212.json",
+                  "Ibara 213.json",
+                  "Ibara 214.json",
+                  "Ibara 215.json",
+                  "Ibara 216.json",
+                  "Ibara 217.json",
+                  "Ibara 218.json",
+                  "Ibara 219.json",
+                  "Ibara 220.json",
+                  "Ibara 221.json"
+              ],
+    "documentId":  "doc-rasimu-tanzania-2014",
+    "sehemu":  [
+                   "Sehemu ya Kwanza: Uwakilishi wa Wananchi",
+                   "Sehemu ya Pili: Tume Huru ya Uchaguzi",
+                   "Sehemu ya Tatu: Usajili na Usimamizi wa Vyama vya Siasa"
+               ],
+    "sura":  "Sura ya Kumi na Nne",
+    "jina":  "Uchaguzi katika Vyombo vya Uwakilishi na Vyama vya Siasa"
+}

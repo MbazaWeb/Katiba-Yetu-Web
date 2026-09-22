@@ -1,0 +1,15 @@
+﻿{
+    "chanzo":  {
+                   "sourceLocator":  "Ibara ya 5",
+                   "documentId":  "doc-rasimu-tanzania-2014",
+                   "verificationStatus":  "pending"
+               },
+    "ibara":  5,
+    "vifungu":  [
+                    "Jamhuri ya Muungano wa Tanzania itaenzi na kuzingatia Tunu za Taifa zifuatazo: (a) lugha ya Kiswahili; (b) Muungano; (c) utu na udugu; na (d) amani na utulivu."
+                ],
+    "maudhui":  "Jamhuri ya Muungano wa Tanzania itaenzi na kuzingatia Tunu za Taifa zifuatazo: lugha ya Kiswahili; Muungano; utu na udugu; na amani na utulivu.",
+    "sehemu":  "Sehemu ya Kwanza: Jina, Mipaka, Alama, Lugha na Tunu za Taifa",
+    "sura":  "Sura ya Kwanza",
+    "jina":  "Tunu za Taifa"
+}

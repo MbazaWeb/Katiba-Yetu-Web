@@ -1,0 +1,16 @@
+﻿{
+    "chanzo":  {
+                   "sourceLocator":  "Ibara ya 10",
+                   "documentId":  "doc-rasimu-tanzania-2014",
+                   "verificationStatus":  "pending"
+               },
+    "ibara":  10,
+    "vifungu":  [
+                    "(1) Mtu au kikundi cha watu hakitachukua au kushikilia mamlaka ya nchi isipokuwa kwa mujibu wa Katiba hii.",
+                    "(2) Kitendo chochote kinachokiuka masharti ya ibara ndogo ya (1) ni batili na ni kitendo cha uhauni kama itakavyoelezwa katika sheria za nchi."
+                ],
+    "maudhui":  "Mtu au kikundi cha watu hakitachukua au kushikilia mamlaka ya nchi isipokuwa kwa mujibu wa Katiba hii. Kitendo chochote kinachokiuka masharti ya ibara ndogo ya (1) ni batili na ni kitendo cha uhauni kama itakavyoelezwa katika sheria za nchi.",
+    "sehemu":  "Sehemu ya Pili: Mamlaka ya Wananchi, Utii na Hifadhi ya Katiba",
+    "sura":  "Sura ya Kwanza",
+    "jina":  "Hifadhi ya Utawala wa Katiba"
+}

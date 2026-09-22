@@ -1,0 +1,31 @@
+﻿{
+    "chapterNumber":  19,
+    "ibara":  [
+                  "Ibara 275.json",
+                  "Ibara 276.json",
+                  "Ibara 277.json",
+                  "Ibara 278.json",
+                  "Ibara 279.json",
+                  "Ibara 280.json",
+                  "Ibara 281.json",
+                  "Ibara 282.json",
+                  "Ibara 283.json",
+                  "Ibara 284.json",
+                  "Ibara 285.json",
+                  "Ibara 286.json",
+                  "Ibara 287.json",
+                  "Ibara 288.json",
+                  "Ibara 289.json"
+              ],
+    "documentId":  "doc-rasimu-tanzania-2014",
+    "sehemu":  [
+                   "Sehemu ya Kwanza: Masharti Yatokanayo",
+                   "Sehemu ya Pili: Masharti ya Kikatiba na Sheria za Nchi",
+                   "Sehemu ya Tatu: Utumishi wa Umma",
+                   "Sehemu ya Nne: Bunge la Jamhuri ya Muungano",
+                   "Sehemu ya Tano: Mahakama ya Jamhuri ya Muungano",
+                   "Sehemu ya Sita: Masharti ya Mpito"
+               ],
+    "sura":  "Sura ya Kumi na Tisa",
+    "jina":  "Masharti Yatokanayo na Masharti ya Mpito"
+}

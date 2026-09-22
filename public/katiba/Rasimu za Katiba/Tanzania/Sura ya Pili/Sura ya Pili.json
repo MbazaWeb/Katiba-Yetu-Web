@@ -1,0 +1,26 @@
+﻿{
+    "chapterNumber":  2,
+    "ibara":  [
+                  "Ibara 11.json",
+                  "Ibara 12.json",
+                  "Ibara 13.json",
+                  "Ibara 14.json",
+                  "Ibara 15.json",
+                  "Ibara 16.json",
+                  "Ibara 17.json",
+                  "Ibara 18.json",
+                  "Ibara 19.json",
+                  "Ibara 20.json",
+                  "Ibara 21.json"
+              ],
+    "documentId":  "doc-rasimu-tanzania-2014",
+    "sehemu":  [
+                   "Sehemu ya Kwanza: Malengo Makuu",
+                   "Sehemu ya Pili: Malengo ya Kisiasa",
+                   "Sehemu ya Tatu: Malengo ya Kiuchumi, Kijamii na Kiutamaduni",
+                   "Sehemu ya Nne: Utafiti, Dira ya Maendeleo na Mipango na Utekelezaji wa Malengo ya Taifa",
+                   "Sehemu ya Tano: Sera ya Mambo ya Nje"
+               ],
+    "sura":  "Sura ya Pili",
+    "jina":  "Malengo Muhimu, Misingi ya Mwelekeo wa Shughuli za Serikali na Sera za Taifa"
+}

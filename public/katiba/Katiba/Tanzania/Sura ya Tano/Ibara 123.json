@@ -1,0 +1,12 @@
+﻿{
+  "sura": "Sura ya Tano",
+  "sehemu": "Sehemu ya Tano: Mahakama ya Rufani ya Jamhuri ya Muungano",
+  "ibara": 123,
+  "jina": "Mashauri yanayoweza kuamuliwa na Jaji mmoja wa Mahakama ya Rufani",
+  "maudhui": "Jaji mmoja wa Mahakama ya Rufani aweza kutekeleza madaraka yoyote ya Mahakama ya Rufani ambayo hayahusiki na kutoa uamuzi juu ya Rufaa: Isipokuwa kwamba: (a) katika mashauri ya jinai, iwapo Jaji atatoa uamuzi ambao mwombaji haridhiki nao, basi mwombaji atakuwa na haki kutaka maombi yake yaamuliwe na Mahakama ya Rufani; (b) katika mashauri ya madai, Mahakama ya rufani yaweza kubatilisha au kubadilisha amri, agizo au uamuzi.",
+  "vifungu": [
+    "(a) katika mashauri ya jinai, iwapo Jaji wa Mahakama ya Rufani aliyeombwa kutekeleza madaraka hayo atatoa uamuzi ambao mwombaji haridhiki nao, basi mwombaji atakuwa na haki kutaka maombi yake yaamuliwe na Mahakama ya Rufani;",
+    "(b) katika mashauri ya madai, Mahakama ya rufani yaweza kubatilisha au kubadilisha amri, agizo au uamuzi wa namna nyingine wowote uliotolewa na Jaji mmoja wa Mahakama ya Rufani kwa mujibu wa masharti ya ibara hii."
+  ],
+  "chanzo": { "documentId": "doc-union-1977", "sourceLocator": "Ibara ya 123", "verificationStatus": "pending" }
+}

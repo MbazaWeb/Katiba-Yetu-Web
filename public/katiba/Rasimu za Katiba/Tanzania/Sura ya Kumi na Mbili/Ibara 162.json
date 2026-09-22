@@ -1,0 +1,17 @@
+﻿{
+    "chanzo":  {
+                   "sourceLocator":  "Ibara ya 162",
+                   "documentId":  "doc-rasimu-tanzania-2014",
+                   "verificationStatus":  "pending"
+               },
+    "ibara":  162,
+    "vifungu":  [
+                    "(1) Kutakuwa na Mahakama ya Jamhuri ya Muungano.",
+                    "(2) Mahakama ya Jamhuri ya Muungano kwa mujibu wa Katiba hii na sheria nyingine yoyote, itatekeleza mamlaka yake kupitia Mahakama ya Juu na Mahakama ya Rufani.",
+                    "(3) Mahakama ya Jamhuri ya Muungano itakuwa ni chombo chenye mamlaka ya mwisho ya utoaji haki katika Jamhuri ya Muungano."
+                ],
+    "maudhui":  "Kutakuwa na Mahakama ya Jamhuri ya Muungano. Mahakama ya Jamhuri ya Muungano kwa mujibu wa Katiba hii na sheria nyingine yoyote, itatekeleza mamlaka yake kupitia Mahakama ya Juu na Mahakama ya Rufani. Mahakama ya Jamhuri ya Muungano itakuwa ni chombo chenye mamlaka ya mwisho ya utoaji haki katika Jamhuri ya Muungano.",
+    "sehemu":  "Sehemu ya Kwanza: Misingi ya Utoaji Haki na Uhuru wa Mahakama",
+    "sura":  "Sura ya Kumi na Mbili",
+    "jina":  "Kuanzishwa kwa Mahakama ya Jamhuri ya Muungano"
+}

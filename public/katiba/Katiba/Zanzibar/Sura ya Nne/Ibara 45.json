@@ -1,0 +1,13 @@
+﻿{
+  "sura": "Sura ya Nne",
+  "sehemu": "Sehemu ya Tatu: Mawaziri, Manaibu Mawaziri na Baraza la Mapinduzi",
+  "ibara": 45,
+  "jina": "Mikutano ya Baraza",
+  "maudhui": "(1) Rais akiwa ni Mwenyekiti wa Baraza la Mapinduzi ataongoza mikutano yote na ikiwa hayupo, Makamo wa Pili wa Rais atakuwa Mwenyekiti wa muda. (2) Iwapo Makamo wa Pili wa Rais naye hayupo Zanzibar basi mikutano itasimamiwa na mtu anayeshikilia madaraka ya Urais. (3) Kiwango cha kufanyika mkutano wa Baraza la Mapinduzi itakuwa ni theluthi mbili ya Wajumbe wote.",
+  "vifungu": [
+    "(1) Rais akiwa ni Mwenyekiti wa Baraza la Mapinduzi ataongoza mikutano yote na ikiwa hayupo, Makamo wa Pili wa Rais atakuwa Mwenyekiti wa muda.",
+    "(2) Iwapo Makamo wa Pili wa Rais naye hayupo Zanzibar basi mikutano itasimamiwa na mtu anayeshikilia madaraka ya Urais.",
+    "(3) Kiwango cha kufanyika mkutano wa Baraza la Mapinduzi itakuwa ni theluthi mbili ya Wajumbe wote."
+  ],
+  "chanzo": { "documentId": "doc-zanzibar-1984", "sourceLocator": "Ibara ya 45", "verificationStatus": "pending" }
+}

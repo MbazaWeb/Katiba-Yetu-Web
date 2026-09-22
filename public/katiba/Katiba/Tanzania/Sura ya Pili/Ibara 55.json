@@ -1,0 +1,15 @@
+﻿{
+  "sura": "Sura ya Pili",
+  "sehemu": "Sehemu ya Tatu: Waziri Mkuu, Baraza la Mawaziri na Serikali",
+  "ibara": 55,
+  "jina": "Uteuzi wa Mawaziri",
+  "maudhui": "(1) Mawaziri watateuliwa na Rais baada ya kushauriana na Waziri Mkuu. (2) Rais aweza kuwateua Naibu Mawaziri. (3) Rais aweza kuteua idadi yoyote ya Naibu Mawaziri. (4) Mawaziri na Naibu Mawaziri watateuliwa kutoka miongoni mwa Wabunge. (5) Baada ya Bunge kuvunjwa, Rais aweza kumteua mtu aliyekuwa Mbunge.",
+  "vifungu": [
+    "(1) Mawaziri wote ambao ni wajumbe wa Baraza la Mawaziri kwa mujibu wa ibara ya 54 watateuliwa na Rais baada ya kushauriana na Waziri Mkuu.",
+    "(2) Pamoja na Mawaziri waliotajwa katika ibara ndogo ya (1), Rais aweza, baada ya kushauriana na Waziri Mkuu, kuwateua Naibu Mawaziri. Naibu Mawaziri wote hawatakuwa wajumbe wa Baraza la Mawaziri.",
+    "(3) Rais aweza kuteua idadi yoyote ya Naibu Mawaziri ambao watawasaidia Mawaziri katika utekelezaji wa kazi na shughuli zao.",
+    "(4) Mawaziri na Naibu Mawaziri wote watateuliwa kutoka miongoni mwa Wabunge.",
+    "(5) Bila ya kujali masharti ya ibara ndogo ya (1), ikitokea kwamba Rais anahitajiwa kumteua Waziri au Naibu Waziri baada ya Bunge kuvunjwa, basi aweza kumteua mtu yeyote ambaye alikuwa Mbunge kabla ya Bunge kuvunjwa."
+  ],
+  "chanzo": { "documentId": "doc-union-1977", "sourceLocator": "Ibara ya 55", "verificationStatus": "pending" }
+}

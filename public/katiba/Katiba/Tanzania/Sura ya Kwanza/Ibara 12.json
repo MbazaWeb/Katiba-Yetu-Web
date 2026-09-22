@@ -1,0 +1,11 @@
+﻿{
+  "sura": "Sura ya Kwanza",
+  "ibara": 12,
+  "jina": "Usawa wa Binadamu",
+  "maudhui": "(1) Binadamu wote huzaliwa huru, na wote ni sawa. (2) Kila mtu anastahili heshima ya kutambuliwa na kuthaminiwa utu wake.",
+  "vifungu": [
+    "(1) Binadamu wote huzaliwa huru, na wote ni sawa.",
+    "(2) Kila mtu anastahili heshima ya kutambuliwa na kuthaminiwa utu wake."
+  ],
+  "chanzo": { "documentId": "doc-union-1977", "sourceLocator": "Ibara ya 12", "verificationStatus": "pending" }
+}

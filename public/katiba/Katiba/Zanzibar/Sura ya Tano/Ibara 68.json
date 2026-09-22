@@ -1,0 +1,15 @@
+﻿{
+  "sura": "Sura ya Tano",
+  "sehemu": "Sehemu ya Kwanza: Muundo wa Baraza la Kutunga Sheria",
+  "ibara": 68,
+  "jina": "Sifa za kuchaguliwa",
+  "maudhui": "Mtu atafaa kuchaguliwa kama Mjumbe wa Baraza la Wawakilishi ikiwa, na hatofaa kuchaguliwa mpaka, siku ya kuchaguliwa kwake katika uchaguzi: (a) awe ni Mzanzibari aliyetimia umri wa miaka ishirini na moja; (b) awe amejiandikisha au ana sifa za kujiandikisha katika jimbo la uchaguzi kama mpiga kura katika uchaguzi wa Baraza la Wawakilishi; (c) awe anaweza kusoma na isipokuwa hana uwezo wa kuona au magonjwa mengine ya kiwiliwili, anasema lugha ya Kiswahili; (d) awe ni mwanachama na mgombea aliyependekezwa na chama cha siasa kilichosajiliwa rasmi kwa mujibu wa Sheria ya Vyama vya Siasa ya 1992; (e) awe ni mtu ambaye hakuzuiliwa kugombea uchaguzi kwa mujibu wa masharti ya kifungu hiki au kwa mujibu wa sheria iliyotungwa na Baraza la Wawakilishi la Zanzibar.",
+  "vifungu": [
+    "(a) awe ni Mzanzibari aliyetimia umri wa miaka ishirini na moja;",
+    "(b) awe amejiandikisha au ana sifa za kujiandikisha katika jimbo la uchaguzi kama mpiga kura katika uchaguzi wa Baraza la Wawakilishi;",
+    "(c) awe anaweza kusoma na isipokuwa hana uwezo wa kuona au magonjwa mengine ya kiwiliwili, anasema lugha ya Kiswahili;",
+    "(d) awe ni mwanachama na mgombea aliyependekezwa na chama cha siasa kilichosajiliwa rasmi kwa mujibu wa Sheria ya Vyama vya Siasa ya 1992;",
+    "(e) awe ni mtu ambaye hakuzuiliwa kugombea uchaguzi kwa mujibu wa masharti ya kifungu hiki au kwa mujibu wa sheria iliyotungwa na Baraza la Wawakilishi la Zanzibar."
+  ],
+  "chanzo": { "documentId": "doc-zanzibar-1984", "sourceLocator": "Ibara ya 68", "verificationStatus": "pending" }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "sura": "Sura ya Tatu",
+  "sehemu": "Sehemu ya Pili: Wabunge, Wilaya za Uchaguzi na Uchaguzi wa Wabunge",
+  "ibara": 66,
+  "jina": "Wabunge",
+  "maudhui": "(1) Kutakuwa na aina zifuatazo za Wabunge: (a) waliochaguliwa kuwakilisha majimbo ya uchaguzi; (b) wanawake wasiopungua asilimia thelathini; (c) watano waliochaguliwa na Baraza la Wawakilishi; (d) Mwanasheria Mkuu; (e) wasiozidi kumi walioteuliwa na Rais; (f) Spika. (2) Rais na Makamu wa Rais hawakuwa Wabunge. (3) Endapo Mkuu wa Mkoa atachaguliwa kuwa Mbunge au Mbunge atateuliwa kuwa Mkuu wa Mkoa, Bunge litahesabiwa kuwa lina idadi inayohitajika.",
+  "vifungu": [
+    "(1) Bila ya kuathiri masharti mengineyo ya ibara hii, kutakuwa na aina zifuatazo za Wabunge: (a) Wabunge waliochaguliwa kuwakilisha majimbo ya uchaguzi; (b) Wabunge wanawake wa idadi isiyopungua asilimia thelathini; (c) Wabunge watano waliochaguliwa na Baraza la Wawakilishi; (d) Mwanasheria Mkuu; (e) Wabunge wasiozidi kumi walioteuliwa na Rais; (f) Spika, iwapo hatakuwa amechaguliwa kutoka miongoni mwa Wabunge.",
+    "(2) Rais na Makamu wa Rais kila mmojawao hatakuwa Mbunge.",
+    "(3) Endapo Mkuu wa Mikoa atachaguliwa kuwa Mbunge anayewakilisha wilaya ya uchaguzi au endapo Mbunge anayewakilisha wilaya ya uchaguzi atateuliwa kuwa Mkuu wa Mkoa, Bunge litahesabiwa kuwa lina idadi ya Wabunge inayohitajika na shughuli zake zitakuwa halali."
+  ],
+  "chanzo": { "documentId": "doc-union-1977", "sourceLocator": "Ibara ya 66", "verificationStatus": "pending" }
+}

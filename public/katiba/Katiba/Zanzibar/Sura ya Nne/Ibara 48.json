@@ -1,0 +1,14 @@
+﻿{
+  "sura": "Sura ya Nne",
+  "sehemu": "Sehemu ya Tatu: Mawaziri, Manaibu Mawaziri na Baraza la Mapinduzi",
+  "ibara": 48,
+  "jina": "Nafasi ya Waziri, Mjumbe wa Baraza la Mapinduzi kuwa wazi",
+  "maudhui": "Nafasi ya Waziri, Mjumbe wa Baraza la Mapinduzi na Naibu Waziri itakuwa wazi: (a) endapo Rais atamwondosha kwenye madaraka hayo kwa hati yenye muhuri wa Rais; au (b) iwapo mjumbe ameacha kuwa mjumbe wa Baraza la Wawakilishi kwa sababu nyengine zaidi ya kuvunjika kwa Baraza hilo; au (c) endapo Rais atakubali ombi la kujiuzulu kwa mshika wadhifa huo; au (d) mara baada ya Rais kushika madaraka.",
+  "vifungu": [
+    "(a) endapo Rais atamwondosha kwenye madaraka hayo kwa hati yenye muhuri wa Rais; au",
+    "(b) iwapo mjumbe ameacha kuwa mjumbe wa Baraza la Wawakilishi kwa sababu nyengine zaidi ya kuvunjika kwa Baraza hilo; au",
+    "(c) endapo Rais atakubali ombi la kujiuzulu kwa mshika wadhifa huo; au",
+    "(d) mara baada ya Rais kushika madaraka."
+  ],
+  "chanzo": { "documentId": "doc-zanzibar-1984", "sourceLocator": "Ibara ya 48", "verificationStatus": "pending" }
+}

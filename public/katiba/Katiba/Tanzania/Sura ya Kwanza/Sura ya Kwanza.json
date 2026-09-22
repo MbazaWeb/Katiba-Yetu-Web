@@ -1,0 +1,21 @@
+﻿{
+  "sura": "Sura ya Kwanza",
+  "jina": "JAMHURI YA MUUNGANO, VYAMA VYA SIASA, WATU NA SIASA YA UJAMAA NA KUJITEGEMEA",
+  "documentId": "doc-union-1977",
+  "chapterNumber": 1,
+  "ibara": [
+    "Ibara 1.json", "Ibara 2.json", "Ibara 3.json", "Ibara 4.json",
+    "Ibara 5.json", "Ibara 6.json", "Ibara 7.json", "Ibara 8.json",
+    "Ibara 9.json", "Ibara 10.json", "Ibara 11.json", "Ibara 12.json",
+    "Ibara 13.json", "Ibara 14.json", "Ibara 15.json", "Ibara 16.json",
+    "Ibara 17.json", "Ibara 18.json", "Ibara 19.json", "Ibara 20.json",
+    "Ibara 21.json", "Ibara 22.json", "Ibara 23.json", "Ibara 24.json",
+    "Ibara 25.json", "Ibara 26.json", "Ibara 27.json", "Ibara 28.json",
+    "Ibara 29.json", "Ibara 30.json", "Ibara 31.json", "Ibara 32.json"
+  ],
+  "sehemu": [
+    "Sehemu ya Kwanza: Jamhuri ya Muungano na Watu",
+    "Sehemu ya Pili: Malengo Muhimu na Misingi ya Mwelekeo wa Shughuli za Serikali",
+    "Sehemu ya Tatu: Haki na Wajibu Muhimu"
+  ]
+}

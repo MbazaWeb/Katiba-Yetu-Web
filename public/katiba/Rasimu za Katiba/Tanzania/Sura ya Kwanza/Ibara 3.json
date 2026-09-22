@@ -1,0 +1,17 @@
+﻿{
+    "chanzo":  {
+                   "sourceLocator":  "Ibara ya 3",
+                   "documentId":  "doc-rasimu-tanzania-2014",
+                   "verificationStatus":  "pending"
+               },
+    "ibara":  3,
+    "vifungu":  [
+                    "(1) Alama za Taifa zitakuwa ni: (a) Bendera ya Taifa; (b) Wimbo wa Taifa; na (c) Nembo ya Taifa, kama zitakavyoainishwa katika sheria za nchi.",
+                    "(2) Sikukuu za kitaifa zitakuwa: (a) Siku ya Uhuru wa Tanganyika, itakayoadhimishwa tarehe 9 Disemba; (b) Siku ya Mapinduzi ya Zanzibar, itakayoadhimishwa tarehe 12 Januari; (c) Siku ya Muungano wa Tanganyika na Zanzibar, itakayoadhimishwa tarehe 26 Aprili; na (d) sikukuu nyingine zitakazoainishwa na sheria za nchi.",
+                    "(3) Kila sikukuu ya kitaifa itakuwa ni siku ya mapumziko."
+                ],
+    "maudhui":  "Alama za Taifa zitakuwa ni: Bendera ya Taifa; Wimbo wa Taifa; na Nembo ya Taifa, kama zitakavyoainishwa katika sheria za nchi. Sikukuu za kitaifa zitakuwa: Siku ya Uhuru wa Tanganyika, itakayoadhimishwa tarehe 9 Disemba; Siku ya Mapinduzi ya Zanzibar, itakayoadhimishwa tarehe 12 Januari; Siku ya Muungano wa Tanganyika na Zanzibar, itakayoadhimishwa tarehe 26 Aprili; na sikukuu nyingine zitakazoainishwa na sheria za nchi. Kila sikukuu ya kitaifa itakuwa ni siku ya mapumziko.",
+    "sehemu":  "Sehemu ya Kwanza: Jina, Mipaka, Alama, Lugha na Tunu za Taifa",
+    "sura":  "Sura ya Kwanza",
+    "jina":  "Alama na Sikukuu za Taifa"
+}

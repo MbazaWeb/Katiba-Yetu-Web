@@ -1,0 +1,11 @@
+﻿{
+  "sura": "Sura ya Kumi na Mbili",
+  "ibara": 135,
+  "jina": "Jina la Katiba na tarehe ya kuanza kutumika",
+  "maudhui": "(1) Jina la Katiba hii litakuwa \"Katiba ya Zanzibar ya 1984\". (2) Katiba hii itaanza kutumika kuanzia tarehe 12 Januari, 1985.",
+  "vifungu": [
+    "(1) Jina la Katiba hii litakuwa \"Katiba ya Zanzibar ya 1984\".",
+    "(2) Katiba hii itaanza kutumika kuanzia tarehe 12 Januari, 1985."
+  ],
+  "chanzo": { "documentId": "doc-zanzibar-1984", "sourceLocator": "Ibara ya 135", "verificationStatus": "pending" }
+}

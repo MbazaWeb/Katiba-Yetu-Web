@@ -1,0 +1,13 @@
+﻿{
+  "sura": "Sura ya Tatu",
+  "sehemu": "Sehemu ya Tatu: Utaratibu, Madaraka na Haki za Bunge",
+  "ibara": 86,
+  "jina": "Utaratibu wa kumchagua Spika na Naibu wa Spika",
+  "maudhui": "(1) Kutakuwa na uchaguzi wa Naibu wa Spika katika Mkutano wa Kwanza wa Bunge Jipya, na katika kikao cha kwanza mara baada ya kutokea nafasi katika kiti cha Spika. (2) Kutakuwa na uchaguzi wa Naibu wa Spika katika Mkutano wa Kwanza wa Bunge Jipya na katika kikao cha kwanza baada ya kutokea nafasi. (3) Uchaguzi wa Spika na Naibu wa Spika utafanywa kwa kura ya siri, kwa kufuata utaratibu uliowekwa na Kanuni za Bunge.",
+  "vifungu": [
+    "(1) Kutakuwa na uchaguzi wa Naibu wa Spika wakati wowote katika Mkutano wa Kwanza wa Bunge Jipya, na katika kikao cha kwanza chochote mara baada ya kutokea nafasi katika kiti cha Spika.",
+    "(2) Kutakuwa na uchaguzi wa Naibu wa Spika wakati wowote katika Mkutano wa Kwanza wa Bunge Jipya utakaoteuliwa na Bunge na vilevile katika kikao cha kwanza cha Bunge mara baada ya kutokea nafasi katika kiti cha Naibu wa Spika.",
+    "(3) Uchaguzi wa Spika, na vile vile uchaguzi wa Naibu wa Spika, utafanywa kwa kura ya siri, na utaendeshwa kwa kufuata utaratibu uliowekwa na Kanuni za Bunge."
+  ],
+  "chanzo": { "documentId": "doc-union-1977", "sourceLocator": "Ibara ya 86", "verificationStatus": "pending" }
+}

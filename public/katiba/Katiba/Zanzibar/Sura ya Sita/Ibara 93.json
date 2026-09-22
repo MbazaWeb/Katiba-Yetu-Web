@@ -1,0 +1,15 @@
+﻿{
+  "sura": "Sura ya Sita",
+  "sehemu": "Sehemu ya Kwanza: Mahkama Kuu",
+  "ibara": 93,
+  "jina": "Kuundwa kwa Mahkama Kuu",
+  "maudhui": "(1) Kutakuwa na Mahkama Kuu ya Zanzibar ambayo itakuwa ndio Mahkama ya kumbukumbu na kuwa na mamlaka yote ya kesi za jinai na madai na nguvu nyengine zitazopewa kwa mujibu wa Katiba hii au Sheria nyengine yoyote. (2) Majaji wa Mahkama Kuu watakuwa Jaji Mkuu na Majaji wengine, wasiopungua wawili wataojulikana kama Majaji wa Mahkama Kuu. (3) Mahkama Kuu itakuwa imekamilika kisheria licha ya kuwa na nafasi wazi ya kiti cha Jaji wa Mahkama hiyo. (4) Kazi ya Jaji haitafutwa wakati yupo mtu aliyehusika na madaraka ya kiti cha Jaji. (5) Mahkama Kuu itakaa pahala popote ambapo Jaji Mkuu atakapoteua kwa ajili hiyo.",
+  "vifungu": [
+    "(1) Kutakuwa na Mahkama Kuu ya Zanzibar ambayo itakuwa ndio Mahkama ya kumbukumbu na kuwa na mamlaka yote ya kesi za jinai na madai na nguvu nyengine zitazopewa kwa mujibu wa Katiba hii au Sheria nyengine yoyote.",
+    "(2) Majaji wa Mahkama Kuu watakuwa Jaji Mkuu na Majaji wengine, wasiopungua wawili wataojulikana kama Majaji wa Mahkama Kuu.",
+    "(3) Mahkama Kuu itakuwa imekamilika kisheria licha ya kuwa na nafasi wazi ya kiti cha Jaji wa Mahkama hiyo.",
+    "(4) Kazi ya Jaji haitafutwa wakati yupo mtu aliyehusika na madaraka ya kiti cha Jaji.",
+    "(5) Mahkama Kuu itakaa pahala popote ambapo Jaji Mkuu atakapoteua kwa ajili hiyo."
+  ],
+  "chanzo": { "documentId": "doc-zanzibar-1984", "sourceLocator": "Ibara ya 93", "verificationStatus": "pending" }
+}
