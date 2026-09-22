@@ -237,3 +237,34 @@ a.publicIdentity{color:inherit;text-decoration:none}a.publicIdentity:hover b{tex
 :root[data-theme="light"] footer{border-top-color:#dce6df;color:#647269}
 :root[data-theme="dark"]{color-scheme:dark}
 @media(max-width:640px){.navActions .themeToggle{display:flex}.themeToggle span{display:none}.themeToggle{padding:9px}}
+
+/* Complete dark-theme override for the light-first application styles */
+:root[data-theme="dark"] body{background:radial-gradient(circle at 75% 8%,rgba(34,197,94,.13),transparent 28%),#0b0f0e;color:#f5f7f6}
+:root[data-theme="dark"] .nav{background:rgba(11,15,14,.94);border-bottom-color:#1f2b28}
+:root[data-theme="dark"] .nav a,:root[data-theme="dark"] .searchLink,:root[data-theme="dark"] .brand strong{color:#b8c4c0}
+:root[data-theme="dark"] .nav a.active{color:#22c55e}
+:root[data-theme="dark"] .brand span,:root[data-theme="dark"] .meta,:root[data-theme="dark"] .lead,:root[data-theme="dark"] .muted{color:#8fa09a}
+:root[data-theme="dark"] .ghost{background:#131a18;color:#d5ddda;border-color:#27342f}
+:root[data-theme="dark"] .solid{background:#22c55e;color:#07110b}
+:root[data-theme="dark"] .heroPanel{background:linear-gradient(145deg,#132019,#0f1714);border-color:#24322d}
+:root[data-theme="dark"] .card,:root[data-theme="dark"] .docCard,:root[data-theme="dark"] .govGrid article,:root[data-theme="dark"] .process,:root[data-theme="dark"] .panel,:root[data-theme="dark"] .miniCard,:root[data-theme="dark"] .resultList a{background:#111815;border-color:#1f2b28}
+:root[data-theme="dark"] .secondary,:root[data-theme="dark"] .searchBox,:root[data-theme="dark"] .bigSearch,:root[data-theme="dark"] .workspaceTabs button,:root[data-theme="dark"] .pills button,:root[data-theme="dark"] .topics button,:root[data-theme="dark"] .pills span{background:#131a18;color:#d5ddda;border-color:#26342f}
+:root[data-theme="dark"] input,:root[data-theme="dark"] textarea,:root[data-theme="dark"] select{color:#f5f7f6}
+:root[data-theme="dark"] .heroChangingArticle,:root[data-theme="dark"] .docMetadata span,:root[data-theme="dark"] .relatedArticles,:root[data-theme="dark"] .documentUploadForm,:root[data-theme="dark"] .uploadedDocuments article,:root[data-theme="dark"] .relatedArticlesList a{background:#111815;border-color:#27342f;color:#f5f7f6}
+:root[data-theme="dark"] .relatedArticlesHead b,:root[data-theme="dark"] .authOfficialLogo strong{color:#f5f7f6}
+:root[data-theme="dark"] .lawFeatured,:root[data-theme="dark"] .lawDocument .articleRow,:root[data-theme="dark"] .lawText,:root[data-theme="dark"] .lawRelated,:root[data-theme="dark"] .lawComments,:root[data-theme="dark"] .lawDirectoryTools label,:root[data-theme="dark"] .lawDirectoryTools>select,:root[data-theme="dark"] .lawDirectoryCard,:root[data-theme="dark"] .lawChapterNav{background:#111815;border-color:#26342f;color:#f5f7f6}
+:root[data-theme="dark"] .lawDirectoryTools input,:root[data-theme="dark"] .lawDirectoryTools select{color:#f5f7f6}
+:root[data-theme="dark"] .lawCap,:root[data-theme="dark"] .lawChapterNav button:hover,:root[data-theme="dark"] .lawChapterNav button.active{background:#163d29;color:#4ade80}
+:root[data-theme="dark"] .lawDocumentHero p,:root[data-theme="dark"] .lawDirectoryCard p,:root[data-theme="dark"] .lawDirectoryCard small,:root[data-theme="dark"] .lawDirectoryMeta,:root[data-theme="dark"] .lawResultsCount,:root[data-theme="dark"] .lawStat span{color:#9aaba3}
+:root[data-theme="dark"] .lawText>small,:root[data-theme="dark"] .lawText footer{color:#9aaba3}
+:root[data-theme="dark"] .lawReaderActions{border-top-color:#26342f}
+:root[data-theme="dark"] .lawReaderActions button{background:#131a18;border-color:#31423a;color:#d5ddda}
+:root[data-theme="dark"] .lawReaderActions button:hover,:root[data-theme="dark"] .lawReaderActions button.active{background:#163d29;border-color:#286e4a;color:#4ade80}
+:root[data-theme="dark"] .lawReaderActions button:last-child{background:#22c55e;border-color:#22c55e;color:#07110b}
+:root[data-theme="dark"] .lawReaderPanel,:root[data-theme="dark"] .lawExplanationHead{background:#111815;border-color:#26342f}
+:root[data-theme="dark"] .lawReaderPanel h3,:root[data-theme="dark"] .lawExplanationHead h3,:root[data-theme="dark"] .lawExplanationBlock h4,:root[data-theme="dark"] .lawExplanationEmpty b{color:#f5f7f6}
+:root[data-theme="dark"] .lawReaderPanel p,:root[data-theme="dark"] .lawExplanationSummary,:root[data-theme="dark"] .lawExplanationEmpty,:root[data-theme="dark"] .lawTerms span{color:#aab8b1!important}
+:root[data-theme="dark"] .lawExplanationPoints,:root[data-theme="dark"] .lawTerms,:root[data-theme="dark"] .lawSuggestionList article,:root[data-theme="dark"] .lawSuggestionForm textarea{background:#0f1714;border-color:#26342f;color:#f5f7f6}
+:root[data-theme="dark"] .lawTerms b{color:#7ee2a8}
+:root[data-theme="dark"] .lawExplanationNote,:root[data-theme="dark"] .lawActionMessage{background:#13251c;border-color:#284737;color:#8be4b0}
+:root[data-theme="dark"] footer{border-top-color:#1f2b28;color:#8fa09a}
