@@ -36,5 +36,19 @@
       "view": "Katika tukio linalovuka jurisdiction, mgogoro unaweza kuwa ni kutambua ni sehemu gani ya act ilifanyika ndani na nani aliifanya."
     }
   ],
-  "debateQuestion": "Ni facts zipi zinatosha kuonyesha kwamba accused alifanya “any part” ya act ndani ya jurisdiction?"
+  "debateQuestion": "Ni facts zipi zinatosha kuonyesha kwamba accused alifanya “any part” ya act ndani ya jurisdiction?",
+  "examples": [
+    {
+      "title": "Mfano wa kitendo kuvuka jurisdiction",
+      "scenario": "Sehemu ya act inayodaiwa kuwa offence inafanywa ndani ya jurisdiction na sehemu nyingine nje yake.",
+      "analysis": "Section 7 inaelekeza kuuliza kama act, ikiwa ingefanyika wholly within jurisdiction, ingekuwa offence, na kama mtu husika alifanya sehemu yoyote ya act ndani ya jurisdiction."
+    }
+  ],
+  "history": {
+    "summary": "Section 7 inaonekana pia katika matoleo ya zamani ya Penal Code kwa formulation inayofanana kuhusu acts zinazofanyika partly within na partly beyond jurisdiction.",
+    "notes": [
+      "Historia inaweza kusaidia kufuatilia continuity ya rule, lakini application ya sasa lazima ianze na R.E. 2022."
+    ],
+    "sourceUrl": "https://www.sheria.go.tz/uploads/documents/sw-1677665965-THE%20PENAL%20CODE.pdf"
+  }
 }
