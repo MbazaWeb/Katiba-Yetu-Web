@@ -6,5 +6,18 @@
     "law": "The Penal Code",
     "chapterNumber": "16",
     "edition": "Revised Edition 2022"
+  },
+  "explanation": {
+    "summary": "Kifungu hiki kinaeleza mazingira ambayo Penal Code haitumiki au haitazuia matumizi ya sheria maalum zinazotajwa katika kifungu.",
+    "points": [
+      "Penal Code haisomiwi peke yake pale ambapo sheria nyingine maalum bado zinaendelea kutumika.",
+      "Maandishi rasmi ya kifungu ndiyo yanayoamua sheria au mazingira yaliyoondolewa kwenye matumizi yake."
+    ],
+    "terms": [
+      {
+        "term": "Disapplication",
+        "meaning": "Kutotumika kwa sheria katika mazingira yaliyowekwa."
+      }
+    ]
   }
 }
