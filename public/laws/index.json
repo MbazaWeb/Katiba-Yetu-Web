@@ -1,0 +1,15 @@
+{
+  "laws": [
+    {
+      "id": "penal-code-cap-16-re-2022",
+      "title": "The Penal Code",
+      "shortTitle": "Penal Code",
+      "chapterNumber": "16",
+      "year": 2022,
+      "edition": "Revised Edition 2022",
+      "category": "Jinai / Criminal",
+      "path": "/laws/penal-code-cap-16-re-2022/law.json",
+      "source": "Government Notice No. 461 of 2022"
+    }
+  ]
+}
