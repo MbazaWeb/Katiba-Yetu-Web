@@ -78,7 +78,8 @@ async function fetchJson<T>(url:string):Promise<T>{
   if(!request){
     request=fetch(encodeURI(url)).then(async r=>{
       if(!r.ok) throw new Error('Faili ya Katiba haijapatikana: '+url);
-      return r.json();
+      const text=await r.text();
+      return JSON.parse(text.replace(/^\\uFEFF/,''));
     });
     jsonCache.set(url,request);
   }
