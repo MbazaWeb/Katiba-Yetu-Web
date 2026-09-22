@@ -98,3 +98,6 @@ footer{border-color:var(--line);color:#625f5a}.legal{color:#77736d}
 
 /* Search relevance highlights */
 .searchResultsLight mark{background:#dff5ea;color:#075c3e;border-radius:3px;padding:0 2px;font-weight:800}.resultBody strong mark{color:var(--green-dark)}
+
+/* Search source identity */
+.resultSource{display:flex;align-items:center;gap:6px;flex-wrap:wrap}.sourceBadge{display:inline-flex;align-items:center;border-radius:999px;padding:3px 7px;font-size:7px;font-weight:900;letter-spacing:.05em}.sourceBadge.official{background:#e6f7ef;color:#08734f;border:1px solid #c3ead9}.sourceBadge.draft{background:#fff4df;color:#8a5a00;border:1px solid #efd8a9}
