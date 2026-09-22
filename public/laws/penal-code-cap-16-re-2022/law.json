@@ -525,6 +525,36 @@
                   "section": "95",
                   "title": "False claims by officials",
                   "file": "sections/095.json"
+                },
+                {
+                  "section": "96",
+                  "title": "Abuse of office",
+                  "file": "sections/096.json"
+                },
+                {
+                  "section": "97",
+                  "title": "False certificates by public officers",
+                  "file": "sections/097.json"
+                },
+                {
+                  "section": "98",
+                  "title": "Unauthorised administration of extra-judicial oath",
+                  "file": "sections/098.json"
+                },
+                {
+                  "section": "99",
+                  "title": "False assumption of authority",
+                  "file": "sections/099.json"
+                },
+                {
+                  "section": "100",
+                  "title": "Personating public officers",
+                  "file": "sections/100.json"
+                },
+                {
+                  "section": "101",
+                  "title": "Threat of injury to persons employed in public service",
+                  "file": "sections/101.json"
                 }
               ]
             }
