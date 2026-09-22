@@ -21,5 +21,23 @@
       "meaning": "Jambo ambalo sheria imelifanya kuwa sehemu ya kosa husika na ambalo kifungu hiki kinasema linaweza kujumuisha knowledge of the law ikiwa limetajwa expressly."
     }
   ],
-  "disclaimer": "Ufafanuzi huu si maandishi rasmi ya sheria."
+  "disclaimer": "Ufafanuzi huu si maandishi rasmi ya sheria.",
+  "expertPerspectives": [
+    {
+      "label": "Mtazamo A",
+      "focus": "Kanuni ya jumla",
+      "view": "Usomaji wa kawaida wa kifungu ni kwamba mtu haepuki offence kwa kusema hakujua sheria inayokataza act au omission hiyo."
+    },
+    {
+      "label": "Mtazamo B",
+      "focus": "Exception iliyoandikwa",
+      "view": "Uchambuzi lazima utenganishe ignorance ya kawaida na offence ambayo sheria imetaja expressly knowledge of the law kuwa element; katika hali hiyo knowledge yenyewe inakuwa suala la kuthibitishwa chini ya offence husika."
+    },
+    {
+      "label": "Hoja ya uchambuzi",
+      "focus": "Element vs excuse",
+      "view": "Tofauti muhimu ni kati ya kudai kutokujua sheria kama excuse na kuuliza kama prosecution imethibitisha element ya knowledge pale ambapo offence imeiweka expressly."
+    }
+  ],
+  "debateQuestion": "Je, offence inayotumika imetaja expressly knowledge of the law kuwa element, au hoja inayotolewa ni ignorance ya kawaida tu?"
 }
