@@ -181,3 +181,6 @@ a.publicIdentity{color:inherit;text-decoration:none}a.publicIdentity:hover b{tex
 
 /* Signup verification preview */
 .joinVerificationPreview{display:grid;gap:6px;border:1px solid #dfe8e1;background:#f8fbf9;border-radius:11px;padding:9px}.joinVerificationPreview>div{display:flex;justify-content:space-between;gap:10px;font-size:7px}.joinVerificationPreview>div span{font-weight:800;color:#29352d}.joinVerificationPreview>div b{font-size:6px;color:#817a72;background:#fff;border:1px solid #e5e7e5;border-radius:999px;padding:3px 6px}.joinVerificationPreview small{font-size:6px;line-height:1.5;color:#686e69;border-top:1px solid #e4e9e5;padding-top:6px}
+
+/* Auth brand */
+.authOfficialLogo{display:flex;align-items:center;gap:10px;margin-bottom:18px}.authOfficialLogo img{width:58px;height:58px;object-fit:contain}.authOfficialLogo div{display:flex;flex-direction:column;gap:2px}.authOfficialLogo strong{font-size:14px;letter-spacing:-.4px;color:#111}.authOfficialLogo span{font-size:6px;font-weight:800;letter-spacing:.8px;color:var(--green)}@media(max-width:650px){.authOfficialLogo{justify-content:center;text-align:left}.authOfficialLogo img{width:52px;height:52px}}
