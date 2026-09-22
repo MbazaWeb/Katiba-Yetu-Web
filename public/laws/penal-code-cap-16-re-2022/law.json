@@ -742,6 +742,37 @@
                   "file": "sections/129.json"
                 }
               ]
+            },
+            {
+              "id": "chapter-xv",
+              "title": "OFFENCES AGAINST MORALITY",
+              "sections": [
+                {
+                  "section": "129A",
+                  "title": "Definition of woman",
+                  "file": "sections/129A.json"
+                },
+                {
+                  "section": "130",
+                  "title": "Rape",
+                  "file": "sections/130.json"
+                },
+                {
+                  "section": "131",
+                  "title": "Punishment for rape",
+                  "file": "sections/131.json"
+                },
+                {
+                  "section": "131A",
+                  "title": "Punishment for gang rape",
+                  "file": "sections/131A.json"
+                },
+                {
+                  "section": "132",
+                  "title": "Attempted rape",
+                  "file": "sections/132.json"
+                }
+              ]
             }
           ]
         }
