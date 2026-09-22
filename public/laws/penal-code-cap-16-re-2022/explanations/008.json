@@ -39,5 +39,38 @@
       "view": "Tofauti muhimu ni kati ya kudai kutokujua sheria kama excuse na kuuliza kama prosecution imethibitisha element ya knowledge pale ambapo offence imeiweka expressly."
     }
   ],
-  "debateQuestion": "Je, offence inayotumika imetaja expressly knowledge of the law kuwa element, au hoja inayotolewa ni ignorance ya kawaida tu?"
+  "debateQuestion": "Je, offence inayotumika imetaja expressly knowledge of the law kuwa element, au hoja inayotolewa ni ignorance ya kawaida tu?",
+  "examples": [
+    {
+      "title": "Mfano wa ignorance of law",
+      "scenario": "Mtu anafanya act inayokatazwa kisha anasema hakujua kwamba sheria ilikuwa inaikataza.",
+      "analysis": "Kwa rule ya section 8, kutokujua sheria pekee si excuse, isipokuwa offence husika imetaja expressly knowledge of the law kuwa element."
+    }
+  ],
+  "cases": [
+    {
+      "name": "Maulid v Republic",
+      "citation": "[1970] H.C.D. No. 346",
+      "court": "High Court of Tanzania",
+      "year": "1970",
+      "relevance": "Rejea za kisheria za Tanzania zinaitaja kwa principle kwamba ignorance of the legal requirement haikutoa defence.",
+      "sourceUrl": "https://www.tanzanianweb.co.tz/2024/11/criminal-law-student-guide.html"
+    },
+    {
+      "name": "Joseph and Others v Republic",
+      "citation": "[1970] H.C.D. No. 271",
+      "court": "High Court of Tanzania",
+      "year": "1970",
+      "relevance": "Inatajwa katika materials za Tanzania kuhusu kukataliwa kwa hoja ya ignorance of law katika mazingira ya illegal entry.",
+      "sourceUrl": "https://www.tanzanianweb.co.tz/2024/11/criminal-law-student-guide.html"
+    }
+  ],
+  "history": {
+    "summary": "Maxim kwamba ignorance of law si excuse ina historia ndefu katika criminal law. Mahakama za Tanzania pia zimeitaja katika contexts nyingine za procedural law, ingawa hizo si application ya section 8 yenyewe.",
+    "notes": [
+      "Kesi ya procedural extension of time haipaswi kuchanganywa moja kwa moja na criminal defence chini ya section 8.",
+      "Kwa offence ya sasa, text ya section 8 na elements za offence husika ndizo msingi."
+    ],
+    "sourceUrl": "https://www.sheria.go.tz/uploads/documents/sw-1677665965-THE%20PENAL%20CODE.pdf"
+  }
 }
