@@ -42,15 +42,15 @@ create or replace function public.abstain_workflow_vote(
   p_region    text default null,
   p_tier      text default 'none'
 )
-returns public.workflow_poll language plpgsql security definer set search_path = public as $$
+returns public.workflow_polls language plpgsql security definer set search_path = public as $$
 declare
-  v_poll     public.workflow_poll;
+  v_poll     public.workflow_polls;
   v_existing public.workflow_votes;
 begin
-  select * into v_poll from public.workflow_poll where id = p_poll_id for update;
+  select * into v_poll from public.workflow_polls where id = p_poll_id for update;
   if not found then raise exception 'Poll not found'; end if;
   if v_poll.status <> 'open' then raise exception 'Poll is not open'; end if;
-  if now() < v_poll.opens_at or now() > v_poll.closes_at then
+  if now() < v_poll.opens_at or (v_poll.closes_at is not null and now() > v_poll.closes_at) then
     raise exception 'Poll is outside its voting window';
   end if;
 
@@ -64,33 +64,33 @@ begin
   values (p_poll_id, null, p_voter_id, coalesce(p_verified, false), p_region);
 
   -- Update poll aggregate counts
-  update public.workflow_poll
+  update public.workflow_polls
     set abstentions = abstentions + 1,
         total_votes = total_votes + 1,
         verified_votes = verified_votes + (case when p_verified then 1 else 0 end),
         region_distribution = case
           when p_region is not null then
-            jsonb_set(region_distribution, array[p_region], to_int(coalesce((region_distribution ->> p_region)::int, 0) + 1))
+            jsonb_set(region_distribution, array[p_region], to_jsonb(coalesce((region_distribution ->> p_region)::int, 0) + 1))
           else region_distribution
         end,
         verification_tier_distribution = jsonb_set(
           verification_tier_distribution,
           array[p_tier],
-          to_int(coalesce((verification_tier_distribution ->> p_tier)::int, 0) + 1)
+          to_jsonb(coalesce((verification_tier_distribution ->> p_tier)::int, 0) + 1)
         )
     where id = p_poll_id
     returning * into v_poll;
 
   -- Recompute option percentages (no option votes changed, but total changed)
-  update public.workflow_poll_options
+  update public.workflow_polls_options
     set percentage = case when v_poll.total_votes > 0 then round(votes::numeric / v_poll.total_votes * 100, 2) else 0 end
     where poll_id = p_poll_id;
 
   -- Update is_representative flag
-  update public.workflow_poll set is_representative = (verified_votes >= minimum_participation) where id = p_poll_id;
+  update public.workflow_polls set is_representative = (verified_votes >= minimum_participation) where id = p_poll_id;
 
   -- Re-read final state
-  select * into v_poll from public.workflow_poll where id = p_poll_id;
+  select * into v_poll from public.workflow_polls where id = p_poll_id;
   return v_poll;
 end;
 $$;
@@ -104,9 +104,9 @@ create or replace function public.close_workflow_poll(
   p_poll_id    uuid,
   p_closer_id  uuid
 )
-returns public.workflow_poll language plpgsql security definer set search_path = public as $$
+returns public.workflow_polls language plpgsql security definer set search_path = public as $$
 declare
-  v_poll    public.workflow_poll;
+  v_poll    public.workflow_polls;
   v_role    public.app_role;
 begin
   select role into v_role from public.profiles where id = p_closer_id;
@@ -118,7 +118,7 @@ begin
     end if;
   end if;
 
-  update public.workflow_poll
+  update public.workflow_polls
     set status = 'closed', human_reviewed = true
     where id = p_poll_id and status = 'open'
     returning * into v_poll;
@@ -161,17 +161,7 @@ begin
     raise exception 'Only moderators or admins can moderate submissions';
   end if;
 
-  -- Map decision to status + event
-  v_status := case p_decision
-    when 'approve' then 'topic_classified'
-    when 'reject' then 'rejected_by_moderator' -- not in enum; use 'rejected' fallback
-    when 'merge' then 'merged'
-    when 'flag' then 'flagged'
-    else 'submitted'
-  end;
-  -- The submission_status enum may not have 'rejected_by_moderator' or 'flagged';
-  -- use the closest available values.
-  v_status := case p_decision
+  -- Map decision to status + event\n  v_status := case p_decision
     when 'approve' then 'submitted'::public.submission_status
     when 'reject' then 'rejected'::public.submission_status
     when 'merge' then 'merged'::public.submission_status
