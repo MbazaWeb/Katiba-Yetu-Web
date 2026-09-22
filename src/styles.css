@@ -25,3 +25,7 @@ footer{border-color:var(--line);color:#625f5a}.legal{color:#77736d}
 
 /* Official emblem usage */
 .officialMark{background:transparent;width:46px;height:52px;border-radius:0;overflow:visible}.officialMark img{width:100%;height:100%;object-fit:contain}.coatSeal{background:transparent!important;width:76px!important;height:76px!important;border-radius:0!important}.coatSeal img{width:100%;height:100%;object-fit:contain}.status.sourceCopy{color:var(--green-dark);border-color:#82dcbc;background:var(--green-soft);font-weight:800}.sourceLine span:last-child{font-weight:700;color:#77736d}
+
+/* Small official emblem on Katiba library cards */
+.coatCardLogo{background:#f2fcf8;padding:7px}
+.coatCardLogo img{display:block;width:100%;height:100%;object-fit:contain}
