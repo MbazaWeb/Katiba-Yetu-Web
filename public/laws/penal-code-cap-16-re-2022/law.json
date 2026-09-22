@@ -707,6 +707,43 @@
               ]
             }
           ]
+        },
+        {
+          "id": "division-iii",
+          "title": "Offences Injurious to the Public in General",
+          "chapters": [
+            {
+              "id": "chapter-xiv",
+              "title": "OFFENCES RELATING TO RELIGION AND BURIALS",
+              "sections": [
+                {
+                  "section": "125",
+                  "title": "Insulting religion",
+                  "file": "sections/125.json"
+                },
+                {
+                  "section": "126",
+                  "title": "Disturbing religious assemblies",
+                  "file": "sections/126.json"
+                },
+                {
+                  "section": "127",
+                  "title": "Trespassing on burial or other places",
+                  "file": "sections/127.json"
+                },
+                {
+                  "section": "128",
+                  "title": "Hindering burial of dead body",
+                  "file": "sections/128.json"
+                },
+                {
+                  "section": "129",
+                  "title": "Uttering word with intent to wound religious feelings",
+                  "file": "sections/129.json"
+                }
+              ]
+            }
+          ]
         }
       ]
     }
