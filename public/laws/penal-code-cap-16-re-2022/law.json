@@ -453,6 +453,51 @@
                   "section": "81",
                   "title": "Rioters demolishing buildings, etc.",
                   "file": "sections/081.json"
+                },
+                {
+                  "section": "82",
+                  "title": "Rioters damaging buildings, etc.",
+                  "file": "sections/082.json"
+                },
+                {
+                  "section": "83",
+                  "title": "Riotously interfering with railway, vehicle, etc.",
+                  "file": "sections/083.json"
+                },
+                {
+                  "section": "84",
+                  "title": "Going armed in public",
+                  "file": "sections/084.json"
+                },
+                {
+                  "section": "85",
+                  "title": "Forcible entry",
+                  "file": "sections/085.json"
+                },
+                {
+                  "section": "86",
+                  "title": "Forcible detainer",
+                  "file": "sections/086.json"
+                },
+                {
+                  "section": "87",
+                  "title": "Affray",
+                  "file": "sections/087.json"
+                },
+                {
+                  "section": "88",
+                  "title": "Challenge to fight duel",
+                  "file": "sections/088.json"
+                },
+                {
+                  "section": "89",
+                  "title": "Abusive language, brawling and threatening violence",
+                  "file": "sections/089.json"
+                },
+                {
+                  "section": "90",
+                  "title": "Assembling for purpose of smuggling",
+                  "file": "sections/090.json"
                 }
               ]
             }
