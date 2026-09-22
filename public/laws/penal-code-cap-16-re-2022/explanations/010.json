@@ -31,5 +31,23 @@
       "meaning": "Sababu inayomsukuma mtu kufanya au kuacha kufanya act, au kuunda intention; subsection (3) kwa kawaida huiweka kuwa immaterial kwa criminal responsibility unless otherwise expressly declared."
     }
   ],
-  "disclaimer": "Ufafanuzi huu si maandishi rasmi ya sheria."
+  "disclaimer": "Ufafanuzi huu si maandishi rasmi ya sheria.",
+  "expertPerspectives": [
+    {
+      "label": "Mtazamo A",
+      "focus": "Will na accident",
+      "view": "Subsection (1) inaweza kuwa kitovu cha mjadala pale ambapo defence inasema act/omission haikutokana na exercise of will au event ilitokea by accident, lakini maandishi yanaifanya subject to provisions kuhusu negligent acts and omissions."
+    },
+    {
+      "label": "Mtazamo B",
+      "focus": "Intention",
+      "view": "Subsection (2) inashauri kutosoma intention to cause a particular result kama requirement moja kwa moja; kwanza lazima offence husika ionyeshe expressly kuwa intention hiyo ni element."
+    },
+    {
+      "label": "Mtazamo C",
+      "focus": "Motive",
+      "view": "Subsection (3) hutenganisha motive na criminal responsibility kwa kawaida. Sababu iliyomsukuma mtu si sawa moja kwa moja na element ya intention, isipokuwa sheria imesema vinginevyo expressly."
+    }
+  ],
+  "debateQuestion": "Katika offence husika, sheria imetaja expressly intention gani kama element, na hoja inayojadiliwa ni intention, motive, accident, au negligence?"
 }
