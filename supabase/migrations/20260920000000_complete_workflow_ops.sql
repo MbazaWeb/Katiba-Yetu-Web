@@ -161,9 +161,10 @@ begin
     raise exception 'Only moderators or admins can moderate submissions';
   end if;
 
-  -- Map decision to status + event\n  v_status := case p_decision
+  -- Map decision to status + event
+  v_status := case p_decision
     when 'approve' then 'submitted'::public.submission_status
-    when 'reject' then 'rejected'::public.submission_status
+    when 'reject' then 'rejected_by_moderator'::public.submission_status
     when 'merge' then 'merged'::public.submission_status
     when 'flag' then 'submitted'::public.submission_status
   end;
@@ -197,9 +198,9 @@ begin
   -- Audit log
   perform public.log_audit_event(
     case p_decision
-      when 'approve' then 'submission_moderated'::public.audit_event_kind
-      when 'reject' then 'submission_rejected'::public.audit_event_kind
-      else 'submission_moderated'::public.audit_event_kind
+      when 'approve' then 'submission_status_changed'::public.audit_event_kind
+      when 'reject' then 'submission_status_changed'::public.audit_event_kind
+      else 'submission_status_changed'::public.audit_event_kind
     end,
     p_submission_id::text,
     jsonb_build_object('decision', p_decision, 'reason', p_reason, 'moderator_id', p_moderator_id)
