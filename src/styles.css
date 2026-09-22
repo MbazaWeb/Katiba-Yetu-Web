@@ -343,3 +343,20 @@ a.publicIdentity{color:inherit;text-decoration:none}a.publicIdentity:hover b{tex
 
 /* Authentication usability */
 .passwordField{position:relative;display:flex;align-items:center}.passwordField input{width:100%;padding-right:78px}.passwordToggle{position:absolute;right:8px;border:0;background:transparent;color:var(--muted,#667085);font:inherit;font-size:12px;font-weight:700;cursor:pointer;padding:6px 8px;border-radius:7px}.passwordToggle:hover,.passwordToggle:focus-visible{background:rgba(127,127,127,.1);outline:none}.authMessage[role="alert"]{line-height:1.45}
+
+
+/* Home page dark-mode contrast fixes */
+:root[data-theme="dark"] .heroCopy h1{color:#f5f7f6}
+:root[data-theme="dark"] .heroCopy h1 span{color:#22c55e}
+:root[data-theme="dark"] .heroCopy>p{color:#aab8b1}
+:root[data-theme="dark"] .previewTop small{color:#9aaba3}
+:root[data-theme="dark"] .previewTop h3{color:#f5f7f6}
+:root[data-theme="dark"] .previewLines span{background:#dce4df}
+:root[data-theme="dark"] .previewCard{background:#15221c;border-color:#2b4036;color:#f5f7f6}
+:root[data-theme="dark"] .previewCard b{color:#f5f7f6}
+:root[data-theme="dark"] .previewCard small{color:#aab8b1}
+:root[data-theme="dark"] .participateBand{background:linear-gradient(135deg,#111c17,#13251c);border-color:#284737;color:#f5f7f6}
+:root[data-theme="dark"] .participateBand h2{color:#f5f7f6}
+:root[data-theme="dark"] .participateBand p{color:#aab8b1}
+:root[data-theme="dark"] .participateBand .kicker{color:#4ade80}
+:root[data-theme="dark"] .participateBand .primary{background:#22c55e;color:#07110b}
