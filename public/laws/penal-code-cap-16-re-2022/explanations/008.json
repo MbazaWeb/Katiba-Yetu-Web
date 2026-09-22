@@ -1,0 +1,25 @@
+{
+  "section": "8",
+  "language": "sw",
+  "plainLanguage": "Kwa kawaida, kutokujua sheria si sababu ya kuondoa uwajibikaji kwa kitendo au kutotenda jambo ambalo vinginevyo lingekuwa kosa.",
+  "meaning": "Kifungu kinaweka exception moja iliyoandikwa wazi: kama offence yenyewe imetangaza expressly kwamba knowledge of the law ni element ya offence hiyo, basi maarifa hayo ya sheria yanakuwa sehemu ya mambo yanayohusika katika kosa hilo.",
+  "keyPoints": [
+    "Ignorance of the law kwa kawaida haitoi excuse kwa act au omission ambayo vinginevyo ingekuwa offence.",
+    "Exception ni pale ambapo knowledge of the law by the offender imetajwa expressly kuwa element of the offence."
+  ],
+  "legalTerms": [
+    {
+      "term": "ignorance of the law",
+      "meaning": "Kutokujua sheria."
+    },
+    {
+      "term": "act or omission",
+      "meaning": "Kitendo kilichofanywa au kutofanywa kwa jambo."
+    },
+    {
+      "term": "element of the offence",
+      "meaning": "Jambo ambalo sheria imelifanya kuwa sehemu ya kosa husika na ambalo kifungu hiki kinasema linaweza kujumuisha knowledge of the law ikiwa limetajwa expressly."
+    }
+  ],
+  "disclaimer": "Ufafanuzi huu si maandishi rasmi ya sheria."
+}
