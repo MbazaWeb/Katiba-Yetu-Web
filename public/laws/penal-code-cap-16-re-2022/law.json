@@ -846,6 +846,31 @@
                   "section": "142",
                   "title": "House holder etc., permitting defilement of girl under eighteen years of age on his premises",
                   "file": "sections/142.json"
+                },
+                {
+                  "section": "143",
+                  "title": "Detention in any premises with intent, or in brothel",
+                  "file": "sections/143.json"
+                },
+                {
+                  "section": "144",
+                  "title": "Power of search",
+                  "file": "sections/144.json"
+                },
+                {
+                  "section": "145",
+                  "title": "Male person living on earnings of prostitution or persistently soliciting",
+                  "file": "sections/145.json"
+                },
+                {
+                  "section": "146",
+                  "title": "Woman living on, or aiding, prostitution",
+                  "file": "sections/146.json"
+                },
+                {
+                  "section": "147",
+                  "title": "Power of search",
+                  "file": "sections/147.json"
                 }
               ]
             }
