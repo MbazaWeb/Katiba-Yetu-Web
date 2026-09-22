@@ -1,0 +1,214 @@
+{
+  "id": "penal-code-cap-16-re-2022",
+  "title": "The Penal Code",
+  "shortTitle": "Penal Code",
+  "chapterNumber": "16",
+  "year": 2022,
+  "edition": "Revised Edition 2022",
+  "category": "Jinai / Criminal",
+  "sourceFilename": "CHAPTER 16 The Penal Code R_E 2022.pdf",
+  "parts": [
+    {
+      "id": "part-i",
+      "title": "GENERAL PROVISIONS",
+      "chapters": [
+        {
+          "id": "chapter-i",
+          "title": "PRELIMINARY PROVISIONS",
+          "sections": [
+            {
+              "section": "1",
+              "title": "Short title",
+              "file": "sections/001.json"
+            },
+            {
+              "section": "2",
+              "title": "Disapplication",
+              "file": "sections/002.json"
+            },
+            {
+              "section": "3",
+              "title": "Saving of certain laws",
+              "file": "sections/003.json"
+            }
+          ]
+        },
+        {
+          "id": "chapter-ii",
+          "title": "INTERPRETATION",
+          "sections": [
+            {
+              "section": "4",
+              "title": "General rule of construction",
+              "file": "sections/004.json"
+            },
+            {
+              "section": "5",
+              "title": "Interpretation",
+              "file": "sections/005.json"
+            }
+          ]
+        },
+        {
+          "id": "chapter-iii",
+          "title": "TERRITORIAL APPLICATION OF THIS CODE",
+          "sections": [
+            {
+              "section": "6",
+              "title": "Extent of jurisdiction of local courts",
+              "file": "sections/006.json"
+            },
+            {
+              "section": "7",
+              "title": "Offences committed partly within and partly beyond jurisdiction",
+              "file": "sections/007.json"
+            }
+          ]
+        },
+        {
+          "id": "chapter-iv",
+          "title": "GENERAL RULES AS TO CRIMINAL RESPONSIBILITY",
+          "sections": [
+            {
+              "section": "8",
+              "title": "Ignorance of law",
+              "file": "sections/008.json"
+            },
+            {
+              "section": "9",
+              "title": "Bona fide claim of right",
+              "file": "sections/009.json"
+            },
+            {
+              "section": "10",
+              "title": "Relevance of intention or motive",
+              "file": "sections/010.json"
+            },
+            {
+              "section": "11",
+              "title": "Mistake of fact",
+              "file": "sections/011.json"
+            },
+            {
+              "section": "12",
+              "title": "Presumption of sanity",
+              "file": "sections/012.json"
+            },
+            {
+              "section": "13",
+              "title": "Insanity",
+              "file": "sections/013.json"
+            },
+            {
+              "section": "14",
+              "title": "Intoxication",
+              "file": "sections/014.json"
+            },
+            {
+              "section": "15",
+              "title": "Immature age",
+              "file": "sections/015.json"
+            },
+            {
+              "section": "16",
+              "title": "General immunity for officers",
+              "file": "sections/016.json"
+            },
+            {
+              "section": "17",
+              "title": "Compulsion",
+              "file": "sections/017.json"
+            },
+            {
+              "section": "18",
+              "title": "Defence of person or property",
+              "file": "sections/018.json"
+            },
+            {
+              "section": "18A",
+              "title": "Right of defence",
+              "file": "sections/018A.json"
+            },
+            {
+              "section": "18B",
+              "title": "Use of force in defence",
+              "file": "sections/018B.json"
+            },
+            {
+              "section": "18C",
+              "title": "When right of defence extends to causing death",
+              "file": "sections/018C.json"
+            },
+            {
+              "section": "19",
+              "title": "Use of force in effecting arrest",
+              "file": "sections/019.json"
+            },
+            {
+              "section": "20",
+              "title": "Compulsion by husband",
+              "file": "sections/020.json"
+            },
+            {
+              "section": "21",
+              "title": "Person not to be punished twice for same offence",
+              "file": "sections/021.json"
+            }
+          ]
+        },
+        {
+          "id": "chapter-v",
+          "title": "PARTIES TO OFFENCES",
+          "sections": [
+            {
+              "section": "22",
+              "title": "Principal offenders",
+              "file": "sections/022.json"
+            },
+            {
+              "section": "23",
+              "title": "Offences committed by joint offenders in prosecution of common purpose",
+              "file": "sections/023.json"
+            },
+            {
+              "section": "24",
+              "title": "Counseling another to commit offence",
+              "file": "sections/024.json"
+            }
+          ]
+        },
+        {
+          "id": "chapter-vi",
+          "title": "PUNISHMENTS",
+          "sections": [
+            {
+              "section": "25",
+              "title": "Kinds of punishments",
+              "file": "sections/025.json"
+            },
+            {
+              "section": "26",
+              "title": "Sentence of death",
+              "file": "sections/026.json"
+            },
+            {
+              "section": "27",
+              "title": "Imprisonment",
+              "file": "sections/027.json"
+            },
+            {
+              "section": "28",
+              "title": "Corporal punishment",
+              "file": "sections/028.json"
+            },
+            {
+              "section": "29",
+              "title": "Fines",
+              "file": "sections/029.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
