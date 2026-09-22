@@ -268,3 +268,32 @@ a.publicIdentity{color:inherit;text-decoration:none}a.publicIdentity:hover b{tex
 :root[data-theme="dark"] .lawTerms b{color:#7ee2a8}
 :root[data-theme="dark"] .lawExplanationNote,:root[data-theme="dark"] .lawActionMessage{background:#13251c;border-color:#284737;color:#8be4b0}
 :root[data-theme="dark"] footer{border-top-color:#1f2b28;color:#8fa09a}
+
+/* Compact responsive desktop header */
+.nav{height:68px;padding-inline:clamp(18px,2.2vw,36px);gap:clamp(12px,1.5vw,24px)}
+.brand{flex:0 0 auto;min-width:190px;gap:9px}
+.mark{width:35px;height:35px}
+.brand strong{font-size:14px;line-height:1.05}
+.brand span{font-size:8px;line-height:1.25;letter-spacing:.07em}
+.nav nav{flex:1;justify-content:center;gap:clamp(10px,1.35vw,20px);min-width:0}
+.nav nav a{font-size:clamp(11px,.82vw,13px);font-weight:700;line-height:1.25;white-space:nowrap}
+.navActions{flex:0 0 auto;align-items:center;gap:6px}
+.searchLink{font-size:12px;gap:5px;white-space:nowrap}
+.searchLink svg,.notificationLink svg{width:16px;height:16px}
+.themeToggle,.languageSwitch{padding:8px 9px;font-size:11px;border-radius:9px}
+.loginLink{font-size:12px!important;font-weight:700;white-space:nowrap}
+.navActions .solid{padding:9px 13px;font-size:11px;white-space:nowrap}
+@media(max-width:1320px){
+ .brand{min-width:155px}.brand span{display:none}
+ .nav nav{gap:10px}.nav nav a{font-size:11px}
+ .onlineUsers{display:none}
+ .themeToggle span{display:none}
+ .themeToggle{padding:8px}
+ .languageSwitch{padding:8px;font-size:10px}
+ .navActions .solid{padding-inline:11px}
+}
+@media(max-width:1120px){
+ .nav nav{display:none}
+ .brand span{display:block}
+ .brand{min-width:auto}
+}
