@@ -341,6 +341,93 @@
                   "section": "55",
                   "title": "Seditious intention",
                   "file": "sections/055.json"
+                },
+                {
+                  "section": "56-58",
+                  "title": "Repealed",
+                  "file": "sections/56-58.json"
+                },
+                {
+                  "section": "59",
+                  "title": "Unlawful oaths to commit offences",
+                  "file": "sections/059.json"
+                },
+                {
+                  "section": "60",
+                  "title": "Other unlawful oaths to commit offences",
+                  "file": "sections/060.json"
+                },
+                {
+                  "section": "61",
+                  "title": "Compulsion as defence",
+                  "file": "sections/061.json"
+                },
+                {
+                  "section": "62",
+                  "title": "Unlawful drilling",
+                  "file": "sections/062.json"
+                },
+                {
+                  "section": "63-63A",
+                  "title": "Repealed",
+                  "file": "sections/63-63A.json"
+                },
+                {
+                  "section": "63B",
+                  "title": "Raising discontent and ill-will for unlawful purposes",
+                  "file": "sections/63B.json"
+                },
+                {
+                  "section": "63C",
+                  "title": "Hate speech",
+                  "file": "sections/63C.json"
+                }
+              ]
+            },
+            {
+              "id": "chapter-viii",
+              "title": "OFFENCES AFFECTING RELATIONS WITH FOREIGN STATES AND EXTERNAL TRANQUILITY",
+              "sections": [
+                {
+                  "section": "64",
+                  "title": "Repealed",
+                  "file": "sections/064.json"
+                },
+                {
+                  "section": "65",
+                  "title": "Foreign enlistment",
+                  "file": "sections/065.json"
+                },
+                {
+                  "section": "66",
+                  "title": "Piracy",
+                  "file": "sections/066.json"
+                }
+              ]
+            },
+            {
+              "id": "chapter-ix",
+              "title": "UNLAWFUL ASSEMBLIES AND RIOTS AND OTHER OFFENCES AGAINST PUBLIC TRANQUILITY",
+              "sections": [
+                {
+                  "section": "67-73",
+                  "title": "Repealed",
+                  "file": "sections/67-73.json"
+                },
+                {
+                  "section": "74",
+                  "title": "Definition of unlawful assembly and riot",
+                  "file": "sections/074.json"
+                },
+                {
+                  "section": "75",
+                  "title": "Punishment for unlawful assembly",
+                  "file": "sections/075.json"
+                },
+                {
+                  "section": "76",
+                  "title": "Punishment for riot",
+                  "file": "sections/076.json"
                 }
               ]
             }
