@@ -871,6 +871,36 @@
                   "section": "147",
                   "title": "Power of search",
                   "file": "sections/147.json"
+                },
+                {
+                  "section": "148",
+                  "title": "Brothels",
+                  "file": "sections/148.json"
+                },
+                {
+                  "section": "149",
+                  "title": "Conspiracy to induce unlawful sexual intercourse",
+                  "file": "sections/149.json"
+                },
+                {
+                  "section": "150",
+                  "title": "Attempts to procure abortion",
+                  "file": "sections/150.json"
+                },
+                {
+                  "section": "151",
+                  "title": "Procuring own miscarriage",
+                  "file": "sections/151.json"
+                },
+                {
+                  "section": "152",
+                  "title": "Supplying drugs or instruments to procure abortion",
+                  "file": "sections/152.json"
+                },
+                {
+                  "section": "153",
+                  "title": "Knowledge of age of female immaterial",
+                  "file": "sections/153.json"
                 }
               ]
             }
