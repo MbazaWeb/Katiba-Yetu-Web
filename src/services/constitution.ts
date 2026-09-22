@@ -89,6 +89,18 @@ export async function loadArticle(documentId:string,chapterName:string,fileName:
   }
 }
 
+export async function loadArticleByNumber(documentId:string,articleNumber:string){
+  const chapters=await loadChapters(documentId);
+  for(const chapter of chapters){
+    const file=chapter.ibara.find(name=>name.replace(/^Ibara\s+/i,'').replace(/\.json$/i,'')===articleNumber);
+    if(file){
+      const article=await loadArticle(documentId,chapter.sura,file);
+      if(article) return {article,chapter,fileName:file};
+    }
+  }
+  return undefined;
+}
+
 export async function loadAllArticles(documentId:string){
   const chapters=await loadChapters(documentId);
   const rows:ConstitutionArticle[]=[];
