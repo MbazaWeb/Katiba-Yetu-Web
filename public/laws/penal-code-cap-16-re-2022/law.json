@@ -781,6 +781,46 @@
                   "section": "134",
                   "title": "Abduction of girls under sixteen",
                   "file": "sections/134.json"
+                },
+                {
+                  "section": "135",
+                  "title": "Sexual assault on persons and indecent assaults on women",
+                  "file": "sections/135.json"
+                },
+                {
+                  "section": "136",
+                  "title": "Repealed",
+                  "file": "sections/136.json"
+                },
+                {
+                  "section": "137",
+                  "title": "Defilement of idiots or imbeciles",
+                  "file": "sections/137.json"
+                },
+                {
+                  "section": "138",
+                  "title": "Defilement by husband of wife under eighteen, etc.",
+                  "file": "sections/138.json"
+                },
+                {
+                  "section": "138A",
+                  "title": "Act of gross indecency between persons",
+                  "file": "sections/138A.json"
+                },
+                {
+                  "section": "138B",
+                  "title": "Sexual exploitation of children",
+                  "file": "sections/138B.json"
+                },
+                {
+                  "section": "138C",
+                  "title": "Grave sexual abuse",
+                  "file": "sections/138C.json"
+                },
+                {
+                  "section": "138D",
+                  "title": "Sexual harassment",
+                  "file": "sections/138D.json"
                 }
               ]
             }
