@@ -678,6 +678,31 @@
                   "section": "120",
                   "title": "Frauds and breaches of trust by public officers",
                   "file": "sections/120.json"
+                },
+                {
+                  "section": "121",
+                  "title": "Neglect of official duty",
+                  "file": "sections/121.json"
+                },
+                {
+                  "section": "122",
+                  "title": "False information to person employed in public service",
+                  "file": "sections/122.json"
+                },
+                {
+                  "section": "123",
+                  "title": "Disobedience of statutory duty",
+                  "file": "sections/123.json"
+                },
+                {
+                  "section": "124",
+                  "title": "Disobedience of lawful orders",
+                  "file": "sections/124.json"
+                },
+                {
+                  "section": "124A",
+                  "title": "Repealed",
+                  "file": "sections/124A.json"
                 }
               ]
             }
