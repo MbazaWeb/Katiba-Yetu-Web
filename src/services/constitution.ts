@@ -39,14 +39,35 @@ export const constitutionSources:ConstitutionSource[]=[
   {id:'doc-rasimu-tanzania-2014',title:'Rasimu ya Katiba ya Tanzania',family:'draft',jurisdiction:'tanzania',basePath:'/katiba/Rasimu za Katiba/Tanzania'}
 ];
 
-const chapterNames=[
-  'Sura ya Kwanza','Sura ya Pili','Sura ya Tatu','Sura ya Nne','Sura ya Tano',
-  'Sura ya Sita','Sura ya Saba','Sura ya Nane','Sura ya Tisa','Sura ya Kumi',
-  'Sura ya Kumi na Moja','Sura ya Kumi na Mbili','Sura ya Kumi na Tatu',
-  'Sura ya Kumi na Nne','Sura ya Kumi na Tano','Sura ya Kumi na Sita',
-  'Sura ya Kumi na Saba','Sura ya Kumi na Nane','Sura ya Kumi na Tisa',
-  'Sura ya Ishirini'
-];
+const manifestCache:{promise?:Promise<string[]>}={};
+
+async function loadManifestPaths(){
+  if(!manifestCache.promise) manifestCache.promise=fetch('/katiba/snapshot.csv').then(async r=>{
+    if(!r.ok) throw new Error('Katiba path manifest haijapatikana.');
+    const text=await r.text();
+    return text.split(/\r?\n/).slice(1).map(line=>{
+      const match=line.match(/^"((?:[^"]|"")*)"/);
+      return match?match[1].replace(/""/g,'"').replace(/\\/g,'/').replace(/^\//,''):'';
+    }).filter(Boolean);
+  });
+  return manifestCache.promise;
+}
+
+function sourceManifestPrefix(source:ConstitutionSource){
+  return source.basePath.replace(/^\/katiba\//,'').replace(/\/$/,'')+'/';
+}
+
+async function chapterManifest(source:ConstitutionSource){
+  const paths=await loadManifestPaths();
+  const prefix=sourceManifestPrefix(source);
+  const names=new Set<string>();
+  for(const path of paths){
+    if(!path.startsWith(prefix)||!path.toLowerCase().endsWith('.json')) continue;
+    const rest=path.slice(prefix.length),parts=rest.split('/');
+    if(parts.length>=2&&parts[0]) names.add(parts[0]);
+  }
+  return [...names];
+}
 
 const jsonCache=new Map<string,Promise<unknown>>();
 
@@ -70,13 +91,15 @@ export async function loadChapters(documentId:string){
   const source=getSource(documentId);
   if(!source) return [];
   const chapters:ConstitutionChapter[]=[];
-  for(const name of chapterNames){
+  let names:string[]=[];
+  try{names=await chapterManifest(source)}catch{return chapters}
+  for(const name of names){
     try{
       const chapter=await fetchJson<ConstitutionChapter>(`${source.basePath}/${name}/${name}.json`);
       if(chapter.documentId===documentId) chapters.push(chapter);
     }catch{}
   }
-  return chapters.sort((a,b)=>a.chapterNumber-b.chapterNumber);
+  return chapters.sort((a,b)=>(a.chapterNumber??Number.MAX_SAFE_INTEGER)-(b.chapterNumber??Number.MAX_SAFE_INTEGER)||a.sura.localeCompare(b.sura,'sw'));
 }
 
 export async function loadArticle(documentId:string,chapterName:string,fileName:string){
