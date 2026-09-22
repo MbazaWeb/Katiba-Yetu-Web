@@ -557,6 +557,42 @@
                   "file": "sections/101.json"
                 }
               ]
+            },
+            {
+              "id": "chapter-xi",
+              "title": "OFFENCES RELATING TO THE ADMINISTRATION OF JUSTICE",
+              "sections": [
+                {
+                  "section": "102",
+                  "title": "Perjury",
+                  "file": "sections/102.json"
+                },
+                {
+                  "section": "103",
+                  "title": "False statements by interpreters",
+                  "file": "sections/103.json"
+                },
+                {
+                  "section": "104",
+                  "title": "Punishment of perjury",
+                  "file": "sections/104.json"
+                },
+                {
+                  "section": "105",
+                  "title": "Evidence on charge of perjury",
+                  "file": "sections/105.json"
+                },
+                {
+                  "section": "106",
+                  "title": "Fabricating evidence",
+                  "file": "sections/106.json"
+                },
+                {
+                  "section": "107",
+                  "title": "False swearing",
+                  "file": "sections/107.json"
+                }
+              ]
             }
           ]
         }
