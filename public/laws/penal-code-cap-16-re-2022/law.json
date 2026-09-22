@@ -502,6 +502,33 @@
               ]
             }
           ]
+        },
+        {
+          "id": "division-ii",
+          "title": "Offences against the Administration of Lawful Authority",
+          "chapters": [
+            {
+              "id": "chapter-x",
+              "title": "ABUSE OF OFFICE",
+              "sections": [
+                {
+                  "section": "91-93",
+                  "title": "Repealed",
+                  "file": "sections/91-93.json"
+                },
+                {
+                  "section": "94",
+                  "title": "Officers charged with administration of property of special character with special duties",
+                  "file": "sections/094.json"
+                },
+                {
+                  "section": "95",
+                  "title": "False claims by officials",
+                  "file": "sections/095.json"
+                }
+              ]
+            }
+          ]
         }
       ]
     }
