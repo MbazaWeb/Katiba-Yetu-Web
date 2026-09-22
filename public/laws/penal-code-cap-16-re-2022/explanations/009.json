@@ -23,5 +23,23 @@
       "meaning": "Nia ya kufanya udanganyifu; kifungu kinahitaji kitendo au omission iwe bila nia hiyo."
     }
   ],
-  "disclaimer": "Ufafanuzi huu si maandishi rasmi ya sheria."
+  "disclaimer": "Ufafanuzi huu si maandishi rasmi ya sheria.",
+  "expertPerspectives": [
+    {
+      "label": "Mtazamo A",
+      "focus": "Honest claim of right",
+      "view": "Kifungu kinaelekeza umakini kwenye honesty ya claim of right kuhusu property, si tu kuwepo kwa mgogoro wa ownership kwa jina."
+    },
+    {
+      "label": "Mtazamo B",
+      "focus": "Intention to defraud",
+      "view": "Hata kama claim of right inadaiwa, maandishi yanaweka pia sharti la kutokuwepo intention to defraud; vipengele hivyo vinapaswa kuchambuliwa pamoja."
+    },
+    {
+      "label": "Hoja ya uchambuzi",
+      "focus": "Scope",
+      "view": "Kifungu kimeandikwa kwa offence relating to property. Kwa hiyo uchambuzi wa kwanza ni kama offence inayodaiwa iko ndani ya scope hiyo."
+    }
+  ],
+  "debateQuestion": "Je, facts zinaonyesha honest claim of right na, tofauti na hilo, zinaonyesha kuwepo au kutokuwepo kwa intention to defraud?"
 }
