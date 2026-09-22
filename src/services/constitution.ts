@@ -1,0 +1,8 @@
+export type VerificationStatus='verified'|'pending'|'unavailable';export interface ArticleRecord{id:string;documentId:string;family:'official'|'draft';jurisdiction:'tanzania'|'zanzibar';number:string;title:string;chapter:string;part:string;text:string;clauses:string[];sourceLocator:string;verificationStatus:VerificationStatus;sourceFile:string}
+export interface ChapterRecord{documentId:string;family:'official'|'draft';jurisdiction:'tanzania'|'zanzibar';number:number;title:string;chapter:string;parts:string[];articleFiles:string[];sourceFile:string}
+export interface DocumentRecord{id:string;title:string;family:'official'|'draft';jurisdiction:'tanzania'|'zanzibar';articleCount:number;chapterCount:number}
+let cache:Promise<{documents:DocumentRecord[];articles:ArticleRecord[];chapters:ChapterRecord[]}>|null=null;
+async function json<T>(url:string){const r=await fetch(url);if(!r.ok)throw new Error('Katiba dataset haijapatikana: '+url);return r.json() as Promise<T>}
+export function loadConstitutionData(){return cache??=Promise.all([json<DocumentRecord[]>('/katiba-data/documents.json'),json<ArticleRecord[]>('/katiba-data/articles.json'),json<ChapterRecord[]>('/katiba-data/chapters.json')]).then(([documents,articles,chapters])=>({documents,articles,chapters}))}
+export async function searchConstitution(query:string,documentId?:string){const {articles}=await loadConstitutionData();const q=query.trim().toLocaleLowerCase('sw');return articles.filter(a=>(!documentId||a.documentId===documentId)&&(!q||[a.number,a.title,a.chapter,a.part,a.text].join(' ').toLocaleLowerCase('sw').includes(q)))}
+export async function getArticle(documentId:string,id:string){const {articles}=await loadConstitutionData();return articles.find(a=>a.documentId===documentId&&a.id===id)}
