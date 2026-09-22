@@ -119,3 +119,6 @@ footer{border-color:var(--line);color:#625f5a}.legal{color:#77736d}
 
 /* Public verified identity */
 .publicIdentity{display:inline-flex;align-items:center;gap:5px;flex-wrap:wrap}.publicIdentity>b{font:inherit;font-weight:850}.publicIdentity .identityBadge{margin-left:0}.discussionItemTop .publicIdentity,.publicDiscussionMeta .publicIdentity{line-height:1.2}
+
+/* Verified participation on proposals and polls */
+.suggestionAuthor{margin:5px 0 2px;font-size:8px;color:#67625c}.pollIdentityNotice{display:flex;align-items:center;gap:8px;background:#f3faf6;border:1px solid #d2e9dc;border-radius:11px;padding:10px 12px;margin:10px 0 14px;font-size:8px;color:#4f5d55}.pollIdentityNotice>svg{color:var(--green);flex:0 0 auto}.pollIdentityNotice .publicIdentity{margin:0 2px}
