@@ -821,6 +821,31 @@
                   "section": "138D",
                   "title": "Sexual harassment",
                   "file": "sections/138D.json"
+                },
+                {
+                  "section": "139",
+                  "title": "Procuration for prostitution",
+                  "file": "sections/139.json"
+                },
+                {
+                  "section": "139A",
+                  "title": "Repealed",
+                  "file": "sections/139A.json"
+                },
+                {
+                  "section": "140",
+                  "title": "Procuring rape",
+                  "file": "sections/140.json"
+                },
+                {
+                  "section": "141",
+                  "title": "House holder, etc., permitting defilement of girl on his premises",
+                  "file": "sections/141.json"
+                },
+                {
+                  "section": "142",
+                  "title": "House holder etc., permitting defilement of girl under eighteen years of age on his premises",
+                  "file": "sections/142.json"
                 }
               ]
             }
