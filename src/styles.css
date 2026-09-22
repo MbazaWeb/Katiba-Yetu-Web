@@ -116,3 +116,6 @@ footer{border-color:var(--line);color:#625f5a}.legal{color:#77736d}
 
 /* Private verification documents */
 .verificationApplyForm input[type=file]{padding:8px;background:#f8faf8}.verificationApplyForm label>small{font-size:7px;font-weight:500;color:#77716a}.documentOpenBtn{border:0;background:transparent;padding:0;color:var(--green);font:inherit;font-weight:850;cursor:pointer;text-decoration:underline;text-underline-offset:2px}
+
+/* Public verified identity */
+.publicIdentity{display:inline-flex;align-items:center;gap:5px;flex-wrap:wrap}.publicIdentity>b{font:inherit;font-weight:850}.publicIdentity .identityBadge{margin-left:0}.discussionItemTop .publicIdentity,.publicDiscussionMeta .publicIdentity{line-height:1.2}
