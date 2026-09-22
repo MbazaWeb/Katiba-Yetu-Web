@@ -624,8 +624,60 @@
                 },
                 {
                   "section": "114",
-                  "title": "Offences relating to judicial proceedings",
+                  "title": "Contempt of court",
                   "file": "sections/114.json"
+                },
+                {
+                  "section": "114A",
+                  "title": "Preventing or obstructing service or execution of process",
+                  "file": "sections/114A.json"
+                }
+              ]
+            },
+            {
+              "id": "chapter-xii",
+              "title": "RESCUES, ESCAPES AND OBSTRUCTING OFFICERS OF COURT OF LAW",
+              "sections": [
+                {
+                  "section": "115",
+                  "title": "Rescue",
+                  "file": "sections/115.json"
+                },
+                {
+                  "section": "116",
+                  "title": "Escape from lawful custody",
+                  "file": "sections/116.json"
+                },
+                {
+                  "section": "116A",
+                  "title": "Absence from extramural employment",
+                  "file": "sections/116A.json"
+                },
+                {
+                  "section": "117",
+                  "title": "Aiding prisoners to escape",
+                  "file": "sections/117.json"
+                },
+                {
+                  "section": "118",
+                  "title": "Removal, etc., of property under lawful seizure",
+                  "file": "sections/118.json"
+                },
+                {
+                  "section": "119",
+                  "title": "Repealed",
+                  "file": "sections/119.json"
+                }
+              ]
+            },
+            {
+              "id": "chapter-xiii",
+              "title": "MISCELLANEOUS OFFENCES AGAINST PUBLIC AUTHORITY",
+              "sections": [
+                {
+                  "section": "120",
+                  "title": "Frauds and breaches of trust by public officers",
+                  "file": "sections/120.json"
                 }
               ]
             }
