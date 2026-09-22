@@ -254,12 +254,12 @@
             {
               "section": "38A",
               "title": "Commission of further offence",
-              "file": "sections/38A.json"
+              "file": "sections/038A.json"
             },
             {
               "section": "38B",
               "title": "Effect of conviction and discharge",
-              "file": "sections/38B.json"
+              "file": "sections/038B.json"
             }
           ]
         }
