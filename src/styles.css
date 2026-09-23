@@ -483,3 +483,16 @@ a.publicIdentity{color:inherit;text-decoration:none}a.publicIdentity:hover b{tex
 .workflowWorkspace.committeeDesk{width:min(1480px,96vw);max-height:94vh;overflow:auto}.committeeDeskGrid{display:grid;grid-template-columns:minmax(240px,.72fr) minmax(460px,1.35fr) minmax(250px,.78fr);gap:14px;padding:14px}.committeeProposalPanel,.committeeDecisionPanel,.committeeRecordPanel{min-width:0;border:1px solid var(--line);border-radius:16px;background:#fff;padding:16px}.committeeProposalPanel h3,.committeeDecisionPanel h3,.committeeRecordPanel h4{margin-top:6px}.committeeProposalPanel h4,.committeeLegalBrief h4{font-size:8px;text-transform:uppercase;letter-spacing:.06em;color:#77716a;margin:16px 0 5px}.committeeProposalPanel p,.committeeLegalBrief p{font-size:9px;line-height:1.65;color:#555f58}.committeeProposalPanel blockquote{margin:6px 0;padding:12px;border-left:3px solid var(--green);background:#f5faf7;font-size:9px;line-height:1.65}.committeeMeta{display:grid;grid-template-columns:1fr 1fr;gap:7px;margin-top:14px}.committeeMeta span{display:grid;gap:3px;padding:9px;background:#f7f9f7;border-radius:10px;font-size:8px}.committeeMeta b{font-size:6px;text-transform:uppercase;color:#77716a}.committeeDecisionPanel>label{display:grid;gap:6px;margin-top:11px;font-size:8px;font-weight:850}.committeeDecisionPanel textarea{width:100%;min-height:90px;padding:11px;border:1px solid #d9dfda;border-radius:11px;background:#fff;font:inherit;font-size:9px;line-height:1.55;resize:vertical}.committeeLegalBrief{margin:12px 0;padding:14px;border:1px solid #d6e7dc;border-radius:13px;background:#f7fcf9}.committeeActions{position:sticky;bottom:0;display:flex;flex-wrap:wrap;justify-content:flex-end;gap:7px;margin-top:15px;padding:11px 0 2px;background:#fff}.committeeActions button{border:1px solid #d6ddd8;border-radius:10px;background:#fff;padding:10px 12px;font-size:8px;font-weight:850}.committeeActions .primary{border-color:var(--green);background:var(--green);color:#fff}.committeeActions .danger{color:#a33a32;border-color:#e4c8c4;background:#fff8f7}.committeeActions button:disabled{opacity:.48;cursor:not-allowed}.committeeRecordPanel .workflowTimeline{margin-top:8px}
 @media(max-width:1100px){.committeeDeskGrid{grid-template-columns:1fr 1.35fr}.committeeRecordPanel{grid-column:1/-1}}
 @media(max-width:760px){.workflowWorkspace.committeeDesk{width:100vw;max-height:100dvh;border-radius:0}.committeeDeskGrid{grid-template-columns:1fr;padding:10px}.committeeRecordPanel{grid-column:auto}.committeeProposalPanel,.committeeDecisionPanel,.committeeRecordPanel{padding:13px}.committeeActions{display:grid;grid-template-columns:1fr 1fr}.committeeActions button{width:100%}.committeeMeta{grid-template-columns:1fr}}
+
+
+/* Dark theme readability fix — page headings and light cards */
+:root[data-theme="dark"] .pageTitle,
+:root[data-theme="dark"] .section h2,
+:root[data-theme="dark"] .sectionHead h2,
+:root[data-theme="dark"] .libraryIntro h1,
+:root[data-theme="dark"] .libraryIntro h2,
+:root[data-theme="dark"] .learningHub h1,
+:root[data-theme="dark"] .learningHub h2{color:#f5f7f6!important}
+:root[data-theme="dark"] .lead,
+:root[data-theme="dark"] .sectionHead>p{color:#aebdb8!important}
+:root[data-theme="dark"] .referenceDocs h3{color:#181715!important}
