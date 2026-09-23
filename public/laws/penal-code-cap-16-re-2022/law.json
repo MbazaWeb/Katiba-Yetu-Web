@@ -380,7 +380,7 @@
                 {
                   "section": "63C",
                   "title": "Hate speech",
-                  "file": "sections/63C.json"
+                  "file": "sections/063C.json"
                 }
               ]
             },
@@ -493,6 +493,21 @@
                   "section": "89",
                   "title": "Abusive language, brawling and threatening violence",
                   "file": "sections/089.json"
+                },
+                {
+                  "section": "89A",
+                  "title": "Watching or besetting",
+                  "file": "sections/089A.json"
+                },
+                {
+                  "section": "89B",
+                  "title": "Intimidation",
+                  "file": "sections/089B.json"
+                },
+                {
+                  "section": "89C",
+                  "title": "Dissuading persons from assisting with self-help schemes",
+                  "file": "sections/089C.json"
                 },
                 {
                   "section": "90",
