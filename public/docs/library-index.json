@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T06:15:00Z",
+  "generated_at_utc": "2026-09-24T05:58:57.314Z",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -315,6 +315,19 @@
       "status": "source-catalogued"
     },
     {
+      "id": "osg-cap-284-ngorongoro-conservation-area-act",
+      "title": "THE NGORONGORO CONSERVATION AREA ACT",
+      "shortTitle": "Ngorongoro Conservation Area Act",
+      "chapterNumber": "284",
+      "year": 2025,
+      "edition": "R.E. 2023 A.S. 2025",
+      "category": "Principal Legislation · Annual Supplement 2025",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/851be340-0fb5-4fcc-8f01-fa80496f8f8c",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
       "id": "osg-cap-296-parliamentary-immunities-powers-and-privileges-act",
       "title": "THE PARLIAMENTARY IMMUNITIES, POWERS AND PRIVILEGES ACT",
       "shortTitle": "Parliamentary Immunities, Powers and Privileges Act",
@@ -393,6 +406,45 @@
       "status": "source-catalogued"
     },
     {
+      "id": "osg-cap-370-treasury-registrar-powers-and-functions-act",
+      "title": "THE TREASURY REGISTRAR (POWERS AND FUNCTIONS) ACT",
+      "shortTitle": "Treasury Registrar (Powers and Functions) Act",
+      "chapterNumber": "370",
+      "year": 2025,
+      "edition": "R.E. 2023 A.S. 2025",
+      "category": "Principal Legislation · Annual Supplement 2025",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/e4d1cf41-ddec-44fc-ad94-b30f0d44b537",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
+      "id": "osg-cap-371-public-service-social-security-fund-act",
+      "title": "THE PUBLIC SERVICE SOCIAL SECURITY FUND ACT",
+      "shortTitle": "Public Service Social Security Fund Act",
+      "chapterNumber": "371",
+      "year": 2025,
+      "edition": "R.E. 2023 A.S. 2025",
+      "category": "Principal Legislation · Annual Supplement 2025",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/48f7955f-303f-47ed-a7ed-937c92bccfec",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
+      "id": "osg-cap-379-tanzania-commission-for-aids-act",
+      "title": "THE TANZANIA COMMISSION FOR AIDS ACT",
+      "shortTitle": "Tanzania Commission for AIDS Act",
+      "chapterNumber": "379",
+      "year": 2025,
+      "edition": "R.E. 2023 A.S. 2025",
+      "category": "Principal Legislation · Annual Supplement 2025",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/fac93273-b1de-492c-8a73-6b0f311b05c9",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
       "id": "osg-cap-397-regions-and-districts-establishment-procedure-act",
       "title": "THE REGIONS AND DISTRICTS (ESTABLISHMENT PROCEDURE) ACT",
       "shortTitle": "Regions and Districts (Establishment Procedure) Act",
@@ -441,6 +493,19 @@
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=268&order=ASC&rpp=20&sort_by=1&type=title",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
+      "id": "osg-cap-413-land-transport-regulatory-authority-act",
+      "title": "THE LAND TRANSPORT REGULATORY AUTHORITY ACT",
+      "shortTitle": "Land Transport Regulatory Authority Act",
+      "chapterNumber": "413",
+      "year": 2025,
+      "edition": "R.E. 2023 A.S. 2025",
+      "category": "Principal Legislation · Annual Supplement 2025",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/40edaa89-b881-4552-a98d-9f962d093d67",
       "contentReady": false,
       "status": "source-catalogued"
     },
