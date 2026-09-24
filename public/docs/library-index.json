@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T05:58:57.314Z",
+  "generated_at_utc": "2026-09-24T08:00:00Z",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -146,6 +146,19 @@
       "status": "source-catalogued"
     },
     {
+      "id": "osg-cap-58-prisons-act",
+      "title": "THE PRISONS ACT",
+      "shortTitle": "Prisons Act",
+      "chapterNumber": "58",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/eacf3d9a-9414-4a6e-be86-f7c51ffaee7b",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
       "id": "osg-cap-95-drug-control-and-enforcement-act",
       "title": "THE DRUG CONTROL AND ENFORCEMENT ACT",
       "shortTitle": "Drug Control and Enforcement Act",
@@ -263,6 +276,32 @@
       "status": "source-catalogued"
     },
     {
+      "id": "osg-cap-200-economic-and-organised-crime-control-act",
+      "title": "THE ECONOMIC AND ORGANISED CRIME CONTROL ACT",
+      "shortTitle": "Economic and Organised Crime Control Act",
+      "chapterNumber": "200",
+      "year": 2022,
+      "edition": "R.E. 2022",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/310",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
+      "id": "osg-cap-219-tanzania-medicines-and-medical-devices-act",
+      "title": "THE TANZANIA MEDICINES AND MEDICAL DEVICES ACT",
+      "shortTitle": "Tanzania Medicines and Medical Devices Act",
+      "chapterNumber": "219",
+      "year": 2021,
+      "edition": "R.E. 2021",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/2309",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
       "id": "osg-cap-257-public-corporations-act",
       "title": "THE PUBLIC CORPORATIONS ACT",
       "shortTitle": "Public Corporations Act",
@@ -337,6 +376,19 @@
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=180&order=ASC&rpp=20&sort_by=1&type=title",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
+      "id": "osg-cap-302-fauna-conservation-ordinance",
+      "title": "THE FAUNA CONSERVATION ORDINANCE",
+      "shortTitle": "Fauna Conservation Ordinance",
+      "chapterNumber": "302",
+      "year": 1951,
+      "edition": "Historical source",
+      "category": "Historical Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/61352521-0bf5-4f5d-9b29-4536b712ba39/full",
       "contentReady": false,
       "status": "source-catalogued"
     },
