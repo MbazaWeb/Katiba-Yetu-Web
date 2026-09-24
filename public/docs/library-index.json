@@ -834,6 +834,24 @@
       "totalSections": null
     },
     {
+      "id": "osg-cap-332-income-tax",
+      "title": "THE INCOME TAX ACT",
+      "shortTitle": "Income Tax Act",
+      "chapterNumber": "332",
+      "year": 2019,
+      "edition": "R.E. 2019",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/bitstream/handle/123456789/237/CHAPTER%20332-THE%20INCOME%20TAX%20ACT.pdf?sequence=1",
+      "contentReady": false,
+      "status": "source-catalogued",
+      "verification": "verified-official-osg",
+      "conversionStatus": "not-started",
+      "conversionProgress": 0,
+      "sectionsConverted": 0,
+      "totalSections": null
+    },
+    {
       "id": "osg-cap-334-land-registration-act",
       "title": "THE LAND REGISTRATION ACT",
       "shortTitle": "Land Registration Act",
@@ -1198,7 +1216,7 @@
   "audit": {
     "status": "complete",
     "policy": "Only records directly verified against an official OSG item page are marked verified-official-osg. Other existing catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 66,
+    "verifiedCount": 67,
     "pendingCount": 0
   },
   "conversionTracking": {
