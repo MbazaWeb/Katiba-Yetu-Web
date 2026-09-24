@@ -626,3 +626,147 @@ a.publicIdentity{color:inherit;text-decoration:none}a.publicIdentity:hover b{tex
   .heroTrust{grid-template-columns:1fr}
   .previewTop h3{font-size:28px}
 }
+
+
+/* Global mobile responsiveness — all application pages */
+html,body,#root{max-width:100%;overflow-x:hidden}
+img,svg,video,canvas{max-width:100%}
+input,select,textarea,button{max-width:100%}
+@media (max-width: 760px){
+  .page{width:100%;max-width:100%;padding:36px 16px 0;overflow:hidden}
+  .pageTitle{font-size:clamp(32px,10vw,44px);line-height:1.08;overflow-wrap:anywhere}
+  .lead{font-size:15px;line-height:1.6}
+  .sectionHead,.libraryIntro,.documentToolbar,.readerTopbar,.readerActions,.referenceSourceTop,
+  .notificationHeader,.learningHubHead,.workflowDeskHero,.adminHero,.adminSectionHead,
+  .accountPanelHead,.memberDashboardHead,.publicProfileHero,.resourceToolbar,.pipelineHead,
+  .draftWorkspaceHead,.pollIdentityNotice,.verificationApplicationHead,.lawDocumentHero,
+  .lawExplanationHead,.lawExpertDebateHead,.lawTraceHead,.integrityTraceHead{
+    min-width:0;max-width:100%
+  }
+  .cards,.docGrid,.referenceDocs,.topicGrid,.govGrid,.profileGrid,.dashboardPanels,
+  .resourceGrid,.caseLibraryGrid,.learningStats,.workflowDashboard,.workflowToolGrid,
+  .adminMetrics,.adminGrid,.workflowAdminMetrics,.legalDeskGrid,.committeeDeskGrid,
+  .workflowWorkspaceGrid,.proposalTwo,.proposalChoiceGrid,.reviewSummaryGrid,
+  .lawDirectoryGrid,.lawExpertDebateGrid{
+    grid-template-columns:1fr!important
+  }
+  .panel,.card,.docCard,.miniCard,.process,.articleReader,.explanationPanel,.discussionPanel,
+  .proposalWorkspace,.articlePoll,.referencesPanel,.accountFullPanel,.reviewJourneyCard,
+  .workflowApplication,.workflowWorkspace,.adminCard,.verificationRequestCard,
+  .lawDirectoryCard,.lawReaderPanel,.lawExplanation,.lawTracePanel,.lawExpertDebate,
+  .participationCertificate,.certificateFrame{
+    max-width:100%;min-width:0
+  }
+  .heroButtons,.readerActions,.dashboardActions,.pipelineActions,.draftAudit,.adminActions,
+  .workflowQuick,.workflowCardLinks,.caseResultActions,.caseLaunchActions,.certificateActions,
+  .certificateLibraryActions,.issueTraceActions,.lawReaderActions,.lawSectionNav{
+    flex-wrap:wrap
+  }
+  .bigSearch,.searchBox,.chapterBrowserSearch>div,.readerSearchInput{
+    width:100%;max-width:100%;min-width:0
+  }
+  .bigSearch input,.searchBox input,.chapterBrowserSearch input,.readerSearchInput input{
+    min-width:0;width:100%
+  }
+  .resultList a,.lawSearchResults a{min-width:0;overflow-wrap:anywhere}
+  .documentIdentity{max-width:100%;min-width:0}
+  .documentIdentity img{flex:none}
+  .documentToolbar>div{flex-wrap:wrap;gap:10px}
+  .chapterSearchResults{max-width:100%}
+  .chapterSearchResults a{grid-template-columns:auto 1fr;min-width:0}
+  .readerShell{width:100%;max-width:100%;min-width:0}
+  .readerSide{width:100%;max-width:100%}
+  .readerSide [role=tablist]{overflow-x:auto;max-width:100%;padding-bottom:4px}
+  .readerMain{width:100%;max-width:100%;min-width:0}
+  .articleReader,.clauses,.clauseBody,.articleText{overflow-wrap:anywhere}
+  .clauseRow{min-width:0}
+  .sourceLine{gap:8px}
+  .articleNav{gap:12px}
+  .articleNav a{max-width:48%;overflow-wrap:anywhere}
+  .selectionAssistant{left:12px!important;right:12px!important;width:auto!important;max-width:none!important}
+  .explanationGrid,.proposalCompare{grid-template-columns:1fr}
+  .discussionStats,.pollMetrics{grid-template-columns:repeat(3,minmax(0,1fr))}
+  .discussionItem,.replyItem{min-width:0}
+  .discussionActions{flex-wrap:wrap}
+  .pollStages{grid-template-columns:1fr 1fr}
+  .pollOptions{grid-template-columns:1fr!important}
+  .referenceSections{overflow-wrap:anywhere}
+  .draftVersionBar,.workspaceTabs,.pills,.learningTabs,.quizCategoryFilter,.historyFilters,
+  .pollFilters,.accountCenterTabs,.workflowRolePills,.workflowDeskTabs{
+    overflow-x:auto;flex-wrap:nowrap!important;max-width:100%;padding-bottom:6px
+  }
+  .draftVersionBar>*,.workspaceTabs>*,.pills>*,.learningTabs>*,.quizCategoryFilter>*,
+  .historyFilters>*,.pollFilters>*,.accountCenterTabs>*,.workflowRolePills>*,.workflowDeskTabs>*{
+    flex:0 0 auto;white-space:nowrap
+  }
+  .draftArticleHead,.livePollTop,.centralPollHeader,.publicDiscussionMeta,.notificationTitle,
+  .resourceMeta,.accountHighlightCard,.savedArticle,.workflowApplication,.verificationRequestHead,
+  .userRoleRow,.adminCardTop,.moderationCard,.clusterStrip{
+    min-width:0
+  }
+  .draftArticleHead,.centralPollHeader,.verificationRequestHead,.adminCardTop{
+    flex-direction:column;align-items:flex-start!important
+  }
+  .learningHub,.accountDashboard,.adminConsole,.workflowDesk,.lawDocument,.lawsPage{max-width:100%;min-width:0}
+  .learningStats,.historyStats,.resourceStats,.accountDashboard .memberStats{
+    grid-template-columns:repeat(2,minmax(0,1fr))!important
+  }
+  .quizOptions{grid-template-columns:1fr!important}
+  .publicProfileColumns{grid-template-columns:1fr!important}
+  .publicProfileStats{grid-template-columns:repeat(2,minmax(0,1fr))!important}
+  .notificationList,.publicDiscussionFeed,.activityTimeline,.myProposalList,.certificateLibrary{max-width:100%}
+  .accountCenterTabs{scrollbar-width:none}
+  .accountFullPanel{padding:20px 16px}
+  .myProposalList article,.certificateLibrary article{width:100%;min-width:0}
+  .citizenPipeline{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .modernPipeline{width:100%;max-width:100%;overflow-x:auto}
+  .reviewCardActions>*{flex:1 1 100%;justify-content:center}
+  .profileTwo{grid-template-columns:1fr!important}
+  .profileForm input,.profileForm textarea,.profileForm select,.verificationApplyForm input,
+  .verificationApplyForm textarea,.verificationApplyForm select,.proposalForm input,
+  .proposalForm textarea,.proposalForm select,.documentUploadForm input,.documentUploadForm textarea,
+  .documentUploadForm select{width:100%;min-width:0}
+  .authShell{width:100%;max-width:100%;padding:24px 16px}
+  .authIntro,.authForm{min-width:0}
+  .workflowWorkspaceOverlay{padding:0!important}
+  .workflowWorkspace{width:100vw!important;max-width:100vw!important;max-height:100dvh!important;border-radius:0!important}
+  .workflowActionStack,.legalActionBar,.committeeActions{grid-template-columns:1fr!important}
+  .workflowStageTrack{overflow-x:auto;max-width:100%}
+  .workflowAuditRows,.adminAuditTable{display:block;overflow-x:auto;max-width:100%}
+  .adminConsole{display:block!important}
+  .adminSidebar{width:100%!important;max-width:100%;position:static!important;display:flex!important;overflow-x:auto;gap:6px;padding-bottom:8px}
+  .adminSidebar>*{flex:0 0 auto}
+  .adminConsoleMain{width:100%;max-width:100%;min-width:0}
+  .workflowAssignBox,.documentUploadForm{grid-template-columns:1fr!important}
+  .proposalForm.submissionFull,.citizenProposalWizard{width:100%;max-width:100%;min-width:0}
+  .proposalStep{padding-left:0!important;padding-right:0!important}
+  .proposalHelpRail{position:static!important;width:100%!important;max-width:100%!important}
+  .proposalSubmitReview{grid-template-columns:1fr!important}
+  .participationCertificate{padding:16px!important}
+  .certificateFrame{padding:22px 16px!important}
+  .certificateMeta{grid-template-columns:1fr!important}
+  .certificateActions>*{flex:1 1 100%;justify-content:center}
+  .lawDirectoryTools{display:grid!important;grid-template-columns:1fr!important}
+  .lawDocumentHero{grid-template-columns:1fr!important}
+  .lawLayout{grid-template-columns:1fr!important;width:100%;max-width:100%}
+  .lawChapterNav{position:static!important;width:100%;max-width:100%;max-height:none!important}
+  .lawPartGroup,.lawDivisionGroup,.articleRow,.lawReader{min-width:0;max-width:100%}
+  .lawReferenceBar{flex-wrap:wrap}
+  .lawStructuredText,.lawText{overflow-wrap:anywhere}
+  .lawSectionNav{display:grid!important;grid-template-columns:1fr 1fr!important}
+  .lawSectionNavBtn{width:100%;min-width:0}
+  .lawSectionNavPlaceholder{display:none}
+  .integrityResults,.integrityPanel{max-width:100%;overflow:hidden}
+}
+@media (max-width: 520px){
+  .page{padding-left:14px;padding-right:14px}
+  .discussionStats,.pollMetrics{grid-template-columns:1fr}
+  .discussionStats div,.pollMetrics div{border-right:0;border-bottom:1px solid var(--line)}
+  .discussionStats div:last-child,.pollMetrics div:last-child{border-bottom:0}
+  .pollStages{grid-template-columns:1fr}
+  .learningStats,.historyStats,.resourceStats,.publicProfileStats,.accountDashboard .memberStats{
+    grid-template-columns:1fr!important
+  }
+  .citizenPipeline{grid-template-columns:1fr}
+  .lawSectionNav{grid-template-columns:1fr!important}
+}
