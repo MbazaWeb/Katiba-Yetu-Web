@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T05:55:52.903Z",
+  "generated_at_utc": "2026-09-24T05:45:00Z",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -107,6 +107,32 @@
       "status": "source-catalogued"
     },
     {
+      "id": "osg-cap-22-rural-farmlands-acquisition-and-regrant-act",
+      "title": "THE RURAL FARMLANDS (ACQUISITION AND REGRANT) ACT",
+      "shortTitle": "Rural Farmlands (Acquisition and Regrant) Act",
+      "chapterNumber": "22",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/5b7f9957-e38a-4528-9562-70ea1f5185bb",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
+      "id": "osg-cap-27-administrator-general-powers-and-functions-act",
+      "title": "THE ADMINISTRATOR-GENERAL (POWERS AND FUNCTIONS) ACT",
+      "shortTitle": "Administrator-General (Powers and Functions) Act",
+      "chapterNumber": "27",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/08bc1202-52f8-469d-840c-751ffbc551dc",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
       "id": "osg-cap-30-sisal",
       "title": "THE SISAL INDUSTRY ACT",
       "shortTitle": "Sisal Industry Act",
@@ -146,6 +172,19 @@
       "status": "source-catalogued"
     },
     {
+      "id": "osg-cap-97-regional-administration-act",
+      "title": "THE REGIONAL ADMINISTRATION ACT",
+      "shortTitle": "Regional Administration Act",
+      "chapterNumber": "97",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/e1e7e9b8-40c2-4941-b2cd-68a58cc68f56",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
       "id": "osg-cap-105-public-service-negotiating-machinery-act",
       "title": "THE PUBLIC SERVICE (NEGOTIATING MACHINERY) ACT",
       "shortTitle": "Public Service (Negotiating Machinery) Act",
@@ -155,6 +194,32 @@
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/c729dedf-db29-46d6-a1c8-105127629719",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
+      "id": "osg-cap-124-motor-vehicles-tax-on-registration-and-transfer-act",
+      "title": "THE MOTOR VEHICLES (TAX ON REGISTRATION AND TRANSFER) ACT",
+      "shortTitle": "Motor Vehicles (Tax on Registration and Transfer) Act",
+      "chapterNumber": "124",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/7f8e3c51-0ac0-4b61-bb4d-9a1471bc54f2",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
+      "id": "osg-cap-138-valuation-and-valuers-registration-act",
+      "title": "THE VALUATION AND VALUERS REGISTRATION ACT",
+      "shortTitle": "Valuation and Valuers Registration Act",
+      "chapterNumber": "138",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/ec81fcb2-4e01-4da1-9d37-4530f02b25c0",
       "contentReady": false,
       "status": "source-catalogued"
     },
@@ -181,6 +246,19 @@
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/2d2d3296-6ca2-4ac0-ac9e-f59f01fac061",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
+      "id": "osg-cap-257-public-corporations-act",
+      "title": "THE PUBLIC CORPORATIONS ACT",
+      "shortTitle": "Public Corporations Act",
+      "chapterNumber": "257",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/10c32bc2-a8ef-4952-bd35-b53f6438a7aa",
       "contentReady": false,
       "status": "source-catalogued"
     },
@@ -285,6 +363,19 @@
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/fbdcc00a-2c5d-465b-80a9-805531baa9c2",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
+      "id": "osg-cap-397-regions-and-districts-establishment-procedure-act",
+      "title": "THE REGIONS AND DISTRICTS (ESTABLISHMENT PROCEDURE) ACT",
+      "shortTitle": "Regions and Districts (Establishment Procedure) Act",
+      "chapterNumber": "397",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/f29e5516-3e26-4563-9f05-ff68161eb0d1",
       "contentReady": false,
       "status": "source-catalogued"
     },
