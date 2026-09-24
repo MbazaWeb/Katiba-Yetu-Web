@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T09:30:00Z",
+  "generated_at_utc": "2026-09-24T10:00:00Z",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -56,7 +56,7 @@
       "sourceUrl": "https://elibrary.osg.go.tz/items/9633215b-5210-4497-bd19-3ae90c170689",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-13-law-of-the-child-act",
@@ -154,7 +154,7 @@
       "sourceUrl": "https://elibrary.osg.go.tz/items/115eecf8-f1a1-4510-a3a0-b74ec49fc37e",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-58-prisons-act",
@@ -350,7 +350,7 @@
       "sourceUrl": "https://elibrary.osg.go.tz/items/c1601135-991f-407d-9b83-1e9a6946fe24",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-191-environmental",
@@ -364,7 +364,7 @@
       "sourceUrl": "https://elibrary.osg.go.tz/items/2d2d3296-6ca2-4ac0-ac9e-f59f01fac061",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-200-economic-and-organised-crime-control-act",
@@ -434,7 +434,7 @@
       "sourceUrl": "https://elibrary.osg.go.tz/items/c723111a-d7c7-4d52-aea8-d9335ef7a56b",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-283-wildlife-conservation-act",
@@ -546,7 +546,7 @@
       "sourceUrl": "https://elibrary.osg.go.tz/items/234c6244-ae93-4484-90b4-a6506fa11044",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-348-public-finance-act",
@@ -574,7 +574,7 @@
       "sourceUrl": "https://elibrary.osg.go.tz/items/d912b5c6-6f85-4591-b532-c2b7d3531f24",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-366-employment",
@@ -790,7 +790,7 @@
   "audit": {
     "status": "in-progress",
     "policy": "Only records directly verified against an official OSG item page are marked verified-official-osg. Other existing catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 19,
-    "pendingCount": 37
+    "verifiedCount": 26,
+    "pendingCount": 30
   }
 }
