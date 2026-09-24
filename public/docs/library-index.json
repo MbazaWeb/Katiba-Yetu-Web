@@ -371,14 +371,14 @@
       "title": "THE ECONOMIC AND ORGANISED CRIME CONTROL ACT",
       "shortTitle": "Economic and Organised Crime Control Act",
       "chapterNumber": "200",
-      "year": 2022,
-      "edition": "R.E. 2022",
+      "year": 2019,
+      "edition": "R.E. 2019",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/310",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/09bc83a8-f1fc-430e-a5a3-95ec3ed50699",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-219-tanzania-medicines-and-medical-devices-act",
@@ -791,7 +791,7 @@
   "audit": {
     "status": "in-progress",
     "policy": "Only records directly verified against an official OSG item page are marked verified-official-osg. Other existing catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 40,
-    "pendingCount": 16
+    "verifiedCount": 41,
+    "pendingCount": 15
   }
 }
