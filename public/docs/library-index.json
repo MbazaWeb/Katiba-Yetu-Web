@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T12:00:00Z",
+  "generated_at_utc": "2026-09-24T12:30:00Z",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -679,14 +679,14 @@
       "title": "THE TAX REVENUE APPEALS ACT",
       "shortTitle": "Tax Revenue Appeals Act",
       "chapterNumber": "408",
-      "year": 2023,
-      "edition": "R.E. 2023",
+      "year": 2019,
+      "edition": "R.E. 2019",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/items/461a90c6-26fd-451e-b9a7-f61d0d33ad13",
+      "sourceUrl": "https://elibrary.osg.go.tz/server/api/core/bitstreams/48b91ba5-5276-4353-b95a-c338a4bad78c/content",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-413-land-transport-regulatory-authority-act",
@@ -790,7 +790,7 @@
   "audit": {
     "status": "in-progress",
     "policy": "Only records directly verified against an official OSG item page are marked verified-official-osg. Other existing catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 33,
-    "pendingCount": 23
+    "verifiedCount": 34,
+    "pendingCount": 22
   }
 }
