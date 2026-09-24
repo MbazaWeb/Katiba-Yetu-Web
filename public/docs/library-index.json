@@ -31,6 +31,20 @@
       "verification": "verified-official-osg"
     },
     {
+      "id": "osg-cap-9-presidential-affairs",
+      "title": "THE PRESIDENTIAL AFFAIRS ACT",
+      "shortTitle": "Presidential Affairs Act",
+      "chapterNumber": "9",
+      "year": 2025,
+      "edition": "Current Act confirmed by OSG subsidiary legislation (GN No. 263 of 2025)",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/089fd802-6abc-434c-967d-f751e4069bbe",
+      "verification": "verified-official-osg-reference",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
       "id": "osg-cap-11-magistrates-courts-act",
       "title": "THE MAGISTRATES’ COURTS ACT",
       "shortTitle": "Magistrates’ Courts Act",
@@ -241,6 +255,20 @@
       "verification": "verified-official-osg"
     },
     {
+      "id": "osg-cap-113-land",
+      "title": "THE LAND ACT",
+      "shortTitle": "Land Act",
+      "chapterNumber": "113",
+      "year": 2019,
+      "edition": "R.E. 2019",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/894157c4-918b-4184-8d60-28ccd9289da2/full",
+      "verification": "verified-official-osg-reference",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
       "id": "osg-cap-116-land-use-planning-act",
       "title": "THE LAND USE PLANNING ACT",
       "shortTitle": "Land Use Planning Act",
@@ -380,6 +408,20 @@
       "status": "source-catalogued",
       "verification": "verified-official-osg",
       "notes": "Official OSG R.E. 2022 item supersedes the older R.E. 2019 catalogue source."
+    },
+    {
+      "id": "osg-cap-212-companies",
+      "title": "THE COMPANIES ACT",
+      "shortTitle": "Companies Act",
+      "chapterNumber": "212",
+      "year": 2002,
+      "edition": "R.E. 2002",
+      "sourceUrl": "https://elibrary.osg.go.tz/server/api/core/bitstreams/c7017d7d-78dd-47ab-b1b2-fb308a4de3b6/content",
+      "verification": "verified-official-osg-reference",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "contentReady": false,
+      "status": "source-catalogued"
     },
     {
       "id": "osg-cap-219-tanzania-medicines-and-medical-devices-act",
@@ -892,7 +934,7 @@
   "audit": {
     "status": "complete",
     "policy": "Only records directly verified against an official OSG item page are marked verified-official-osg. Other existing catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 63,
+    "verifiedCount": 66,
     "pendingCount": 0
   }
 }
