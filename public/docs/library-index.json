@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T13:00:00Z",
+  "generated_at_utc": "2026-09-24T09:45:00+03:00",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -470,14 +470,14 @@
       "title": "THE PARLIAMENTARY IMMUNITIES, POWERS AND PRIVILEGES ACT",
       "shortTitle": "Parliamentary Immunities, Powers and Privileges Act",
       "chapterNumber": "296",
-      "year": 2020,
-      "edition": "R.E. 2020",
+      "year": 2023,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=180&order=ASC&rpp=20&sort_by=1&type=title",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/2056143d-d1ea-4f4d-a8a8-4c0898ce3cca",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-302-fauna-conservation-ordinance",
@@ -670,10 +670,10 @@
       "edition": "R.E. 2019",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=33&order=ASC&rpp=20&sort_by=1&type=title",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/ece4dde6-2838-42fa-bd8e-c400b6d4b020",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-408-tax-revenue-appeals-act",
@@ -736,28 +736,28 @@
       "title": "THE ELECTRONIC TRANSACTIONS ACT",
       "shortTitle": "Electronic Transactions Act",
       "chapterNumber": "442",
-      "year": 2022,
-      "edition": "R.E. 2022",
+      "year": 2023,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=59&order=ASC&rpp=20&sort_by=1&type=title",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/280f35a6-e98d-48a5-a051-7d59bfc39d15",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-446-whistleblower-and-witness-protection-act",
       "title": "THE WHISTLEBLOWER AND WITNESS PROTECTION ACT",
       "shortTitle": "Whistleblower and Witness Protection Act",
       "chapterNumber": "446",
-      "year": 2022,
-      "edition": "R.E. 2022",
+      "year": 2023,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=268&order=ASC&rpp=20&sort_by=1&type=title",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/2a879887-a8e4-40d7-b539-6973db660512",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-449-sovereignty",
@@ -791,7 +791,7 @@
   "audit": {
     "status": "in-progress",
     "policy": "Only records directly verified against an official OSG item page are marked verified-official-osg. Other existing catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 36,
-    "pendingCount": 20
+    "verifiedCount": 40,
+    "pendingCount": 16
   }
 }
