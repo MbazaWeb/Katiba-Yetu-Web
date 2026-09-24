@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T11:30:00Z",
+  "generated_at_utc": "2026-09-24T12:00:00Z",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -525,14 +525,14 @@
       "title": "THE OIL AND GAS REVENUES MANAGEMENT ACT",
       "shortTitle": "Oil and Gas Revenues Management Act",
       "chapterNumber": "328",
-      "year": 2019,
-      "edition": "R.E. 2019",
+      "year": 2023,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=180&order=ASC&rpp=20&sort_by=1&type=title",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/28b474a1-11c6-42dd-b0f5-1323b836bd27",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-334-land-registration-act",
@@ -790,7 +790,7 @@
   "audit": {
     "status": "in-progress",
     "policy": "Only records directly verified against an official OSG item page are marked verified-official-osg. Other existing catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 32,
-    "pendingCount": 24
+    "verifiedCount": 33,
+    "pendingCount": 23
   }
 }
