@@ -459,12 +459,12 @@
       "chapterNumber": "284",
       "year": 2025,
       "edition": "R.E. 2023 A.S. 2025",
-      "category": "Principal Legislation · Annual Supplement 2025",
+      "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/851be340-0fb5-4fcc-8f01-fa80496f8f8c",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-296-parliamentary-immunities-powers-and-privileges-act",
@@ -486,13 +486,13 @@
       "shortTitle": "Fauna Conservation Ordinance",
       "chapterNumber": "302",
       "year": 1951,
-      "edition": "Historical source",
+      "edition": "Historical source — Supp. 64",
       "category": "Historical Legislation",
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/61352521-0bf5-4f5d-9b29-4536b712ba39/full",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-306-electronic-and-postal-communications-act",
@@ -628,12 +628,12 @@
       "chapterNumber": "379",
       "year": 2025,
       "edition": "R.E. 2023 A.S. 2025",
-      "category": "Principal Legislation · Annual Supplement 2025",
+      "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/fac93273-b1de-492c-8a73-6b0f311b05c9",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-397-regions-and-districts-establishment-procedure-act",
@@ -698,12 +698,12 @@
       "chapterNumber": "413",
       "year": 2025,
       "edition": "R.E. 2023 A.S. 2025",
-      "category": "Principal Legislation · Annual Supplement 2025",
+      "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/40edaa89-b881-4552-a98d-9f962d093d67",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-438-tax-administration-act",
@@ -793,7 +793,7 @@
   "audit": {
     "status": "in-progress",
     "policy": "Only records directly verified against an official OSG item page are marked verified-official-osg. Other existing catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 51,
-    "pendingCount": 5
+    "verifiedCount": 55,
+    "pendingCount": 1
   }
 }
