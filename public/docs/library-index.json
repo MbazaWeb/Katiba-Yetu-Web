@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T09:00:00Z",
+  "generated_at_utc": "2026-09-24T09:30:00Z",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -32,8 +32,8 @@
     },
     {
       "id": "osg-cap-11-magistrates-courts-act",
-      "title": "THE MAGISTRATES' COURTS ACT",
-      "shortTitle": "Magistrates' Courts Act",
+      "title": "THE MAGISTRATES’ COURTS ACT",
+      "shortTitle": "Magistrates’ Courts Act",
       "chapterNumber": "11",
       "year": 2023,
       "edition": "R.E. 2023",
@@ -42,7 +42,7 @@
       "sourceUrl": "https://elibrary.osg.go.tz/items/a3dc76b7-6f48-4219-9102-eed24f9692ce",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-12-notaries",
@@ -67,10 +67,10 @@
       "edition": "R.E. 2023",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/items/c620a9e5-6995-4c09-a164-8e37b46847ae",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/cce316fc-fc5e-4a0d-aa26-5f55671d64b3",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-16-penal-code",
@@ -105,14 +105,14 @@
       "title": "THE CRIMINAL PROCEDURE ACT",
       "shortTitle": "Criminal Procedure Act",
       "chapterNumber": "20",
-      "year": 2022,
-      "edition": "R.E. 2022",
+      "year": 2023,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=33&order=ASC&rpp=20&sort_by=1&type=title",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/7b3e64f1-ae1d-4c4f-95d3-c37c67053923",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-22-rural-farmlands-acquisition-and-regrant-act",
@@ -238,7 +238,7 @@
       "sourceUrl": "https://elibrary.osg.go.tz/items/c729dedf-db29-46d6-a1c8-105127629719",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-116-land-use-planning-act",
@@ -790,7 +790,7 @@
   "audit": {
     "status": "in-progress",
     "policy": "Only records directly verified against an official OSG item page are marked verified-official-osg. Other existing catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 15,
-    "pendingCount": 41
+    "verifiedCount": 19,
+    "pendingCount": 37
   }
 }
