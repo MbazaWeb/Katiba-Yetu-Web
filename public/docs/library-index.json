@@ -386,14 +386,15 @@
       "title": "THE TANZANIA MEDICINES AND MEDICAL DEVICES ACT",
       "shortTitle": "Tanzania Medicines and Medical Devices Act",
       "chapterNumber": "219",
-      "year": 2021,
-      "edition": "R.E. 2021",
+      "year": 2023,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/2309",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/04ece0cb-6d44-44b7-8b10-7f801a04fee6",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg",
+      "notes": "Verified against official OSG Principal Legislation item for CAP 219 R.E. 2023; supersedes the catalogue's older R.E. 2021 metadata."
     },
     {
       "id": "osg-cap-257-public-corporations-act",
@@ -791,9 +792,9 @@
     }
   ],
   "audit": {
-    "status": "in-progress",
+    "status": "complete",
     "policy": "Only records directly verified against an official OSG item page are marked verified-official-osg. Other existing catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 55,
-    "pendingCount": 1
+    "verifiedCount": 56,
+    "pendingCount": 0
   }
 }
