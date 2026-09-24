@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T09:50:00+03:00",
+  "generated_at_utc": "2026-09-24T10:00:00+03:00",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -371,14 +371,15 @@
       "title": "THE ECONOMIC AND ORGANISED CRIME CONTROL ACT",
       "shortTitle": "Economic and Organised Crime Control Act",
       "chapterNumber": "200",
-      "year": 2019,
-      "edition": "R.E. 2019",
+      "year": 2022,
+      "edition": "R.E. 2022",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/items/09bc83a8-f1fc-430e-a5a3-95ec3ed50699",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/64e88662-9f41-4e3b-97b3-65805b2ab69f",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "verified-official-osg"
+      "verification": "verified-official-osg",
+      "notes": "Official OSG R.E. 2022 item supersedes the older R.E. 2019 catalogue source."
     },
     {
       "id": "osg-cap-219-tanzania-medicines-and-medical-devices-act",
