@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T10:00:00+03:00",
+  "generated_at_utc": "2026-09-24T10:05:00+03:00",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -126,7 +126,7 @@
       "sourceUrl": "https://elibrary.osg.go.tz/items/5b7f9957-e38a-4528-9562-70ea1f5185bb",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-27-administrator-general-powers-and-functions-act",
@@ -140,7 +140,7 @@
       "sourceUrl": "https://elibrary.osg.go.tz/items/08bc1202-52f8-469d-840c-751ffbc551dc",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-30-sisal",
@@ -168,7 +168,7 @@
       "sourceUrl": "https://elibrary.osg.go.tz/items/eacf3d9a-9414-4a6e-be86-f7c51ffaee7b",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-63-engineers-registration-act",
@@ -308,7 +308,7 @@
       "sourceUrl": "https://elibrary.osg.go.tz/items/9ee181d6-0e3b-46e0-901c-38a38d862d16",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-169-motor-vehicles-insurance-act",
@@ -792,7 +792,7 @@
   "audit": {
     "status": "in-progress",
     "policy": "Only records directly verified against an official OSG item page are marked verified-official-osg. Other existing catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 42,
-    "pendingCount": 14
+    "verifiedCount": 46,
+    "pendingCount": 10
   }
 }
