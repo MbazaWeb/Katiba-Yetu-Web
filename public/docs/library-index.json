@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T10:00:00Z",
+  "generated_at_utc": "2026-09-24T10:30:00Z",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -182,7 +182,7 @@
       "sourceUrl": "https://elibrary.osg.go.tz/items/f0016498-9740-4a88-947a-701eb4c1ce93",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-95-drug-control-and-enforcement-act",
@@ -336,7 +336,7 @@
       "sourceUrl": "https://elibrary.osg.go.tz/items/766b76b1-7d1d-405c-8b97-b9c9042f1069",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-171-law-reform-commission-of-tanzania-act",
@@ -406,7 +406,7 @@
       "sourceUrl": "https://elibrary.osg.go.tz/items/10c32bc2-a8ef-4952-bd35-b53f6438a7aa",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-268-office-of-the-attorney-general-discharge-of-duties-act",
@@ -504,7 +504,7 @@
       "sourceUrl": "https://elibrary.osg.go.tz/items/4a1e66cd-9a04-4398-bb9e-8fbffddfa2be",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-321-rural-energy-act",
@@ -790,7 +790,7 @@
   "audit": {
     "status": "in-progress",
     "policy": "Only records directly verified against an official OSG item page are marked verified-official-osg. Other existing catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 26,
-    "pendingCount": 30
+    "verifiedCount": 30,
+    "pendingCount": 26
   }
 }
