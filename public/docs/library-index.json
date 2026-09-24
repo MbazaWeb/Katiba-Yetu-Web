@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T10:15:00+03:00",
+  "generated_at_utc": "2026-09-24T10:20:00+03:00",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -611,14 +611,15 @@
       "title": "THE PUBLIC SERVICE SOCIAL SECURITY FUND ACT",
       "shortTitle": "Public Service Social Security Fund Act",
       "chapterNumber": "371",
-      "year": 2025,
-      "edition": "R.E. 2023 A.S. 2025",
-      "category": "Principal Legislation · Annual Supplement 2025",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/items/48f7955f-303f-47ed-a7ed-937c92bccfec",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/23196e36-2d1a-419a-87bb-ff677e1afdd4",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg",
+      "notes": "Verified against the official OSG item page for CAP 371 R.E. 2023. Removed the unsupported A.S. 2025 suffix from the catalogue edition."
     },
     {
       "id": "osg-cap-379-tanzania-commission-for-aids-act",
@@ -792,7 +793,7 @@
   "audit": {
     "status": "in-progress",
     "policy": "Only records directly verified against an official OSG item page are marked verified-official-osg. Other existing catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 48,
-    "pendingCount": 8
+    "verifiedCount": 49,
+    "pendingCount": 7
   }
 }
