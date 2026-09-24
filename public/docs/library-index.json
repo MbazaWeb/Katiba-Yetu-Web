@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T08:30:00Z",
+  "generated_at_utc": "2026-09-24T09:00:00Z",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -13,7 +13,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/91f39890-4ecd-46d0-8858-863e3daa615e",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-4-laws-revision",
@@ -26,7 +27,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/8acae512-cc62-40e5-9dce-af559eb24145",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-11-magistrates-courts-act",
@@ -39,7 +41,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/a3dc76b7-6f48-4219-9102-eed24f9692ce",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-12-notaries",
@@ -52,7 +55,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/9633215b-5210-4497-bd19-3ae90c170689",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-13-law-of-the-child-act",
@@ -65,7 +69,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/c620a9e5-6995-4c09-a164-8e37b46847ae",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-16-penal-code",
@@ -78,7 +83,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/c545f591-bf5d-482f-ac11-bbdad280726e",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-17-corporal-punishment-act",
@@ -91,7 +97,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=33&order=ASC&rpp=20&sort_by=1&type=title",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-20-criminal-procedure-act",
@@ -104,7 +111,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=33&order=ASC&rpp=20&sort_by=1&type=title",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-22-rural-farmlands-acquisition-and-regrant-act",
@@ -117,7 +125,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/5b7f9957-e38a-4528-9562-70ea1f5185bb",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-27-administrator-general-powers-and-functions-act",
@@ -130,7 +139,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/08bc1202-52f8-469d-840c-751ffbc551dc",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-30-sisal",
@@ -143,7 +153,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/115eecf8-f1a1-4510-a3a0-b74ec49fc37e",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-58-prisons-act",
@@ -156,7 +167,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/eacf3d9a-9414-4a6e-be86-f7c51ffaee7b",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-63-engineers-registration-act",
@@ -169,7 +181,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/f0016498-9740-4a88-947a-701eb4c1ce93",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-95-drug-control-and-enforcement-act",
@@ -182,7 +195,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=33&order=ASC&rpp=20&sort_by=1&type=title",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-96-constituencies-development-catalyst-fund-act",
@@ -195,7 +209,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=33&order=ASC&rpp=20&sort_by=1&type=title",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-97-regional-administration-act",
@@ -208,7 +223,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/e1e7e9b8-40c2-4941-b2cd-68a58cc68f56",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-105-public-service-negotiating-machinery-act",
@@ -221,7 +237,22 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/c729dedf-db29-46d6-a1c8-105127629719",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
+    },
+    {
+      "id": "osg-cap-116-land-use-planning-act",
+      "title": "THE LAND USE PLANNING ACT",
+      "shortTitle": "Land Use Planning Act",
+      "chapterNumber": "116",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/cdd0f9eb-2b33-461e-9307-d7c4a72ad6e4",
+      "contentReady": false,
+      "status": "source-catalogued",
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-124-motor-vehicles-tax-on-registration-and-transfer-act",
@@ -234,7 +265,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/7f8e3c51-0ac0-4b61-bb4d-9a1471bc54f2",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-138-valuation-and-valuers-registration-act",
@@ -247,7 +279,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/ec81fcb2-4e01-4da1-9d37-4530f02b25c0",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-148-value-added-tax-act",
@@ -260,7 +293,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/6def8b8b-1438-40bc-befb-9c7f687be499",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-159-tanzania-industrial-research-and-development-organisation-act",
@@ -273,7 +307,22 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/9ee181d6-0e3b-46e0-901c-38a38d862d16",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
+    },
+    {
+      "id": "osg-cap-169-motor-vehicles-insurance-act",
+      "title": "THE MOTOR VEHICLES INSURANCE ACT",
+      "shortTitle": "Motor Vehicles Insurance Act",
+      "chapterNumber": "169",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/9863064d-f405-4abe-ab06-5ae571aa984a",
+      "contentReady": false,
+      "status": "source-catalogued",
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-170-railways-act",
@@ -286,7 +335,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/766b76b1-7d1d-405c-8b97-b9c9042f1069",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-171-law-reform-commission-of-tanzania-act",
@@ -299,7 +349,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/c1601135-991f-407d-9b83-1e9a6946fe24",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-191-environmental",
@@ -312,7 +363,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/2d2d3296-6ca2-4ac0-ac9e-f59f01fac061",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-200-economic-and-organised-crime-control-act",
@@ -325,7 +377,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/310",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-219-tanzania-medicines-and-medical-devices-act",
@@ -338,7 +391,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/2309",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-257-public-corporations-act",
@@ -351,7 +405,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/10c32bc2-a8ef-4952-bd35-b53f6438a7aa",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-268-office-of-the-attorney-general-discharge-of-duties-act",
@@ -364,7 +419,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=180&order=ASC&rpp=20&sort_by=1&type=title",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-273-egovernment",
@@ -377,7 +433,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/c723111a-d7c7-4d52-aea8-d9335ef7a56b",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-283-wildlife-conservation-act",
@@ -390,7 +447,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=268&order=ASC&rpp=20&sort_by=1&type=title",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-284-ngorongoro-conservation-area-act",
@@ -403,7 +461,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/851be340-0fb5-4fcc-8f01-fa80496f8f8c",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-296-parliamentary-immunities-powers-and-privileges-act",
@@ -416,7 +475,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=180&order=ASC&rpp=20&sort_by=1&type=title",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-302-fauna-conservation-ordinance",
@@ -429,7 +489,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/61352521-0bf5-4f5d-9b29-4536b712ba39/full",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-306-electronic-and-postal-communications-act",
@@ -442,7 +503,22 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/4a1e66cd-9a04-4398-bb9e-8fbffddfa2be",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
+    },
+    {
+      "id": "osg-cap-321-rural-energy-act",
+      "title": "THE RURAL ENERGY ACT",
+      "shortTitle": "Rural Energy Act",
+      "chapterNumber": "321",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/b1b5a4d4-14b8-4f12-94fb-63752ddb46d3",
+      "contentReady": false,
+      "status": "source-catalogued",
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-328-oil-and-gas-revenues-management-act",
@@ -455,7 +531,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=180&order=ASC&rpp=20&sort_by=1&type=title",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-334-land-registration-act",
@@ -468,7 +545,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/234c6244-ae93-4484-90b4-a6506fa11044",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-348-public-finance-act",
@@ -481,7 +559,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/78794ea9-6689-4709-b7b8-1984367411b7",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-358-judicature",
@@ -494,7 +573,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/d912b5c6-6f85-4591-b532-c2b7d3531f24",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-366-employment",
@@ -507,7 +587,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/fbdcc00a-2c5d-465b-80a9-805531baa9c2",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-370-treasury-registrar-powers-and-functions-act",
@@ -520,7 +601,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/e4d1cf41-ddec-44fc-ad94-b30f0d44b537",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-371-public-service-social-security-fund-act",
@@ -533,7 +615,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/48f7955f-303f-47ed-a7ed-937c92bccfec",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-379-tanzania-commission-for-aids-act",
@@ -546,7 +629,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/fac93273-b1de-492c-8a73-6b0f311b05c9",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-397-regions-and-districts-establishment-procedure-act",
@@ -559,7 +643,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/f29e5516-3e26-4563-9f05-ff68161eb0d1",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-399-tanzania-revenue-authority-act",
@@ -572,7 +657,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/1428feec-de60-41b7-9066-f4c9ba025b81",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-403-customs-management-and-tariffs-act",
@@ -585,7 +671,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=33&order=ASC&rpp=20&sort_by=1&type=title",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-408-tax-revenue-appeals-act",
@@ -598,7 +685,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/461a90c6-26fd-451e-b9a7-f61d0d33ad13",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-413-land-transport-regulatory-authority-act",
@@ -611,7 +699,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/40edaa89-b881-4552-a98d-9f962d093d67",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-438-tax-administration-act",
@@ -624,7 +713,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/719420c4-f514-4d5a-83d0-b07791e13523",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-439-budget-act",
@@ -637,7 +727,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/a3945574-fc9a-451f-aca3-b3688fb42d8e",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-442-electronic-transactions-act",
@@ -650,7 +741,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=59&order=ASC&rpp=20&sort_by=1&type=title",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-446-whistleblower-and-witness-protection-act",
@@ -663,7 +755,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=268&order=ASC&rpp=20&sort_by=1&type=title",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-449-sovereignty",
@@ -676,7 +769,8 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/29bdc398-c076-4eab-b893-81fc40285f09",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     },
     {
       "id": "osg-cap-450-contracts",
@@ -689,7 +783,14 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/a9faab80-6741-4330-a0f3-ef74eb245105",
       "contentReady": false,
-      "status": "source-catalogued"
+      "status": "source-catalogued",
+      "verification": "pending-reverification"
     }
-  ]
+  ],
+  "audit": {
+    "status": "in-progress",
+    "policy": "Only records directly verified against an official OSG item page are marked verified-official-osg. Other existing catalogue records remain visible but are marked pending-reverification.",
+    "verifiedCount": 15,
+    "pendingCount": 41
+  }
 }
