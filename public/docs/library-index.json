@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T10:05:00+03:00",
+  "generated_at_utc": "2026-09-24T10:15:00+03:00",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -772,7 +772,7 @@
       "sourceUrl": "https://elibrary.osg.go.tz/items/29bdc398-c076-4eab-b893-81fc40285f09",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-450-contracts",
@@ -786,13 +786,13 @@
       "sourceUrl": "https://elibrary.osg.go.tz/items/a9faab80-6741-4330-a0f3-ef74eb245105",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     }
   ],
   "audit": {
     "status": "in-progress",
     "policy": "Only records directly verified against an official OSG item page are marked verified-official-osg. Other existing catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 46,
-    "pendingCount": 10
+    "verifiedCount": 48,
+    "pendingCount": 8
   }
 }
