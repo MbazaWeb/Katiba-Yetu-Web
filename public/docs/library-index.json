@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T05:45:00Z",
+  "generated_at_utc": "2026-09-24T06:15:00Z",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -224,6 +224,19 @@
       "status": "source-catalogued"
     },
     {
+      "id": "osg-cap-148-value-added-tax-act",
+      "title": "THE VALUE ADDED TAX ACT",
+      "shortTitle": "Value Added Tax Act",
+      "chapterNumber": "148",
+      "year": 2025,
+      "edition": "R.E. 2023 A.S. 2025",
+      "category": "Principal Legislation · Annual Supplement 2025",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/6def8b8b-1438-40bc-befb-9c7f687be499",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
       "id": "osg-cap-171-law-reform-commission-of-tanzania-act",
       "title": "THE LAW REFORM COMMISSION OF TANZANIA ACT",
       "shortTitle": "Law Reform Commission of Tanzania Act",
@@ -341,6 +354,19 @@
       "status": "source-catalogued"
     },
     {
+      "id": "osg-cap-348-public-finance-act",
+      "title": "THE PUBLIC FINANCE ACT",
+      "shortTitle": "Public Finance Act",
+      "chapterNumber": "348",
+      "year": 2025,
+      "edition": "R.E. 2023 A.S. 2025",
+      "category": "Principal Legislation · Annual Supplement 2025",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/78794ea9-6689-4709-b7b8-1984367411b7",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
       "id": "osg-cap-358-judicature",
       "title": "THE JUDICATURE AND APPLICATION OF LAWS ACT",
       "shortTitle": "Judicature and Application of Laws Act",
@@ -380,6 +406,19 @@
       "status": "source-catalogued"
     },
     {
+      "id": "osg-cap-399-tanzania-revenue-authority-act",
+      "title": "THE TANZANIA REVENUE AUTHORITY ACT",
+      "shortTitle": "Tanzania Revenue Authority Act",
+      "chapterNumber": "399",
+      "year": 2025,
+      "edition": "R.E. 2023 A.S. 2025",
+      "category": "Principal Legislation · Annual Supplement 2025",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/1428feec-de60-41b7-9066-f4c9ba025b81",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
       "id": "osg-cap-403-customs-management-and-tariffs-act",
       "title": "THE CUSTOMS (MANAGEMENT AND TARIFFS) ACT",
       "shortTitle": "Customs (Management and Tariffs) Act",
@@ -410,11 +449,11 @@
       "title": "THE TAX ADMINISTRATION ACT",
       "shortTitle": "Tax Administration Act",
       "chapterNumber": "438",
-      "year": 2019,
-      "edition": "R.E. 2019",
-      "category": "Principal Legislation",
+      "year": 2025,
+      "edition": "R.E. 2023 A.S. 2025",
+      "category": "Principal Legislation · Annual Supplement 2025",
       "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=268&order=ASC&rpp=20&sort_by=1&type=title",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/719420c4-f514-4d5a-83d0-b07791e13523",
       "contentReady": false,
       "status": "source-catalogued"
     },
