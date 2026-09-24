@@ -510,6 +510,20 @@
       "verification": "verified-official-osg"
     },
     {
+      "id": "osg-cap-290-local-government-finance",
+      "title": "THE LOCAL GOVERNMENT FINANCE ACT",
+      "shortTitle": "Local Government Finance Act",
+      "chapterNumber": "290",
+      "year": 2019,
+      "edition": "R.E. 2019",
+      "sourceUrl": "https://elibrary.osg.go.tz/bitstreams/12262cef-e5dd-420b-b7dc-ef53c04250ac/download",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "contentReady": false,
+      "status": "source-catalogued",
+      "verification": "verified-official-osg"
+    },
+    {
       "id": "osg-cap-296-parliamentary-immunities-powers-and-privileges-act",
       "title": "THE PARLIAMENTARY IMMUNITIES, POWERS AND PRIVILEGES ACT",
       "shortTitle": "Parliamentary Immunities, Powers and Privileges Act",
@@ -763,6 +777,20 @@
       "verification": "verified-official-osg"
     },
     {
+      "id": "osg-cap-423-anti-money-laundering",
+      "title": "THE ANTI-MONEY LAUNDERING ACT",
+      "shortTitle": "Anti-Money Laundering Act",
+      "chapterNumber": "423",
+      "year": 2020,
+      "edition": "Official OSG source dated 2020-07-01",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/94bef2a6-9ac5-497e-bd81-ab1c2c005289",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "contentReady": false,
+      "status": "source-catalogued",
+      "verification": "verified-official-osg"
+    },
+    {
       "id": "osg-cap-438-tax-administration-act",
       "title": "THE TAX ADMINISTRATION ACT",
       "shortTitle": "Tax Administration Act",
@@ -850,7 +878,7 @@
   "audit": {
     "status": "complete",
     "policy": "Only records directly verified against an official OSG item page are marked verified-official-osg. Other existing catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 60,
+    "verifiedCount": 62,
     "pendingCount": 0
   }
 }
