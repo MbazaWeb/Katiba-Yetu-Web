@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T12:30:00Z",
+  "generated_at_utc": "2026-09-24T06:34:15.026Z",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -441,14 +441,15 @@
       "title": "THE WILDLIFE CONSERVATION ACT",
       "shortTitle": "Wildlife Conservation Act",
       "chapterNumber": "283",
-      "year": 2022,
-      "edition": "R.E. 2022",
+      "year": 2009,
+      "edition": "Act No. 5 of 2009",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=268&order=ASC&rpp=20&sort_by=1&type=title",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/f311b42b-2915-4b06-834d-9977cf833442",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg",
+      "notes": "OSG item verifies Act No. 5 of 2009 and states that it repealed the former Wildlife Conservation Act, Cap. 283. Later amendments also refer to the Wildlife Conservation Act as Cap. 283. A consolidated revised-edition year has not been asserted here."
     },
     {
       "id": "osg-cap-284-ngorongoro-conservation-area-act",
@@ -790,7 +791,7 @@
   "audit": {
     "status": "in-progress",
     "policy": "Only records directly verified against an official OSG item page are marked verified-official-osg. Other existing catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 34,
-    "pendingCount": 22
+    "verifiedCount": 35,
+    "pendingCount": 21
   }
 }
