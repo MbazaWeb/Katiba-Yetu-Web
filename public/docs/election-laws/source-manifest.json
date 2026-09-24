@@ -1,0 +1,108 @@
+﻿{
+    "source":  "Tume Huru ya Taifa ya Uchaguzi (INEC)",
+    "collection":  "Sheria za Uchaguzi",
+    "collection_url":  "https://www.inec.go.tz/publications/election-laws",
+    "downloaded_at_utc":  "2026-09-24T05:28:48.3731300Z",
+    "document_count":  11,
+    "documents":  [
+                      {
+                          "order":  1,
+                          "title":  "25 Apr, 2024 Sheria ya Uchaguzi wa Rais, Wabunge na Madiwani Na. 1 ya Mwaka 2024",
+                          "file":  "01-25-apr-2024-sheria-ya-uchaguzi-wa-rais-wabunge-na-madiwani-na-1-ya-mwaka-2024.pdf",
+                          "source_url":  "https://www.inec.go.tz/uploads/documents/sw-1714458586-SHERIA%20YA%20UCHAGUZI%20WA%20RAIS,%20WABUNGE%20NA%20MADIWANI%20YA%20MWAKA%202024.pdf",
+                          "collection_url":  "https://www.inec.go.tz/publications/election-laws",
+                          "sha256":  "1fd83b15864b1905e20131f077d2eebab3b028f23e09b0479be0f253c7b8c757",
+                          "downloaded_at_utc":  "2026-09-24T05:28:13.2525601Z"
+                      },
+                      {
+                          "order":  2,
+                          "title":  "25 Apr, 2024 Sheria ya Tume Huru ya Taifa ya Uchaguzi Na. 2 ya Mwaka 2024",
+                          "file":  "02-25-apr-2024-sheria-ya-tume-huru-ya-taifa-ya-uchaguzi-na-2-ya-mwaka-2024.pdf",
+                          "source_url":  "https://www.inec.go.tz/uploads/documents/sw-1714458395-SHERIA%20YA%20TUME%20HURU%20YA%20TAIFA%20YA%20UCHAGUZI%20YA%20MWAKA%202024.pdf",
+                          "collection_url":  "https://www.inec.go.tz/publications/election-laws",
+                          "sha256":  "10339d3f530e9c40f510b9eebf13c2d522f57326a1813d440c745b05c2cd1d8a",
+                          "downloaded_at_utc":  "2026-09-24T05:28:13.8958344Z"
+                      },
+                      {
+                          "order":  3,
+                          "title":  "25 Apr, 2024 Sheria ya Taifa ya Uchaguzi Sura ya 343",
+                          "file":  "03-25-apr-2024-sheria-ya-taifa-ya-uchaguzi-sura-ya-343.pdf",
+                          "source_url":  "https://www.inec.go.tz/uploads/documents/sw-1714458261-1506507832-The%20National%20Election%20Act%20%20(CAP%20343)%20Revised%202015).pdf",
+                          "collection_url":  "https://www.inec.go.tz/publications/election-laws",
+                          "sha256":  "2704e4d2cfb8e92a2456136933063960ab6e22720436655188455ec1998ab45e",
+                          "downloaded_at_utc":  "2026-09-24T05:28:23.0536268Z"
+                      },
+                      {
+                          "order":  4,
+                          "title":  "25 Apr, 2024 Sheria ya Uchaguzi ya Serikali za Mitaa Sura ya 292",
+                          "file":  "04-25-apr-2024-sheria-ya-uchaguzi-ya-serikali-za-mitaa-sura-ya-292.pdf",
+                          "source_url":  "https://www.inec.go.tz/uploads/documents/sw-1714458151-1595738431-The%20local%20Authorities%20(Elections),%20Act,%202015-PDF.pdf",
+                          "collection_url":  "https://www.inec.go.tz/publications/election-laws",
+                          "sha256":  "de52f44402a42f515ad99fb3846d419186d40a99566e3bd9db06f842314e0ef5",
+                          "downloaded_at_utc":  "2026-09-24T05:28:24.4606670Z"
+                      },
+                      {
+                          "order":  5,
+                          "title":  "25 Apr, 2025 Sheria ya Gharama za Uchaguzi Toleo la mwaka 2015",
+                          "file":  "05-25-apr-2025-sheria-ya-gharama-za-uchaguzi-toleo-la-mwaka-2015.pdf",
+                          "source_url":  "https://www.inec.go.tz/uploads/documents/sw-1714458023-1598123216-Sheria%20ya%20Gharama%20za%20Uchaguzi%20Rev%202015.pdf",
+                          "collection_url":  "https://www.inec.go.tz/publications/election-laws",
+                          "sha256":  "591278972b5c6f53e886c2927ea95cbaa301d362c8643e1d5d2c49464f777ab7",
+                          "downloaded_at_utc":  "2026-09-24T05:28:41.8780570Z"
+                      },
+                      {
+                          "order":  6,
+                          "title":  "25 Apr, 2024 Sheria ya Uchaguzi (ZEC) Nam. 4.",
+                          "file":  "06-25-apr-2024-sheria-ya-uchaguzi-zec-nam-4.pdf",
+                          "source_url":  "https://www.inec.go.tz/uploads/documents/sw-1714457902-1.%20sheria_ya_uchaguzi.pdf",
+                          "collection_url":  "https://www.inec.go.tz/publications/election-laws",
+                          "sha256":  "25ba549189983109f956efe314f6892cc03b180095dccd87f8881f3052e77816",
+                          "downloaded_at_utc":  "2026-09-24T05:28:43.0626495Z"
+                      },
+                      {
+                          "order":  7,
+                          "title":  "25 Apr, 2024 Sheria ya Afisi ya Tume (ZEC) Nam. 1. 2017",
+                          "file":  "07-25-apr-2024-sheria-ya-afisi-ya-tume-zec-nam-1-2017.pdf",
+                          "source_url":  "https://www.inec.go.tz/uploads/documents/sw-1714457766-2.%20sheria_ya_afisi.pdf",
+                          "collection_url":  "https://www.inec.go.tz/publications/election-laws",
+                          "sha256":  "6b9fa5e3f09c2c3582f8673c8946d78df4f6e32df1abb07d4e07d53c570bcea9",
+                          "downloaded_at_utc":  "2026-09-24T05:28:43.5322204Z"
+                      },
+                      {
+                          "order":  8,
+                          "title":  "25 Apr, 2025 Rasimu ya pili ya Katiba ya Jamhuri ya Muungano wa Tanzania ya 2013",
+                          "file":  "08-25-apr-2025-rasimu-ya-pili-ya-katiba-ya-jamhuri-ya-muungano-wa-tanzania-ya-2013.pdf",
+                          "source_url":  "https://www.inec.go.tz/uploads/documents/sw-1714457637-4.%20sw-1675241467-sw1489132754-rasimu%20ya%20pili%20ya%20katiba%20ya%20jamhuri%20ya%20muungano%20wa%20tanzania%20ya%20mwaka%202013.pdf",
+                          "collection_url":  "https://www.inec.go.tz/publications/election-laws",
+                          "sha256":  "e1a23a438c86f9cffedb052dfc0845011483e282aed3067192aa9a7f2a69a116",
+                          "downloaded_at_utc":  "2026-09-24T05:28:45.1800443Z"
+                      },
+                      {
+                          "order":  9,
+                          "title":  "25 Apr, 2024 Katiba Inayopendekezwa",
+                          "file":  "09-25-apr-2024-katiba-inayopendekezwa.pdf",
+                          "source_url":  "https://www.inec.go.tz/uploads/documents/sw-1714457438-1.%20sw-1675241310-sw1489132625-katiba%20inayopendekezwa.pdf",
+                          "collection_url":  "https://www.inec.go.tz/publications/election-laws",
+                          "sha256":  "91620e5da9f2990e25f320606f5281ce2592d80d6be03ae79b3f8d006714b2bb",
+                          "downloaded_at_utc":  "2026-09-24T05:28:47.4981157Z"
+                      },
+                      {
+                          "order":  10,
+                          "title":  "25 Apr, 2024 2. Katiba ya Zanzibar ya Mwaka 1984",
+                          "file":  "10-25-apr-2024-2-katiba-ya-zanzibar-ya-mwaka-1984.pdf",
+                          "source_url":  "https://www.inec.go.tz/uploads/documents/sw-1714455504-1.%20sw-1675241093-sw1489729212-Katiba_ya_Zanzibar_ya_1984_(Toleo_la_2010)_sw.pdf",
+                          "collection_url":  "https://www.inec.go.tz/publications/election-laws",
+                          "sha256":  "badaef40f8b9d3e870f323d320b9dcb2116e43c72f6a5a6f84edb5a4129255ab",
+                          "downloaded_at_utc":  "2026-09-24T05:28:47.8788240Z"
+                      },
+                      {
+                          "order":  11,
+                          "title":  "25 Apr, 2024 Katiba ya Jamhuri ya Muungano wa Tanzania ya Mwaka 1977",
+                          "file":  "11-25-apr-2024-katiba-ya-jamhuri-ya-muungano-wa-tanzania-ya-mwaka-1977.pdf",
+                          "source_url":  "https://www.inec.go.tz/uploads/documents/sw-1714455356-1.%20sw-1675190712-sw1499671152-Katiba_ya_Tanzania.pdf",
+                          "collection_url":  "https://www.inec.go.tz/publications/election-laws",
+                          "sha256":  "efb17e5a47343fee999475ed7c7951530c1e6cb5a34783037a81af53e2c2676f",
+                          "downloaded_at_utc":  "2026-09-24T05:28:48.3648189Z"
+                      }
+                  ]
+}
