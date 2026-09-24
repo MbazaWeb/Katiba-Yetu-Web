@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T08:00:00Z",
+  "generated_at_utc": "2026-09-24T08:30:00Z",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -20,11 +20,11 @@
       "title": "THE LAWS REVISION ACT",
       "shortTitle": "Laws Revision Act",
       "chapterNumber": "4",
-      "year": 2020,
-      "edition": "R.E. 2020",
+      "year": 2023,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/items/6a879a5b-cbbf-4a1f-a34b-14f444e3b2f6",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/8acae512-cc62-40e5-9dce-af559eb24145",
       "contentReady": false,
       "status": "source-catalogued"
     },
@@ -159,6 +159,19 @@
       "status": "source-catalogued"
     },
     {
+      "id": "osg-cap-63-engineers-registration-act",
+      "title": "THE ENGINEERS REGISTRATION ACT",
+      "shortTitle": "Engineers Registration Act",
+      "chapterNumber": "63",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/f0016498-9740-4a88-947a-701eb4c1ce93",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
       "id": "osg-cap-95-drug-control-and-enforcement-act",
       "title": "THE DRUG CONTROL AND ENFORCEMENT ACT",
       "shortTitle": "Drug Control and Enforcement Act",
@@ -246,6 +259,32 @@
       "category": "Principal Legislation · Annual Supplement 2025",
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/6def8b8b-1438-40bc-befb-9c7f687be499",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
+      "id": "osg-cap-159-tanzania-industrial-research-and-development-organisation-act",
+      "title": "THE TANZANIA INDUSTRIAL RESEARCH AND DEVELOPMENT ORGANISATION ACT",
+      "shortTitle": "Tanzania Industrial Research and Development Organisation Act",
+      "chapterNumber": "159",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/9ee181d6-0e3b-46e0-901c-38a38d862d16",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
+      "id": "osg-cap-170-railways-act",
+      "title": "THE RAILWAYS ACT",
+      "shortTitle": "Railways Act",
+      "chapterNumber": "170",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/766b76b1-7d1d-405c-8b97-b9c9042f1069",
       "contentReady": false,
       "status": "source-catalogued"
     },
@@ -389,6 +428,19 @@
       "category": "Historical Legislation",
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/61352521-0bf5-4f5d-9b29-4536b712ba39/full",
+      "contentReady": false,
+      "status": "source-catalogued"
+    },
+    {
+      "id": "osg-cap-306-electronic-and-postal-communications-act",
+      "title": "THE ELECTRONIC AND POSTAL COMMUNICATIONS ACT",
+      "shortTitle": "Electronic and Postal Communications Act",
+      "chapterNumber": "306",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/4a1e66cd-9a04-4398-bb9e-8fbffddfa2be",
       "contentReady": false,
       "status": "source-catalogued"
     },
@@ -540,11 +592,11 @@
       "title": "THE TAX REVENUE APPEALS ACT",
       "shortTitle": "Tax Revenue Appeals Act",
       "chapterNumber": "408",
-      "year": 2019,
-      "edition": "R.E. 2019",
+      "year": 2023,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=268&order=ASC&rpp=20&sort_by=1&type=title",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/461a90c6-26fd-451e-b9a7-f61d0d33ad13",
       "contentReady": false,
       "status": "source-catalogued"
     },
