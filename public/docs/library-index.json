@@ -98,7 +98,7 @@
       "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=33&order=ASC&rpp=20&sort_by=1&type=title",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-20-criminal-procedure-act",
@@ -207,10 +207,10 @@
       "edition": "R.E. 2020",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=33&order=ASC&rpp=20&sort_by=1&type=title",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/254d341e-95d6-4c83-8eaa-89dfa2474a67",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-97-regional-administration-act",
@@ -793,7 +793,7 @@
   "audit": {
     "status": "in-progress",
     "policy": "Only records directly verified against an official OSG item page are marked verified-official-osg. Other existing catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 49,
-    "pendingCount": 7
+    "verifiedCount": 51,
+    "pendingCount": 5
   }
 }
