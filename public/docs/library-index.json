@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T11:00:00Z",
+  "generated_at_utc": "2026-09-24T11:30:00Z",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -417,10 +417,10 @@
       "edition": "R.E. 2019",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=180&order=ASC&rpp=20&sort_by=1&type=title",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/aa3556bf-263b-42fb-9fff-446c44e413e1",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-273-egovernment",
@@ -790,7 +790,7 @@
   "audit": {
     "status": "in-progress",
     "policy": "Only records directly verified against an official OSG item page are marked verified-official-osg. Other existing catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 31,
-    "pendingCount": 25
+    "verifiedCount": 32,
+    "pendingCount": 24
   }
 }
