@@ -636,6 +636,20 @@
       "verification": "verified-official-osg"
     },
     {
+      "id": "osg-cap-351-statistics",
+      "title": "THE STATISTICS ACT",
+      "shortTitle": "Statistics Act",
+      "chapterNumber": "351",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/server/api/core/bitstreams/b66c0149-991f-487c-8fd9-1337e344eca5/content",
+      "contentReady": false,
+      "status": "source-catalogued",
+      "verification": "verified-official-osg"
+    },
+    {
       "id": "osg-cap-358-judicature",
       "title": "THE JUDICATURE AND APPLICATION OF LAWS ACT",
       "shortTitle": "Judicature and Application of Laws Act",
@@ -878,7 +892,7 @@
   "audit": {
     "status": "complete",
     "policy": "Only records directly verified against an official OSG item page are marked verified-official-osg. Other existing catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 62,
+    "verifiedCount": 63,
     "pendingCount": 0
   }
 }
