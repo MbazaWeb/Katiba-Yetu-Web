@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T09:45:00+03:00",
+  "generated_at_utc": "2026-09-24T09:50:00+03:00",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -259,14 +259,14 @@
       "title": "THE MOTOR VEHICLES (TAX ON REGISTRATION AND TRANSFER) ACT",
       "shortTitle": "Motor Vehicles (Tax on Registration and Transfer) Act",
       "chapterNumber": "124",
-      "year": 2023,
-      "edition": "R.E. 2023",
+      "year": 2019,
+      "edition": "R.E. 2019",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/items/7f8e3c51-0ac0-4b61-bb4d-9a1471bc54f2",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/f763479d-1742-4341-913a-7f332f820a7b",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-138-valuation-and-valuers-registration-act",
@@ -791,7 +791,7 @@
   "audit": {
     "status": "in-progress",
     "policy": "Only records directly verified against an official OSG item page are marked verified-official-osg. Other existing catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 41,
-    "pendingCount": 15
+    "verifiedCount": 42,
+    "pendingCount": 14
   }
 }
