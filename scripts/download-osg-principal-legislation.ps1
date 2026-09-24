@@ -48,7 +48,7 @@ $out|ConvertTo-Json -Depth 8|Set-Content -Encoding UTF8 (Join-Path $OutputDir "s
 if(!$InventoryOnly){
  $library=@($manifest|Where-Object{Test-Path (Join-Path $OutputDir $_.file)}|ForEach-Object{
   $yr=$null;if($_.title-match'\b(19|20)\d{2}\b'){$yr=[int]$Matches[0]}
-  [pscustomobject]@{id=("source-"+(Slug $_.title)+"-"+$_.item_uuid.Substring(0,8));title=$_.title;shortTitle=$_.title;chapterNumber=$(if($_.cap){$_.cap}else{"—"});year=$yr;edition="Official source document";category="Principal Legislation";source="Office of the Solicitor General e-Library";sourcePdf=("/docs/principal-legislation/"+$_.file);contentReady=$false;status="awaiting-conversion";itemUrl=$_.item_url}
+  [pscustomobject]@{id=("source-"+(Slug $_.title)+"-"+$_.item_uuid.Substring(0,8));title=$_.title;shortTitle=$_.title;chapterNumber=$(if($_.cap){$_.cap}else{"N/A"});year=$yr;edition="Official source document";category="Principal Legislation";source="Office of the Solicitor General e-Library";sourcePdf=("/docs/principal-legislation/"+$_.file);contentReady=$false;status="awaiting-conversion";itemUrl=$_.item_url}
  })
  $idx=[pscustomobject]@{generated_at_utc=[DateTime]::UtcNow.ToString("o");documents=$library}
  $idx|ConvertTo-Json -Depth 6|Set-Content -Encoding UTF8 "public/docs/library-index.json"
