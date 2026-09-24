@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T06:34:15.026Z",
+  "generated_at_utc": "2026-09-24T13:00:00Z",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -193,10 +193,10 @@
       "edition": "R.E. 2019",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=33&order=ASC&rpp=20&sort_by=1&type=title",
+      "sourceUrl": "https://elibrary.osg.go.tz/bitstreams/6919bae5-32f3-4042-b176-7ac043492528/download",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "pending-reverification"
+      "verification": "verified-official-osg"
     },
     {
       "id": "osg-cap-96-constituencies-development-catalyst-fund-act",
@@ -791,7 +791,7 @@
   "audit": {
     "status": "in-progress",
     "policy": "Only records directly verified against an official OSG item page are marked verified-official-osg. Other existing catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 35,
-    "pendingCount": 21
+    "verifiedCount": 36,
+    "pendingCount": 20
   }
 }
