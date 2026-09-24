@@ -32,7 +32,7 @@ function Decode([string]$s) {
 $itemMap = @{}
 for ($page=1; $page -le $MaxPages; $page++) {
   Write-Host "Inventory page $page..."
-  $url = "$CollectionUrl?spc.page=$page"
+  $url = "${CollectionUrl}?spc.page=$page"
   try { $html = Get-Html $url } catch { throw "Could not open OSG collection page $page : $($_.Exception.Message)" }
 
   $matches = [regex]::Matches($html, 'href=["''](?:https://elibrary\.osg\.go\.tz)?/items/(?<uuid>[0-9a-fA-F-]{36})(?:[^"'']*)["'']', 'IgnoreCase')
