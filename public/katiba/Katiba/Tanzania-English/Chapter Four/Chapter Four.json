@@ -1,0 +1,20 @@
+{
+  "chapter": "Chapter Four",
+  "jina": "THE REVOLUTIONARY GOVERNMENT OF ZANZIBAR, THE REVOLUTIONARY COUNCIL OF ZANZIBAR AND THE HOUSE OF REPRESENTATIVES OF ZANZIBAR",
+  "documentId": "doc-union-1977-en",
+  "chapterNumber": 4,
+  "sehemu": [
+    "Part I: The Revolutionary Government of Zanzibar and the President of Zanzibar",
+    "Part II: The Revolutionary Council of Zanzibar",
+    "Part III: The House of Representatives of Zanzibar"
+  ],
+  "ibara": [
+    "Article 102.json",
+    "Article 103.json",
+    "Article 104.json",
+    "Article 105.json"
+  ],
+  "conversionStatus": "in-progress",
+  "chapterArticlesTotal": 6,
+  "articlesConverted": 4
+}
