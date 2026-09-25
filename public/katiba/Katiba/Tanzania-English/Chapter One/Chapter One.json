@@ -13,7 +13,11 @@
     "Article 5.json",
     "Article 6.json",
     "Article 7.json",
-    "Article 8.json"
+    "Article 8.json",
+    "Article 9.json",
+    "Article 10.json",
+    "Article 11.json",
+    "Article 12.json"
   ],
   "sehemu": [
     "Part I: The United Republic and the People",
@@ -21,6 +25,6 @@
     "Part III: Basic Rights and Duties"
   ],
   "conversionStatus": "in-progress",
-  "articlesConverted": 8,
+  "articlesConverted": 12,
   "chapterArticlesTotal": 32
 }
