@@ -5961,24 +5961,24 @@
       "legalStatus": "active"
     },
     {
-      "id": "osg-cap-308-financial-leasing-act",
-      "title": "CAP 308 — Current CAP/title pending exact Tanzania verification",
-      "shortTitle": "CAP 308 — Title pending verification",
+      "id": "gov-cap-308-seeds-act",
+      "title": "THE SEEDS ACT",
+      "shortTitle": "Seeds Act",
       "chapterNumber": "308",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Official Tanzania legal source required",
-      "sourceUrl": null,
+      "source": "Tanzania Official Seed Certification Institute / Government Gazette",
+      "sourceUrl": "https://www.tosci.go.tz/uploads/documents/sw-1690547260-SEEDS%20REGULATIONS%20AMENDEDED%20IN%202016.pdf",
       "contentReady": false,
-      "status": "pending-exact-current-cap-title-verification",
-      "verification": "pending-exact-current-cap-title-verification",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-government-gazette",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned",
-      "verificationNote": "Batch duplicate audit withdrew the conflicting THE FINANCIAL LEASING ACT mapping at CAP 308. Official OSG-hosted statutory cross-reference identifies THE FINANCIAL LEASING ACT as CAP 417; current government financial legislation continues that CAP mapping. CAP 308 remains pending exact current-title verification."
+      "legalStatus": "active",
+      "verificationNote": "Official Government Notice No. 6 of 2017 hosted by TOSCI expressly identifies THE SEEDS ACT (CAP.308). Official Written Laws amendments and Parliament materials independently use the same CAP mapping."
     },
     {
       "id": "osg-cap-309-mortgage-refinance-companies-act",
@@ -6387,24 +6387,24 @@
       "verificationNote": "Exact OAG MIS R.E. 2023 revised Act identifies THE PREVENTION AND COMBATING OF CORRUPTION ACT as CAP. 329, superseding the earlier duplicate-audit demotion."
     },
     {
-      "id": "osg-cap-330-public-service-social-security-fund-act",
-      "title": "CAP 330 — Current CAP/title pending exact Tanzania verification",
-      "shortTitle": "CAP 330 — Title pending verification",
+      "id": "gov-cap-330-accidents-occupational-diseases-notification-act",
+      "title": "THE ACCIDENTS AND OCCUPATIONAL DISEASES (NOTIFICATION) ACT",
+      "shortTitle": "Accidents and Occupational Diseases (Notification) Act",
       "chapterNumber": "330",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Official Tanzania legal source required",
-      "sourceUrl": null,
+      "source": "Ministry of Health, United Republic of Tanzania",
+      "sourceUrl": "https://www.moh.go.tz/storage/app/uploads/public/672/630/145/6726301451e92438381140.pdf",
       "contentReady": false,
-      "status": "pending-exact-current-cap-title-verification",
-      "verification": "pending-exact-current-cap-title-verification",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-government-cross-reference",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned",
-      "verificationNote": "Batch duplicate audit withdrew the conflicting THE PUBLIC SERVICE SOCIAL SECURITY FUND ACT mapping at CAP 330. Exact OSG R.E. 2023 evidence establishes THE PUBLIC SERVICE SOCIAL SECURITY FUND ACT at CAP 371; an A.S. 2025 edition also exists. CAP 330 remains pending exact current-title verification."
+      "legalStatus": "active",
+      "verificationNote": "Official Ministry of Health legal-framework table expressly identifies The Accident and Occupational Diseases (Notification) Act as Cap 330. National Audit Office material independently cites the Notification of Accidents and Occupational Diseases Ordinance/Act at Cap 330."
     },
     {
       "id": "osg-cap-331-national-social-security-fund-act",
@@ -8778,12 +8778,12 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 437,
-    "pendingCount": 13,
+    "verifiedCount": 439,
+    "pendingCount": 11,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 433,
-      "reassigned": 12,
+      "active": 435,
+      "reassigned": 10,
       "repealed": 3,
       "omitted": 2
     }
