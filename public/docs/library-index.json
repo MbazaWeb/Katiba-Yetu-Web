@@ -7288,23 +7288,23 @@
     },
     {
       "id": "pending-cap-378",
-      "title": "CAP 378 — Title pending verification",
-      "shortTitle": "CAP 378 — Pending verification",
+      "title": "THE FERTILIZERS ACT",
+      "shortTitle": "Fertilizers Act",
       "chapterNumber": "378",
       "year": null,
-      "edition": null,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
-      "source": null,
-      "sourceUrl": null,
+      "source": "Office of the Solicitor General e-Library / Office of the Attorney General",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/0ce71957-bec8-40fe-a042-4976a734c6a3",
       "contentReady": false,
-      "status": "cap-number-source-conflict",
-      "verification": "conflict-official-cap-reference",
-      "verificationNote": "Candidate title could not be matched to CAP 378 against current official references; exact title/status requires authoritative re-verification.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
+      "verificationNote": "Official OSG e-Library and OAG MIS consolidated text identify THE FERTILIZERS ACT as CHAPTER 378 R.E. 2023. The 2009 Act repealed the former Fertilizers and Animal Food Stuffs Act while retaining the current revised chapter number 378.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-379-tanzania-commission-for-aids-act",
@@ -8733,14 +8733,14 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 436,
-    "pendingCount": 14,
+    "verifiedCount": 437,
+    "pendingCount": 13,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 434,
+      "active": 435,
       "repealed": 2,
       "omitted": 2,
-      "reassigned": 12
+      "reassigned": 11
     }
   },
   "conversionTracking": {
