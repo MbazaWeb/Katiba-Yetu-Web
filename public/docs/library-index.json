@@ -239,22 +239,23 @@
     },
     {
       "id": "osg-cap-13-law-of-the-child-act",
-      "title": "THE LAW OF THE CHILD ACT",
-      "shortTitle": "Law of the Child Act",
+      "title": "CAP 13 — Current CAP/title pending exact Tanzania verification",
+      "shortTitle": "CAP 13 — Title pending verification",
       "chapterNumber": "13",
-      "year": 2023,
-      "edition": "R.E. 2023",
+      "year": null,
+      "edition": null,
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/items/cce316fc-fc5e-4a0d-aa26-5f55671d64b3",
+      "source": "Official Tanzania legal source required",
+      "sourceUrl": null,
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg",
+      "status": "pending-exact-current-cap-title-verification",
+      "verification": "pending-exact-current-cap-title-verification",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "reassigned",
+      "verificationNote": "Duplicate audit invalidated the previous Law of the Child Act mapping at CAP 13. Exact OSG R.E. 2023 evidence establishes THE LAW OF THE CHILD ACT at CAP 281. No exact authoritative current title for CAP 13 has yet been established, so this slot is retained without guessing."
     },
     {
       "id": "osg-cap-14-hire-purchase",
@@ -5433,13 +5434,14 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/611dfc95-b7f6-4e0c-b4b5-113bbcb75c5e",
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "active",
+      "verificationNote": "Exact OSG R.E. 2023 record identifies THE LAW OF THE CHILD ACT as CHAPTER 281 / CAP. 281. Duplicate assignment at CAP 13 was withdrawn pending exact current-title verification."
     },
     {
       "id": "osg-cap-282-national-parks-act",
@@ -8738,12 +8740,12 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 441,
-    "pendingCount": 9,
+    "verifiedCount": 440,
+    "pendingCount": 10,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 438,
-      "reassigned": 8,
+      "active": 437,
+      "reassigned": 9,
       "repealed": 2,
       "omitted": 2
     }
