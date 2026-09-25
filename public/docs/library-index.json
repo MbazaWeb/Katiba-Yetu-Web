@@ -4762,6 +4762,44 @@
       "totalSections": null
     },
     {
+      "id": "osg-cap-362-tanzania-commission-for-aids-act",
+      "title": "THE TANZANIA COMMISSION FOR AIDS ACT",
+      "shortTitle": "Tanzania Commission for AIDS Act",
+      "chapterNumber": "362",
+      "year": null,
+      "edition": null,
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/",
+      "contentReady": false,
+      "status": "source-catalogued",
+      "verification": "verified-official-osg-reference",
+      "verificationNote": "Official government legal reference identifies the Tanzania Commission for AIDS Act as Cap. 362.",
+      "conversionStatus": "not-started",
+      "conversionProgress": 0,
+      "sectionsConverted": 0,
+      "totalSections": null
+    },
+    {
+      "id": "osg-cap-363-national-health-insurance-fund-act",
+      "title": "THE NATIONAL HEALTH INSURANCE FUND ACT",
+      "shortTitle": "National Health Insurance Fund Act",
+      "chapterNumber": "363",
+      "year": null,
+      "edition": null,
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/",
+      "contentReady": false,
+      "status": "source-catalogued",
+      "verification": "verified-official-osg-reference",
+      "verificationNote": "Official government legal reference identifies the National Health Insurance Fund Act as Cap. 363.",
+      "conversionStatus": "not-started",
+      "conversionProgress": 0,
+      "sectionsConverted": 0,
+      "totalSections": null
+    },
+    {
       "id": "official-cap-364-tanzania-tourist-board-act",
       "title": "THE TANZANIA TOURIST BOARD ACT",
       "shortTitle": "Tanzania Tourist Board Act",
@@ -5164,7 +5202,7 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 286,
+    "verifiedCount": 288,
     "pendingCount": 0
   },
   "conversionTracking": {
