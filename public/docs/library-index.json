@@ -1044,23 +1044,23 @@
     },
     {
       "id": "pending-cap-54",
-      "title": "THE IMMIGRATION ACT",
-      "shortTitle": "Immigration Act",
+      "title": "CAP 54 — Current CAP/title pending exact Tanzania verification",
+      "shortTitle": "CAP 54 — Title pending verification",
       "chapterNumber": "54",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/server/api/core/bitstreams/79e4814f-fb6a-4ed7-944a-e0031b57d41b/content",
+      "source": "Official Tanzania legal source required",
+      "sourceUrl": null,
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg-reference",
-      "verificationNote": "Official OSG Immigration (Amendment) Act 2015 expressly identifies the Immigration Act as Cap. 54.",
+      "status": "pending-exact-current-cap-title-verification",
+      "verification": "pending-exact-current-cap-title-verification",
+      "verificationNote": "The older 2015 amendment reference identifying the Immigration Act as Cap. 54 conflicts with the exact current OSG R.E. 2023 principal-legislation record at CAP 255. CAP 54 is retained pending exact current-title verification rather than guessing.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "reassigned"
     },
     {
       "id": "oag-cap-55-tanzania-trade-development-authority-act",
@@ -4939,13 +4939,14 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/53ddce31-48fc-4d79-b238-e667d0b06a55",
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "active",
+      "verificationNote": "Exact current OSG R.E. 2023 record identifies THE IMMIGRATION ACT as CHAPTER 255 / CAP. 255. The older CAP 54 amendment reference was not used as the current principal-legislation mapping."
     },
     {
       "id": "osg-cap-256-proceeds-of-crime",
@@ -8747,12 +8748,12 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 432,
-    "pendingCount": 18,
+    "verifiedCount": 431,
+    "pendingCount": 19,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 429,
-      "reassigned": 17,
+      "active": 428,
+      "reassigned": 18,
       "repealed": 2,
       "omitted": 2
     }
