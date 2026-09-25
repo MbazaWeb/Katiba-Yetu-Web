@@ -7327,23 +7327,23 @@
     },
     {
       "id": "pending-cap-380",
-      "title": "CAP 380 — Title pending verification",
-      "shortTitle": "CAP 380 — Pending verification",
+      "title": "THE DEPORTATION ACT",
+      "shortTitle": "Deportation Act",
       "chapterNumber": "380",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": null,
-      "sourceUrl": null,
+      "source": "Independent National Electoral Commission (INEC), Government of Tanzania",
+      "sourceUrl": "https://www.inec.go.tz/pages/chancellor-candidates",
       "contentReady": false,
-      "status": "cap-number-source-conflict",
-      "verification": "conflict-official-cap-reference",
-      "verificationNote": "Candidate title could not be matched to CAP 380 against current official references; exact title/status requires authoritative re-verification.",
+      "status": "catalogued-official-government-reference-pending-conversion",
+      "verification": "verified-official-government-current-reference",
+      "verificationNote": "Current official INEC guidance expressly cites the Deportation Act as Cap. 380 when stating disqualification rules for local-government council candidates. Multiple official INEC election guidance documents independently use the same Cap. 380 mapping.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-381",
@@ -8733,14 +8733,14 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 437,
-    "pendingCount": 13,
+    "verifiedCount": 438,
+    "pendingCount": 12,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 435,
+      "active": 436,
       "repealed": 2,
       "omitted": 2,
-      "reassigned": 11
+      "reassigned": 10
     }
   },
   "conversionTracking": {
