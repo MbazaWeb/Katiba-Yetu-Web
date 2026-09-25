@@ -7069,23 +7069,23 @@
     },
     {
       "id": "pending-cap-367",
-      "title": "CAP 367 — Title pending verification",
-      "shortTitle": "CAP 367 — Pending verification",
+      "title": "THE GOVERNMENT LEASEHOLDS (CONVERSION TO RIGHTS OF OCCUPANCY) ACT",
+      "shortTitle": "Government Leaseholds (Conversion to Rights of Occupancy) Act",
       "chapterNumber": "367",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": null,
-      "sourceUrl": null,
+      "source": "Ministry of Lands, Housing and Human Settlements Development / Office of the Solicitor General",
+      "sourceUrl": "https://www.lands.go.tz/uploads/documents/sw-1682064744-The%20Government%20Leaseholds%20_Conversion%20to%20Right%20of%20Occupncy_%20Act.%20Cap%20367.pdf",
       "contentReady": false,
-      "status": "cap-number-source-conflict",
-      "verification": "conflict-official-cap-reference",
-      "verificationNote": "Official legal materials identify the Mutual Assistance in Criminal Matters Act as Cap. 254, so CAP 367 requires exact-title verification.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-government-cap-text",
+      "verificationNote": "Official Ministry of Lands consolidated text is headed Chapter 367, The Government Leaseholds (Conversion to Rights of Occupancy) Act. Current OSG Law of Limitation Act also cross-references Cap. 367 under the same land-law context.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-368",
@@ -8733,14 +8733,14 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 428,
-    "pendingCount": 22,
+    "verifiedCount": 429,
+    "pendingCount": 21,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 426,
+      "active": 427,
       "repealed": 2,
       "omitted": 2,
-      "reassigned": 20
+      "reassigned": 19
     }
   },
   "conversionTracking": {
