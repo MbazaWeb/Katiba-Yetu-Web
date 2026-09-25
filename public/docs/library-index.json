@@ -6659,24 +6659,24 @@
       "legalStatus": "active"
     },
     {
-      "id": "pending-cap-344",
-      "title": "CAP 344 — Current CAP/title pending exact Tanzania verification",
-      "shortTitle": "CAP 344 — Title pending verification",
+      "id": "gov-cap-344-land-registration-act",
+      "title": "THE LAND REGISTRATION ACT",
+      "shortTitle": "Land Registration Act",
       "chapterNumber": "344",
-      "year": null,
-      "edition": null,
+      "year": 2002,
+      "edition": "R.E. 2002",
       "category": "Principal Legislation",
-      "source": "Official Tanzania legal source required",
-      "sourceUrl": null,
+      "source": "Official Tanzania Government Gazette / TISEZA government procedure portal",
+      "sourceUrl": "https://www.utumishi.go.tz/uploads/documents/sw-1690880721-GAZETI%20LA%20TAREHE%2028%20JULAI%2C%202023.pdf",
       "contentReady": false,
-      "status": "pending-exact-current-cap-title-verification",
-      "verification": "pending-exact-current-cap-title-verification",
-      "verificationNote": "Batch duplicate audit withdrew the conflicting THE LAND REGISTRATION ACT mapping at CAP 344. Current Ministry of Lands service page expressly identifies THE LAND REGISTRATION ACT as CAP 334, and the Ministry publishes the Act under CAP 334. CAP 344 remains pending exact current-title verification.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-government-gazette",
+      "verificationNote": "Official Tanzania Government Gazette dated 28 July 2023 expressly uses THE LAND REGISTRATION ACT (CAP.344). Current TISEZA government procedure pages independently cite Land Registration Act cap 344 (revised edition 2002). This corrects the earlier duplicate-audit demotion.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "active"
     },
     {
       "id": "oag-cap-345-law-of-contract",
@@ -8778,12 +8778,12 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 436,
-    "pendingCount": 14,
+    "verifiedCount": 437,
+    "pendingCount": 13,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 432,
-      "reassigned": 13,
+      "active": 433,
+      "reassigned": 12,
       "repealed": 3,
       "omitted": 2
     }
