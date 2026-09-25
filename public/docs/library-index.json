@@ -439,14 +439,14 @@
       "source": null,
       "sourceUrl": null,
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "cap-number-source-conflict",
+      "verification": "conflict-official-cap-reference",
+      "verificationNote": "Official Tanzanian legal materials identify the Criminal Procedure Act as Cap. 20; CAP 23 therefore requires historical CAP-status verification and is not promoted.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "reassigned"
     },
     {
       "id": "pending-cap-24",
@@ -616,14 +616,14 @@
       "source": null,
       "sourceUrl": null,
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "cap-number-source-conflict",
+      "verification": "conflict-official-cap-reference",
+      "verificationNote": "Official RITA legal materials identify the Probate and Administration of Estates Act as Cap. 352; CAP 32 therefore requires historical CAP-status verification and is not promoted.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "reassigned"
     },
     {
       "id": "osg-cap-33-civil-procedure-code",
@@ -655,14 +655,14 @@
       "source": null,
       "sourceUrl": null,
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "cap-number-source-conflict",
+      "verification": "conflict-official-cap-reference",
+      "verificationNote": "Official legal materials identify the Magistrates' Courts Act as Cap. 11; CAP 34 therefore requires historical CAP-status verification and is not promoted.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "reassigned"
     },
     {
       "id": "pending-cap-35",
@@ -8737,8 +8737,8 @@
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
       "active": 351,
-      "pending": 92,
-      "reassigned": 5,
+      "pending": 89,
+      "reassigned": 8,
       "omitted": 2
     }
   },
