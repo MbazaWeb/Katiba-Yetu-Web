@@ -119,9 +119,10 @@ export async function loadArticle(documentId:string,chapterName:string,fileName:
 }
 
 export async function loadArticleByNumber(documentId:string,articleNumber:string){
+  const normalizedArticleNumber=decodeURIComponent(articleNumber).replace(/^(?:Ibara|Article)\s+/i,'').replace(/\.json$/i,'');
   const chapters=await loadChapters(documentId);
   for(const chapter of chapters){
-    const file=chapter.ibara.find(name=>name.replace(/^(?:Ibara|Article)\s+/i,'').replace(/\.json$/i,'')===articleNumber);
+    const file=chapter.ibara.find(name=>name.replace(/^(?:Ibara|Article)\s+/i,'').replace(/\.json$/i,'')===normalizedArticleNumber);
     if(file){
       const chapterName=(chapter as any).sura||(chapter as any).chapter;
       const article=await loadArticle(documentId,chapterName,file);
