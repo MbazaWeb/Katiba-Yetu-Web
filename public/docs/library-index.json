@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-25T07:04:00+03:00",
+  "generated_at_utc": "2026-09-25T07:30:00+03:00",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -822,6 +822,24 @@
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/db712289-9132-4795-bd9b-8e4634413c32",
+      "contentReady": false,
+      "status": "source-catalogued",
+      "verification": "verified-official-osg",
+      "conversionStatus": "not-started",
+      "conversionProgress": 0,
+      "sectionsConverted": 0,
+      "totalSections": null
+    },
+    {
+      "id": "osg-cap-136-private-health-laboratories-regulation-act",
+      "title": "THE PRIVATE HEALTH LABORATORIES (REGULATION) ACT",
+      "shortTitle": "Private Health Laboratories (Regulation) Act",
+      "chapterNumber": "136",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/d8ac88dd-7deb-4674-b4f6-9a5861fb5181",
       "contentReady": false,
       "status": "source-catalogued",
       "verification": "verified-official-osg",
@@ -2350,7 +2368,7 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 130,
+    "verifiedCount": 131,
     "pendingCount": 0
   },
   "conversionTracking": {
