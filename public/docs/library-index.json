@@ -6748,14 +6748,14 @@
       "source": null,
       "sourceUrl": null,
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "cap-number-source-conflict",
+      "verification": "conflict-official-cap-reference",
+      "verificationNote": "RITA administers trustees incorporation under the Trustees' Incorporation Act, Cap. 318; CAP 350 therefore cannot be assigned this title and needs exact-title verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "reassigned"
     },
     {
       "id": "osg-cap-351-statistics",
@@ -6825,14 +6825,14 @@
       "source": null,
       "sourceUrl": null,
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "cap-number-source-conflict",
+      "verification": "conflict-official-cap-reference",
+      "verificationNote": "Official government materials identify the Land Act as Cap. 113, so CAP 354 requires exact-title verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "reassigned"
     },
     {
       "id": "osg-cap-355-urban-planning",
@@ -7078,14 +7078,14 @@
       "source": null,
       "sourceUrl": null,
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "cap-number-source-conflict",
+      "verification": "conflict-official-cap-reference",
+      "verificationNote": "Official legal materials identify the Mutual Assistance in Criminal Matters Act as Cap. 254, so CAP 367 requires exact-title verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "reassigned"
     },
     {
       "id": "pending-cap-368",
@@ -7118,14 +7118,14 @@
       "source": null,
       "sourceUrl": null,
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "cap-number-source-conflict",
+      "verification": "conflict-official-cap-reference",
+      "verificationNote": "Official legal materials identify the Proceeds of Crime Act as Cap. 256, so CAP 369 requires exact-title verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "reassigned"
     },
     {
       "id": "osg-cap-370-treasury-registrar-powers-and-functions-act",
@@ -8738,9 +8738,9 @@
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
       "active": 363,
-      "reassigned": 17,
+      "reassigned": 21,
       "omitted": 2,
-      "pending": 67,
+      "pending": 63,
       "repealed": 1
     }
   },
