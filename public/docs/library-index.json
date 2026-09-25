@@ -1259,23 +1259,23 @@
     },
     {
       "id": "pending-cap-65",
-      "title": "THE VOCATIONAL EDUCATION AND TRAINING ACT",
-      "shortTitle": "Vocational Education and Training Act",
+      "title": "CAP 65 — Current CAP/title pending exact Tanzania verification",
+      "shortTitle": "CAP 65 — Title pending verification",
       "chapterNumber": "65",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/",
+      "source": "Official Tanzania legal source required",
+      "sourceUrl": null,
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg-reference",
-      "verificationNote": "Official government legal reference identifies this Act as Cap. 65.",
+      "status": "pending-exact-current-cap-title-verification",
+      "verification": "pending-exact-current-cap-title-verification",
+      "verificationNote": "Duplicate audit invalidated the previous Vocational Education and Training Act mapping at CAP 65. Exact OSG R.E. 2023 evidence establishes the Vocational Education and Training Act at CAP 99. No exact authoritative current title for CAP 65 has yet been established, so the slot is retained without guessing.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "reassigned"
     },
     {
       "id": "pending-cap-66",
@@ -1677,23 +1677,23 @@
     },
     {
       "id": "pending-cap-86",
-      "title": "THE VOCATIONAL EDUCATION AND TRAINING ACT",
-      "shortTitle": "Vocational Education and Training Act",
+      "title": "CAP 86 — Current CAP/title pending exact Tanzania verification",
+      "shortTitle": "CAP 86 — Title pending verification",
       "chapterNumber": "86",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/",
+      "source": "Official Tanzania legal source required",
+      "sourceUrl": null,
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg-reference",
-      "verificationNote": "Official government legal reference identifies the Vocational Education and Training Act as Cap. 86.",
+      "status": "pending-exact-current-cap-title-verification",
+      "verification": "pending-exact-current-cap-title-verification",
+      "verificationNote": "Duplicate audit invalidated the previous Vocational Education and Training Act mapping at CAP 86. Exact OSG R.E. 2023 evidence establishes the Vocational Education and Training Act at CAP 99. No exact authoritative current title for CAP 86 has yet been established, so the slot is retained without guessing.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "reassigned"
     },
     {
       "id": "pending-cap-87",
@@ -1942,12 +1942,13 @@
       "sourceUrl": "https://elibrary.osg.go.tz/items/92f52e08-5ca5-41ad-bdfd-c3f2c42c4f14",
       "contentReady": false,
       "status": "source-catalogued",
-      "verification": "verified-official-osg",
+      "verification": "verified-official-osg-re-2023",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "active",
+      "verificationNote": "Official OSG e-Library R.E. 2023 record directly identifies THE VOCATIONAL EDUCATION AND TRAINING ACT as CHAPTER 99 / CAP. 99. Duplicate catalogue assignments at CAP 65 and CAP 86 were withdrawn pending exact current-title verification."
     },
     {
       "id": "osg-cap-100-tsetse-fly-control-act",
@@ -8734,11 +8735,12 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 449,
-    "pendingCount": 1,
+    "verifiedCount": 447,
+    "pendingCount": 3,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 446,
+      "active": 444,
+      "reassigned": 2,
       "repealed": 2,
       "omitted": 2
     }
