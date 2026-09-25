@@ -4743,6 +4743,44 @@
       "totalSections": null
     },
     {
+      "id": "official-cap-361-preventive-detention-act",
+      "title": "THE PREVENTIVE DETENTION ACT",
+      "shortTitle": "Preventive Detention Act",
+      "chapterNumber": "361",
+      "year": null,
+      "edition": null,
+      "category": "Principal Legislation",
+      "source": "Judiciary of Tanzania e-Maktaba",
+      "sourceUrl": "https://emaktaba.judiciary.go.tz/legislations/cms4j8slv01579s1do4243z9s",
+      "contentReady": false,
+      "status": "source-catalogued",
+      "verification": "verified-official-judiciary-reference",
+      "verificationNote": "Official Judiciary 2024 election legislation cites the Preventive Detention Act as Cap. 361.",
+      "conversionStatus": "not-started",
+      "conversionProgress": 0,
+      "sectionsConverted": 0,
+      "totalSections": null
+    },
+    {
+      "id": "official-cap-364-tanzania-tourist-board-act",
+      "title": "THE TANZANIA TOURIST BOARD ACT",
+      "shortTitle": "Tanzania Tourist Board Act",
+      "chapterNumber": "364",
+      "year": null,
+      "edition": null,
+      "category": "Principal Legislation",
+      "source": "Office of the Attorney General MIS",
+      "sourceUrl": "https://oagmis.oag.go.tz/",
+      "contentReady": false,
+      "status": "source-catalogued",
+      "verification": "verified-official-oag-reference",
+      "verificationNote": "Official 2026 OAG Written Laws Bill identifies the Tanzania Tourist Board Act as Cap. 364.",
+      "conversionStatus": "not-started",
+      "conversionProgress": 0,
+      "sectionsConverted": 0,
+      "totalSections": null
+    },
+    {
       "id": "osg-cap-365-airport-service-charge-act",
       "title": "THE AIRPORT SERVICE CHARGE ACT",
       "shortTitle": "Airport Service Charge Act",
@@ -5126,7 +5164,7 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 284,
+    "verifiedCount": 286,
     "pendingCount": 0
   },
   "conversionTracking": {
