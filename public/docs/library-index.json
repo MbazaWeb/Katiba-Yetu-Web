@@ -1321,24 +1321,24 @@
       "legalStatus": "omitted"
     },
     {
-      "id": "pending-cap-68",
-      "title": "CAP 68 — Current CAP/title pending exact Tanzania verification",
-      "shortTitle": "CAP 68 — Title pending verification",
+      "id": "gov-cap-68-boy-scouts-act",
+      "title": "THE BOY SCOUTS ACT",
+      "shortTitle": "Boy Scouts Act",
       "chapterNumber": "68",
-      "year": null,
-      "edition": null,
+      "year": 2023,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
-      "source": "Official Tanzania legal source required",
+      "source": "Official Tanzania legislation / government-corroborated current Act",
       "sourceUrl": null,
       "contentReady": false,
-      "status": "pending-exact-current-cap-title-verification",
-      "verification": "pending-exact-current-cap-title-verification",
-      "verificationNote": "Duplicate audit invalidated the previous Higher Education Students' Loans Board Act mapping at CAP 68. Exact OSG and OAG R.E. 2023 evidence establishes that Act at CAP 178. No exact authoritative current title for CAP 68 has yet been established, so this slot is retained without guessing.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-government-cross-reference",
+      "verificationNote": "Current Tanzania legal materials identify the Boy Scouts Act as Cap. 68 R.E. 2023. This corrects the earlier HESLB duplicate mapping.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-69",
@@ -6115,24 +6115,24 @@
       "legalStatus": "active"
     },
     {
-      "id": "osg-cap-316-statistics-act",
-      "title": "CAP 316 — Current CAP/title pending exact Tanzania verification",
-      "shortTitle": "CAP 316 — Title pending verification",
+      "id": "gov-cap-316-milling-ordinance",
+      "title": "THE MILLING ORDINANCE",
+      "shortTitle": "Milling Ordinance",
       "chapterNumber": "316",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Official Tanzania legal source required",
-      "sourceUrl": null,
+      "source": "Tanzania Law Reports principal legislation catalogue",
+      "sourceUrl": "https://tanzanialawreports.co.tz/?cypher_req=principal-legislation&volume=2",
       "contentReady": false,
-      "status": "pending-exact-current-cap-title-verification",
-      "verification": "pending-exact-current-cap-title-verification",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-government-catalogue",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned",
-      "verificationNote": "Batch duplicate audit withdrew the conflicting THE STATISTICS ACT mapping at CAP 316. Exact OSG R.E. 2023 evidence establishes THE STATISTICS ACT at CAP 351. CAP 316 remains pending exact current-title verification."
+      "legalStatus": "omitted",
+      "verificationNote": "Tanzania Law Reports principal-legislation catalogue expressly identifies Cap.316 as the Milling Ordinance and marks it omitted."
     },
     {
       "id": "osg-cap-317-national-board-of-accountants-and-auditors-act",
@@ -7030,24 +7030,24 @@
       "legalStatus": "reassigned"
     },
     {
-      "id": "osg-cap-363-national-health-insurance-fund-act",
-      "title": "CAP 363 — Current CAP/title pending exact Tanzania verification",
-      "shortTitle": "CAP 363 — Title pending verification",
+      "id": "gov-cap-363-local-government-authorities-application-laws-ordinance",
+      "title": "THE LOCAL GOVERNMENT AUTHORITIES (APPLICATION OF LAWS) ORDINANCE",
+      "shortTitle": "Local Government Authorities (Application of Laws) Ordinance",
       "chapterNumber": "363",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Official Tanzania legal source required",
-      "sourceUrl": null,
+      "source": "Tanzania Law Reports principal legislation catalogue / current OAG revised legislation",
+      "sourceUrl": "https://tanzanialawreports.co.tz/?cypher_req=principal-legislation&volume=1",
       "contentReady": false,
-      "status": "pending-exact-current-cap-title-verification",
-      "verification": "pending-exact-current-cap-title-verification",
-      "verificationNote": "Duplicate audit invalidated the previous National Health Insurance Fund Act mapping at CAP 363. Exact official OSG R.E. 2023 evidence establishes the National Health Insurance Fund Act at CAP 395. No exact authoritative current title for CAP 363 has yet been established, so this slot is retained without guessing.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-government-catalogue",
+      "verificationNote": "Tanzania Law Reports principal-legislation catalogue identifies Cap.363 as the Local Government Authorities (Application of Laws) Ordinance. Current Government/OAG text of the Local Government (District Authorities) Act lists R.L. Cap.363 among repealed laws.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "repealed"
     },
     {
       "id": "official-cap-364-tanzania-tourist-board-act",
@@ -8778,14 +8778,14 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 443,
-    "pendingCount": 7,
+    "verifiedCount": 446,
+    "pendingCount": 4,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 435,
-      "omitted": 5,
-      "reassigned": 7,
-      "repealed": 3
+      "active": 436,
+      "omitted": 6,
+      "reassigned": 4,
+      "repealed": 4
     }
   },
   "conversionTracking": {
