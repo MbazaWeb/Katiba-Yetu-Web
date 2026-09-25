@@ -649,23 +649,23 @@
     },
     {
       "id": "pending-cap-34",
-      "title": "THE JUDICATURE AND APPLICATION OF LAWS ACT",
-      "shortTitle": "Judicature and Application of Laws Act",
+      "title": "CAP 34 — Current CAP/title pending exact Tanzania verification",
+      "shortTitle": "CAP 34 — Title pending verification",
       "chapterNumber": "34",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library / Office of the Attorney General",
-      "sourceUrl": "https://elibrary.osg.go.tz/",
+      "source": "Official Tanzania legal source required",
+      "sourceUrl": null,
       "contentReady": false,
-      "status": "catalogued-official-text-pending-conversion",
-      "verification": "verified-official-osg-current",
-      "verificationNote": "Official OSG principal-legislation material confirms CAP 34 and the exact Act title. Previous conflicting catalogue assignment discarded.",
+      "status": "pending-exact-current-cap-title-verification",
+      "verification": "pending-exact-current-cap-title-verification",
+      "verificationNote": "Duplicate audit invalidated the previous Judicature and Application of Laws Act mapping at CAP 34. Exact OSG R.E. 2023 evidence establishes that Act at CAP 358. No exact authoritative current title for CAP 34 has yet been established, so this slot is retained without guessing.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "reassigned"
     },
     {
       "id": "pending-cap-35",
@@ -6911,13 +6911,14 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/d912b5c6-6f85-4591-b532-c2b7d3531f24",
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "active",
+      "verificationNote": "Exact OSG R.E. 2023 record identifies THE JUDICATURE AND APPLICATION OF LAWS ACT as CHAPTER 358 / CAP. 358. Duplicate assignment at CAP 34 was withdrawn pending exact current-title verification."
     },
     {
       "id": "osg-cap-359-village-land-act",
@@ -8743,12 +8744,12 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 437,
-    "pendingCount": 13,
+    "verifiedCount": 436,
+    "pendingCount": 14,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 434,
-      "reassigned": 12,
+      "active": 433,
+      "reassigned": 13,
       "repealed": 2,
       "omitted": 2
     }
