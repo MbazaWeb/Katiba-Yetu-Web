@@ -3885,23 +3885,23 @@
     },
     {
       "id": "osg-cap-200-economic-and-organised-crime-control-act",
-      "title": "CAP 200 — Current CAP/title pending exact Tanzania verification",
-      "shortTitle": "CAP 200 — Title pending verification",
+      "title": "THE ECONOMIC AND ORGANISED CRIME CONTROL ACT",
+      "shortTitle": "Economic and Organised Crime Control Act",
       "chapterNumber": "200",
-      "year": null,
-      "edition": null,
+      "year": 2023,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
-      "source": "Official Tanzania legal source required",
-      "sourceUrl": null,
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/server/api/core/bitstreams/e7874a9d-246f-475c-94cc-cfd967e44323/content",
       "contentReady": false,
-      "status": "pending-exact-current-cap-title-verification",
-      "verification": "pending-exact-current-cap-title-verification",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-amendment-evidence",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned",
-      "verificationNote": "Duplicate audit invalidated the previous Economic and Organised Crime Control Act mapping at CAP 200. Exact OSG R.E. 2023 evidence establishes THE ECONOMIC AND ORGANISED CRIME CONTROL ACT at CAP 278. No exact authoritative current title for CAP 200 has yet been established, so this slot is retained without guessing."
+      "legalStatus": "active",
+      "verificationNote": "Official OSG-hosted Written Laws amendment legislation expressly identifies the Economic and Organised Crimes Control Act as CAP 200. OSG-hosted Criminal Procedure Act also cross-references the Economic and Organised Crime Control Act as Cap. 200."
     },
     {
       "id": "osg-cap-201-tanzania-atomic-energy-act",
@@ -8778,12 +8778,12 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 421,
-    "pendingCount": 29,
+    "verifiedCount": 422,
+    "pendingCount": 28,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 418,
-      "reassigned": 28,
+      "active": 419,
+      "reassigned": 27,
       "repealed": 2,
       "omitted": 2
     }
