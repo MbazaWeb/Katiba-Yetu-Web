@@ -14,9 +14,13 @@
     "Article 33.json",
     "Article 34.json",
     "Article 35.json",
-    "Article 36.json"
+    "Article 36.json",
+    "Article 37.json",
+    "Article 38.json",
+    "Article 39.json",
+    "Article 40.json"
   ],
   "conversionStatus": "in-progress",
-  "articlesConverted": 4,
+  "articlesConverted": 8,
   "chapterArticlesTotal": 34
 }
