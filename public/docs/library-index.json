@@ -7268,23 +7268,23 @@
     },
     {
       "id": "pending-cap-377",
-      "title": "CAP 377 — Title pending verification",
-      "shortTitle": "CAP 377 — Pending verification",
+      "title": "THE CUSTOMARY LEASEHOLDS (ENFRANCHISEMENT) ACT",
+      "shortTitle": "Customary Leaseholds (Enfranchisement) Act",
       "chapterNumber": "377",
       "year": null,
-      "edition": null,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
-      "source": null,
-      "sourceUrl": null,
+      "source": "Office of the Solicitor General e-Library / Office of the Attorney General",
+      "sourceUrl": "https://elibrary.osg.go.tz/server/api/core/bitstreams/c89ab6be-a351-4398-b4c6-398aabe31ad3/content",
       "contentReady": false,
-      "status": "cap-number-source-conflict",
-      "verification": "conflict-official-cap-reference",
-      "verificationNote": "Candidate title could not be matched to CAP 377 against current official references; exact title/status requires authoritative re-verification.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
+      "verificationNote": "Official OSG/OAG consolidated text identifies CHAPTER 377 as THE CUSTOMARY LEASEHOLDS (ENFRANCHISEMENT) ACT [CAP. 377 R.E. 2023]. OAG's Land Disputes Courts Act also cross-references Cap. 377 as the Customary Leaseholds (Enfranchisement) Act.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-378",
@@ -8733,14 +8733,14 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 435,
-    "pendingCount": 15,
+    "verifiedCount": 436,
+    "pendingCount": 14,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 433,
+      "active": 434,
       "repealed": 2,
       "omitted": 2,
-      "reassigned": 13
+      "reassigned": 12
     }
   },
   "conversionTracking": {
