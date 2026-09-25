@@ -1974,23 +1974,23 @@
     },
     {
       "id": "pending-cap-101",
-      "title": "THE PUBLIC SERVICE ACT",
-      "shortTitle": "Public Service Act",
+      "title": "CAP 101 — Current CAP/title pending exact Tanzania verification",
+      "shortTitle": "CAP 101 — Title pending verification",
       "chapterNumber": "101",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/",
+      "source": "Official Tanzania legal source required",
+      "sourceUrl": null,
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg-reference",
-      "verificationNote": "Official government legal reference identifies the Public Service Act as Cap. 101.",
+      "status": "pending-exact-current-cap-title-verification",
+      "verification": "pending-exact-current-cap-title-verification",
+      "verificationNote": "Duplicate audit invalidated the weaker generic Public Service Act mapping at CAP 101. Exact OSG R.E. 2023 principal-legislation evidence establishes THE PUBLIC SERVICE ACT at CAP 324. CAP 101 is retained pending exact current-title verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "reassigned"
     },
     {
       "id": "pending-cap-102",
@@ -6266,13 +6266,14 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/9f02a6f0-cd62-4af0-a6b7-65d84109e6c4",
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "active",
+      "verificationNote": "Exact current OSG R.E. 2023 record identifies THE PUBLIC SERVICE ACT as CHAPTER 324 / CAP. 324. The weaker generic CAP 101 assignment was withdrawn pending exact current-title verification."
     },
     {
       "id": "osg-cap-325-public-service-retirement-benefits-act",
@@ -8753,12 +8754,12 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 425,
-    "pendingCount": 25,
+    "verifiedCount": 424,
+    "pendingCount": 26,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 422,
-      "reassigned": 24,
+      "active": 421,
+      "reassigned": 25,
       "repealed": 2,
       "omitted": 2
     }
