@@ -17,7 +17,8 @@ export interface ConstitutionArticle {
 }
 
 export interface ConstitutionChapter {
-  sura:string;
+  sura?:string;
+  chapter?:string;
   jina:string;
   documentId:string;
   chapterNumber:number;
@@ -104,7 +105,7 @@ export async function loadChapters(documentId:string){
       if(chapter.documentId===documentId) chapters.push(chapter);
     }catch{}
   }
-  return chapters.sort((a,b)=>(a.chapterNumber??Number.MAX_SAFE_INTEGER)-(b.chapterNumber??Number.MAX_SAFE_INTEGER)||a.sura.localeCompare(b.sura,'sw'));
+  return chapters.sort((a,b)=>(a.chapterNumber??Number.MAX_SAFE_INTEGER)-(b.chapterNumber??Number.MAX_SAFE_INTEGER)||String((a as any).sura||(a as any).chapter||'').localeCompare(String((b as any).sura||(b as any).chapter||''),'sw'));
 }
 
 export async function loadArticle(documentId:string,chapterName:string,fileName:string){
@@ -122,7 +123,8 @@ export async function loadArticleByNumber(documentId:string,articleNumber:string
   for(const chapter of chapters){
     const file=chapter.ibara.find(name=>name.replace(/^(?:Ibara|Article)\s+/i,'').replace(/\.json$/i,'')===articleNumber);
     if(file){
-      const article=await loadArticle(documentId,chapter.sura,file);
+      const chapterName=(chapter as any).sura||(chapter as any).chapter;
+      const article=await loadArticle(documentId,chapterName,file);
       if(article) return {article,chapter,fileName:file};
     }
   }
