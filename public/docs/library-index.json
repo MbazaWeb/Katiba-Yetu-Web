@@ -209,13 +209,14 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/a3dc76b7-6f48-4219-9102-eed24f9692ce",
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "active",
+      "verificationNote": "Exact OSG R.E. 2023 record directly identifies THE MAGISTRATES’ COURTS ACT as CHAPTER 11 / CAP. 11. Duplicate assignment at CAP 32 was withdrawn pending exact current-title verification."
     },
     {
       "id": "osg-cap-12-notaries",
@@ -607,23 +608,23 @@
     },
     {
       "id": "pending-cap-32",
-      "title": "THE MAGISTRATES’ COURTS ACT",
-      "shortTitle": "Magistrates’ Courts Act",
+      "title": "CAP 32 — Current CAP/title pending exact Tanzania verification",
+      "shortTitle": "CAP 32 — Title pending verification",
       "chapterNumber": "32",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library / Office of the Attorney General",
-      "sourceUrl": "https://elibrary.osg.go.tz/",
+      "source": "Official Tanzania legal source required",
+      "sourceUrl": null,
       "contentReady": false,
-      "status": "catalogued-official-text-pending-conversion",
-      "verification": "verified-official-osg-current",
-      "verificationNote": "Official OSG principal-legislation material confirms CAP 32 and the exact Act title. Previous conflicting catalogue assignment discarded.",
+      "status": "pending-exact-current-cap-title-verification",
+      "verification": "pending-exact-current-cap-title-verification",
+      "verificationNote": "Duplicate audit invalidated the previous Magistrates’ Courts Act mapping at CAP 32. Exact OSG R.E. 2023 evidence establishes the Magistrates’ Courts Act at CAP 11. No exact authoritative current title for CAP 32 has yet been established, so this slot is retained without guessing.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "reassigned"
     },
     {
       "id": "osg-cap-33-civil-procedure-code",
@@ -8737,12 +8738,12 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 442,
-    "pendingCount": 8,
+    "verifiedCount": 441,
+    "pendingCount": 9,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 439,
-      "reassigned": 7,
+      "active": 438,
+      "reassigned": 8,
       "repealed": 2,
       "omitted": 2
     }
