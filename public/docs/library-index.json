@@ -8438,23 +8438,23 @@
     },
     {
       "id": "pending-cap-436",
-      "title": "CAP 436 — Title pending verification",
-      "shortTitle": "CAP 436 — Pending verification",
+      "title": "THE NON-CITIZENS (EMPLOYMENT REGULATION) ACT",
+      "shortTitle": "Non-Citizens (Employment Regulation) Act",
       "chapterNumber": "436",
       "year": null,
-      "edition": null,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
-      "source": null,
-      "sourceUrl": null,
+      "source": "Office of the Solicitor General e-Library / Office of the Attorney General",
+      "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/2436",
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
+      "verificationNote": "Exact CAP/title verified against OSG Principal Legislation R.E. 2023: CAP 436.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-437-national-payment-systems",
@@ -8733,14 +8733,14 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 406,
-    "pendingCount": 44,
+    "verifiedCount": 407,
+    "pendingCount": 43,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 402,
+      "active": 403,
       "reassigned": 30,
       "omitted": 2,
-      "pending": 15,
+      "pending": 14,
       "repealed": 1
     }
   },
