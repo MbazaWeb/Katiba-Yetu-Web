@@ -8418,23 +8418,23 @@
     },
     {
       "id": "pending-cap-435",
-      "title": "CAP 435 — Current CAP/title pending exact verification",
-      "shortTitle": "CAP 435 mapping unresolved",
+      "title": "THE NATIONAL IRRIGATION ACT",
+      "shortTitle": "National Irrigation Act",
       "chapterNumber": "435",
       "year": null,
-      "edition": null,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library / Office of the Attorney General",
-      "sourceUrl": "https://elibrary.osg.go.tz/",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/259f0df4-be86-4700-aad9-2309c8d14509",
       "contentReady": false,
-      "status": "catalogued-mapping-conflict",
-      "verification": "pending-exact-current-cap-title-verification",
-      "verificationNote": "Authoritative OSG/OAG verification has not established a reliable current principal-legislation CAP 435 title. Reclassified from unclassified pending to reassigned/mapping conflict to avoid asserting an unsupported law title.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
+      "verificationNote": "Official OSG e-Library principal-legislation record and consolidated text identify THE NATIONAL IRRIGATION ACT as CHAPTER 435 / CAP. 435 R.E. 2023, authored by OAG and published by Government Printer Dodoma. Parliament also cites the National Irrigation Act as Cap. 435 in 2025 amendment proceedings.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-436",
@@ -8733,14 +8733,14 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 440,
-    "pendingCount": 10,
+    "verifiedCount": 441,
+    "pendingCount": 9,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 440,
+      "active": 441,
       "repealed": 2,
       "omitted": 2,
-      "reassigned": 6
+      "reassigned": 5
     }
   },
   "conversionTracking": {
