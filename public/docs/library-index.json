@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T10:20:00+03:00",
+  "generated_at_utc": "2026-09-25T07:04:00+03:00",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -357,6 +357,24 @@
       "contentReady": false,
       "status": "source-catalogued",
       "verification": "verified-official-osg",
+      "conversionStatus": "not-started",
+      "conversionProgress": 0,
+      "sectionsConverted": 0,
+      "totalSections": null
+    },
+    {
+      "id": "oag-cap-43-age-of-majority-act",
+      "title": "THE AGE OF MAJORITY ACT",
+      "shortTitle": "Age of Majority Act",
+      "chapterNumber": "43",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Attorney General MIS",
+      "sourceUrl": "https://oagmis.oag.go.tz/portal/revised-acts/revised/148",
+      "contentReady": false,
+      "status": "source-catalogued",
+      "verification": "verified-official-oag",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
@@ -1410,6 +1428,24 @@
       "totalSections": null
     },
     {
+      "id": "oag-cap-286-accountants-and-auditors-registration-act",
+      "title": "THE ACCOUNTANTS AND AUDITORS (REGISTRATION) ACT",
+      "shortTitle": "Accountants and Auditors (Registration) Act",
+      "chapterNumber": "286",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Attorney General MIS",
+      "sourceUrl": "https://oagmis.oag.go.tz/portal/acts/revised/390/download",
+      "contentReady": false,
+      "status": "source-catalogued",
+      "verification": "verified-official-oag",
+      "conversionStatus": "not-started",
+      "conversionProgress": 0,
+      "sectionsConverted": 0,
+      "totalSections": null
+    },
+    {
       "id": "osg-cap-287-local-government-district-authorities",
       "title": "THE LOCAL GOVERNMENT (DISTRICT AUTHORITIES) ACT",
       "shortTitle": "Local Government (District Authorities) Act",
@@ -2224,7 +2260,7 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 123,
+    "verifiedCount": 125,
     "pendingCount": 0
   },
   "conversionTracking": {
