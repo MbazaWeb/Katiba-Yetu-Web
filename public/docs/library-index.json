@@ -7228,23 +7228,23 @@
     },
     {
       "id": "pending-cap-375",
-      "title": "CAP 375 — Title pending verification",
-      "shortTitle": "CAP 375 — Pending verification",
+      "title": "THE ISLAMIC LAW (RESTATEMENT) ACT",
+      "shortTitle": "Islamic Law (Restatement) Act",
       "chapterNumber": "375",
       "year": null,
-      "edition": null,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
-      "source": null,
-      "sourceUrl": null,
+      "source": "Office of the Solicitor General e-Library / Office of the Attorney General",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/a6900022-c231-4f7f-b127-33c7bdfc5ab9",
       "contentReady": false,
-      "status": "cap-number-source-conflict",
-      "verification": "conflict-official-cap-reference",
-      "verificationNote": "Government materials identify the Public Finance Act as Cap. 348, so CAP 375 requires exact-title verification.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
+      "verificationNote": "Official OSG e-Library principal-legislation record and consolidated text identify THE ISLAMIC LAW (RESTATEMENT) ACT as CHAPTER 375 R.E. 2023. Historical references to Trustees Incorporation Ordinance Cap.375 and Pension Ordinance Cap.375 belong to older chapter numbering and must not replace the current revised-edition mapping.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-376",
@@ -8733,14 +8733,14 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 433,
-    "pendingCount": 17,
+    "verifiedCount": 434,
+    "pendingCount": 16,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 431,
+      "active": 432,
       "repealed": 2,
       "omitted": 2,
-      "reassigned": 15
+      "reassigned": 14
     }
   },
   "conversionTracking": {
