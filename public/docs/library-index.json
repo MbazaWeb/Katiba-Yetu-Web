@@ -5597,23 +5597,23 @@
     },
     {
       "id": "osg-cap-289-societies-act",
-      "title": "CAP 289 — Current CAP/title pending exact Tanzania verification",
-      "shortTitle": "CAP 289 — Title pending verification",
+      "title": "THE LOCAL GOVERNMENT AUTHORITIES (RATING) ACT",
+      "shortTitle": "Local Government Authorities (Rating) Act",
       "chapterNumber": "289",
-      "year": null,
-      "edition": null,
+      "year": 2019,
+      "edition": "R.E. 2019",
       "category": "Principal Legislation",
-      "source": "Official Tanzania legal source required",
-      "sourceUrl": null,
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/6baee5dd-b3b7-4d19-adf8-f62b0819de99",
       "contentReady": false,
-      "status": "pending-exact-current-cap-title-verification",
-      "verification": "pending-exact-current-cap-title-verification",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2019",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned",
-      "verificationNote": "Batch duplicate audit withdrew the conflicting THE SOCIETIES ACT mapping at CAP 289. Official Parliament Written Laws (Miscellaneous Amendments) Act, 2019 expressly amends THE SOCIETIES ACT (CAP. 337). CAP 289 remains pending exact current-title verification."
+      "legalStatus": "active",
+      "verificationNote": "Exact OSG Principal Legislation record identifies Chapter 289 as the Local Government Authorities (Rating) Act, CAP.289 R.E.2019. A 2025 Court of Appeal judgment on the OSG e-Library also applies the Urban Authorities (Rating) Act, Cap. 289."
     },
     {
       "id": "osg-cap-290-local-government-finance",
@@ -8778,12 +8778,12 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 424,
-    "pendingCount": 26,
+    "verifiedCount": 425,
+    "pendingCount": 25,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 421,
-      "reassigned": 25,
+      "active": 422,
+      "reassigned": 24,
       "repealed": 2,
       "omitted": 2
     }
