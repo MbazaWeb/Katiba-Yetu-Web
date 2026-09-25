@@ -25,6 +25,8 @@
     "Article 44.json",
     "Article 45.json",
     "Article 46.json",
+    "Article 46A.json",
+    "Article 46B.json",
     "Article 47.json",
     "Article 48.json",
     "Article 49.json",
@@ -32,11 +34,17 @@
     "Article 51.json",
     "Article 52.json",
     "Article 53.json",
+    "Article 53A.json",
     "Article 54.json",
     "Article 55.json",
-    "Article 56.json"
+    "Article 56.json",
+    "Article 57.json",
+    "Article 58.json",
+    "Article 59.json",
+    "Article 59A.json",
+    "Article 59B.json"
   ],
   "conversionStatus": "in-progress",
-  "articlesConverted": 24,
+  "articlesConverted": 32,
   "chapterArticlesTotal": 34
 }
