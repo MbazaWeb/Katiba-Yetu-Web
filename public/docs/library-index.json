@@ -1561,23 +1561,23 @@
     },
     {
       "id": "pending-cap-80",
-      "title": "CAP 80 — Current CAP/title pending exact Tanzania verification",
-      "shortTitle": "CAP 80 — Title pending verification",
+      "title": "THE TANZANIA CIVIL AVIATION AUTHORITY ACT",
+      "shortTitle": "Tanzania Civil Aviation Authority Act",
       "chapterNumber": "80",
-      "year": null,
-      "edition": null,
+      "year": 2023,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
-      "source": "Official Tanzania legal source required",
-      "sourceUrl": null,
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/server/api/core/bitstreams/0158b7af-cf33-4425-98eb-5b38e2f6fc3c/content",
       "contentReady": false,
-      "status": "pending-exact-current-cap-title-verification",
-      "verification": "pending-exact-current-cap-title-verification",
-      "verificationNote": "Duplicate audit invalidated the weaker generic Tanzania Institute of Education Act mapping at CAP 80. Exact OSG R.E. 2023 principal-legislation evidence establishes THE TANZANIA INSTITUTE OF EDUCATION ACT at CAP 142. CAP 80 is retained pending exact current-title verification.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-amendment-evidence",
+      "verificationNote": "Official OSG-hosted Finance Act 2013 identifies the Tanzania Civil Aviation Authority Act as CAP 80.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-81",
@@ -8778,12 +8778,12 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 420,
-    "pendingCount": 30,
+    "verifiedCount": 421,
+    "pendingCount": 29,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 417,
-      "reassigned": 29,
+      "active": 418,
+      "reassigned": 28,
       "repealed": 2,
       "omitted": 2
     }
