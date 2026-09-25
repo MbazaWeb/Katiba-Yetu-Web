@@ -7168,23 +7168,23 @@
     },
     {
       "id": "pending-cap-372",
-      "title": "CAP 372 — Title pending verification",
-      "shortTitle": "CAP 372 — Pending verification",
+      "title": "THE DODOMA CAPITAL CITY (DECLARATION) ACT",
+      "shortTitle": "Dodoma Capital City (Declaration) Act",
       "chapterNumber": "372",
       "year": null,
-      "edition": null,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
-      "source": null,
-      "sourceUrl": null,
+      "source": "Office of the Solicitor General e-Library / Office of the Attorney General",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/fb04afd5-315e-4fbd-b2f3-eddc574cc74d",
       "contentReady": false,
-      "status": "cap-number-source-conflict",
-      "verification": "conflict-official-cap-reference",
-      "verificationNote": "PPRA administers the current Public Procurement Act, 2023; CAP 410 is associated with the earlier 2011 Act, so CAP 372 requires exact-title verification rather than this candidate.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
+      "verificationNote": "Official OSG e-Library principal-legislation record identifies THE DODOMA CAPITAL CITY (DECLARATION) ACT as CHAPTER 372 R.E. 2023, published by Government Printer Dodoma. This current revised-edition mapping supersedes the historical Parastatal Organisations Pensions Scheme Act Cap. 372, which was repealed by the Public Service Social Security Fund Act, 2018.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-373",
@@ -8733,14 +8733,14 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 430,
-    "pendingCount": 20,
+    "verifiedCount": 431,
+    "pendingCount": 19,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 428,
+      "active": 429,
       "repealed": 2,
       "omitted": 2,
-      "reassigned": 18
+      "reassigned": 17
     }
   },
   "conversionTracking": {
