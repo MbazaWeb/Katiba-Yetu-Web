@@ -5005,19 +5005,19 @@
       "shortTitle": "Natural Resources Act",
       "chapterNumber": "259",
       "year": 2023,
-      "edition": "R.E. 2023",
+      "edition": "R.E. 2002",
       "category": "Principal Legislation",
-      "source": "Tanzania legal reporting / corroborated Tanzanian legal scholarship",
+      "source": "Government of Tanzania wildlife-sector legal framework / Tanzania Law Reports",
       "sourceUrl": "https://www.tanzanialawreports.co.tz/?cypher_req=principal-legislation&volume=2",
       "contentReady": false,
       "status": "catalogued-official-text-pending-conversion",
-      "verification": "verified-corroborated-tanzania-cap-reference",
+      "verification": "verified-official-government-re-2002",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
       "legalStatus": "active",
-      "verificationNote": "Tanzania Law Reports principal-legislation index identifies Cap.259 R.E.2002 as the Natural Resources Act; Tanzanian legal scholarship independently uses the same Cap.259 mapping. Replaces the incorrect duplicate Refugees Act title."
+      "verificationNote": "Government of Tanzania wildlife-sector legal framework expressly lists Natural Resources Act (CAP 259 R.E. 2002). Tanzania Law Reports independently identifies Cap.259 R.E.2002 as the Natural Resources Act. Mapping upgraded from corroborated to official-government verification."
     },
     {
       "id": "osg-cap-260-national-identification-authority-act",
@@ -8733,8 +8733,8 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 445,
-    "pendingCount": 5,
+    "verifiedCount": 446,
+    "pendingCount": 4,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
       "active": 443,
