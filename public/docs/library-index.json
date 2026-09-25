@@ -6973,23 +6973,23 @@
     },
     {
       "id": "osg-cap-362-tanzania-commission-for-aids-act",
-      "title": "THE TANZANIA COMMISSION FOR AIDS ACT",
-      "shortTitle": "Tanzania Commission for AIDS Act",
+      "title": "CAP 362 — Current CAP/title pending exact Tanzania verification",
+      "shortTitle": "CAP 362 — Title pending verification",
       "chapterNumber": "362",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/",
+      "source": "Official Tanzania legal source required",
+      "sourceUrl": null,
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg-reference",
-      "verificationNote": "Official government legal reference identifies the Tanzania Commission for AIDS Act as Cap. 362.",
+      "status": "pending-exact-current-cap-title-verification",
+      "verification": "pending-exact-current-cap-title-verification",
+      "verificationNote": "Duplicate audit invalidated the previous Tanzania Commission for AIDS Act mapping at CAP 362. Exact OSG R.E. 2023 A.S. 2025 evidence establishes that Act at CAP 379. No exact authoritative current title for CAP 362 has yet been established, so this slot is retained without guessing.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "reassigned"
     },
     {
       "id": "osg-cap-363-national-health-insurance-fund-act",
@@ -7320,13 +7320,14 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/fac93273-b1de-492c-8a73-6b0f311b05c9",
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg",
+      "status": "catalogued-official-current-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023-as-2025",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "active",
+      "verificationNote": "Exact OSG current consolidated record identifies THE TANZANIA COMMISSION FOR AIDS ACT as CAP. 379, R.E. 2023 A.S. 2025. Duplicate assignment at CAP 362 was withdrawn pending exact current-title verification."
     },
     {
       "id": "pending-cap-380",
@@ -8736,12 +8737,12 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 444,
-    "pendingCount": 6,
+    "verifiedCount": 443,
+    "pendingCount": 7,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 441,
-      "reassigned": 5,
+      "active": 440,
+      "reassigned": 6,
       "repealed": 2,
       "omitted": 2
     }
