@@ -18,7 +18,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-2",
@@ -37,7 +38,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-3",
@@ -56,7 +58,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-4-laws-revision",
@@ -74,7 +77,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-5",
@@ -93,7 +97,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-6-evidence",
@@ -111,7 +116,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-7",
@@ -130,7 +136,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-8",
@@ -149,7 +156,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-9-presidential-affairs",
@@ -167,7 +175,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-10",
@@ -186,7 +195,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-11-magistrates-courts-act",
@@ -204,7 +214,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-12-notaries",
@@ -222,7 +233,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-13-law-of-the-child-act",
@@ -240,7 +252,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-14-hire-purchase",
@@ -258,7 +271,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-15-arbitration",
@@ -276,7 +290,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-16-penal-code",
@@ -294,7 +309,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-17-corporal-punishment-act",
@@ -312,7 +328,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-18",
@@ -331,7 +348,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-19",
@@ -350,7 +368,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-20-criminal-procedure-act",
@@ -368,7 +387,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "oag-cap-21-legal-aid",
@@ -386,7 +406,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-22-rural-farmlands-acquisition-and-regrant-act",
@@ -404,7 +425,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-23",
@@ -423,7 +445,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-24",
@@ -442,7 +465,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-25",
@@ -461,7 +485,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-26",
@@ -480,7 +505,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-27-administrator-general-powers-and-functions-act",
@@ -498,7 +524,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-28",
@@ -517,7 +544,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "oag-cap-29-law-of-marriage",
@@ -535,7 +563,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-30-sisal",
@@ -553,7 +582,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-31",
@@ -572,7 +602,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-32",
@@ -591,7 +622,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-33-civil-procedure-code",
@@ -609,7 +641,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-34",
@@ -628,7 +661,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-35",
@@ -647,7 +681,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-36",
@@ -666,7 +701,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-37",
@@ -685,7 +721,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-38-land-disputes-courts-act",
@@ -703,7 +740,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-39",
@@ -722,7 +760,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-40-tanzania-zambia-pipeline-act",
@@ -740,7 +779,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-41",
@@ -759,7 +799,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-42",
@@ -778,7 +819,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "oag-cap-43-age-of-majority-act",
@@ -796,7 +838,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-44",
@@ -815,7 +858,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-45-advocates-act",
@@ -833,7 +877,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-46",
@@ -852,7 +897,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-47",
@@ -871,7 +917,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-48",
@@ -890,7 +937,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-49",
@@ -909,7 +957,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-50-national-social-security-fund-act",
@@ -927,7 +976,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-51",
@@ -946,7 +996,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-52",
@@ -965,7 +1016,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-53",
@@ -984,7 +1036,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-54",
@@ -1003,7 +1056,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-55",
@@ -1022,7 +1076,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-56",
@@ -1041,7 +1096,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-57",
@@ -1060,7 +1116,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-58-prisons-act",
@@ -1078,7 +1135,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-59",
@@ -1097,7 +1155,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-60",
@@ -1116,7 +1175,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-61",
@@ -1135,7 +1195,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-62",
@@ -1154,7 +1215,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-63-engineers-registration-act",
@@ -1172,7 +1234,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-64",
@@ -1191,7 +1254,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-65",
@@ -1210,7 +1274,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-66",
@@ -1229,7 +1294,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-67",
@@ -1248,7 +1314,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-68",
@@ -1267,7 +1334,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-69",
@@ -1286,7 +1354,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-70",
@@ -1305,7 +1374,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-71",
@@ -1324,7 +1394,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-72",
@@ -1343,7 +1414,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-73",
@@ -1362,7 +1434,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-74",
@@ -1381,7 +1454,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-75",
@@ -1400,7 +1474,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-76",
@@ -1419,7 +1494,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-77",
@@ -1438,7 +1514,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-78",
@@ -1457,7 +1534,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-79-capital-markets-securities",
@@ -1475,7 +1553,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-80",
@@ -1494,7 +1573,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-81",
@@ -1513,7 +1593,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-82-business-registrations-and-licensing-agency-act",
@@ -1531,7 +1612,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-83",
@@ -1550,7 +1632,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-84",
@@ -1569,7 +1652,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-85",
@@ -1588,7 +1672,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-86",
@@ -1607,7 +1692,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-87",
@@ -1626,7 +1712,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-88",
@@ -1645,7 +1732,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-89",
@@ -1664,7 +1752,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-90-tanzania-communications-regulatory-authority-act",
@@ -1682,7 +1771,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-91",
@@ -1701,7 +1791,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-92",
@@ -1720,7 +1811,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-93-mwalimu-nyerere-memorial-academy-act",
@@ -1738,7 +1830,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-94",
@@ -1757,7 +1850,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-95-drug-control-and-enforcement-act",
@@ -1775,7 +1869,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-96-constituencies-development-catalyst-fund-act",
@@ -1793,7 +1888,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-97-regional-administration-act",
@@ -1811,7 +1907,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-98",
@@ -1830,7 +1927,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-99-vocational-education-and-training-act",
@@ -1848,7 +1946,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-100-tsetse-fly-control-act",
@@ -1866,7 +1965,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-101",
@@ -1885,7 +1985,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-102",
@@ -1904,7 +2005,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-103",
@@ -1923,7 +2025,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-104",
@@ -1942,7 +2045,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-105-public-service-negotiating-machinery-act",
@@ -1960,7 +2064,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-106",
@@ -1979,7 +2084,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-107-national-examinations-council",
@@ -1997,7 +2103,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-108-births-deaths-registration",
@@ -2015,7 +2122,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-109",
@@ -2034,7 +2142,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-110",
@@ -2053,7 +2162,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-111",
@@ -2072,7 +2182,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-112",
@@ -2091,7 +2202,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-113-land",
@@ -2109,7 +2221,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-114-village-land",
@@ -2127,7 +2240,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-115-water-resources-management",
@@ -2145,7 +2259,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-116-land-use-planning-act",
@@ -2163,7 +2278,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-117",
@@ -2182,7 +2298,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-118-workers-compensation-act",
@@ -2200,7 +2317,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-119",
@@ -2219,7 +2337,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-120",
@@ -2238,7 +2357,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-121",
@@ -2257,7 +2377,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-122",
@@ -2276,7 +2397,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-123-public-procurement",
@@ -2294,7 +2416,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-124-motor-vehicles-tax-on-registration-and-transfer-act",
@@ -2312,7 +2435,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-125",
@@ -2331,7 +2455,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-126",
@@ -2350,7 +2475,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-127",
@@ -2369,7 +2495,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-128",
@@ -2388,7 +2515,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-129",
@@ -2407,7 +2535,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-130",
@@ -2426,7 +2555,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-131-electricity",
@@ -2444,7 +2574,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-132",
@@ -2463,7 +2594,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-133",
@@ -2482,7 +2614,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-134",
@@ -2501,7 +2634,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-135-social-security-act",
@@ -2519,7 +2653,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-136-private-health-laboratories-regulation-act",
@@ -2537,7 +2672,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-137",
@@ -2556,7 +2692,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-138-valuation-and-valuers-registration-act",
@@ -2574,7 +2711,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-139",
@@ -2593,7 +2731,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-140-joint-finance-commission-act",
@@ -2611,7 +2750,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-141-appellate-jurisdiction-act",
@@ -2629,7 +2769,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-142-tanzania-institute-of-education-act",
@@ -2647,7 +2788,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-143-tanzania-zambia-railway-act",
@@ -2665,7 +2807,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-144-dar-es-salaam-institute-of-technology-act",
@@ -2683,7 +2826,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-145-tanzania-industrial-studies-and-consulting-organisation-act",
@@ -2701,7 +2845,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-146-marine-parks-and-reserves-act",
@@ -2719,7 +2864,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-147-excise-management-and-tariff-act",
@@ -2737,7 +2883,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-148-value-added-tax-act",
@@ -2755,7 +2902,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-149-access-to-information-act",
@@ -2773,7 +2921,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-150-muhimbili-national-hospital-act",
@@ -2791,7 +2940,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-151-private-hospitals-regulation-act",
@@ -2809,7 +2959,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-152-medical-dental-and-allied-health-professionals-act",
@@ -2827,7 +2978,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-153-provisional-collection-of-taxes-and-duties-act",
@@ -2845,7 +2997,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-154-animal-welfare-act",
@@ -2863,7 +3016,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-155-tanzania-trade-development-authority-act",
@@ -2881,7 +3035,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-156-animal-diseases-act",
@@ -2899,7 +3054,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-157-tanzania-meteorological-authority-act",
@@ -2917,7 +3073,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-158-wattle-bark-industry-act",
@@ -2935,7 +3092,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-159-tanzania-industrial-research-and-development-organisation-act",
@@ -2953,7 +3111,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-160-standards",
@@ -2971,7 +3130,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-161",
@@ -2990,7 +3150,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-162-national-construction-council-act",
@@ -3008,7 +3169,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-163-motor-vehicle-driving-schools-licensing-act",
@@ -3026,7 +3188,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-164-carriage-of-goods-by-sea-act",
@@ -3044,7 +3207,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-165-merchant-shipping-act",
@@ -3062,7 +3226,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-166-ports-act",
@@ -3080,7 +3245,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-167-roads",
@@ -3098,7 +3264,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-168-road-traffic-act",
@@ -3116,7 +3283,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-169-motor-vehicles-insurance-act",
@@ -3134,7 +3302,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-170-railways-act",
@@ -3152,7 +3321,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-171-law-reform-commission-of-tanzania-act",
@@ -3170,7 +3340,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-172-tanzania-communications-regulatory-authority-act",
@@ -3188,7 +3359,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-173-ferries-act",
@@ -3206,7 +3378,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-174-institute-of-rural-development-planning-act",
@@ -3224,7 +3397,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-175-pawnbroking-prohibition-act",
@@ -3242,7 +3416,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-176-tanzania-engineering-and-manufacturing-design-organisation-act",
@@ -3260,7 +3435,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-177-government-chemist-laboratory-authority-act",
@@ -3278,7 +3454,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-178-grazing-land-and-animal-feed-resources-act",
@@ -3296,7 +3473,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-179-industrial-and-consumer-chemicals-management-and-control-act",
@@ -3314,7 +3492,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-180-tanzania-food-drugs-and-cosmetics-act",
@@ -3332,7 +3511,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-181-tanzania-agricultural-research-institute-act",
@@ -3350,7 +3530,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-182-tanzania-veterinary-laboratory-agency-act",
@@ -3368,7 +3549,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-183-persons-with-disabilities-act",
@@ -3386,7 +3568,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-184-public-private-partnership-act",
@@ -3404,7 +3587,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-185-public-procurement-act",
@@ -3422,7 +3606,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-186-tanzania-civil-aviation-act",
@@ -3440,7 +3625,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-187-surface-and-marine-transport-regulatory-authority-act",
@@ -3458,7 +3644,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-188-tanzania-airports-authority-act",
@@ -3476,7 +3663,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-189-railways-act",
@@ -3494,7 +3682,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-190-roads-act",
@@ -3512,7 +3701,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-191-environmental",
@@ -3530,7 +3720,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-192-shipping-agencies-act",
@@ -3548,7 +3739,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-193-tanzania-shipping-agencies-corporation-act",
@@ -3566,7 +3758,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-194-national-transport-corporation-act",
@@ -3584,7 +3777,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-195-tanzania-rural-and-urban-roads-agency-act",
@@ -3602,7 +3796,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-196-tanzania-national-roads-agency-act",
@@ -3620,7 +3815,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-197-bank-of-tanzania",
@@ -3638,7 +3834,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-198-tanzania-commission-for-science-and-technology-act",
@@ -3656,7 +3853,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-199-tanzania-industrial-research-and-development-organisation-act",
@@ -3674,7 +3872,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-200-economic-and-organised-crime-control-act",
@@ -3693,7 +3892,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-201-tanzania-atomic-energy-act",
@@ -3711,7 +3911,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-202-national-institute-for-medical-research-act",
@@ -3729,7 +3930,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-203-tanzania-forestry-research-institute-act",
@@ -3747,7 +3949,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-204-national-arts-council-act",
@@ -3765,7 +3968,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-205-tanzania-fisheries-research-institute-act",
@@ -3783,7 +3987,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-206-tropical-pesticides-research-institute-act",
@@ -3801,7 +4006,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-207-tanzania-wildlife-research-institute-act",
@@ -3819,7 +4025,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-208-national-environment-management-act",
@@ -3837,7 +4044,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-209-biosafety-regulations-act",
@@ -3855,7 +4063,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-210-forest-act",
@@ -3873,7 +4082,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-211-beekeeping-act",
@@ -3891,7 +4101,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-212-companies",
@@ -3909,7 +4120,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-213-banking-financial-institutions",
@@ -3927,7 +4139,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-214-wildlife-conservation-act",
@@ -3945,7 +4158,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-215-fisheries-act",
@@ -3963,7 +4177,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-216-insurance",
@@ -3981,7 +4196,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-217-mining-act",
@@ -3999,7 +4215,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-218-social-security-regulatory-authority",
@@ -4017,7 +4234,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-219-tanzania-medicines-and-medical-devices-act",
@@ -4036,7 +4254,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-220-petroleum-act",
@@ -4054,7 +4273,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-221-oil-and-gas-revenues-management-act",
@@ -4072,7 +4292,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-222-extractive-industries-transparency-and-accountability-act",
@@ -4090,7 +4311,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-223-natural-wealth-and-resources-permanent-sovereignty-act",
@@ -4108,7 +4330,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-224-natural-wealth-and-resources-contracts-review-and-renegotiation-of-unconscionable-terms-act",
@@ -4126,7 +4349,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-225-political-service-retirement-benefits",
@@ -4144,7 +4368,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-226-land-act",
@@ -4162,7 +4387,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-227-village-land-act",
@@ -4180,7 +4406,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-228-land-use-planning-act",
@@ -4198,7 +4425,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-229-land-survey-act",
@@ -4216,7 +4444,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-230-films-and-stage-plays-act",
@@ -4234,7 +4463,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-231-unit-titles-act",
@@ -4252,7 +4482,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-232-east-african-community-mediation-agreement-act",
@@ -4270,7 +4501,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-233-land-disputes-courts-act",
@@ -4288,7 +4520,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-234-ministers-salaries-and-allowances-act",
@@ -4306,7 +4539,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-235-contractors-registration-act",
@@ -4324,7 +4558,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-236-urban-planning-act",
@@ -4342,7 +4577,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-237-valuation-and-valuers-registration-act",
@@ -4360,7 +4596,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-238-mortgage-financing-special-provisions-act",
@@ -4378,7 +4615,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-239-land-acquisition-act",
@@ -4396,7 +4634,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-240-institute-of-accountancy-arusha-act",
@@ -4414,7 +4653,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-241-architects-and-quantity-surveyors-registration-act",
@@ -4432,7 +4672,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-242-engineers-registration-act",
@@ -4450,7 +4691,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-243-national-housing-corporation-act",
@@ -4468,7 +4710,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-244-contractors-registration-act",
@@ -4486,7 +4729,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-245-executive-agencies-act",
@@ -4504,7 +4748,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-246-water-resources-management-act",
@@ -4522,7 +4767,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-247-water-supply-and-sanitation-act",
@@ -4540,7 +4786,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-248-energy-and-water-utilities-regulatory-authority-act",
@@ -4558,7 +4805,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-249-electricity-act",
@@ -4576,7 +4824,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-250-rural-energy-act",
@@ -4594,7 +4843,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-251-tanzania-electric-supply-company-act",
@@ -4612,7 +4862,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-252-fire-and-rescue-force-act",
@@ -4630,7 +4881,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-253-disaster-management-act",
@@ -4648,7 +4900,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-254-mutual-assistance-in-criminal-matters-act",
@@ -4666,7 +4919,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-255-immigration-act",
@@ -4684,7 +4938,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-256-proceeds-of-crime",
@@ -4702,7 +4957,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-257-public-corporations-act",
@@ -4720,7 +4976,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-258-political-parties",
@@ -4738,7 +4995,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-259-refugees-act",
@@ -4756,7 +5014,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-260-national-identification-authority-act",
@@ -4774,7 +5033,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-261-prevention-and-combating-of-corruption-act",
@@ -4792,7 +5052,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-262-anti-trafficking-in-persons-act",
@@ -4810,7 +5071,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-263-prevention-of-terrorism-act",
@@ -4828,7 +5090,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-264-proceeds-of-crime-act",
@@ -4846,7 +5109,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-265-mutual-assistance-in-criminal-matters-act",
@@ -4864,7 +5128,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-266-extradition-act",
@@ -4882,7 +5147,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-267-transfer-of-prisoners-act",
@@ -4900,7 +5166,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-268-office-of-the-attorney-general-discharge-of-duties-act",
@@ -4918,7 +5185,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-269-prisons-act",
@@ -4936,7 +5204,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-270-mining",
@@ -4954,7 +5223,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-271-community-service-act",
@@ -4972,7 +5242,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-272-public-audit-act",
@@ -4990,7 +5261,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-273-egovernment",
@@ -5008,7 +5280,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-274-probation-of-offenders-act",
@@ -5026,7 +5299,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-275-parole-boards-act",
@@ -5044,7 +5318,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-276-criminal-procedure-act",
@@ -5062,7 +5337,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-277-minimum-sentences-act",
@@ -5080,7 +5356,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-278-economic-and-organised-crime-control-act",
@@ -5098,7 +5375,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-279-drugs-control-and-enforcement-act",
@@ -5116,7 +5394,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-280-law-of-marriage-act",
@@ -5134,7 +5413,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-281-child-act",
@@ -5152,7 +5432,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-282-national-parks-act",
@@ -5170,7 +5451,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-283-wildlife-conservation-act",
@@ -5189,7 +5471,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-284-ngorongoro-conservation-area-act",
@@ -5207,7 +5490,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-285-fair-competition",
@@ -5225,7 +5509,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "oag-cap-286-accountants-and-auditors-registration-act",
@@ -5243,7 +5528,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-287-local-government-district-authorities",
@@ -5261,7 +5547,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-288-local-government-urban-authorities",
@@ -5279,7 +5566,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-289-societies-act",
@@ -5297,7 +5585,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-290-local-government-finance",
@@ -5315,7 +5604,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-291-non-governmental-organizations-act",
@@ -5333,7 +5623,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-292-business-names-registration-act",
@@ -5351,7 +5642,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-293-companies-act",
@@ -5369,7 +5661,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-294-cooperative-societies-act",
@@ -5387,7 +5680,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-295-microfinance-act",
@@ -5405,7 +5699,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-296-parliamentary-immunities-powers-and-privileges-act",
@@ -5423,7 +5718,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-297-insurance-act",
@@ -5441,7 +5737,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-298-capital-markets-and-securities-act",
@@ -5459,7 +5756,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-299-bank-of-tanzania-act",
@@ -5477,7 +5775,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-300-labour-institutions-act",
@@ -5495,7 +5794,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-301-foreign-exchange-act",
@@ -5513,7 +5813,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-302-fauna-conservation-ordinance",
@@ -5531,7 +5832,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-303-tanzania-posts-corporation",
@@ -5549,7 +5851,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-304-national-payment-systems-act",
@@ -5567,7 +5870,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-305-credit-reference-bureau-act",
@@ -5585,7 +5889,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-306-electronic-and-postal-communications-act",
@@ -5603,7 +5908,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-307-deposit-insurance-board-act",
@@ -5621,7 +5927,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-308-financial-leasing-act",
@@ -5639,7 +5946,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-309-mortgage-refinance-companies-act",
@@ -5657,7 +5965,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-310-law-reform-fatal-accidents-and-miscellaneous-provisions-act",
@@ -5675,7 +5984,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-311-unit-trust-of-tanzania-act",
@@ -5693,7 +6003,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-312-public-finance-act",
@@ -5711,7 +6022,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-313-local-government-finances-act",
@@ -5729,7 +6041,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-314-public-audit-act",
@@ -5747,7 +6060,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-315-public-procurement-regulatory-authority-act",
@@ -5765,7 +6079,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-316-statistics-act",
@@ -5783,7 +6098,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-317-national-board-of-accountants-and-auditors-act",
@@ -5801,7 +6117,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-318-budget-act",
@@ -5819,7 +6136,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-319-government-loans-guarantees-and-grants-act",
@@ -5837,7 +6155,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-320-public-private-partnership-act",
@@ -5855,7 +6174,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-321-rural-energy-act",
@@ -5873,7 +6193,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-322-national-debt-management-act",
@@ -5891,7 +6212,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-323-planning-commission-act",
@@ -5909,7 +6231,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-324-public-service-act",
@@ -5927,7 +6250,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-325-public-service-retirement-benefits-act",
@@ -5945,7 +6269,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-326-political-service-retirement-benefits-act",
@@ -5963,7 +6288,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-327-public-leadership-code-of-ethics-act",
@@ -5981,7 +6307,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-328-oil-and-gas-revenues-management-act",
@@ -5999,7 +6326,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-329-prevention-combating-corruption",
@@ -6017,7 +6345,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-330-public-service-social-security-fund-act",
@@ -6035,7 +6364,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-331-national-social-security-fund-act",
@@ -6053,7 +6383,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-332-income-tax",
@@ -6071,7 +6402,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-333-workers-compensation-act",
@@ -6089,7 +6421,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-334-land-registration-act",
@@ -6107,7 +6440,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-335-employment-and-labour-relations-act",
@@ -6125,7 +6459,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-336-labour-institutions-act",
@@ -6143,7 +6478,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-337-societies",
@@ -6161,7 +6497,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-338-occupational-safety-and-health-act",
@@ -6179,7 +6516,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-339-warehouse-receipts-act",
@@ -6198,7 +6536,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-340-tanzania-roads-fund-act",
@@ -6216,7 +6555,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-341-road-traffic",
@@ -6234,7 +6574,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-342",
@@ -6253,7 +6594,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-343-national-elections-act",
@@ -6272,7 +6614,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-344",
@@ -6291,7 +6634,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "oag-cap-345-law-of-contract",
@@ -6309,7 +6653,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-346-tanzania-food-drugs-and-cosmetics-act",
@@ -6327,7 +6672,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-347-coffee-industry-act",
@@ -6346,7 +6692,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-348-public-finance-act",
@@ -6364,7 +6711,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-349",
@@ -6383,7 +6731,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-350",
@@ -6402,7 +6751,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-351-statistics",
@@ -6420,7 +6770,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "oag-cap-352-probate-administration-estates",
@@ -6438,7 +6789,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-353-education-act",
@@ -6456,7 +6808,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-354",
@@ -6475,7 +6828,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-355-urban-planning",
@@ -6493,7 +6847,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-356-diplomatic-and-consular-immunities-and-privileges-act",
@@ -6511,7 +6866,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-357-tanzania-citizenship",
@@ -6529,7 +6885,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-358-judicature",
@@ -6547,7 +6904,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-359-village-land-act",
@@ -6565,7 +6923,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-360-land-disputes-courts-act",
@@ -6583,7 +6942,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "official-cap-361-preventive-detention-act",
@@ -6602,7 +6962,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-362-tanzania-commission-for-aids-act",
@@ -6621,7 +6982,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-363-national-health-insurance-fund-act",
@@ -6640,7 +7002,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "official-cap-364-tanzania-tourist-board-act",
@@ -6659,7 +7022,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-365-airport-service-charge-act",
@@ -6678,7 +7042,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-366-employment",
@@ -6696,7 +7061,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-367",
@@ -6715,7 +7081,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-368",
@@ -6734,7 +7101,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-369",
@@ -6753,7 +7121,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-370-treasury-registrar-powers-and-functions-act",
@@ -6771,7 +7140,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-371-public-service-social-security-fund-act",
@@ -6790,7 +7160,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-372",
@@ -6809,7 +7180,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-373",
@@ -6828,7 +7200,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-374",
@@ -6847,7 +7220,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-375",
@@ -6866,7 +7240,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-376",
@@ -6885,7 +7260,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-377",
@@ -6904,7 +7280,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-378",
@@ -6923,7 +7300,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-379-tanzania-commission-for-aids-act",
@@ -6941,7 +7319,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-380",
@@ -6960,7 +7339,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-381",
@@ -6979,7 +7359,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-382",
@@ -6998,7 +7379,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-383",
@@ -7017,7 +7399,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-384",
@@ -7036,7 +7419,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-385",
@@ -7055,7 +7439,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-386",
@@ -7074,7 +7459,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-387",
@@ -7093,7 +7479,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-388",
@@ -7112,7 +7499,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-389",
@@ -7131,7 +7519,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-390",
@@ -7150,7 +7539,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-391",
@@ -7169,7 +7559,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-392-petroleum",
@@ -7187,7 +7578,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-393",
@@ -7206,7 +7598,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-394",
@@ -7225,7 +7618,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-395",
@@ -7244,7 +7638,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-396",
@@ -7263,7 +7658,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-397-regions-and-districts-establishment-procedure-act",
@@ -7281,7 +7677,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-398",
@@ -7300,7 +7697,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-399-tanzania-revenue-authority-act",
@@ -7318,7 +7716,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-400",
@@ -7337,7 +7736,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-401",
@@ -7356,7 +7756,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-402",
@@ -7375,7 +7776,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-403-customs-management-and-tariffs-act",
@@ -7393,7 +7795,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-404",
@@ -7412,7 +7815,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-405",
@@ -7431,7 +7835,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-406",
@@ -7450,7 +7855,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-407",
@@ -7469,7 +7875,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-408-tax-revenue-appeals-act",
@@ -7487,7 +7894,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-409",
@@ -7506,7 +7914,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-410",
@@ -7525,7 +7934,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-411-treaty-for-the-establishment-of-the-east-african-community-act",
@@ -7543,7 +7953,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-412",
@@ -7562,7 +7973,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-413-land-transport-regulatory-authority-act",
@@ -7580,7 +7992,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-414-occupational-health-safety",
@@ -7598,7 +8011,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-415",
@@ -7617,7 +8031,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-416",
@@ -7636,7 +8051,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-417",
@@ -7655,7 +8071,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-418",
@@ -7674,7 +8091,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-419",
@@ -7693,7 +8111,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-420",
@@ -7712,7 +8131,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-421",
@@ -7731,7 +8151,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-422",
@@ -7750,7 +8171,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-423-anti-money-laundering",
@@ -7768,7 +8190,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-424",
@@ -7787,7 +8210,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-425",
@@ -7806,7 +8230,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-426",
@@ -7825,7 +8250,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-427",
@@ -7844,7 +8270,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-428",
@@ -7863,7 +8290,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-429",
@@ -7882,7 +8310,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-430",
@@ -7901,7 +8330,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-431",
@@ -7920,7 +8350,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-432",
@@ -7939,7 +8370,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-433",
@@ -7958,7 +8390,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-434",
@@ -7977,7 +8410,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-435",
@@ -7996,7 +8430,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-436",
@@ -8015,7 +8450,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-437-national-payment-systems",
@@ -8033,7 +8469,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-438-tax-administration-act",
@@ -8051,7 +8488,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-439-budget-act",
@@ -8069,7 +8507,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-440",
@@ -8088,7 +8527,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-441",
@@ -8107,7 +8547,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-442-electronic-transactions-act",
@@ -8125,7 +8566,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-443",
@@ -8144,7 +8586,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-444",
@@ -8163,7 +8606,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-445",
@@ -8182,7 +8626,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-446-whistleblower-and-witness-protection-act",
@@ -8200,7 +8645,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-447",
@@ -8219,7 +8665,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "pending-cap-448",
@@ -8238,7 +8685,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "pending"
     },
     {
       "id": "osg-cap-449-sovereignty",
@@ -8256,7 +8704,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-450-contracts",
@@ -8274,7 +8723,8 @@
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
-      "totalSections": null
+      "totalSections": null,
+      "legalStatus": "active"
     }
   ],
   "audit": {
@@ -8282,7 +8732,11 @@
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
     "verifiedCount": 341,
     "pendingCount": 109,
-    "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law."
+    "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
+    "legalStatusCounts": {
+      "active": 341,
+      "pending": 109
+    }
   },
   "conversionTracking": {
     "enabled": true,
