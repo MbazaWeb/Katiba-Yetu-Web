@@ -1,0 +1,22 @@
+{
+  "chapter": "Chapter Two",
+  "jina": "THE GOVERNMENT OF THE UNITED REPUBLIC",
+  "documentId": "doc-union-1977-en",
+  "chapterNumber": 2,
+  "language": "en",
+  "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
+  "sehemu": [
+    "Part I: The President",
+    "Part II: The Vice-President",
+    "Part III: The Prime Minister, the Cabinet and the Government"
+  ],
+  "ibara": [
+    "Article 33.json",
+    "Article 34.json",
+    "Article 35.json",
+    "Article 36.json"
+  ],
+  "conversionStatus": "in-progress",
+  "articlesConverted": 4,
+  "chapterArticlesTotal": 34
+}
