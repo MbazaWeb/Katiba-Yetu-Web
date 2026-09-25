@@ -4743,6 +4743,25 @@
       "totalSections": null
     },
     {
+      "id": "osg-cap-365-airport-service-charge-act",
+      "title": "THE AIRPORT SERVICE CHARGE ACT",
+      "shortTitle": "Airport Service Charge Act",
+      "chapterNumber": "365",
+      "year": null,
+      "edition": null,
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/server/api/core/bitstreams/9e99761c-a5b9-46b0-8991-ed200c947ade/content",
+      "contentReady": false,
+      "status": "source-catalogued",
+      "verification": "verified-official-osg-reference",
+      "verificationNote": "Official OSG Finance/Tax Administration legislation expressly identifies the Airport Service Charges Act as Cap. 365.",
+      "conversionStatus": "not-started",
+      "conversionProgress": 0,
+      "sectionsConverted": 0,
+      "totalSections": null
+    },
+    {
       "id": "osg-cap-366-employment",
       "title": "THE EMPLOYMENT AND LABOUR RELATIONS ACT",
       "shortTitle": "Employment and Labour Relations Act",
@@ -5107,7 +5126,7 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 283,
+    "verifiedCount": 284,
     "pendingCount": 0
   },
   "conversionTracking": {
