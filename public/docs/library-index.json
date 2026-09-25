@@ -1580,24 +1580,24 @@
       "legalStatus": "active"
     },
     {
-      "id": "pending-cap-81",
-      "title": "CAP 81 — Current CAP/title pending exact Tanzania verification",
-      "shortTitle": "CAP 81 — Title pending verification",
+      "id": "gov-cap-81-apprenticeships-ordinance",
+      "title": "THE APPRENTICESHIPS ORDINANCE",
+      "shortTitle": "Apprenticeships Ordinance",
       "chapterNumber": "81",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Official Tanzania legal source required",
-      "sourceUrl": null,
+      "source": "Tanzania Law Reports principal legislation catalogue",
+      "sourceUrl": "https://tanzanialawreports.co.tz/?cypher_req=principal-legislation&volume=1",
       "contentReady": false,
-      "status": "pending-exact-current-cap-title-verification",
-      "verification": "pending-exact-current-cap-title-verification",
-      "verificationNote": "Duplicate audit invalidated the weaker generic NECTA Act mapping at CAP 81. Exact OSG R.E. 2023 principal-legislation evidence establishes THE NATIONAL EXAMINATIONS COUNCIL OF TANZANIA ACT at CAP 107. CAP 81 is retained pending exact current-title verification.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-government-catalogue",
+      "verificationNote": "Tanzania Law Reports principal-legislation catalogue expressly identifies Cap.81 as the Apprenticeships Ordinance and marks it omitted. This replaces the earlier incorrect NECTA duplicate mapping.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "omitted"
     },
     {
       "id": "osg-cap-82-business-registrations-and-licensing-agency-act",
@@ -8778,13 +8778,13 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 442,
-    "pendingCount": 8,
+    "verifiedCount": 443,
+    "pendingCount": 7,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
       "active": 435,
-      "omitted": 4,
-      "reassigned": 8,
+      "omitted": 5,
+      "reassigned": 7,
       "repealed": 3
     }
   },
