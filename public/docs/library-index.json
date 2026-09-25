@@ -4434,6 +4434,25 @@
       "totalSections": null
     },
     {
+      "id": "osg-cap-339-warehouse-receipts-act",
+      "title": "THE WAREHOUSE RECEIPTS ACT",
+      "shortTitle": "Warehouse Receipts Act",
+      "chapterNumber": "339",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/55c1a61a-f662-464e-b4e1-a9749e8cb499",
+      "contentReady": false,
+      "status": "source-catalogued",
+      "verification": "verified-official-osg",
+      "verificationNote": "official OSG amendment record expressly identifies the Warehouse Receipts Act as Cap. 339",
+      "conversionStatus": "not-started",
+      "conversionProgress": 0,
+      "sectionsConverted": 0,
+      "totalSections": null
+    },
+    {
       "id": "osg-cap-340-tanzania-roads-fund-act",
       "title": "THE TANZANIA ROADS FUND ACT",
       "shortTitle": "Tanzania Roads Fund Act",
@@ -4500,6 +4519,25 @@
       "contentReady": false,
       "status": "source-catalogued",
       "verification": "verified-official-osg",
+      "conversionStatus": "not-started",
+      "conversionProgress": 0,
+      "sectionsConverted": 0,
+      "totalSections": null
+    },
+    {
+      "id": "osg-cap-347-coffee-industry-act",
+      "title": "THE COFFEE INDUSTRY ACT",
+      "shortTitle": "Coffee Industry Act",
+      "chapterNumber": "347",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/0f451909-7111-4dc4-af8b-b60c9d9fa8d5",
+      "contentReady": false,
+      "status": "source-catalogued",
+      "verification": "verified-official-osg",
+      "verificationNote": "official OSG R.E. 2023 item",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
@@ -4978,7 +5016,7 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 276,
+    "verifiedCount": 278,
     "pendingCount": 0
   },
   "conversionTracking": {
