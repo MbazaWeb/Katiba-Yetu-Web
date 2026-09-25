@@ -1581,23 +1581,23 @@
     },
     {
       "id": "pending-cap-81",
-      "title": "THE NATIONAL EXAMINATIONS COUNCIL OF TANZANIA ACT",
-      "shortTitle": "National Examinations Council of Tanzania Act",
+      "title": "CAP 81 — Current CAP/title pending exact Tanzania verification",
+      "shortTitle": "CAP 81 — Title pending verification",
       "chapterNumber": "81",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/",
+      "source": "Official Tanzania legal source required",
+      "sourceUrl": null,
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg-reference",
-      "verificationNote": "Official government legal reference identifies NECTA Act as Cap. 81.",
+      "status": "pending-exact-current-cap-title-verification",
+      "verification": "pending-exact-current-cap-title-verification",
+      "verificationNote": "Duplicate audit invalidated the weaker generic NECTA Act mapping at CAP 81. Exact OSG R.E. 2023 principal-legislation evidence establishes THE NATIONAL EXAMINATIONS COUNCIL OF TANZANIA ACT at CAP 107. CAP 81 is retained pending exact current-title verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "reassigned"
     },
     {
       "id": "osg-cap-82-business-registrations-and-licensing-agency-act",
@@ -2102,13 +2102,14 @@
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "active",
+      "verificationNote": "Exact current OSG R.E. 2023 record identifies THE NATIONAL EXAMINATIONS COUNCIL OF TANZANIA ACT as CHAPTER 107 / CAP. 107. The weaker generic CAP 81 assignment was withdrawn pending exact current-title verification."
     },
     {
       "id": "osg-cap-108-births-deaths-registration",
@@ -8751,12 +8752,12 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 427,
-    "pendingCount": 23,
+    "verifiedCount": 426,
+    "pendingCount": 24,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 424,
-      "reassigned": 22,
+      "active": 423,
+      "reassigned": 23,
       "repealed": 2,
       "omitted": 2
     }
