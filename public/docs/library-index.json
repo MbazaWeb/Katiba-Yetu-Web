@@ -5712,24 +5712,24 @@
       "legalStatus": "active"
     },
     {
-      "id": "osg-cap-295-microfinance-act",
-      "title": "CAP 295 — Current CAP/title pending exact Tanzania verification",
-      "shortTitle": "CAP 295 — Title pending verification",
+      "id": "gov-cap-295-national-housing-corporation-act",
+      "title": "THE NATIONAL HOUSING CORPORATION ACT",
+      "shortTitle": "National Housing Corporation Act",
       "chapterNumber": "295",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Official Tanzania legal source required",
-      "sourceUrl": null,
+      "source": "Ministry of Lands, Housing and Human Settlements Development",
+      "sourceUrl": "https://www.lands.go.tz/uploads/documents/sw-1681995562-The%20National%20Housing%20Corporation%20Act.%20Cap%20295.pdf",
       "contentReady": false,
-      "status": "pending-exact-current-cap-title-verification",
-      "verification": "pending-exact-current-cap-title-verification",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-government-act",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned",
-      "verificationNote": "Batch duplicate audit withdrew the conflicting THE MICROFINANCE ACT mapping at CAP 295. Exact OSG R.E. 2023 evidence establishes THE MICROFINANCE ACT at CAP 407. CAP 295 remains pending exact current-title verification."
+      "legalStatus": "active",
+      "verificationNote": "Official Ministry of Lands-hosted Act expressly identifies CHAPTER 295 as THE NATIONAL HOUSING CORPORATION ACT."
     },
     {
       "id": "osg-cap-296-parliamentary-immunities-powers-and-privileges-act",
@@ -5884,24 +5884,24 @@
       "legalStatus": "active"
     },
     {
-      "id": "osg-cap-304-national-payment-systems-act",
-      "title": "CAP 304 — Current CAP/title pending exact Tanzania verification",
-      "shortTitle": "CAP 304 — Title pending verification",
+      "id": "osg-cap-304-tanzania-telecommunications-company-incorporation-act",
+      "title": "THE TANZANIA TELECOMMUNICATIONS COMPANY INCORPORATION ACT",
+      "shortTitle": "Tanzania Telecommunications Company Incorporation Act",
       "chapterNumber": "304",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Official Tanzania legal source required",
-      "sourceUrl": null,
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/bitstreams/3860046c-a149-47e7-8297-a7ebd0e621d6/download",
       "contentReady": false,
-      "status": "pending-exact-current-cap-title-verification",
-      "verification": "pending-exact-current-cap-title-verification",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-cross-reference",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned",
-      "verificationNote": "Batch duplicate audit withdrew the conflicting THE NATIONAL PAYMENT SYSTEMS ACT mapping at CAP 304. Exact OSG R.E. 2023 evidence establishes THE NATIONAL PAYMENT SYSTEMS ACT at CAP 437. CAP 304 remains pending exact current-title verification."
+      "legalStatus": "repealed",
+      "verificationNote": "Official OSG-hosted Tanzania Telecommunications Corporation Act, 2017 expressly repeals Cap. 304 and names it as the Tanzania Telecommunications Company Incorporation Act."
     },
     {
       "id": "osg-cap-305-credit-reference-bureau-act",
@@ -8778,13 +8778,13 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 434,
-    "pendingCount": 16,
+    "verifiedCount": 436,
+    "pendingCount": 14,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 431,
-      "reassigned": 15,
-      "repealed": 2,
+      "active": 432,
+      "reassigned": 13,
+      "repealed": 3,
       "omitted": 2
     }
   },
