@@ -8515,23 +8515,23 @@
     },
     {
       "id": "pending-cap-440",
-      "title": "CAP 440 — Title pending verification",
-      "shortTitle": "CAP 440 — Pending verification",
+      "title": "CAP 440 — Historical R.L. mapping; current CAP/title pending exact verification",
+      "shortTitle": "Historical R.L. CAP 440",
       "chapterNumber": "440",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": null,
-      "sourceUrl": null,
+      "source": "Office of the Solicitor General e-Library / Office of the Attorney General",
+      "sourceUrl": "https://elibrary.osg.go.tz/",
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "catalogued-mapping-conflict",
+      "verification": "pending-exact-current-cap-title-verification",
+      "verificationNote": "Current OSG Penal Code R.E. 2023 cites 'R.L. Cap. 440 s. 16' as repealing former Penal Code section 173A. This proves CAP 440 is a historical Revised Laws reference, but does not safely establish a current principal-legislation CAP/title mapping. Reclassified from unclassified pending to reassigned/conflict pending exact verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "reassigned"
     },
     {
       "id": "pending-cap-441",
@@ -8738,9 +8738,9 @@
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
       "active": 409,
-      "reassigned": 30,
+      "reassigned": 31,
       "omitted": 2,
-      "pending": 8,
+      "pending": 7,
       "repealed": 1
     }
   },
