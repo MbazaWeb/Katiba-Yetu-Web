@@ -8535,23 +8535,23 @@
     },
     {
       "id": "pending-cap-441",
-      "title": "CAP 441 — Current CAP/title pending exact verification",
-      "shortTitle": "CAP 441 mapping unresolved",
+      "title": "THE NATIONAL YOUTH COUNCIL ACT",
+      "shortTitle": "National Youth Council Act",
       "chapterNumber": "441",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library / Office of the Attorney General",
-      "sourceUrl": "https://elibrary.osg.go.tz/",
+      "source": "Office of the Attorney General (OAG MIS)",
+      "sourceUrl": "https://oagmis.oag.go.tz/",
       "contentReady": false,
-      "status": "catalogued-mapping-conflict",
-      "verification": "pending-exact-current-cap-title-verification",
-      "verificationNote": "Official OSG search evidence currently surfaces Civil Case No. 441 and other non-CAP references rather than a reliable current principal-legislation CAP 441 title. To avoid asserting an invented law title, this slot is reclassified from unclassified pending to reassigned/mapping conflict pending exact official verification.",
+      "status": "catalogued-official-current-reference-pending-conversion",
+      "verification": "verified-official-oag-2026",
+      "verificationNote": "The official Written Laws (Miscellaneous Amendments) Act, 2026 expressly lists the National Youth Council Act, Cap. 441 among the laws amended. This resolves the prior CAP 441 mapping uncertainty.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-442-electronic-transactions-act",
@@ -8733,14 +8733,14 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 442,
-    "pendingCount": 8,
+    "verifiedCount": 443,
+    "pendingCount": 7,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 442,
+      "active": 443,
       "repealed": 2,
       "omitted": 2,
-      "reassigned": 4
+      "reassigned": 3
     }
   },
   "conversionTracking": {
