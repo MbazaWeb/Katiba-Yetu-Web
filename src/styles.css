@@ -934,3 +934,10 @@ input,select,textarea,button{max-width:100%}
 .lawStatusSummaryCard small{font-size:.7rem;font-weight:800;letter-spacing:.09em;opacity:.7}.lawStatusSummaryCard strong{font-size:1.15rem}.lawStatusSummaryCard span{font-size:.82rem;opacity:.72}
 .lawStatusSummaryCard.active{border-left:5px solid #198754}.lawStatusSummaryCard.repealed{border-left:5px solid #b42318}.lawStatusSummaryCard.omitted{border-left:5px solid #b7791f}.lawStatusSummaryCard.reassigned{border-left:5px solid #6f42c1}.lawStatusSummaryCard.pending{border-left:5px solid #667085}
 @media(max-width:760px){.lawStatusSummary{grid-template-columns:1fr}}
+
+.lawDashboardSummary{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:12px;margin:22px 0 26px}
+.lawDashboardCard{position:relative;overflow:hidden;min-height:128px;padding:18px;border:1px solid var(--line);border-radius:18px;background:var(--card);display:flex;flex-direction:column;justify-content:space-between}
+.lawDashboardCard:before{content:"";position:absolute;left:0;top:0;bottom:0;width:5px;background:#667085}
+.lawDashboardCard small{font-size:.66rem;font-weight:800;letter-spacing:.08em;opacity:.68}.lawDashboardCard strong{font-size:2rem;line-height:1}.lawDashboardCard span{font-size:.76rem;opacity:.7}
+.lawDashboardCard.total:before{background:#344054}.lawDashboardCard.active:before{background:#198754}.lawDashboardCard.repealed:before{background:#b42318}.lawDashboardCard.omitted:before{background:#b7791f}.lawDashboardCard.reassigned:before{background:#6f42c1}.lawDashboardCard.pending:before{background:#667085}
+@media(max-width:1100px){.lawDashboardSummary{grid-template-columns:repeat(3,1fr)}}@media(max-width:640px){.lawDashboardSummary{grid-template-columns:repeat(2,1fr)}.lawDashboardCard{min-height:112px}}
