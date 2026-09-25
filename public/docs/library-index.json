@@ -7387,23 +7387,23 @@
     },
     {
       "id": "pending-cap-383",
-      "title": "CAP 383 — Current CAP/title pending exact verification",
-      "shortTitle": "CAP 383 mapping unresolved",
+      "title": "THE STATUTORY BODIES (CHANGE OF NAMES) ACT",
+      "shortTitle": "Statutory Bodies (Change of Names) Act",
       "chapterNumber": "383",
       "year": null,
-      "edition": null,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library / Office of the Attorney General",
+      "source": "Government of Tanzania revised legislation / corroborated Tanzania legal index",
       "sourceUrl": "https://elibrary.osg.go.tz/",
       "contentReady": false,
-      "status": "catalogued-mapping-conflict",
-      "verification": "pending-exact-current-cap-title-verification",
-      "verificationNote": "Authoritative OSG/OAG verification has not established a reliable current principal-legislation CAP 383 title. Reclassified from unclassified pending to reassigned/mapping conflict to avoid asserting an unsupported law title.",
+      "status": "catalogued-current-cap-title-corroborated",
+      "verification": "corroborated-current-tanzania-re-2023",
+      "verificationNote": "Current R.E. 2023 text identifies Chapter 383 as the Statutory Bodies (Change of Names) Act, Act No. 24 of 1967. Tanzania legal indexes independently map the same Act to Cap. 383 R.E. 2002. Historical Cap.383 mappings (including Pangani River and later wildlife references) reflect earlier/reused chapter numbering and do not displace the current R.E. 2023 title.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-384",
@@ -8737,10 +8737,10 @@
     "pendingCount": 11,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 437,
+      "active": 438,
       "repealed": 2,
       "omitted": 2,
-      "reassigned": 9
+      "reassigned": 8
     }
   },
   "conversionTracking": {
