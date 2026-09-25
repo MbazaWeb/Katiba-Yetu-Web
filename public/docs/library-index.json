@@ -4876,24 +4876,24 @@
       "legalStatus": "active"
     },
     {
-      "id": "osg-cap-252-fire-and-rescue-force-act",
-      "title": "CAP 252 — Current CAP/title pending exact Tanzania verification",
-      "shortTitle": "CAP 252 — Title pending verification",
+      "id": "gov-cap-252-rent-restriction-act",
+      "title": "THE RENT RESTRICTION ACT",
+      "shortTitle": "Rent Restriction Act",
       "chapterNumber": "252",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Official Tanzania legal source required",
-      "sourceUrl": null,
+      "source": "Tanzania Government revised legislation / Judiciary cross-reference",
+      "sourceUrl": "https://media.tanzlii.org/media/legislation/317238/source_file/479bf917c3ef10eb/1984-17.pdf",
       "contentReady": false,
-      "status": "pending-exact-current-cap-title-verification",
-      "verification": "pending-exact-current-cap-title-verification",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-government-revised-laws",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned",
-      "verificationNote": "Duplicate audit invalidated the conflicting Fire and Rescue Force Act mapping at CAP 252. Exact OSG Principal Legislation evidence establishes THE FIRE AND RESCUE FORCE ACT at CAP 427. CAP 252 is retained pending exact current-title verification."
+      "legalStatus": "repealed",
+      "verificationNote": "Official/revised Tanzanian legal material identifies the Rent Restriction Act as Cap.252. The Land Act, 1999 repealed the Rent Restriction Act, 1984; the catalogue therefore records CAP 252 as repealed rather than leaving the slot unresolved."
     },
     {
       "id": "osg-cap-253-disaster-management-act",
@@ -8778,14 +8778,14 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 449,
-    "pendingCount": 1,
+    "verifiedCount": 450,
+    "pendingCount": 0,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
       "active": 436,
       "omitted": 6,
-      "repealed": 6,
-      "reassigned": 2
+      "repealed": 7,
+      "reassigned": 1
     }
   },
   "conversionTracking": {
