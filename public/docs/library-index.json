@@ -6730,7 +6730,7 @@
       "contentReady": false,
       "status": "catalogued-mapping-conflict",
       "verification": "pending-exact-current-cap-title-verification",
-      "verificationNote": "Re-audited against the live OSG record. The item display title says 'THE BUDGET ACT (CAP 349)', but its official metadata identifies author CHAPTER 439, abstract 'Budget Act, Chapter 439', and keywords CHAPTER 439 / CAP 439. OSG browse results repeat the same inconsistency. CAP 349 therefore cannot safely be assigned the Budget Act and remains reassigned pending an authoritative exact title.",
+      "verificationNote": "Live OSG re-check confirms an unresolved internal metadata contradiction: display title says THE BUDGET ACT (CAP 349), but Authors=CHAPTER 439, Abstract=Budget Act, Chapter 439, and Keywords=CHAPTER 439/CAP 439. OSG browse listing repeats the same contradiction. Budget Act must not be assigned to CAP 349 until an authoritative exact-title record resolves it.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
