@@ -807,23 +807,23 @@
     },
     {
       "id": "pending-cap-42",
-      "title": "THE PROBATION OF OFFENDERS ACT",
-      "shortTitle": "Probation of Offenders Act",
+      "title": "CAP 42 — Current CAP/title pending exact Tanzania verification",
+      "shortTitle": "CAP 42 — Title pending verification",
       "chapterNumber": "42",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library / Office of the Attorney General",
-      "sourceUrl": "https://elibrary.osg.go.tz/",
+      "source": "Official Tanzania legal source required",
+      "sourceUrl": null,
       "contentReady": false,
-      "status": "catalogued-official-text-pending-conversion",
-      "verification": "verified-official-osg-current",
-      "verificationNote": "Official OSG principal-legislation material confirms CAP 42 and the exact Act title. Previous conflicting catalogue assignment discarded.",
+      "status": "pending-exact-current-cap-title-verification",
+      "verification": "pending-exact-current-cap-title-verification",
+      "verificationNote": "Duplicate audit invalidated the previous Probation of Offenders Act mapping at CAP 42. Exact OSG R.E. 2023 evidence establishes THE PROBATION OF OFFENDERS ACT at CAP 274. No exact authoritative current title for CAP 42 has yet been established, so this slot is retained without guessing.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "reassigned"
     },
     {
       "id": "oag-cap-43-age-of-majority-act",
@@ -5302,13 +5302,14 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/c445b7e5-f145-4d79-a83e-6a7691bc4e12",
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "active",
+      "verificationNote": "Exact OSG R.E. 2023 record identifies THE PROBATION OF OFFENDERS ACT as CHAPTER 274 / CAP. 274. Duplicate assignment at CAP 42 was withdrawn pending exact current-title verification."
     },
     {
       "id": "osg-cap-275-tea-industry-act",
@@ -8745,12 +8746,12 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 434,
-    "pendingCount": 16,
+    "verifiedCount": 433,
+    "pendingCount": 17,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 431,
-      "reassigned": 15,
+      "active": 430,
+      "reassigned": 16,
       "repealed": 2,
       "omitted": 2
     }
