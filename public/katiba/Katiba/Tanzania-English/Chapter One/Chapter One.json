@@ -1,0 +1,23 @@
+{
+  "chapter": "Chapter One",
+  "jina": "THE UNITED REPUBLIC, POLITICAL PARTIES, THE PEOPLE AND THE POLICY OF SOCIALISM AND SELF-RELIANCE",
+  "documentId": "doc-union-1977-en",
+  "chapterNumber": 1,
+  "language": "en",
+  "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
+  "ibara": [
+    "Article 1.json",
+    "Article 2.json",
+    "Article 3.json",
+    "Article 4.json",
+    "Article 5.json"
+  ],
+  "sehemu": [
+    "Part I: The United Republic and the People",
+    "Part II: Fundamental Objectives and Directive Principles of State Policy",
+    "Part III: Basic Rights and Duties"
+  ],
+  "conversionStatus": "in-progress",
+  "articlesConverted": 5,
+  "chapterArticlesTotal": 32
+}
