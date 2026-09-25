@@ -1084,23 +1084,23 @@
     },
     {
       "id": "pending-cap-56",
-      "title": "THE NON-GOVERNMENTAL ORGANIZATIONS ACT",
-      "shortTitle": "Non-Governmental Organizations Act",
+      "title": "CAP 56 — Current CAP/title pending exact Tanzania verification",
+      "shortTitle": "CAP 56 — Title pending verification",
       "chapterNumber": "56",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/bitstreams/b8378473-3fcb-413b-b4b9-02447455f565/download",
+      "source": "Official Tanzania legal source required",
+      "sourceUrl": null,
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg-reference",
-      "verificationNote": "Official OSG Written Laws (Miscellaneous Amendments) Act 2019 expressly identifies the Non-Governmental Organizations Act as Cap. 56.",
+      "status": "pending-exact-current-cap-title-verification",
+      "verification": "pending-exact-current-cap-title-verification",
+      "verificationNote": "The older 2019 miscellaneous-amendments reference identifying the Non-Governmental Organizations Act as Cap. 56 conflicts with the exact current OSG R.E. 2023 principal-legislation record at CAP 291. CAP 56 is retained pending exact current-title verification rather than guessing.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "reassigned"
     },
     {
       "id": "pending-cap-57",
@@ -5633,13 +5633,14 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/cc0dbf56-0874-44e5-b8a1-f82f2a763c85",
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "active",
+      "verificationNote": "Exact current OSG R.E. 2023 record identifies THE NON-GOVERNMENTAL ORGANIZATIONS ACT as CHAPTER 291 / CAP. 291. The older CAP 56 amendment reference was not used as the current principal-legislation mapping."
     },
     {
       "id": "osg-cap-292-business-names-registration-act",
@@ -8748,12 +8749,12 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 431,
-    "pendingCount": 19,
+    "verifiedCount": 430,
+    "pendingCount": 20,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 428,
-      "reassigned": 18,
+      "active": 427,
+      "reassigned": 19,
       "repealed": 2,
       "omitted": 2
     }
