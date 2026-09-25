@@ -6816,23 +6816,23 @@
     },
     {
       "id": "pending-cap-354",
-      "title": "CAP 354 — Current CAP/title pending exact verification",
-      "shortTitle": "CAP 354 mapping unresolved",
+      "title": "THE TANZANIA CITIZENSHIP ACT",
+      "shortTitle": "Tanzania Citizenship Act",
       "chapterNumber": "354",
       "year": null,
-      "edition": null,
+      "edition": "R.E. 2010",
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library / Government of Tanzania",
-      "sourceUrl": "https://elibrary.osg.go.tz/",
+      "source": "Tanzania statutory reference / Library of Congress legal research",
+      "sourceUrl": "https://tile.loc.gov/storage-services/service/ll/llglrd/2018655070/2018655070.pdf",
       "contentReady": false,
-      "status": "catalogued-mapping-conflict",
-      "verification": "pending-exact-current-cap-title-verification",
-      "verificationNote": "The previous Land Act candidate is definitively incorrect because official Tanzania sources place the Land Act at Cap. 113. A Tanga UWASA government bond form labels the Law of Contract Act as Cap. 354, but authoritative OSG consolidated legislation places the Law of Contract Act at Cap. 345. This contradictory government reference is not sufficient to assign a title to Cap. 354; slot remains reassigned pending exact OSG/OAG verification.",
+      "status": "catalogued-cap-title-corroborated-official-text-pending",
+      "verification": "corroborated-tanzania-cap-reference",
+      "verificationNote": "Re-audit found a Tanzania-specific statutory citation identifying the Tanzania Citizenship Act 6 of 1995 in the Laws of Tanzania as Cap. 354 (R.E. 2010). This resolves the prior Land Act/Law of Contract misassignments at the legal-status level, but the record is not marked verified-official until a direct OSG/OAG consolidated text is obtained.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-355-urban-planning",
@@ -8737,10 +8737,10 @@
     "pendingCount": 4,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 443,
+      "active": 444,
       "repealed": 2,
       "omitted": 2,
-      "reassigned": 3
+      "reassigned": 2
     }
   },
   "conversionTracking": {
