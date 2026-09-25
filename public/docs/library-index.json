@@ -1561,23 +1561,23 @@
     },
     {
       "id": "pending-cap-80",
-      "title": "THE TANZANIA INSTITUTE OF EDUCATION ACT",
-      "shortTitle": "Tanzania Institute of Education Act",
+      "title": "CAP 80 — Current CAP/title pending exact Tanzania verification",
+      "shortTitle": "CAP 80 — Title pending verification",
       "chapterNumber": "80",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/",
+      "source": "Official Tanzania legal source required",
+      "sourceUrl": null,
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg-reference",
-      "verificationNote": "Official government legal reference identifies the Tanzania Institute of Education Act as Cap. 80.",
+      "status": "pending-exact-current-cap-title-verification",
+      "verification": "pending-exact-current-cap-title-verification",
+      "verificationNote": "Duplicate audit invalidated the weaker generic Tanzania Institute of Education Act mapping at CAP 80. Exact OSG R.E. 2023 principal-legislation evidence establishes THE TANZANIA INSTITUTE OF EDUCATION ACT at CAP 142. CAP 80 is retained pending exact current-title verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "reassigned"
     },
     {
       "id": "pending-cap-81",
@@ -2787,13 +2787,14 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/0a12519f-0171-4957-8cc3-caf949c9a863",
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "active",
+      "verificationNote": "Exact current OSG R.E. 2023 record identifies THE TANZANIA INSTITUTE OF EDUCATION ACT as CHAPTER 142 / CAP. 142. The weaker generic CAP 80 assignment was withdrawn pending exact current-title verification."
     },
     {
       "id": "osg-cap-143-tanzania-zambia-railway-act",
@@ -8750,12 +8751,12 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 428,
-    "pendingCount": 22,
+    "verifiedCount": 427,
+    "pendingCount": 23,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 425,
-      "reassigned": 21,
+      "active": 424,
+      "reassigned": 22,
       "repealed": 2,
       "omitted": 2
     }
