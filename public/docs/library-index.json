@@ -1010,14 +1010,14 @@
       "source": null,
       "sourceUrl": null,
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "cap-number-source-conflict",
+      "verification": "conflict-official-cap-reference",
+      "verificationNote": "Official Tanzania Prisons Service and government legal materials identify the Prisons Act as Cap. 58; CAP 52 is not promoted from this candidate and requires exact verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "reassigned"
     },
     {
       "id": "pending-cap-53",
@@ -1030,14 +1030,14 @@
       "source": null,
       "sourceUrl": null,
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "cap-number-source-conflict",
+      "verification": "conflict-official-cap-reference",
+      "verificationNote": "Official government legal materials identify the Police Force and Auxiliary Services Act as Cap. 322; CAP 53 requires exact verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "reassigned"
     },
     {
       "id": "pending-cap-54",
@@ -1070,14 +1070,14 @@
       "source": null,
       "sourceUrl": null,
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "cap-number-source-conflict",
+      "verification": "conflict-official-cap-reference",
+      "verificationNote": "Official Immigration materials identify the Immigration Act as Cap. 54; CAP 55 requires exact verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "reassigned"
     },
     {
       "id": "pending-cap-56",
@@ -1110,14 +1110,14 @@
       "source": null,
       "sourceUrl": null,
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "cap-number-source-conflict",
+      "verification": "conflict-official-cap-reference",
+      "verificationNote": "Official legal materials identify the Prevention of Terrorism Act as Cap. 19; CAP 57 requires exact verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "reassigned"
     },
     {
       "id": "osg-cap-58-prisons-act",
@@ -8738,8 +8738,8 @@
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
       "active": 357,
-      "pending": 82,
-      "reassigned": 9,
+      "pending": 78,
+      "reassigned": 13,
       "omitted": 2
     }
   },
