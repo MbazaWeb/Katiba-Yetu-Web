@@ -3115,24 +3115,24 @@
       "legalStatus": "active"
     },
     {
-      "id": "osg-cap-160-standards",
-      "title": "CAP 160 — Current CAP/title pending exact Tanzania verification",
-      "shortTitle": "CAP 160 mapping unresolved",
+      "id": "osg-cap-160-chemist-professionals-act",
+      "title": "THE CHEMIST PROFESSIONALS ACT",
+      "shortTitle": "Chemist Professionals Act",
       "chapterNumber": "160",
       "year": 2023,
       "edition": "R.E. 2023",
-      "sourceUrl": "https://elibrary.osg.go.tz/",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/b134f47b-b187-4d4b-b26d-8efe8bcf6343",
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library / Office of the Attorney General",
+      "source": "Office of the Solicitor General e-Library",
       "contentReady": false,
-      "status": "catalogued-mapping-conflict",
-      "verification": "pending-exact-current-cap-title-verification",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned",
-      "verificationNote": "Re-audited against targeted official-domain searches. No authoritative Tanzania OSG/OAG record was found establishing the current CAP 160 title. Search matches for Law of Succession Act Cap.160 belong to Kenya and are excluded. The previous Standards Act mapping is also invalid because Tanzania's Standards Act is Cap.130. CAP 160 remains reassigned until exact official Tanzania evidence is located."
+      "legalStatus": "active",
+      "verificationNote": "Official OSG Principal Legislation record directly identifies THE CHEMIST PROFESSIONALS ACT as CHAPTER 160 / CAP. 160 R.E. 2023. The item is authored by the Office of the Attorney General and published by Government Printer Dodoma. This resolves the previous CAP 160 mapping uncertainty; the former Standards Act mapping remains excluded because the Standards Act is Cap. 130."
     },
     {
       "id": "pending-cap-161",
@@ -8733,14 +8733,14 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 447,
-    "pendingCount": 3,
+    "verifiedCount": 448,
+    "pendingCount": 2,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 444,
+      "active": 445,
       "repealed": 2,
       "omitted": 2,
-      "reassigned": 2
+      "reassigned": 1
     }
   },
   "conversionTracking": {
