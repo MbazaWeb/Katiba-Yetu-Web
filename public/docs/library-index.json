@@ -499,14 +499,14 @@
       "source": null,
       "sourceUrl": null,
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "cap-number-source-conflict",
+      "verification": "conflict-official-cap-reference",
+      "verificationNote": "Official government legal materials identify the Evidence Act as Cap. 6, so CAP 26 cannot be assigned this title and requires exact historical verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "reassigned"
     },
     {
       "id": "osg-cap-27-administrator-general-powers-and-functions-act",
@@ -538,14 +538,14 @@
       "source": null,
       "sourceUrl": null,
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "cap-number-source-conflict",
+      "verification": "conflict-official-cap-reference",
+      "verificationNote": "Official government legal materials identify the Law of Marriage Act as Cap. 29, so CAP 28 requires exact historical verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "reassigned"
     },
     {
       "id": "oag-cap-29-law-of-marriage",
@@ -695,14 +695,14 @@
       "source": null,
       "sourceUrl": null,
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "cap-number-source-conflict",
+      "verification": "conflict-official-cap-reference",
+      "verificationNote": "Official OSG materials identify the Extradition Act as Cap. 368, so CAP 36 requires exact historical verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "reassigned"
     },
     {
       "id": "pending-cap-37",
@@ -813,14 +813,14 @@
       "source": null,
       "sourceUrl": null,
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "cap-number-source-conflict",
+      "verification": "conflict-official-cap-reference",
+      "verificationNote": "Official legal materials identify the Economic and Organised Crime Control Act as Cap. 200, so CAP 42 requires exact historical verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "reassigned"
     },
     {
       "id": "oag-cap-43-age-of-majority-act",
@@ -8738,9 +8738,9 @@
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
       "active": 361,
-      "reassigned": 13,
-      "pending": 73,
+      "reassigned": 17,
       "omitted": 2,
+      "pending": 69,
       "repealed": 1
     }
   },
