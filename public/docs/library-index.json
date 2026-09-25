@@ -1288,14 +1288,14 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/",
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg-reference",
-      "verificationNote": "Official government legal reference identifies this Act as Cap. 66.",
+      "status": "cap-number-conflict-requires-reverification",
+      "verification": "conflict-official-cap-reference",
+      "verificationNote": "Catalogue conflict: the National Council for Technical and Vocational Education and Training Act is authoritatively identified as Cap. 129. Cap. 66 must be re-verified for its correct title/status.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "reassigned"
     },
     {
       "id": "pending-cap-67",
@@ -2520,23 +2520,23 @@
     },
     {
       "id": "pending-cap-129",
-      "title": "CAP 129 — Title pending verification",
-      "shortTitle": "CAP 129 — Pending verification",
+      "title": "THE NATIONAL COUNCIL FOR TECHNICAL AND VOCATIONAL EDUCATION AND TRAINING ACT",
+      "shortTitle": "National Council for Technical and Vocational Education and Training Act",
       "chapterNumber": "129",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": null,
-      "sourceUrl": null,
+      "source": "National Council for Technical and Vocational Education and Training",
+      "sourceUrl": "https://www.nactvet.go.tz/",
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "source-catalogued",
+      "verification": "verified-official-reference",
+      "verificationNote": "NACTVET identifies its establishing Act as the National Council for Technical and Vocational Education and Training Act, Cap. 129.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-130",
@@ -8737,8 +8737,8 @@
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
       "active": 346,
-      "pending": 99,
-      "reassigned": 3,
+      "pending": 98,
+      "reassigned": 4,
       "omitted": 2
     }
   },
