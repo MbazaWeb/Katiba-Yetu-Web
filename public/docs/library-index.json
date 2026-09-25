@@ -1301,24 +1301,24 @@
       "legalStatus": "active"
     },
     {
-      "id": "pending-cap-67",
-      "title": "CAP 67 — Current CAP/title pending exact Tanzania verification",
-      "shortTitle": "CAP 67 — Title pending verification",
+      "id": "gov-cap-67-cantonments-ordinance",
+      "title": "THE CANTONMENTS ORDINANCE",
+      "shortTitle": "Cantonments Ordinance",
       "chapterNumber": "67",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Official Tanzania legal source required",
-      "sourceUrl": null,
+      "source": "Tanzania Law Reports principal legislation catalogue",
+      "sourceUrl": "https://www.tanzanialawreports.co.tz/?cypher_req=principal-legislation&volume=1",
       "contentReady": false,
-      "status": "pending-exact-current-cap-title-verification",
-      "verification": "pending-exact-current-cap-title-verification",
-      "verificationNote": "Duplicate audit invalidated the weaker generic Education Fund Act mapping at CAP 67. Exact OSG Principal Legislation R.E. 2023 evidence establishes THE EDUCATION FUND ACT at CAP 412. CAP 67 is retained pending exact current-title verification.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-government-catalogue",
+      "verificationNote": "Tanzania Law Reports principal-legislation catalogue identifies Cap.67 as the Cantonments Ordinance and marks it omitted.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "omitted"
     },
     {
       "id": "pending-cap-68",
@@ -1699,24 +1699,24 @@
       "legalStatus": "active"
     },
     {
-      "id": "pending-cap-87",
-      "title": "CAP 87 — Current CAP/title pending exact Tanzania verification",
-      "shortTitle": "CAP 87 — Title pending verification",
+      "id": "gov-cap-87-building-societies-act",
+      "title": "THE BUILDING SOCIETIES ACT",
+      "shortTitle": "Building Societies Act",
       "chapterNumber": "87",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Official Tanzania legal source required",
-      "sourceUrl": null,
+      "source": "Tanzania Law Reports principal legislation catalogue",
+      "sourceUrl": "https://www.tanzanialawreports.co.tz/?cypher_req=principal-legislation&volume=1",
       "contentReady": false,
-      "status": "pending-exact-current-cap-title-verification",
-      "verification": "pending-exact-current-cap-title-verification",
-      "verificationNote": "Duplicate audit invalidated the previous Higher Education Students' Loans Board Act mapping at CAP 87. Exact OSG and OAG R.E. 2023 evidence establishes that Act at CAP 178. No exact authoritative current title for CAP 87 has yet been established, so this slot is retained without guessing.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-government-catalogue",
+      "verificationNote": "Tanzania Law Reports principal-legislation catalogue identifies the Building Societies Act as Cap.87 R.E. 2002 and marks it omitted.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "omitted"
     },
     {
       "id": "pending-cap-88",
@@ -6777,7 +6777,7 @@
       "legalStatus": "active"
     },
     {
-      "id": "pending-cap-350",
+      "id": "gov-cap-350-international-development-association-act",
       "title": "THE INTERNATIONAL DEVELOPMENT ASSOCIATION ACT",
       "shortTitle": "International Development Association Act",
       "chapterNumber": "350",
@@ -6787,9 +6787,9 @@
       "source": "Parliament of Tanzania",
       "sourceUrl": "https://parliament.go.tz/uploads/documents/sw-1738928158-1682416605-HOTUBA%20YA%20MHESHIMIWA.%20DKT.%20DAMAS%20DANIEL%20NDUMBARO%20%28MB.%29%2C%20WAZIRI%20WA%20KATIBA%20NA%20SHERIA%2C%20AKIWASILISHA%20BUNGENI%20MPANGO%20NA%20MAKADIRIO%20YA%20BAJE.pdf",
       "contentReady": false,
-      "status": "catalogued-cap-title-and-revision-corroborated-official-parliament-osg-oag-text-pending",
-      "verification": "corroborated-official-parliament",
-      "verificationNote": "Official Parliament of Tanzania Appendix F expressly lists THE INTERNATIONAL DEVELOPMENT ASSOCIATION ACT as Sura/CAP 350 among laws revised between July 2022 and March 2023, supporting the current R.E. 2023 catalogue edition. The CAP/title mapping is therefore government-corroborated. Repeated exact-title/CAP searches of OSG e-Library and OAG MIS still do not surface a directly indexed CAP 350 item, so under the catalogue's strict policy this record remains outside verified-official-* pending direct OSG/OAG evidence.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-parliament-revision-list",
+      "verificationNote": "Official Parliament of Tanzania Appendix F expressly lists THE INTERNATIONAL DEVELOPMENT ASSOCIATION ACT as Sura/CAP 350 among laws revised between July 2022 and March 2023. This is direct official government evidence of the CAP/title mapping.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
@@ -8778,14 +8778,14 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 439,
-    "pendingCount": 11,
+    "verifiedCount": 442,
+    "pendingCount": 8,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
       "active": 435,
-      "reassigned": 10,
-      "repealed": 3,
-      "omitted": 2
+      "omitted": 4,
+      "reassigned": 8,
+      "repealed": 3
     }
   },
   "conversionTracking": {
