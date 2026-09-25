@@ -2500,23 +2500,23 @@
     },
     {
       "id": "pending-cap-128",
-      "title": "CAP 128 — Current CAP/title pending exact verification",
-      "shortTitle": "CAP 128 mapping unresolved",
+      "title": "THE VALUATION AND VALUERS REGISTRATION ACT",
+      "shortTitle": "Valuation and Valuers Registration Act",
       "chapterNumber": "128",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library / Office of the Attorney General",
-      "sourceUrl": "https://elibrary.osg.go.tz/",
+      "source": "National Audit Office of Tanzania / Government of Tanzania",
+      "sourceUrl": "https://www.nao.go.tz/uploads/Annual_General_Report_for_Audit_of_Central_Government_FY_2024-25.pdf",
       "contentReady": false,
-      "status": "catalogued-mapping-conflict",
-      "verification": "pending-exact-current-cap-title-verification",
-      "verificationNote": "Authoritative OSG/OAG verification has not established a reliable current principal-legislation CAP 128 title. Reclassified from unclassified pending to reassigned/mapping conflict to avoid asserting an unsupported law title.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-government-re-2023",
+      "verificationNote": "NAOT Annual General Report FY 2024/25 expressly cites section 52(8) of the Valuation and Valuers Registration Act [CAP.128 R.E.2023], confirming the exact CAP/title and current revised edition.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-129",
@@ -5001,23 +5001,23 @@
     },
     {
       "id": "osg-cap-259-refugees-act",
-      "title": "THE REFUGEES ACT",
-      "shortTitle": "Refugees Act",
+      "title": "THE NATURAL RESOURCES ACT",
+      "shortTitle": "Natural Resources Act",
       "chapterNumber": "259",
       "year": 2023,
       "edition": "R.E. 2023",
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/items/9d5fd2bd-809e-4ea1-a30a-c5f73c238d9d",
+      "source": "Tanzania legal reporting / corroborated Tanzanian legal scholarship",
+      "sourceUrl": "https://www.tanzanialawreports.co.tz/?cypher_req=principal-legislation&volume=2",
       "contentReady": false,
-      "status": "cap-number-source-conflict",
-      "verification": "conflict-official-cap-reference",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-corroborated-tanzania-cap-reference",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned",
-      "verificationNote": "Authoritative government evidence places Refugees Act at CAP 37; this duplicate CAP 259 mapping requires exact-title re-verification."
+      "legalStatus": "active",
+      "verificationNote": "Tanzania Law Reports principal-legislation index identifies Cap.259 R.E.2002 as the Natural Resources Act; Tanzanian legal scholarship independently uses the same Cap.259 mapping. Replaces the incorrect duplicate Refugees Act title."
     },
     {
       "id": "osg-cap-260-national-identification-authority-act",
@@ -8733,14 +8733,14 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 427,
-    "pendingCount": 23,
+    "verifiedCount": 428,
+    "pendingCount": 22,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 423,
+      "active": 425,
       "repealed": 2,
       "omitted": 2,
-      "reassigned": 23
+      "reassigned": 21
     }
   },
   "conversionTracking": {
