@@ -745,23 +745,23 @@
     },
     {
       "id": "pending-cap-39",
-      "title": "CAP 39 — Title pending verification",
-      "shortTitle": "CAP 39 — Pending verification",
+      "title": "THE EXPULSION OF UNDESIRABLE PERSONS ORDINANCE",
+      "shortTitle": "Expulsion of Undesirable Persons Ordinance",
       "chapterNumber": "39",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": null,
-      "sourceUrl": null,
+      "source": "Law Reform Commission of Tanzania",
+      "sourceUrl": "https://media.tanzlii.org/media/generic_document/174693/source_file/final-report-on-the-designated-legislation-in-the-nyalali-commission-report.pdf",
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "source-catalogued",
+      "verification": "verified-official-reference",
+      "verificationNote": "Law Reform Commission report identifies the Expulsion of Undesirable Persons Ordinance as Cap. 39, as amended by Act No. 32 of 1994, states it remained useful legislation, and recommended retention.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-40-tanzania-zambia-pipeline-act",
@@ -2716,23 +2716,23 @@
     },
     {
       "id": "pending-cap-139",
-      "title": "CAP 139 — Title pending verification",
-      "shortTitle": "CAP 139 — Pending verification",
+      "title": "THE COPRA ORDINANCE",
+      "shortTitle": "Copra Ordinance",
       "chapterNumber": "139",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": null,
-      "sourceUrl": null,
+      "source": "Tanzania Law Reports — Principal Legislation Index",
+      "sourceUrl": "https://tanzanialawreports.co.tz/?cypher_req=principal-legislation&volume=1",
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "repealed",
+      "verification": "verified-official-status-reference",
+      "verificationNote": "Principal legislation index identifies Cap. 139 as the Copra Ordinance and records the Copra Ordinance (Repeal) Act, 1965 (Act No. 10 of 1965), which repealed it.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "repealed"
     },
     {
       "id": "osg-cap-140-joint-finance-commission-act",
@@ -8733,14 +8733,15 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 363,
-    "pendingCount": 87,
+    "verifiedCount": 365,
+    "pendingCount": 85,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 360,
+      "active": 361,
       "reassigned": 13,
-      "pending": 75,
-      "omitted": 2
+      "pending": 73,
+      "omitted": 2,
+      "repealed": 1
     }
   },
   "conversionTracking": {
