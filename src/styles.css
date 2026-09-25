@@ -925,3 +925,6 @@ input,select,textarea,button{max-width:100%}
   .lawChapterNav{padding:10px!important}
   .lawDocument .articleRow{grid-template-columns:78px minmax(0,1fr) 16px!important;font-size:14px}
 }
+
+/* Law legal-status badges */
+.lawStatusRow{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-top:8px}.lawStatusBadge{display:inline-flex;align-items:center;border-radius:999px;padding:3px 8px;font-size:11px;font-weight:800;letter-spacing:.02em;border:1px solid currentColor}.lawStatusBadge.active{color:#15803d;background:#f0fdf4}.lawStatusBadge.repealed{color:#b91c1c;background:#fef2f2}.lawStatusBadge.omitted{color:#92400e;background:#fffbeb}.lawStatusBadge.reassigned{color:#1d4ed8;background:#eff6ff}.lawStatusBadge.pending{color:#64748b;background:#f8fafc}
