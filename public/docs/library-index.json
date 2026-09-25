@@ -5061,13 +5061,14 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/67d4d243-c3c9-4781-aabe-c4c6bc2ec450",
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "active",
+      "verificationNote": "Exact current OSG R.E. 2023 record identifies THE PREVENTION AND COMBATING OF CORRUPTION ACT as CAP 261. The older CAP 329 R.E. 2022 mapping was withdrawn pending exact current-title verification."
     },
     {
       "id": "osg-cap-262-anti-trafficking-in-persons-act",
@@ -6356,22 +6357,23 @@
     },
     {
       "id": "osg-cap-329-prevention-combating-corruption",
-      "title": "THE PREVENTION AND COMBATING OF CORRUPTION ACT",
-      "shortTitle": "Prevention and Combating of Corruption Act",
+      "title": "CAP 329 — Current CAP/title pending exact Tanzania verification",
+      "shortTitle": "CAP 329 — Title pending verification",
       "chapterNumber": "329",
-      "year": 2022,
-      "edition": "R.E. 2022",
+      "year": null,
+      "edition": null,
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/handle/123456789/82/browse?etal=-1&offset=180&order=ASC&rpp=20&sort_by=1&type=title",
+      "source": "Official Tanzania legal source required",
+      "sourceUrl": null,
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg",
+      "status": "pending-exact-current-cap-title-verification",
+      "verification": "pending-exact-current-cap-title-verification",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "reassigned",
+      "verificationNote": "Duplicate audit withdrew the older R.E. 2022 Prevention and Combating of Corruption Act mapping at CAP 329. Exact current OSG R.E. 2023 principal-legislation evidence identifies THE PREVENTION AND COMBATING OF CORRUPTION ACT at CAP 261. CAP 329 is retained pending exact current-title verification."
     },
     {
       "id": "osg-cap-330-public-service-social-security-fund-act",
@@ -8757,12 +8759,12 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 422,
-    "pendingCount": 28,
+    "verifiedCount": 421,
+    "pendingCount": 29,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 419,
-      "reassigned": 27,
+      "active": 418,
+      "reassigned": 28,
       "repealed": 2,
       "omitted": 2
     }
