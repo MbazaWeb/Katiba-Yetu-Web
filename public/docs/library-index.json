@@ -2540,23 +2540,23 @@
     },
     {
       "id": "pending-cap-130",
-      "title": "CAP 130 — Title pending verification",
-      "shortTitle": "CAP 130 — Pending verification",
+      "title": "THE STANDARDS ACT",
+      "shortTitle": "Standards Act",
       "chapterNumber": "130",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": null,
-      "sourceUrl": null,
+      "source": "Tanzania Bureau of Standards",
+      "sourceUrl": "https://www.tbs.go.tz/publications/23",
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "source-catalogued",
+      "verification": "verified-official-reference",
+      "verificationNote": "Tanzania Bureau of Standards identifies the Standards Act as Cap. 130, R.E. 2023.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-131-electricity",
@@ -2619,23 +2619,23 @@
     },
     {
       "id": "pending-cap-134",
-      "title": "CAP 134 — Title pending verification",
-      "shortTitle": "CAP 134 — Pending verification",
+      "title": "THE GOVERNMENT LOANS, GUARANTEES AND GRANTS ACT",
+      "shortTitle": "Government Loans, Guarantees and Grants Act",
       "chapterNumber": "134",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": null,
-      "sourceUrl": null,
+      "source": "Ministry of Finance",
+      "sourceUrl": "https://repository.mof.go.tz/items/b584d32c-1d72-4488-887f-920228378beb",
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "source-catalogued",
+      "verification": "verified-official-reference",
+      "verificationNote": "Ministry of Finance legal repository identifies the Government Loans, Guarantees and Grants Act as Cap. 134.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-135-social-security-act",
@@ -3125,13 +3125,14 @@
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg",
+      "status": "cap-number-conflict-requires-reverification",
+      "verification": "conflict-official-cap-reference",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "reassigned",
+      "verificationNote": "Catalogue conflict: this title has authoritative evidence under Cap. 130. This record must be re-verified for its correct Cap. 160 title before being treated as verified."
     },
     {
       "id": "pending-cap-161",
@@ -6150,13 +6151,14 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/5f15a925-868e-4ad1-86c8-33f9a68356aa",
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg",
+      "status": "cap-number-conflict-requires-reverification",
+      "verification": "conflict-official-cap-reference",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "reassigned",
+      "verificationNote": "Catalogue conflict: this title has authoritative evidence under Cap. 134. This record must be re-verified for its correct Cap. 319 title before being treated as verified."
     },
     {
       "id": "osg-cap-320-public-private-partnership-act",
@@ -8735,8 +8737,9 @@
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
       "active": 344,
-      "pending": 104,
-      "omitted": 2
+      "pending": 102,
+      "omitted": 2,
+      "reassigned": 2
     }
   },
   "conversionTracking": {
