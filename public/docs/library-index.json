@@ -375,22 +375,23 @@
     },
     {
       "id": "osg-cap-20-criminal-procedure-act",
-      "title": "THE CRIMINAL PROCEDURE ACT",
-      "shortTitle": "Criminal Procedure Act",
+      "title": "CAP 20 — Current CAP/title pending exact Tanzania verification",
+      "shortTitle": "CAP 20 — Title pending verification",
       "chapterNumber": "20",
-      "year": 2023,
-      "edition": "R.E. 2023",
+      "year": null,
+      "edition": null,
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/items/7b3e64f1-ae1d-4c4f-95d3-c37c67053923",
+      "source": "Official Tanzania legal source required",
+      "sourceUrl": null,
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg",
+      "status": "pending-exact-current-cap-title-verification",
+      "verification": "pending-exact-current-cap-title-verification",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "reassigned",
+      "verificationNote": "Duplicate audit invalidated the previous Criminal Procedure Act mapping at CAP 20. Exact OSG R.E. 2023 evidence establishes THE CRIMINAL PROCEDURE ACT at CAP 276. No exact authoritative current title for CAP 20 has yet been established, so this slot is retained without guessing."
     },
     {
       "id": "oag-cap-21-legal-aid",
@@ -5340,13 +5341,14 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/b59fcbe5-7977-4991-ae11-20b57c25b1fd",
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "active",
+      "verificationNote": "Exact OSG R.E. 2023 record identifies THE CRIMINAL PROCEDURE ACT as CHAPTER 276 / CAP. 276. Duplicate assignment at CAP 20 was withdrawn pending exact current-title verification."
     },
     {
       "id": "osg-cap-277-minimum-sentences-act",
@@ -8741,12 +8743,12 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 438,
-    "pendingCount": 12,
+    "verifiedCount": 437,
+    "pendingCount": 13,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 435,
-      "reassigned": 11,
+      "active": 434,
+      "reassigned": 12,
       "repealed": 2,
       "omitted": 2
     }
