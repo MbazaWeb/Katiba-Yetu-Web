@@ -1837,24 +1837,24 @@
       "legalStatus": "active"
     },
     {
-      "id": "pending-cap-94",
-      "title": "CAP 94 — Current CAP/title pending exact Tanzania verification",
-      "shortTitle": "CAP 94 — Title pending verification",
+      "id": "gov-cap-94-pharmacy-poisons-ordinance",
+      "title": "THE PHARMACY AND POISONS ORDINANCE",
+      "shortTitle": "Pharmacy and Poisons Ordinance",
       "chapterNumber": "94",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Official Tanzania legal source required",
-      "sourceUrl": null,
+      "source": "Official Government Notice / Tanzania Food and Drugs Authority establishment instrument",
+      "sourceUrl": "https://media.tanzlii.org/media/legislation/378432/source_file/c2e59b9f58a199b4/tz-act-gn-2004-264-publication-document.pdf",
       "contentReady": false,
-      "status": "pending-exact-current-cap-title-verification",
-      "verification": "pending-exact-current-cap-title-verification",
-      "verificationNote": "Duplicate audit invalidated the previous Tanzania Tourist Board Act mapping at CAP 94. Current official Tanzania legislation identifies the Tanzania Tourist Board Act as CAP 364. No exact authoritative current title for CAP 94 has yet been established, so this slot is retained without guessing.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-government-gazette",
+      "verificationNote": "Government Notice No. 264 of 2004 states that drug control was administered under the Pharmacy and Poisons Ordinance (Cap. 94) of 1937 and that later pharmaceuticals legislation replaced that framework.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "repealed"
     },
     {
       "id": "osg-cap-95-drug-control-and-enforcement-act",
@@ -6038,24 +6038,24 @@
       "legalStatus": "active"
     },
     {
-      "id": "osg-cap-312-public-finance-act",
-      "title": "CAP 312 — Current CAP/title pending exact Tanzania verification",
-      "shortTitle": "CAP 312 — Title pending verification",
+      "id": "gov-cap-312-diamond-industry-protection-act",
+      "title": "THE DIAMOND INDUSTRY PROTECTION ACT",
+      "shortTitle": "Diamond Industry Protection Act",
       "chapterNumber": "312",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Official Tanzania legal source required",
-      "sourceUrl": null,
+      "source": "Attorney-General supervised Revised Laws / Tanzania Government Gazette",
+      "sourceUrl": "https://media.tanzlii.org/media/legislation/317089/source_file/10a476ae000d3643/1948-245.pdf",
       "contentReady": false,
-      "status": "pending-exact-current-cap-title-verification",
-      "verification": "pending-exact-current-cap-title-verification",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-government-revised-laws",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
       "legalStatus": "reassigned",
-      "verificationNote": "Batch duplicate audit withdrew the conflicting THE PUBLIC FINANCE ACT mapping at CAP 312. Exact OSG R.E. 2023 evidence establishes THE PUBLIC FINANCE ACT at CAP 348; OSG also has R.E. 2023 A.S. 2025. CAP 312 remains pending exact current-title verification."
+      "verificationNote": "Attorney-General supervised revised subsidiary legislation expressly cites R.L. Cap.312 and states that the governing Act is the Diamond Industry Protection Act. The regulations are published in the Tanzania Government Gazette."
     },
     {
       "id": "osg-cap-313-local-government-finances-act",
@@ -7010,24 +7010,24 @@
       "legalStatus": "active"
     },
     {
-      "id": "osg-cap-362-tanzania-commission-for-aids-act",
-      "title": "CAP 362 — Current CAP/title pending exact Tanzania verification",
-      "shortTitle": "CAP 362 — Title pending verification",
+      "id": "gov-cap-362-cotton-ordinance",
+      "title": "THE COTTON ORDINANCE",
+      "shortTitle": "Cotton Ordinance",
       "chapterNumber": "362",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Official Tanzania legal source required",
+      "source": "Tanzania High Court / Tanzania Law Reports",
       "sourceUrl": null,
       "contentReady": false,
-      "status": "pending-exact-current-cap-title-verification",
-      "verification": "pending-exact-current-cap-title-verification",
-      "verificationNote": "Duplicate audit invalidated the previous Tanzania Commission for AIDS Act mapping at CAP 362. Exact OSG R.E. 2023 A.S. 2025 evidence establishes that Act at CAP 379. No exact authoritative current title for CAP 362 has yet been established, so this slot is retained without guessing.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-judiciary-case-law",
+      "verificationNote": "Tanzania High Court decision Republic v Joseph Mbolole identifies the Cotton Ordinance as Cap.362 of the Revised Laws and records that it was repealed by section 62 of Act No.3 of 1973.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "repealed"
     },
     {
       "id": "gov-cap-363-local-government-authorities-application-laws-ordinance",
@@ -8778,14 +8778,14 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 446,
-    "pendingCount": 4,
+    "verifiedCount": 449,
+    "pendingCount": 1,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
       "active": 436,
       "omitted": 6,
-      "reassigned": 4,
-      "repealed": 4
+      "repealed": 6,
+      "reassigned": 2
     }
   },
   "conversionTracking": {
