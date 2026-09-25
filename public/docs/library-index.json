@@ -1279,23 +1279,23 @@
     },
     {
       "id": "pending-cap-66",
-      "title": "THE NATIONAL COUNCIL FOR TECHNICAL AND VOCATIONAL EDUCATION AND TRAINING ACT",
-      "shortTitle": "National Council for Technical and Vocational Education and Training Act",
+      "title": "THE TANGANYIKA RED CROSS SOCIETY ACT",
+      "shortTitle": "Tanganyika Red Cross Society Act",
       "chapterNumber": "66",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/",
+      "source": "Government of Tanzania official legal/regulatory publication",
+      "sourceUrl": "https://www.planninginvestment.go.tz/uploads/documents/sw-1725985287-report%20FINAL.pdf",
       "contentReady": false,
-      "status": "cap-number-conflict-requires-reverification",
-      "verification": "conflict-official-cap-reference",
-      "verificationNote": "Catalogue conflict: the National Council for Technical and Vocational Education and Training Act is authoritatively identified as Cap. 129. Cap. 66 must be re-verified for its correct title/status.",
+      "status": "catalogued-official-status-verified",
+      "verification": "verified-official-government-amendment-reference",
+      "verificationNote": "Official Government regulatory-reform publication records the Written Laws (Miscellaneous Amendments) (No.4) Act, 2019 as amending the Tanganyika Red Cross Society Act (Cap. 66), confirming the CAP/title mapping and post-2019 operation.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-67",
@@ -2388,17 +2388,17 @@
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Tanzania Law Reports",
-      "sourceUrl": "https://tanzanialawreports.co.tz/?cypher_req=principal-legislation&volume=1",
+      "source": "Government of Tanzania official legal/regulatory publication",
+      "sourceUrl": "https://www.lands.go.tz/uploads/documents/sw-1682062352-cap%20324.PDF",
       "contentReady": false,
-      "status": "legal-status-reassigned",
-      "verification": "verified-official-status-reference",
-      "verificationNote": "Historical principal-legislation index identifies Cap. 122 as the Land Surveyors Ordinance. Current status/title mapping requires historical treatment rather than an active modern-law assignment.",
+      "status": "catalogued-official-status-verified",
+      "verification": "verified-official-government-repeal-reference",
+      "verificationNote": "Official Ministry of Lands text of the Land Survey Act, Cap. 324, section 32 expressly repeals the Land Surveyors Ordinance, Cap. 122. Status corrected from reassigned to repealed.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "repealed"
     },
     {
       "id": "osg-cap-123-public-procurement",
@@ -8733,14 +8733,14 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 414,
-    "pendingCount": 36,
+    "verifiedCount": 415,
+    "pendingCount": 35,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 410,
-      "reassigned": 37,
-      "omitted": 2,
-      "repealed": 1
+      "active": 411,
+      "reassigned": 35,
+      "repealed": 2,
+      "omitted": 2
     }
   },
   "conversionTracking": {
