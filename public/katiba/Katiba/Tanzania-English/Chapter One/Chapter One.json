@@ -33,14 +33,18 @@
     "Article 25.json",
     "Article 26.json",
     "Article 27.json",
-    "Article 28.json"
+    "Article 28.json",
+    "Article 29.json",
+    "Article 30.json",
+    "Article 31.json",
+    "Article 32.json"
   ],
   "sehemu": [
     "Part I: The United Republic and the People",
     "Part II: Fundamental Objectives and Directive Principles of State Policy",
     "Part III: Basic Rights and Duties"
   ],
-  "conversionStatus": "in-progress",
-  "articlesConverted": 28,
+  "conversionStatus": "complete",
+  "articlesConverted": 32,
   "chapterArticlesTotal": 32
 }
