@@ -1779,23 +1779,23 @@
     },
     {
       "id": "pending-cap-91",
-      "title": "THE NATIONAL ARTS COUNCIL ACT",
-      "shortTitle": "National Arts Council Act",
+      "title": "CAP 91 — Current CAP/title pending exact Tanzania verification",
+      "shortTitle": "CAP 91 — Title pending verification",
       "chapterNumber": "91",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/",
+      "source": "Official Tanzania legal source required",
+      "sourceUrl": null,
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg-reference",
-      "verificationNote": "Official government legal reference identifies the National Arts Council Act as Cap. 91.",
+      "status": "pending-exact-current-cap-title-verification",
+      "verification": "pending-exact-current-cap-title-verification",
+      "verificationNote": "Duplicate audit invalidated the weaker generic National Arts Council Act mapping at CAP 91. Exact OSG R.E. 2023 principal-legislation evidence establishes THE NATIONAL ARTS COUNCIL ACT at CAP 204. CAP 91 is retained pending exact current-title verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "reassigned"
     },
     {
       "id": "pending-cap-92",
@@ -3972,13 +3972,14 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/56c9ca88-bc39-4c42-92f9-e7dee4d7ad75",
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "active",
+      "verificationNote": "Exact current OSG R.E. 2023 record identifies THE NATIONAL ARTS COUNCIL ACT as CHAPTER 204 / CAP. 204. The weaker generic CAP 91 assignment was withdrawn pending exact current-title verification."
     },
     {
       "id": "osg-cap-205-tanzania-fisheries-research-institute-act",
@@ -8752,12 +8753,12 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 426,
-    "pendingCount": 24,
+    "verifiedCount": 425,
+    "pendingCount": 25,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 423,
-      "reassigned": 23,
+      "active": 422,
+      "reassigned": 24,
       "repealed": 2,
       "omitted": 2
     }
