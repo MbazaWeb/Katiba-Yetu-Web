@@ -8378,23 +8378,23 @@
     },
     {
       "id": "pending-cap-433",
-      "title": "CAP 433 — Historical R.L. mapping; current CAP/title pending exact verification",
-      "shortTitle": "Historical R.L. CAP 433",
+      "title": "THE UNESCO NATIONAL COMMISSION ACT",
+      "shortTitle": "UNESCO National Commission Act",
       "chapterNumber": "433",
       "year": null,
-      "edition": null,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library / Office of the Attorney General",
-      "sourceUrl": "https://elibrary.osg.go.tz/",
+      "sourceUrl": "https://elibrary.osg.go.tz/bitstreams/ab42c2bc-803e-4046-844b-de2b5916a13a/download",
       "contentReady": false,
-      "status": "catalogued-mapping-conflict",
-      "verification": "pending-exact-current-cap-title-verification",
-      "verificationNote": "Current OSG Law of Contract Act, Cap. 345 R.E. 2019 identifies its originating Ordinance No. 1 of 1961 as '[R.L. Cap.433]'. This establishes CAP 433 as a historical Revised Laws reference, but does not establish a safe current principal-legislation CAP/title mapping. Reclassified from unclassified pending to reassigned/conflict.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
+      "verificationNote": "Official OSG consolidated text identifies CHAPTER 433 as THE UNESCO NATIONAL COMMISSION ACT [CAP. 433 R.E. 2023], Act No. 7 of 2008. Historical R.L. Cap. 433 references belong to the Law of Contract Act's former Revised Laws numbering; the current Law of Contract Act is Cap. 345.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-434",
@@ -8733,14 +8733,14 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 439,
-    "pendingCount": 11,
+    "verifiedCount": 440,
+    "pendingCount": 10,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 439,
+      "active": 440,
       "repealed": 2,
       "omitted": 2,
-      "reassigned": 7
+      "reassigned": 6
     }
   },
   "conversionTracking": {
