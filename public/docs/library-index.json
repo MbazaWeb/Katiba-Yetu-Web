@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-25T07:30:00+03:00",
+  "generated_at_utc": "2026-09-25T07:45:00+03:00",
   "source": "Office of the Solicitor General e-Library",
   "documents": [
     {
@@ -858,6 +858,24 @@
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/ec81fcb2-4e01-4da1-9d37-4530f02b25c0",
+      "contentReady": false,
+      "status": "source-catalogued",
+      "verification": "verified-official-osg",
+      "conversionStatus": "not-started",
+      "conversionProgress": 0,
+      "sectionsConverted": 0,
+      "totalSections": null
+    },
+    {
+      "id": "osg-cap-141-appellate-jurisdiction-act",
+      "title": "THE APPELLATE JURISDICTION ACT",
+      "shortTitle": "Appellate Jurisdiction Act",
+      "chapterNumber": "141",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/56070e82-1a2a-450c-8919-531d0a1f194c",
       "contentReady": false,
       "status": "source-catalogued",
       "verification": "verified-official-osg",
@@ -2368,7 +2386,7 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 131,
+    "verifiedCount": 132,
     "pendingCount": 0
   },
   "conversionTracking": {
