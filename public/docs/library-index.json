@@ -1143,23 +1143,23 @@
     },
     {
       "id": "pending-cap-59",
-      "title": "THE NATIONAL INSTITUTE FOR MEDICAL RESEARCH ACT",
-      "shortTitle": "National Institute for Medical Research Act",
+      "title": "CAP 59 — Current CAP/title pending exact Tanzania verification",
+      "shortTitle": "CAP 59 — Title pending verification",
       "chapterNumber": "59",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/server/api/core/bitstreams/e82e1911-2ca5-4d22-a4b8-594df0ef31c2/content",
+      "source": "Official Tanzania legal source required",
+      "sourceUrl": null,
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg-reference",
-      "verificationNote": "Official OSG-hosted legislation identifies NIMR as established under the National Institute for Medical Research Act, Cap. 59.",
+      "status": "pending-exact-current-cap-title-verification",
+      "verification": "pending-exact-current-cap-title-verification",
+      "verificationNote": "The older official reference identifying the National Institute for Medical Research Act as Cap. 59 conflicts with the exact current OSG R.E. 2023 principal-legislation record at CAP 202. CAP 59 is retained pending exact current-title verification rather than guessing.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "reassigned"
     },
     {
       "id": "pending-cap-60",
@@ -3931,13 +3931,14 @@
       "source": "Office of the Solicitor General e-Library",
       "sourceUrl": "https://elibrary.osg.go.tz/items/41b4b7c0-9b51-42bb-9c5f-22721b14c9fb",
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "active",
+      "verificationNote": "Exact current OSG R.E. 2023 record identifies THE NATIONAL INSTITUTE FOR MEDICAL RESEARCH ACT as CHAPTER 202 / CAP. 202. The older CAP 59 reference was not used as the current principal-legislation mapping."
     },
     {
       "id": "osg-cap-203-tanzania-forestry-research-institute-act",
@@ -8749,12 +8750,12 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 430,
-    "pendingCount": 20,
+    "verifiedCount": 429,
+    "pendingCount": 21,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 427,
-      "reassigned": 19,
+      "active": 426,
+      "reassigned": 20,
       "repealed": 2,
       "omitted": 2
     }
