@@ -7109,23 +7109,23 @@
     },
     {
       "id": "pending-cap-369",
-      "title": "CAP 369 — Title pending verification",
-      "shortTitle": "CAP 369 — Pending verification",
+      "title": "THE CUSTOMS (DUMPING AND SUBSIDIES: RATES) ACT",
+      "shortTitle": "Customs (Dumping and Subsidies: Rates) Act",
       "chapterNumber": "369",
       "year": null,
-      "edition": null,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
-      "source": null,
-      "sourceUrl": null,
+      "source": "Office of the Solicitor General e-Library / Office of the Attorney General",
+      "sourceUrl": "https://elibrary.osg.go.tz/server/api/core/bitstreams/bcb3bc3f-76ca-4ebd-9687-abfa32d2219a/content",
       "contentReady": false,
-      "status": "cap-number-source-conflict",
-      "verification": "conflict-official-cap-reference",
-      "verificationNote": "Official legal materials identify the Proceeds of Crime Act as Cap. 256, so CAP 369 requires exact-title verification.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
+      "verificationNote": "Official OSG/OAG consolidated text expressly identifies THE CUSTOMS (DUMPING AND SUBSIDIES: RATES) ACT [CAP. 369 R.E. 2023]. This replaces the incorrect Proceeds of Crime Act mapping; that Act is CAP 256.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "active"
     },
     {
       "id": "osg-cap-370-treasury-registrar-powers-and-functions-act",
@@ -8733,14 +8733,14 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 429,
-    "pendingCount": 21,
+    "verifiedCount": 430,
+    "pendingCount": 20,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 427,
+      "active": 428,
       "repealed": 2,
       "omitted": 2,
-      "reassigned": 19
+      "reassigned": 18
     }
   },
   "conversionTracking": {
