@@ -8535,23 +8535,23 @@
     },
     {
       "id": "pending-cap-441",
-      "title": "CAP 441 — Title pending verification",
-      "shortTitle": "CAP 441 — Pending verification",
+      "title": "CAP 441 — Current CAP/title pending exact verification",
+      "shortTitle": "CAP 441 mapping unresolved",
       "chapterNumber": "441",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": null,
-      "sourceUrl": null,
+      "source": "Office of the Solicitor General e-Library / Office of the Attorney General",
+      "sourceUrl": "https://elibrary.osg.go.tz/",
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "catalogued-mapping-conflict",
+      "verification": "pending-exact-current-cap-title-verification",
+      "verificationNote": "Official OSG search evidence currently surfaces Civil Case No. 441 and other non-CAP references rather than a reliable current principal-legislation CAP 441 title. To avoid asserting an invented law title, this slot is reclassified from unclassified pending to reassigned/mapping conflict pending exact official verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "reassigned"
     },
     {
       "id": "osg-cap-442-electronic-transactions-act",
@@ -8738,9 +8738,9 @@
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
       "active": 410,
-      "reassigned": 33,
+      "reassigned": 34,
       "omitted": 2,
-      "pending": 4,
+      "pending": 3,
       "repealed": 1
     }
   },
