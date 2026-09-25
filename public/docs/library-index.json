@@ -7527,23 +7527,23 @@
     },
     {
       "id": "pending-cap-390",
-      "title": "CAP 390 — Historical R.L. mapping; current CAP/title pending exact verification",
-      "shortTitle": "Historical R.L. CAP 390",
+      "title": "THE POTABLE SPIRITS (COMPOUNDING) ACT",
+      "shortTitle": "Potable Spirits (Compounding) Act",
       "chapterNumber": "390",
       "year": null,
-      "edition": null,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library / Office of the Attorney General",
+      "source": "Government of Tanzania revised legislation / OAG historical cross-reference",
       "sourceUrl": "https://elibrary.osg.go.tz/",
       "contentReady": false,
-      "status": "catalogued-mapping-conflict",
-      "verification": "pending-exact-current-cap-title-verification",
-      "verificationNote": "Current OSG Penal Code R.E. 2023 cites 'R.L. Cap. 390 s. 33' as the repealing authority for Penal Code section 330. This confirms CAP 390 as a historical Revised Laws reference but does not establish a safe current principal-legislation CAP/title mapping.",
+      "status": "catalogued-current-cap-title-corroborated",
+      "verification": "corroborated-current-tanzania-re-2023",
+      "verificationNote": "Current R.E. 2023 text identifies Chapter 390 as the Potable Spirits (Compounding) Act. Official OAG Penal Code references to 'R.L. Cap. 390' are historical Revised Laws citations and must not be mistaken for the current chapter mapping.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-391",
@@ -8737,10 +8737,10 @@
     "pendingCount": 11,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 438,
+      "active": 439,
       "repealed": 2,
       "omitted": 2,
-      "reassigned": 8
+      "reassigned": 7
     }
   },
   "conversionTracking": {
