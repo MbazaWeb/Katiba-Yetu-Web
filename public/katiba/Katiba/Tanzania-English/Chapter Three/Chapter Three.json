@@ -1,0 +1,22 @@
+{
+  "chapter": "Chapter Three",
+  "jina": "THE PARLIAMENT OF THE UNITED REPUBLIC",
+  "documentId": "doc-union-1977-en",
+  "chapterNumber": 3,
+  "language": "en",
+  "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
+  "ibara": [
+    "Article 62.json",
+    "Article 63.json",
+    "Article 64.json",
+    "Article 65.json"
+  ],
+  "sehemu": [
+    "Part I: Parliament",
+    "Part II: Members of Parliament, Constituencies and Election of Members",
+    "Part III: Procedure, Powers and Privileges of Parliament"
+  ],
+  "conversionStatus": "in-progress",
+  "articlesConverted": 4,
+  "chapterArticlesTotal": 40
+}
