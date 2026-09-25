@@ -4489,6 +4489,25 @@
       "totalSections": null
     },
     {
+      "id": "osg-cap-343-national-elections-act",
+      "title": "THE NATIONAL ELECTIONS ACT",
+      "shortTitle": "National Elections Act",
+      "chapterNumber": "343",
+      "year": null,
+      "edition": null,
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/",
+      "contentReady": false,
+      "status": "source-catalogued",
+      "verification": "verified-official-osg-reference",
+      "verificationNote": "Official OSG case records identify the National Elections Act as Cap. 343.",
+      "conversionStatus": "not-started",
+      "conversionProgress": 0,
+      "sectionsConverted": 0,
+      "totalSections": null
+    },
+    {
       "id": "oag-cap-345-law-of-contract",
       "title": "THE LAW OF CONTRACT ACT",
       "shortTitle": "Law of Contract Act",
@@ -5016,7 +5035,7 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 278,
+    "verifiedCount": 279,
     "pendingCount": 0
   },
   "conversionTracking": {
