@@ -8515,23 +8515,23 @@
     },
     {
       "id": "pending-cap-440",
-      "title": "CAP 440 — Historical R.L. mapping; current CAP/title pending exact verification",
-      "shortTitle": "Historical R.L. CAP 440",
+      "title": "THE REFERENDUM ACT",
+      "shortTitle": "Referendum Act",
       "chapterNumber": "440",
       "year": null,
-      "edition": null,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library / Office of the Attorney General",
-      "sourceUrl": "https://elibrary.osg.go.tz/",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/893b1953-da83-4820-a196-25318a1bc804/full",
       "contentReady": false,
-      "status": "catalogued-mapping-conflict",
-      "verification": "pending-exact-current-cap-title-verification",
-      "verificationNote": "Current OSG Penal Code R.E. 2023 cites 'R.L. Cap. 440 s. 16' as repealing former Penal Code section 173A. This proves CAP 440 is a historical Revised Laws reference, but does not safely establish a current principal-legislation CAP/title mapping. Reclassified from unclassified pending to reassigned/conflict pending exact verification.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
+      "verificationNote": "Official OSG e-Library principal-legislation record and consolidated text identify THE REFERENDUM ACT as CHAPTER 440 / CAP. 440 R.E. 2023. Historical R.L. Cap. 440 citations in older legislation reflect former Revised Laws numbering and do not displace the current chapter mapping.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-441",
@@ -8733,14 +8733,14 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 441,
-    "pendingCount": 9,
+    "verifiedCount": 442,
+    "pendingCount": 8,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 441,
+      "active": 442,
       "repealed": 2,
       "omitted": 2,
-      "reassigned": 5
+      "reassigned": 4
     }
   },
   "conversionTracking": {
