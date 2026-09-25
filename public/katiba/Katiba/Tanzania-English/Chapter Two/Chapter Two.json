@@ -42,9 +42,11 @@
     "Article 58.json",
     "Article 59.json",
     "Article 59A.json",
-    "Article 59B.json"
+    "Article 59B.json",
+    "Article 60.json",
+    "Article 61.json"
   ],
-  "conversionStatus": "in-progress",
-  "articlesConverted": 32,
+  "conversionStatus": "complete",
+  "articlesConverted": 34,
   "chapterArticlesTotal": 34
 }
