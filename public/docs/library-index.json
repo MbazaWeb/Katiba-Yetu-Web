@@ -8653,23 +8653,23 @@
     },
     {
       "id": "pending-cap-447",
-      "title": "CAP 447 — Title pending verification",
-      "shortTitle": "CAP 447 — Pending verification",
+      "title": "THE TANZANIA EXTRACTIVE INDUSTRIES (TRANSPARENCY AND ACCOUNTABILITY) ACT",
+      "shortTitle": "Tanzania Extractive Industries (Transparency and Accountability) Act",
       "chapterNumber": "447",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": null,
-      "sourceUrl": null,
+      "source": "Tanzania Extractive Industries Transparency Initiative / Parliament of Tanzania / Office of the Attorney General",
+      "sourceUrl": "https://teiti.go.tz/",
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-government-current",
+      "verificationNote": "Exact CAP/title and continuing operation verified from official Government sources. TEITI 2025/26 work plan expressly applies the TEITA Act CAP 447 and Parliament records identify the same CAP/title.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-448",
@@ -8733,14 +8733,14 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 407,
-    "pendingCount": 43,
+    "verifiedCount": 408,
+    "pendingCount": 42,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 403,
+      "active": 404,
       "reassigned": 30,
       "omitted": 2,
-      "pending": 14,
+      "pending": 13,
       "repealed": 1
     }
   },
