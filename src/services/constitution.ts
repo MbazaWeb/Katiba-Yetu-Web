@@ -30,15 +30,17 @@ export interface ConstitutionSource {
   title:string;
   family:'official'|'draft';
   jurisdiction:'tanzania'|'zanzibar';
+  language?:'sw'|'en';
   basePath:string;
   year:string;
   edition:string;
 }
 
 export const constitutionSources:ConstitutionSource[]=[
-  {id:'doc-union-1977',title:'Katiba ya Jamhuri ya Muungano wa Tanzania',family:'official',jurisdiction:'tanzania',basePath:'/katiba/Katiba/Tanzania',year:'1977',edition:'Toleo la 2000'},
-  {id:'doc-zanzibar-1984',title:'Katiba ya Zanzibar',family:'official',jurisdiction:'zanzibar',basePath:'/katiba/Katiba/Zanzibar',year:'1984',edition:'Toleo la 2020'},
-  {id:'doc-rasimu-tanzania-2014',title:'Rasimu ya Katiba ya Tanzania',family:'draft',jurisdiction:'tanzania',basePath:'/katiba/Rasimu za Katiba/Tanzania',year:'2014',edition:'Rasimu / Toleo la 2014'}
+  {id:'doc-union-1977',title:'Katiba ya Jamhuri ya Muungano wa Tanzania',family:'official',jurisdiction:'tanzania',language:'sw',basePath:'/katiba/Katiba/Tanzania',year:'1977',edition:'Toleo la 2000'},
+  {id:'doc-union-1977-en',title:'Constitution of the United Republic of Tanzania',family:'official',jurisdiction:'tanzania',language:'en',basePath:'/katiba/Katiba/Tanzania-English',year:'1977',edition:'English edition — conversion in progress'},
+  {id:'doc-zanzibar-1984',title:'Katiba ya Zanzibar',family:'official',jurisdiction:'zanzibar',language:'sw',basePath:'/katiba/Katiba/Zanzibar',year:'1984',edition:'Toleo la 2020'},
+  {id:'doc-rasimu-tanzania-2014',title:'Rasimu ya Katiba ya Tanzania',family:'draft',jurisdiction:'tanzania',language:'sw',basePath:'/katiba/Rasimu za Katiba/Tanzania',year:'2014',edition:'Rasimu / Toleo la 2014'}
 ];
 
 const manifestCache:{promise?:Promise<string[]>}={};
@@ -118,7 +120,7 @@ export async function loadArticle(documentId:string,chapterName:string,fileName:
 export async function loadArticleByNumber(documentId:string,articleNumber:string){
   const chapters=await loadChapters(documentId);
   for(const chapter of chapters){
-    const file=chapter.ibara.find(name=>name.replace(/^Ibara\s+/i,'').replace(/\.json$/i,'')===articleNumber);
+    const file=chapter.ibara.find(name=>name.replace(/^(?:Ibara|Article)\s+/i,'').replace(/\.json$/i,'')===articleNumber);
     if(file){
       const article=await loadArticle(documentId,chapter.sura,file);
       if(article) return {article,chapter,fileName:file};
@@ -171,7 +173,7 @@ export async function checkSourceIntegrity():Promise<SourceIntegrityReport>{
   for(const source of constitutionSources){
     const prefix=sourceManifestPrefix(source),sourcePaths=jsonPaths.filter(p=>p.startsWith(prefix));
     const chapters=new Map<string,Set<string>>();
-    for(const path of sourcePaths){const rest=path.slice(prefix.length),parts=rest.split('/');if(parts.length<2)continue;const [chapter,file]=parts;if(!chapters.has(chapter))chapters.set(chapter,new Set());chapters.get(chapter)!.add(file);if(/^Ibara .+\.json$/i.test(file))articleFiles++}
+    for(const path of sourcePaths){const rest=path.slice(prefix.length),parts=rest.split('/');if(parts.length<2)continue;const [chapter,file]=parts;if(!chapters.has(chapter))chapters.set(chapter,new Set());chapters.get(chapter)!.add(file);if(/^(?:Ibara|Article) .+\.json$/i.test(file))articleFiles++}
     for(const [chapter,files] of chapters){
       const indexFile=chapter+'.json';
       if(!files.has(indexFile)){issues.push({sourceId:source.id,chapter,file:indexFile,kind:'missing_chapter_index',message:'Chapter index haipo kwenye manifest.'});continue}
@@ -180,7 +182,7 @@ export async function checkSourceIntegrity():Promise<SourceIntegrityReport>{
       try{data=await fetchJson<ConstitutionChapter>(source.basePath+'/'+chapter+'/'+indexFile)}catch{issues.push({sourceId:source.id,chapter,file:indexFile,kind:'invalid_json',message:'Chapter index haiwezi kusomwa kama JSON.'});continue}
       const refs=new Set(data.ibara||[]);referencedArticles+=refs.size;
       for(const file of refs)if(!files.has(file))issues.push({sourceId:source.id,chapter,file,kind:'missing_article',message:'Ibara imetajwa na chapter index lakini file haipo kwenye manifest.'});
-      for(const file of files)if(/^Ibara .+\.json$/i.test(file)&&!refs.has(file))issues.push({sourceId:source.id,chapter,file,kind:'unreferenced_article',message:'Article file ipo kwenye manifest lakini haijatajwa na chapter index.'});
+      for(const file of files)if(/^(?:Ibara|Article) .+\.json$/i.test(file)&&!refs.has(file))issues.push({sourceId:source.id,chapter,file,kind:'unreferenced_article',message:'Article file ipo kwenye manifest lakini haijatajwa na chapter index.'});
     }
   }
   return {manifestFiles:paths.length,jsonFiles:jsonPaths.length,chapterIndexes,articleFiles,referencedArticles,issues};
