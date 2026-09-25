@@ -7257,14 +7257,14 @@
       "source": null,
       "sourceUrl": null,
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "cap-number-source-conflict",
+      "verification": "conflict-official-cap-reference",
+      "verificationNote": "Candidate title could not be matched to CAP 376 against current official references; exact title/status requires authoritative re-verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "reassigned"
     },
     {
       "id": "pending-cap-377",
@@ -7277,14 +7277,14 @@
       "source": null,
       "sourceUrl": null,
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "cap-number-source-conflict",
+      "verification": "conflict-official-cap-reference",
+      "verificationNote": "Candidate title could not be matched to CAP 377 against current official references; exact title/status requires authoritative re-verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "reassigned"
     },
     {
       "id": "pending-cap-378",
@@ -7297,14 +7297,14 @@
       "source": null,
       "sourceUrl": null,
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "cap-number-source-conflict",
+      "verification": "conflict-official-cap-reference",
+      "verificationNote": "Candidate title could not be matched to CAP 378 against current official references; exact title/status requires authoritative re-verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "reassigned"
     },
     {
       "id": "osg-cap-379-tanzania-commission-for-aids-act",
@@ -7336,14 +7336,14 @@
       "source": null,
       "sourceUrl": null,
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "cap-number-source-conflict",
+      "verification": "conflict-official-cap-reference",
+      "verificationNote": "Candidate title could not be matched to CAP 380 against current official references; exact title/status requires authoritative re-verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "reassigned"
     },
     {
       "id": "pending-cap-381",
@@ -7356,14 +7356,14 @@
       "source": null,
       "sourceUrl": null,
       "contentReady": false,
-      "status": "legal-status-verification-in-progress",
-      "verification": "pending-official-verification",
-      "verificationNote": "Accelerated verification in progress: exact title and legal status (active, repealed, omitted or reassigned) require authoritative official evidence before promotion.",
+      "status": "cap-number-source-conflict",
+      "verification": "conflict-official-cap-reference",
+      "verificationNote": "Candidate title could not be matched to CAP 381 against current official references; exact title/status requires authoritative re-verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "pending"
+      "legalStatus": "reassigned"
     },
     {
       "id": "pending-cap-382",
@@ -8738,9 +8738,9 @@
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
       "active": 363,
-      "reassigned": 25,
+      "reassigned": 30,
       "omitted": 2,
-      "pending": 59,
+      "pending": 54,
       "repealed": 1
     }
   },
