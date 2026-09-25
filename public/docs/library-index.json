@@ -7248,23 +7248,23 @@
     },
     {
       "id": "pending-cap-376",
-      "title": "CAP 376 — Title pending verification",
-      "shortTitle": "CAP 376 — Pending verification",
+      "title": "THE PYRETHRUM INDUSTRY ACT",
+      "shortTitle": "Pyrethrum Industry Act",
       "chapterNumber": "376",
       "year": null,
-      "edition": null,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
-      "source": null,
-      "sourceUrl": null,
+      "source": "Office of the Solicitor General e-Library / Office of the Attorney General",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/e17e3072-f219-465c-9858-100b8c2996cb",
       "contentReady": false,
-      "status": "cap-number-source-conflict",
-      "verification": "conflict-official-cap-reference",
-      "verificationNote": "Candidate title could not be matched to CAP 376 against current official references; exact title/status requires authoritative re-verification.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
+      "verificationNote": "Official OSG e-Library identifies THE PYRETHRUM INDUSTRY ACT as CHAPTER 376 R.E. 2023. The Crops Laws (Miscellaneous Amendments) renamed the Pyrethrum Act to the Pyrethrum Industry Act. Historical Veterinary Surgeons Ordinance Cap.376 was repealed and must not replace the current revised-edition mapping.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-377",
@@ -8733,14 +8733,14 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 434,
-    "pendingCount": 16,
+    "verifiedCount": 435,
+    "pendingCount": 15,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 432,
+      "active": 433,
       "repealed": 2,
       "omitted": 2,
-      "reassigned": 14
+      "reassigned": 13
     }
   },
   "conversionTracking": {
