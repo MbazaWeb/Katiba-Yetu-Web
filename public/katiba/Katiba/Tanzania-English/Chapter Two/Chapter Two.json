@@ -26,9 +26,13 @@
     "Article 45.json",
     "Article 46.json",
     "Article 47.json",
-    "Article 48.json"
+    "Article 48.json",
+    "Article 49.json",
+    "Article 50.json",
+    "Article 51.json",
+    "Article 52.json"
   ],
   "conversionStatus": "in-progress",
-  "articlesConverted": 16,
+  "articlesConverted": 20,
   "chapterArticlesTotal": 34
 }
