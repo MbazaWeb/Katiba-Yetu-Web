@@ -41,14 +41,18 @@
     "Article 94.json",
     "Article 95.json",
     "Article 96.json",
-    "Article 97.json"
+    "Article 97.json",
+    "Article 98.json",
+    "Article 99.json",
+    "Article 100.json",
+    "Article 101.json"
   ],
   "sehemu": [
     "Part I: Parliament",
     "Part II: Members of Parliament, Constituencies and Election of Members",
     "Part III: Procedure, Powers and Privileges of Parliament"
   ],
-  "conversionStatus": "in-progress",
-  "articlesConverted": 36,
+  "conversionStatus": "complete",
+  "articlesConverted": 40,
   "chapterArticlesTotal": 40
 }
