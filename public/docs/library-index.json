@@ -6718,24 +6718,24 @@
       "legalStatus": "active"
     },
     {
-      "id": "pending-cap-349",
-      "title": "CAP 349 — Current title unresolved (OSG catalogue metadata conflict)",
-      "shortTitle": "CAP 349 mapping unresolved",
+      "id": "osg-cap-349-insurance-vesting-interests-regulation",
+      "title": "THE INSURANCE (VESTING OF INTERESTS AND REGULATION) ACT",
+      "shortTitle": "Insurance (Vesting of Interests and Regulation) Act",
       "chapterNumber": "349",
-      "year": null,
-      "edition": null,
+      "year": 2023,
+      "edition": "R.E. 2023",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/items/935905e0-a987-493f-b86b-9c9f216ca64a",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/ec8ad05d-1e7b-4bc3-ae46-d29ee4446952",
       "contentReady": false,
-      "status": "catalogued-mapping-conflict",
-      "verification": "pending-exact-current-cap-title-verification",
-      "verificationNote": "Live OSG re-check confirms an unresolved internal metadata contradiction: display title says THE BUDGET ACT (CAP 349), but Authors=CHAPTER 439, Abstract=Budget Act, Chapter 439, and Keywords=CHAPTER 439/CAP 439. OSG browse listing repeats the same contradiction. Budget Act must not be assigned to CAP 349 until an authoritative exact-title record resolves it.",
+      "status": "catalogued-official-text-pending-conversion",
+      "verification": "verified-official-osg-re-2023",
+      "verificationNote": "Official OSG e-Library R.E. 2023 record directly identifies THE INSURANCE (VESTING OF INTERESTS AND REGULATION) ACT as CHAPTER 349 / CAP. 349. The record is authored by OAG and published by Government Printer Dodoma. This resolves the older erroneous OSG display-title conflict that labelled the Budget Act as CAP 349; that older item's own metadata identifies the Budget Act as Chapter/CAP 439.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "reassigned"
+      "legalStatus": "active"
     },
     {
       "id": "pending-cap-350",
@@ -8733,14 +8733,13 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 448,
-    "pendingCount": 2,
+    "verifiedCount": 449,
+    "pendingCount": 1,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 445,
+      "active": 446,
       "repealed": 2,
-      "omitted": 2,
-      "reassigned": 1
+      "omitted": 2
     }
   },
   "conversionTracking": {
