@@ -33,7 +33,11 @@
     "Article 86.json",
     "Article 87.json",
     "Article 88.json",
-    "Article 89.json"
+    "Article 89.json",
+    "Article 90.json",
+    "Article 91.json",
+    "Article 92.json",
+    "Article 93.json"
   ],
   "sehemu": [
     "Part I: Parliament",
@@ -41,6 +45,6 @@
     "Part III: Procedure, Powers and Privileges of Parliament"
   ],
   "conversionStatus": "in-progress",
-  "articlesConverted": 28,
+  "articlesConverted": 32,
   "chapterArticlesTotal": 40
 }
