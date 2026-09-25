@@ -4617,6 +4617,24 @@
       "totalSections": null
     },
     {
+      "id": "osg-cap-353-education-act",
+      "title": "THE EDUCATION ACT",
+      "shortTitle": "Education Act",
+      "chapterNumber": "353",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/025af6bc-d3a5-4c1f-8b94-b525d3f00a9d/full",
+      "contentReady": false,
+      "status": "source-catalogued",
+      "verification": "verified-official-osg",
+      "conversionStatus": "not-started",
+      "conversionProgress": 0,
+      "sectionsConverted": 0,
+      "totalSections": null
+    },
+    {
       "id": "osg-cap-355-urban-planning",
       "title": "THE URBAN PLANNING ACT",
       "shortTitle": "Urban Planning Act",
@@ -4626,6 +4644,24 @@
       "sourceUrl": "https://elibrary.osg.go.tz/items/d1c4f548-d6df-4542-a088-c5c461d7ae18",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library",
+      "contentReady": false,
+      "status": "source-catalogued",
+      "verification": "verified-official-osg",
+      "conversionStatus": "not-started",
+      "conversionProgress": 0,
+      "sectionsConverted": 0,
+      "totalSections": null
+    },
+    {
+      "id": "osg-cap-356-diplomatic-and-consular-immunities-and-privileges-act",
+      "title": "THE DIPLOMATIC AND CONSULAR IMMUNITIES AND PRIVILEGES ACT",
+      "shortTitle": "Diplomatic and Consular Immunities and Privileges Act",
+      "chapterNumber": "356",
+      "year": 2023,
+      "edition": "R.E. 2023",
+      "category": "Principal Legislation",
+      "source": "Office of the Solicitor General e-Library",
+      "sourceUrl": "https://elibrary.osg.go.tz/items/40d1b2de-5d76-4622-83fd-486fbacd44f6/full",
       "contentReady": false,
       "status": "source-catalogued",
       "verification": "verified-official-osg",
@@ -5035,7 +5071,7 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 279,
+    "verifiedCount": 281,
     "pendingCount": 0
   },
   "conversionTracking": {
