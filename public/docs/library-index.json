@@ -6993,23 +6993,23 @@
     },
     {
       "id": "osg-cap-363-national-health-insurance-fund-act",
-      "title": "THE NATIONAL HEALTH INSURANCE FUND ACT",
-      "shortTitle": "National Health Insurance Fund Act",
+      "title": "CAP 363 — Current CAP/title pending exact Tanzania verification",
+      "shortTitle": "CAP 363 — Title pending verification",
       "chapterNumber": "363",
       "year": null,
       "edition": null,
       "category": "Principal Legislation",
-      "source": "Office of the Solicitor General e-Library",
-      "sourceUrl": "https://elibrary.osg.go.tz/",
+      "source": "Official Tanzania legal source required",
+      "sourceUrl": null,
       "contentReady": false,
-      "status": "source-catalogued",
-      "verification": "verified-official-osg-reference",
-      "verificationNote": "Official government legal reference identifies the National Health Insurance Fund Act as Cap. 363.",
+      "status": "pending-exact-current-cap-title-verification",
+      "verification": "pending-exact-current-cap-title-verification",
+      "verificationNote": "Duplicate audit invalidated the previous National Health Insurance Fund Act mapping at CAP 363. Exact official OSG R.E. 2023 evidence establishes the National Health Insurance Fund Act at CAP 395. No exact authoritative current title for CAP 363 has yet been established, so this slot is retained without guessing.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
       "totalSections": null,
-      "legalStatus": "active"
+      "legalStatus": "reassigned"
     },
     {
       "id": "official-cap-364-tanzania-tourist-board-act",
@@ -7629,11 +7629,11 @@
       "legalStatus": "active"
     },
     {
-      "id": "pending-cap-395",
+      "id": "osg-cap-395-national-health-insurance-fund-act",
       "title": "THE NATIONAL HEALTH INSURANCE FUND ACT",
       "shortTitle": "National Health Insurance Fund Act",
       "chapterNumber": "395",
-      "year": null,
+      "year": 2023,
       "edition": "R.E. 2023",
       "category": "Principal Legislation",
       "source": "Office of the Solicitor General e-Library / Office of the Attorney General",
@@ -7641,7 +7641,7 @@
       "contentReady": false,
       "status": "catalogued-official-text-pending-conversion",
       "verification": "verified-official-osg-re-2023",
-      "verificationNote": "Exact CAP/title verified against the OSG e-Library Principal Legislation R.E. 2023 record.",
+      "verificationNote": "Exact official OSG R.E. 2023 record identifies THE NATIONAL HEALTH INSURANCE FUND ACT as CAP. 395. Duplicate assignment at CAP 363 was withdrawn pending exact current-title verification.",
       "conversionStatus": "not-started",
       "conversionProgress": 0,
       "sectionsConverted": 0,
@@ -8737,12 +8737,12 @@
   "audit": {
     "status": "complete",
     "policy": "Only records verified against an official Tanzania Government legal source (OSG e-Library or OAG MIS) are marked verified-official-*. Other catalogue records remain visible but are marked pending-reverification.",
-    "verifiedCount": 443,
-    "pendingCount": 7,
+    "verifiedCount": 442,
+    "pendingCount": 8,
     "inventoryScope": "CAP 1–450 provisional inventory; pending records are placeholders and do not assert that every CAP is a current law.",
     "legalStatusCounts": {
-      "active": 440,
-      "reassigned": 6,
+      "active": 439,
+      "reassigned": 7,
       "repealed": 2,
       "omitted": 2
     }
