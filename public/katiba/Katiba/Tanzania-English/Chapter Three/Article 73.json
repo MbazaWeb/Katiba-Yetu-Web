@@ -3,13 +3,16 @@
   "sehemu": "Part II: Members of Parliament, Constituencies and Election of Members",
   "ibara": 73,
   "jina": "Terms of service of Members of Parliament",
-  "maudhui": "All Members of Parliament of every category shall hold office in accordance with this Constitution and shall be paid a salary, allowances and other remuneration in accordance with a law enacted by Parliament.",
-  "vifungu": [],
+  "maudhui": "All Members of Parliament of all categories shall hold office in accordance with this Constitution, and shall be paid a salary, allowances and other remuneration in accordance with a law enacted by Parliament.",
+  "vifungu": [
+    "All Members of Parliament of all categories shall hold office in accordance with this Constitution, and shall be paid a salary, allowances and other remuneration in accordance with a law enacted by Parliament."
+  ],
   "language": "en",
   "chanzo": {
     "documentId": "doc-union-1977-en",
     "sourceLocator": "Article 73",
     "verificationStatus": "verified",
-    "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf"
+    "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
+    "verificationNote": "Wording audited against the revised English Constitution text and constitutional cross-references checked."
   }
 }
