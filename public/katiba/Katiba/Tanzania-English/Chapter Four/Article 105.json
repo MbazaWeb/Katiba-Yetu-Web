@@ -12,8 +12,8 @@
   "chanzo": {
     "documentId": "doc-union-1977-en",
     "sourceLocator": "Article 105",
-    "verificationStatus": "pending",
+    "verificationStatus": "verified",
     "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
-    "verificationNote": "Chapter Four source-fidelity audit in progress. Existing English text retained provisionally pending exact comparison with the official OSG revised Constitution."
+    "verificationNote": "Provision and clause structure checked against the official OSG revised English Constitution; historical office terminology retained as printed in the source edition."
   }
 }
