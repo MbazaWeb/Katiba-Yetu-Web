@@ -11,6 +11,6 @@
     "sourceLocator": "Article 111",
     "verificationStatus": "pending",
     "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
-    "verificationNote": "Exact authoritative source comparison required before verification. Current text retained provisionally; web retrieval did not return an article-level OSG result in this pass."
+    "verificationNote": "Official OSG 2009 English Constitution located and compared. Current JSON is substantively aligned but uses normalized/paraphrased wording; exact verbatim restoration is required before verification."
   }
 }
