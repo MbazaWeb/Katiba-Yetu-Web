@@ -12,7 +12,8 @@
   "chanzo": {
     "documentId": "doc-union-1977-en",
     "sourceLocator": "Article 57",
-    "verificationStatus": "verified",
-    "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf"
+    "verificationStatus": "pending",
+    "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
+    "verificationNote": "Authoritative English source audit pending exact line-by-line comparison; previous verified flag removed to avoid false verification."
   }
 }
