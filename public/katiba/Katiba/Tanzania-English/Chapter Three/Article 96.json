@@ -12,7 +12,8 @@
   "chanzo": {
     "documentId": "doc-union-1977-en",
     "sourceLocator": "Article 96",
-    "verificationStatus": "verified",
-    "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf"
+    "verificationStatus": "pending",
+    "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
+    "verificationNote": "Requires exact comparison with the authoritative revised English Constitution before final verbatim verification; existing text retained provisionally."
   }
 }
