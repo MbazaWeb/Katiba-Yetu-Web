@@ -2,18 +2,18 @@
   "sura": "Chapter Two",
   "sehemu": "Part III: The Prime Minister, the Cabinet and the Government",
   "ibara": 57,
-  "jina": "Tenure of office of Ministers",
-  "maudhui": "(1) The tenure of office of a Minister or Deputy Minister shall commence on the date on which he is appointed to that office. (2) The office of a Minister or Deputy Minister shall become vacant upon the occurrence of any of the following events: (a) if the holder resigns or dies; (b) if the holder ceases to be a Member of Parliament for any reason other than the dissolution of Parliament; (c) if the President revokes the appointment and removes the holder from office; (d) if he is elected Speaker; (e) if the Prime Minister resigns or the office of Prime Minister becomes vacant; (f) when the President-elect assumes the office of President; or (g) if the Ethics Tribunal gives a decision confirming that he has contravened the law concerning the ethics of public leaders.",
+  "jina": "Tenure of office of Ministers and Deputy Ministers",
+  "maudhui": "(1) The tenure of office of a Minister or a Deputy Minister shall commence on the date he is appointed to hold that office. (2) The Office of a Minister or a Deputy Minister shall become vacant upon the occurrence of any of the following: (a) if the incumbent resigns or dies; (b) where the incumbent ceases to be a Member of Parliament for any reason not connected with the dissolution of Parliament; (c) where the President revokes the appointment thereby removing the incumbent from office; (d) where he is elected Speaker; (e) where the Prime Minister resigns or his office becomes vacant for any other reasons; (f) immediately before the President elect assumes office; or (g) where the Ethics Tribunal makes a decision confirming that he has contravened the law concerning ethics of public leaders.",
   "vifungu": [
-    "(1) The tenure of office of a Minister or Deputy Minister shall commence on the date on which he is appointed to that office.",
-    "(2) The office of a Minister or Deputy Minister shall become vacant upon the occurrence of any of the following events: (a) if the holder resigns or dies; (b) if the holder ceases to be a Member of Parliament for any reason other than the dissolution of Parliament; (c) if the President revokes the appointment and removes the holder from office; (d) if he is elected Speaker; (e) if the Prime Minister resigns or the office of Prime Minister becomes vacant; (f) when the President-elect assumes the office of President; or (g) if the Ethics Tribunal gives a decision confirming that he has contravened the law concerning the ethics of public leaders."
+    "(1) The tenure of office of a Minister or a Deputy Minister shall commence on the date he is appointed to hold that office.",
+    "(2) The Office of a Minister or a Deputy Minister shall become vacant upon the occurrence of any of the following: (a) if the incumbent resigns or dies; (b) where the incumbent ceases to be a Member of Parliament for any reason not connected with the dissolution of Parliament; (c) where the President revokes the appointment thereby removing the incumbent from office; (d) where he is elected Speaker; (e) where the Prime Minister resigns or his office becomes vacant for any other reasons; (f) immediately before the President elect assumes office; or (g) where the Ethics Tribunal makes a decision confirming that he has contravened the law concerning ethics of public leaders."
   ],
   "language": "en",
   "chanzo": {
     "documentId": "doc-union-1977-en",
     "sourceLocator": "Article 57",
-    "verificationStatus": "pending",
+    "verificationStatus": "verified",
     "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
-    "verificationNote": "Authoritative English source audit pending exact line-by-line comparison; previous verified flag removed to avoid false verification."
+    "verificationNote": "Exact wording audited against the official OSG English Constitution PDF."
   }
 }
