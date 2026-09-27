@@ -24,9 +24,13 @@
     "Article 113.json",
     "Article 113A.json",
     "Article 114.json",
-    "Article 115.json"
+    "Article 115.json",
+    "Article 116.json",
+    "Article 117.json",
+    "Article 118.json",
+    "Article 119.json"
   ],
   "conversionStatus": "in-progress",
   "chapterArticlesTotal": 26,
-  "articlesConverted": 12
+  "articlesConverted": 16
 }
