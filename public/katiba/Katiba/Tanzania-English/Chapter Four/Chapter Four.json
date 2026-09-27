@@ -12,9 +12,11 @@
     "Article 102.json",
     "Article 103.json",
     "Article 104.json",
-    "Article 105.json"
+    "Article 105.json",
+    "Article 106.json",
+    "Article 107.json"
   ],
-  "conversionStatus": "in-progress",
+  "conversionStatus": "complete",
   "chapterArticlesTotal": 6,
-  "articlesConverted": 4
+  "articlesConverted": 6
 }
