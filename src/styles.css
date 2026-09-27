@@ -947,3 +947,17 @@ button.lawDashboardCard:hover{transform:translateY(-2px);box-shadow:0 10px 28px 
 button.lawDashboardCard:focus-visible{outline:3px solid currentColor;outline-offset:3px}
 button.lawDashboardCard.selected{box-shadow:0 0 0 2px currentColor,0 10px 28px rgba(16,24,40,.10)}
 button.lawDashboardCard{transition:transform .16s ease,box-shadow .16s ease}
+
+/* Article proposal workspace — balanced, responsive comparison */
+.proposalWorkspace{width:100%;max-width:100%;overflow:hidden}
+.proposalWorkspaceHead{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:28px;align-items:end}
+.proposalWorkspaceHead>div{min-width:0}
+.proposalWorkspaceHead h2,.proposalWorkspaceHead p{max-width:680px}
+.proposalPrimaryAction{white-space:nowrap;align-self:end;justify-self:end}
+.proposalCompare{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(300px,.65fr);gap:22px;align-items:start;width:100%}
+.sourceCopyCard,.suggestionCard{min-width:0;max-width:100%;overflow:hidden}
+.sourceCopyCard .compactClauses{max-height:620px;overflow:auto;padding-right:8px}
+.sourceCopyCard p,.suggestionCard p,.articleSuggestionItem{overflow-wrap:anywhere}
+.suggestionCard>a{display:inline-flex;max-width:100%;overflow-wrap:anywhere}
+@media(max-width:980px){.proposalCompare{grid-template-columns:1fr}.sourceCopyCard .compactClauses{max-height:none;overflow:visible}}
+@media(max-width:760px){.proposalWorkspaceHead{grid-template-columns:1fr;gap:16px;align-items:start}.proposalPrimaryAction{justify-self:stretch;width:100%;justify-content:center}.proposalCompare{display:grid!important;grid-template-columns:1fr!important;gap:16px}.sourceCopyCard,.suggestionCard{padding:20px!important}.proposalSafeguard{align-items:flex-start}}
