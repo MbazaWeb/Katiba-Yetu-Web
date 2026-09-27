@@ -1,0 +1,37 @@
+{
+  "documentId": "doc-union-1977-en",
+  "auditDate": "2026-09-27",
+  "structuralAudit": {
+    "status": "complete",
+    "chaptersExpected": 10,
+    "chaptersIndexed": 10,
+    "articleFilesIndexed": 162,
+    "numericArticles": {
+      "range": "1-152",
+      "missing": []
+    },
+    "insertedArticles": [
+      "46A",
+      "46B",
+      "53A",
+      "59A",
+      "59B",
+      "107A",
+      "107B",
+      "110A",
+      "113A",
+      "120A"
+    ],
+    "duplicateManifestArticleRows": 0,
+    "manifestRows": {
+      "chapters": 10,
+      "articles": 162,
+      "total": 172
+    }
+  },
+  "textualVerificationAudit": {
+    "status": "required",
+    "note": "Structural completeness does not establish verbatim fidelity to the authoritative English Constitution source. Existing article verificationStatus values must be audited against the authoritative English source before the English edition is represented as textually verified."
+  },
+  "overallStatus": "structurally-complete-text-audit-pending"
+}
