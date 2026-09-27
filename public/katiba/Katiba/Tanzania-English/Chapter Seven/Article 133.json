@@ -3,13 +3,15 @@
   "sehemu": "Part I: Contribution and Allocation of Revenue of the United Republic",
   "ibara": 133,
   "jina": "Joint Finance Account",
-  "maudhui": "The Government of the United Republic shall maintain a special account to be known as the “Joint Finance Account”, which shall form part of the Consolidated Fund of the Government of the United Republic, into which shall be paid all monies contributed by the two Governments in such proportions as shall be determined by the Joint Finance Commission in accordance with a law enacted by Parliament, for purposes of the affairs of the United Republic relating to Union Matters.",
-  "vifungu": [],
+  "maudhui": "The Government of the United Republic shall maintain a special account to be known as the “Joint Finance Account”, which shall form part of the Consolidated Fund of the Government of the United Republic, into which shall be paid all monies contributed by the two Governments in such proportions as shall be determined by the Joint Finance Commission in accordance with a law enacted by Parliament, for the purposes of the affairs of the United Republic relating to Union Matters.",
+  "vifungu": [
+    "The Government of the United Republic shall maintain a special account to be known as the “Joint Finance Account”, which shall form part of the Consolidated Fund of the Government of the United Republic, into which shall be paid all monies contributed by the two Governments in such proportions as shall be determined by the Joint Finance Commission in accordance with a law enacted by Parliament, for the purposes of the affairs of the United Republic relating to Union Matters."
+  ],
   "language": "en",
   "chanzo": {
     "documentId": "doc-union-1977-en",
     "sourceLocator": "Article 133",
-    "verificationStatus": "pending",
+    "verificationStatus": "verified",
     "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf"
   }
 }
