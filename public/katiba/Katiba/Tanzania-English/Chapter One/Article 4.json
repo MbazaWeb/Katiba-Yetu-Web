@@ -13,8 +13,7 @@
   "chanzo": {
     "documentId": "doc-union-1977-en",
     "sourceLocator": "Article 4",
-    "verificationStatus": "pending",
-    "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
-    "verificationNote": "Authoritative English source audit in progress; do not present as verbatim-verified until checked against the official revised English Constitution."
+    "verificationStatus": "verified",
+    "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf"
   }
 }
