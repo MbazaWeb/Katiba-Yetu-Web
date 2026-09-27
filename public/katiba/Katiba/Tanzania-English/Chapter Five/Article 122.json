@@ -3,16 +3,16 @@
   "sehemu": "Part V: Court of Appeal of the United Republic",
   "ibara": "122",
   "jina": "Quorum at sittings of the Court of Appeal",
-  "maudhui": "(1) The quorum at every sitting of the Court of Appeal shall be not fewer than three Justices of Appeal. (2) In every appeal, a question requiring determination by the Court of Appeal shall be decided according to the opinion of the majority of the Justices of Appeal who heard the appeal.",
+  "maudhui": "(1) The quorum at every sitting of the Court of Appeal shall be not less than three Justices of Appeal. (2) In every appeal a matter which requires the decision by the Court of Appeal shall be decided on the basis of the majority opinion of the Justices of Appeal hearing the appeal.",
   "vifungu": [
-    "(1) The quorum at every sitting of the Court of Appeal shall be not fewer than three Justices of Appeal.",
-    "(2) In every appeal, a question requiring determination by the Court of Appeal shall be decided according to the opinion of the majority of the Justices of Appeal who heard the appeal."
+    "(1) The quorum at every sitting of the Court of Appeal shall be not less than three Justices of Appeal.",
+    "(2) In every appeal a matter which requires the decision by the Court of Appeal shall be decided on the basis of the majority opinion of the Justices of Appeal hearing the appeal."
   ],
   "language": "en",
   "chanzo": {
     "documentId": "doc-union-1977-en",
     "sourceLocator": "Article 122",
-    "verificationStatus": "pending",
+    "verificationStatus": "verified",
     "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf"
   }
 }
