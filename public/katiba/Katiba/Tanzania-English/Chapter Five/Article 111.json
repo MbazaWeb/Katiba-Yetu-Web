@@ -2,15 +2,17 @@
   "sura": "Chapter Five",
   "sehemu": "Part II: High Court of the United Republic",
   "ibara": "111",
-  "jina": "Oath of Judges",
-  "maudhui": "A Judge of the High Court shall not assume the functions of his office until he has first taken and subscribed the oath of allegiance and any other oath relating to the proper discharge of his office which may be prescribed by a law enacted by Parliament.",
-  "vifungu": [],
+  "jina": "Judges’ oath of office",
+  "maudhui": "A Judge of the High Court shall not assume the functions of his office until he has first taken and subscribed the oath of allegiance and also such other oath concerning the discharge of his duties as may be prescribed in accordance with the law enacted by the Parliament.",
+  "vifungu": [
+    "A Judge of the High Court shall not assume the functions of his office until he has first taken and subscribed the oath of allegiance and also such other oath concerning the discharge of his duties as may be prescribed in accordance with the law enacted by the Parliament."
+  ],
   "language": "en",
   "chanzo": {
     "documentId": "doc-union-1977-en",
     "sourceLocator": "Article 111",
-    "verificationStatus": "pending",
+    "verificationStatus": "verified",
     "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
-    "verificationNote": "Official OSG 2009 English Constitution located and compared. Current JSON is substantively aligned but uses normalized/paraphrased wording; exact verbatim restoration is required before verification."
+    "verificationNote": "Restored and checked against the official OSG 2009 revised English Constitution."
   }
 }

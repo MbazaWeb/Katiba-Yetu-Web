@@ -3,19 +3,20 @@
   "sehemu": "Part III: Judicial Service Commission",
   "ibara": "112",
   "jina": "Judicial Service Commission",
-  "maudhui": "(1) There shall be a commission for advising on the appointment of Judges and employment of Magistrates of courts in Mainland Tanzania which in this Constitution shall be known as the “Judicial Service Commission”. (2) The members of the Commission shall be: (a) the Chief Justice, who shall be Chairman; (b) the Attorney General; (c) one Judge of the Court of Appeal appointed for that purpose by the President after consultation with the Chief Justice; (d) the Principal Judge; and (e) two members appointed by the President. (3) A person shall not be appointed a member of the Commission under paragraph (e) of subarticle (2) if that person is a Member of Parliament or holds any other office prescribed for that purpose by a law enacted by Parliament. (4) In performing its functions, the Commission may delegate its functions to various committees established in accordance with a law enacted by Parliament.",
+  "maudhui": "(1) There shall be an Appointments Advisory Commission for Judges and Magistrates in Mainland Tanzania which in this Constitution shall be known as the “Judicial Service Commission”. (2) Members of the Commission shall be - (a) the Chief Justice who shall be the Chairman; (b) the Attorney General; (c) a Justice of Appeal of Tanzania who shall be appointed in that behalf by the President after consultation with the Chief Justice; (d) the Principal Judge; and (e) two members who shall be appointed by the President. (3) A person shall not qualify to be appointed member of the Commission under the provisions of paragraph (e) of subarticle (2) of this Article, if he is a Member of Parliament or the holder of any other office prescribed in that behalf by a law enacted by Parliament. (4) In discharging its functions, the Commission may delegate its duties to various Committees to be established in accordance with law enacted by Parliament.",
   "vifungu": [
-    "(1) There shall be a commission for advising on the appointment of Judges and employment of Magistrates of courts in Mainland Tanzania which in this Constitution shall be known as the “Judicial Service Commission”.",
-    "(2) The members of the Commission shall be: (a) the Chief Justice, who shall be Chairman; (b) the Attorney General; (c) one Judge of the Court of Appeal appointed for that purpose by the President after consultation with the Chief Justice; (d) the Principal Judge; and (e) two members appointed by the President.",
-    "(3) A person shall not be appointed a member of the Commission under paragraph (e) of subarticle (2) if that person is a Member of Parliament or holds any other office prescribed for that purpose by a law enacted by Parliament.",
-    "(4) In performing its functions, the Commission may delegate its functions to various committees established in accordance with a law enacted by Parliament."
+    "(1) There shall be an Appointments Advisory Commission for Judges and Magistrates in Mainland Tanzania which in this Constitution shall be known as the “Judicial Service Commission”.",
+    "(2) Members of the Commission shall be - (a) the Chief Justice who shall be the Chairman; (b) the Attorney General; (c) a Justice of Appeal of Tanzania who shall be appointed in that behalf by the President after consultation with the Chief Justice; (d) the Principal Judge; and (e) two members who shall be appointed by the President.",
+    "(3) A person shall not qualify to be appointed member of the Commission under the provisions of paragraph (e) of subarticle",
+    "(2) of this Article, if he is a Member of Parliament or the holder of any other office prescribed in that behalf by a law enacted by Parliament.",
+    "(4) In discharging its functions, the Commission may delegate its duties to various Committees to be established in accordance with law enacted by Parliament."
   ],
   "language": "en",
   "chanzo": {
     "documentId": "doc-union-1977-en",
     "sourceLocator": "Article 112",
-    "verificationStatus": "pending",
+    "verificationStatus": "verified",
     "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
-    "verificationNote": "Official OSG 2009 English Constitution located and compared. Current JSON is substantively aligned but uses normalized/paraphrased wording; exact verbatim restoration is required before verification."
+    "verificationNote": "Restored and checked against the official OSG 2009 revised English Constitution."
   }
 }

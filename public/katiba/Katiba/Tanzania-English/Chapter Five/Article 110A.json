@@ -2,7 +2,7 @@
   "sura": "Chapter Five",
   "sehemu": "Part II: High Court of the United Republic",
   "ibara": "110A",
-  "jina": "Procedure for dealing with discipline of Judges of the High Court",
+  "jina": "Procedures relating to discipline of Judges of the High Court",
   "maudhui": "(1) The procedure for dealing with discipline of Judges for reasons other than those specified in subarticle (2) shall be as prescribed by a law enacted by Parliament. (2) A Judge of the High Court may be removed from office only for inability to perform the functions of his office, whether arising from illness or any other cause, or for misconduct affecting the ethics of judicial office or the code of ethics for public leaders, and shall not be removed except in accordance with subarticle (4). (3) Where the President considers that the question of removing a Judge from office ought to be investigated: (a) the President may, after consultation with the Chief Justice, suspend that Judge from office; (b) the President shall appoint a tribunal consisting of a Chairman and not fewer than two other members, and the Chairman and at least half of the other members shall be persons who are Judges of a High Court or Court of Appeal in any Commonwealth country; (c) the tribunal shall investigate the matter and report the facts to the President and advise whether the Judge should be removed from office for inability to perform his functions arising from illness or any other cause, or for misconduct. (4) Where a tribunal appointed under subarticle (3) advises the President that the Judge whose conduct has been investigated should be removed from office for inability to perform his functions or for misconduct, the President shall remove that Judge from office and his service as a Judge shall cease. (5) Where the question of removing a Judge has been referred to a tribunal for investigation under subarticle (3), the President may suspend the Judge from office and may at any time revoke the suspension; in any event the suspension shall cease if the tribunal advises the President that the Judge should not be removed from office. (6) The provisions of this Article shall apply without prejudice to the provisions of subarticle (11) of Article 109 of this Constitution.",
   "vifungu": [
     "(1) The procedure for dealing with discipline of Judges for reasons other than those specified in subarticle (2) shall be as prescribed by a law enacted by Parliament.",
@@ -18,6 +18,6 @@
     "sourceLocator": "Article 110A",
     "verificationStatus": "pending",
     "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
-    "verificationNote": "Official OSG 2009 English Constitution located and compared. Current JSON is substantively aligned but uses normalized/paraphrased wording; exact verbatim restoration is required before verification."
+    "verificationNote": "Official OSG text located. Exact restoration is in progress; current JSON remains pending because the full article spans the source page boundary and must be restored without reconstruction."
   }
 }
