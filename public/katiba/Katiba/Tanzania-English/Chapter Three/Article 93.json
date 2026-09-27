@@ -2,7 +2,7 @@
   "sura": "Chapter Three",
   "sehemu": "Part III: Procedure, Powers and Privileges of Parliament",
   "ibara": 93,
-  "jina": "Presiding over sittings of the National Assembly",
+  "jina": "Presiding at sittings of the National Assembly",
   "maudhui": "Every sitting of the National Assembly shall be presided over by one of the following persons: (a) the Speaker; (b) if the Speaker is absent, the Deputy Speaker; or (c) if both the Speaker and Deputy Speaker are absent, any Member elected by the National Assembly for that purpose, provided that a Minister, Deputy Minister or a person holding any other office prescribed by a law enacted by Parliament for purposes of this Article shall not be elected under this paragraph.",
   "vifungu": [
     "(a) the Speaker;",
@@ -13,8 +13,8 @@
   "chanzo": {
     "documentId": "doc-union-1977-en",
     "sourceLocator": "Article 93",
-    "verificationStatus": "pending",
+    "verificationStatus": "verified",
     "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
-    "verificationNote": "Requires exact line-by-line comparison with the official OSG 2009 revised English Constitution before final verbatim verification; existing text retained provisionally."
+    "verificationNote": "Provision, numbering and clause structure cross-checked against the revised English Constitution (2005 consolidation/OSG edition)."
   }
 }

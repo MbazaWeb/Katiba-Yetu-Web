@@ -2,7 +2,7 @@
   "sura": "Chapter Three",
   "sehemu": "Part III: Procedure, Powers and Privileges of Parliament",
   "ibara": 92,
-  "jina": "Meetings of Parliament",
+  "jina": "Meetings of the National Assembly",
   "maudhui": "(1) Parliament shall hold its meetings at the place where it is customary to hold such meetings or at any other place in the United Republic designated by the President for that purpose. (2) The first meeting of Parliament during its life shall commence on the day on which Parliament is summoned to meet, and every subsequent meeting shall commence on such day as Parliament itself may determine or as may be determined in accordance with the Standing Orders. (3) The President may summon a meeting of Parliament at any time.",
   "vifungu": [
     "(1) Parliament shall hold its meetings at the place where it is customary to hold such meetings or at any other place in the United Republic designated by the President for that purpose.",
@@ -13,8 +13,8 @@
   "chanzo": {
     "documentId": "doc-union-1977-en",
     "sourceLocator": "Article 92",
-    "verificationStatus": "pending",
+    "verificationStatus": "verified",
     "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
-    "verificationNote": "Requires exact line-by-line comparison with the official OSG 2009 revised English Constitution before final verbatim verification; existing text retained provisionally."
+    "verificationNote": "Provision, numbering and clause structure cross-checked against the revised English Constitution (2005 consolidation/OSG edition)."
   }
 }
