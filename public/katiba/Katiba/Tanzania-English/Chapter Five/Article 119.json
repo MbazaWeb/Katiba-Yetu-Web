@@ -3,13 +3,15 @@
   "sehemu": "Part V: Court of Appeal of the United Republic",
   "ibara": "119",
   "jina": "Jurisdiction of Justices of Appeal",
-  "maudhui": "A Justice of Appeal shall have no jurisdiction to hear any matter in the High Court or in a Magistrate's Court of any level; provided that where a Judge of the High Court is appointed a Justice of Appeal, that Judge may, after appointment, continue performing his functions in the High Court until completing preparation and delivery of judgment.",
-  "vifungu": [],
+  "maudhui": "No Justice of Appeal shall have jurisdiction to hear any matter in the High Court or in any magistrates’ court of any grade: Provided that where a Judge of the High Court is appointed Justice of Appeal he may, notwithstanding such appointment, discharge his functions in the High Court until he completes the preparation and delivery of the decision or until he completes any other business in connection with matters which he had started hearing before his appointment as a Justice of Appeal, and for that purpose it shall be lawful for him to deliver judgment or any other decision concerned in the exercise of the jurisdiction he had before he was appointed Justice of Appeal; provided that where ultimately that judgment or decision is challenged by way of appeal to the Court of Appeal, then in such circumstances that Justice of Appeal shall not have jurisdiction to hear that appeal.",
+  "vifungu": [
+    "No Justice of Appeal shall have jurisdiction to hear any matter in the High Court or in any magistrates’ court of any grade: Provided that where a Judge of the High Court is appointed Justice of Appeal he may, notwithstanding such appointment, discharge his functions in the High Court until he completes the preparation and delivery of the decision or until he completes any other business in connection with matters which he had started hearing before his appointment as a Justice of Appeal, and for that purpose it shall be lawful for him to deliver judgment or any other decision concerned in the exercise of the jurisdiction he had before he was appointed Justice of Appeal; provided that where ultimately that judgment or decision is challenged by way of appeal to the Court of Appeal, then in such circumstances that Justice of Appeal shall not have jurisdiction to hear that appeal."
+  ],
   "language": "en",
   "chanzo": {
     "documentId": "doc-union-1977-en",
     "sourceLocator": "Article 119",
-    "verificationStatus": "pending",
+    "verificationStatus": "verified",
     "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf"
   }
 }
