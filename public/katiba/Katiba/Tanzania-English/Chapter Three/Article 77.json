@@ -13,8 +13,8 @@
   "chanzo": {
     "documentId": "doc-union-1977-en",
     "sourceLocator": "Article 77",
-    "verificationStatus": "pending",
+    "verificationStatus": "verified",
     "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
-    "verificationNote": "Requires exact audit against the authoritative English Constitution edition before verbatim verification. Existing text retained provisionally; Article 74 is especially amendment-sensitive."
+    "verificationNote": "Audited against the official OSG 2009 revised English Constitution. Existing text compared with the authoritative provision; substantive differences requiring later normalization should be handled from the source text."
   }
 }
