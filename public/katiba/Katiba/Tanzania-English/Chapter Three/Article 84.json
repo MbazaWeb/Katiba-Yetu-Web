@@ -19,7 +19,8 @@
   "chanzo": {
     "documentId": "doc-union-1977-en",
     "sourceLocator": "Article 84",
-    "verificationStatus": "verified",
-    "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf"
+    "verificationStatus": "pending",
+    "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
+    "verificationNote": "Existing wording appears condensed/paraphrased; full clause-by-clause comparison with authoritative English PDF required before verbatim verification."
   }
 }
