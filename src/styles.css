@@ -961,3 +961,62 @@ button.lawDashboardCard{transition:transform .16s ease,box-shadow .16s ease}
 .suggestionCard>a{display:inline-flex;max-width:100%;overflow-wrap:anywhere}
 @media(max-width:980px){.proposalCompare{grid-template-columns:1fr}.sourceCopyCard .compactClauses{max-height:none;overflow:visible}}
 @media(max-width:760px){.proposalWorkspaceHead{grid-template-columns:1fr;gap:16px;align-items:start}.proposalPrimaryAction{justify-self:stretch;width:100%;justify-content:center}.proposalCompare{display:grid!important;grid-template-columns:1fr!important;gap:16px}.sourceCopyCard,.suggestionCard{padding:20px!important}.proposalSafeguard{align-items:flex-start}}
+
+/* Proposal workspace v2 — prevent narrow text columns and internal article scrolling */
+.proposalWorkspace{
+  display:grid!important;
+  grid-template-columns:minmax(0,1fr)!important;
+  gap:28px!important;
+  padding:clamp(24px,4vw,56px)!important;
+}
+.proposalWorkspaceHead{
+  display:grid!important;
+  grid-template-columns:minmax(0,1fr) auto!important;
+  gap:24px!important;
+  align-items:end!important;
+  width:100%!important;
+  max-width:none!important;
+}
+.proposalWorkspaceHead>div{width:100%!important;max-width:760px!important;min-width:0!important}
+.proposalWorkspaceHead h2{max-width:none!important;margin-bottom:12px!important}
+.proposalWorkspaceHead p{max-width:720px!important;line-height:1.65!important}
+.proposalPrimaryAction{position:static!important;margin:0!important;min-width:180px!important}
+.proposalCompare{
+  display:grid!important;
+  grid-template-columns:minmax(0,1.15fr) minmax(320px,.85fr)!important;
+  gap:24px!important;
+  width:100%!important;
+  max-width:none!important;
+  align-items:stretch!important;
+}
+.sourceCopyCard,.suggestionCard{
+  width:100%!important;
+  min-width:0!important;
+  max-width:none!important;
+  height:auto!important;
+  align-self:stretch!important;
+}
+.sourceCopyCard .compactClauses{
+  max-height:none!important;
+  height:auto!important;
+  overflow:visible!important;
+  padding-right:0!important;
+}
+.sourceCopyCard h3,.sourceCopyCard p,.sourceCopyCard li,
+.suggestionCard h3,.suggestionCard p{
+  max-width:none!important;
+  word-break:normal!important;
+  overflow-wrap:break-word!important;
+}
+.proposalSafeguard{max-width:760px!important}
+@media(max-width:900px){
+  .proposalWorkspaceHead{grid-template-columns:1fr!important;align-items:start!important}
+  .proposalPrimaryAction{justify-self:start!important}
+  .proposalCompare{grid-template-columns:1fr!important}
+}
+@media(max-width:600px){
+  .proposalWorkspace{padding:20px 14px!important;gap:20px!important}
+  .proposalWorkspaceHead{gap:14px!important}
+  .proposalPrimaryAction{width:100%!important;min-width:0!important;justify-content:center!important}
+  .sourceCopyCard,.suggestionCard{padding:18px!important;border-radius:18px!important}
+}
