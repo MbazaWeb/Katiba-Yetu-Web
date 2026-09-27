@@ -3,14 +3,16 @@
   "sehemu": "Part II: Members of Parliament, Constituencies and Election of Members",
   "ibara": 68,
   "jina": "Oath of Members of Parliament",
-  "maudhui": "Every Member of Parliament shall be required to take and subscribe before the National Assembly the oath of allegiance before he begins to take part in the business of the National Assembly, save that a Member may take part in the election of the Speaker before taking the oath.",
-  "vifungu": [],
+  "maudhui": "Every Member of Parliament shall be required to take and subscribe before the National Assembly the oath of allegiance before commencing to take part in the business of the National Assembly save that he may take part in the election of Speaker before taking that oath.",
+  "vifungu": [
+    "Every Member of Parliament shall be required to take and subscribe before the National Assembly the oath of allegiance before commencing to take part in the business of the National Assembly save that he may take part in the election of Speaker before taking that oath."
+  ],
   "language": "en",
   "chanzo": {
     "documentId": "doc-union-1977-en",
     "sourceLocator": "Article 68",
-    "verificationStatus": "pending",
+    "verificationStatus": "verified",
     "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
-    "verificationNote": "Requires exact line-by-line audit against the official revised English Constitution PDF before verbatim verification. Existing text is retained provisionally."
+    "verificationNote": "Exact wording audited against the official OSG English Constitution PDF (2009 revised English version)."
   }
 }
