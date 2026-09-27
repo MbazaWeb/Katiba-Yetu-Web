@@ -15,9 +15,13 @@
     "Article 137.json",
     "Article 138.json",
     "Article 139.json",
-    "Article 140.json"
+    "Article 140.json",
+    "Article 141.json",
+    "Article 142.json",
+    "Article 143.json",
+    "Article 144.json"
   ],
-  "conversionStatus": "in-progress",
+  "conversionStatus": "complete",
   "chapterArticlesTotal": 12,
-  "articlesConverted": 8
+  "articlesConverted": 12
 }
