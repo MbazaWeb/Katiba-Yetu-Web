@@ -1,0 +1,24 @@
+{
+  "sura": "Chapter Five",
+  "jina": "DISPENSATION OF JUSTICE IN THE UNITED REPUBLIC, THE HIGH COURT OF THE UNITED REPUBLIC, THE JUDICIAL SERVICE COMMISSION, THE HIGH COURT OF ZANZIBAR, THE COURT OF APPEAL OF THE UNITED REPUBLIC AND THE SPECIAL CONSTITUTIONAL COURT OF THE UNITED REPUBLIC",
+  "documentId": "doc-union-1977-en",
+  "chapterNumber": 5,
+  "sehemu": [
+    "Part I: Dispensation of Justice in the United Republic",
+    "Part II: High Court of the United Republic",
+    "Part III: Judicial Service Commission",
+    "Part IV: High Court of Zanzibar",
+    "Part V: Court of Appeal of the United Republic",
+    "Part VI: Execution of Court Orders",
+    "Part VII: Special Constitutional Court of the United Republic"
+  ],
+  "ibara": [
+    "Article 107A.json",
+    "Article 107B.json",
+    "Article 108.json",
+    "Article 109.json"
+  ],
+  "conversionStatus": "in-progress",
+  "chapterArticlesTotal": 26,
+  "articlesConverted": 4
+}
