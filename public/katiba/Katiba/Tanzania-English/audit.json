@@ -1,6 +1,6 @@
 {
   "documentId": "doc-union-1977-en",
-  "auditDate": "2026-09-27",
+  "auditDate": "2026-09-28",
   "structuralAudit": {
     "status": "complete",
     "chaptersExpected": 10,
@@ -26,12 +26,24 @@
     "manifestRows": {
       "chapters": 10,
       "articles": 162,
-      "total": 172
+      "schedules": 2,
+      "total": 174
+    },
+    "schedules": {
+      "expected": 2,
+      "indexed": 2,
+      "verified": 2,
+      "names": [
+        "First Schedule",
+        "Second Schedule"
+      ]
     }
   },
   "textualVerificationAudit": {
     "status": "required",
-    "note": "Structural completeness does not establish verbatim fidelity to the authoritative English Constitution source. Existing article verificationStatus values must be audited against the authoritative English source before the English edition is represented as textually verified."
+    "note": "Structural completeness does not establish verbatim fidelity to the authoritative English Constitution source. Existing article verificationStatus values must be audited against the authoritative English source before the English edition is represented as textually verified.",
+    "scheduleStatus": "complete",
+    "scheduleNote": "First Schedule and Second Schedule have been compared with the authoritative English Constitution source and are marked verified. Article-level textual fidelity remains subject to the existing article audit warning."
   },
-  "overallStatus": "structurally-complete-text-audit-pending"
+  "overallStatus": "structurally-complete-schedules-verified-article-text-audit-pending"
 }
