@@ -1,0 +1,37 @@
+{
+  "documentId": "doc-union-1977-en",
+  "schedule": "First Schedule",
+  "title": "Union Matters",
+  "referredToIn": "Article 4",
+  "language": "en",
+  "items": [
+    {"number": 1, "text": "The Constitution of Tanzania and the Government of the United Republic."},
+    {"number": 2, "text": "Foreign Affairs."},
+    {"number": 3, "text": "Defence and Security."},
+    {"number": 4, "text": "Police."},
+    {"number": 5, "text": "Emergency Powers."},
+    {"number": 6, "text": "Citizenship."},
+    {"number": 7, "text": "Immigration."},
+    {"number": 8, "text": "External borrowing and trade."},
+    {"number": 9, "text": "Service in the Government of the United Republic."},
+    {"number": 10, "text": "Income tax payable by individuals and by corporations, customs duty and excise duty on goods manufactured in Tanzania collected by the Customs Department."},
+    {"number": 11, "text": "Harbours, matters relating to air transport, posts and telecommunications."},
+    {"number": 12, "text": "All matters concerning coinage and currency for the purposes of legal tender (including notes), banks (including savings banks) and all banking business; foreign exchange and exchange control."},
+    {"number": 13, "text": "Industrial licensing and statistics."},
+    {"number": 14, "text": "Higher education."},
+    {"number": 15, "text": "Mineral oil resources, including crude oil other categories of oil or products and natural gas."},
+    {"number": 16, "text": "The National Examinations Council of Tanzania and all matters connected with the functions of that Council."},
+    {"number": 17, "text": "Civil aviation."},
+    {"number": 18, "text": "Research."},
+    {"number": 19, "text": "Meteorology."},
+    {"number": 20, "text": "Statistics."},
+    {"number": 21, "text": "The Court of Appeal of the United Republic."},
+    {"number": 22, "text": "Registration of political parties and other matters related to political parties."}
+  ],
+  "chanzo": {
+    "sourceLocator": "First Schedule (Referred to in Article 4)",
+    "verificationStatus": "verified",
+    "authoritativeSource": "Office of the Solicitor General e-Library",
+    "sourceDocument": "The Constitution of the United Republic of Tanzania of 1977"
+  }
+}
