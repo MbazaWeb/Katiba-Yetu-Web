@@ -170,16 +170,16 @@ export async function searchConstitution(query:string,documentId?:string){
 export interface ConstitutionScheduleSearchResult {source:ConstitutionSource;schedule:ConstitutionSchedule;score:number;excerpt:string}
 export async function searchSchedules(query:string,documentId?:string):Promise<ConstitutionScheduleSearchResult[]>{const q=query.trim().toLocaleLowerCase('en');if(!q)return[];const tokens=q.split(/\s+/).filter(Boolean);const sources=(documentId?constitutionSources.filter(s=>s.id===documentId):constitutionSources).filter(s=>s.language==='en');const groups=await Promise.all(sources.map(async source=>(await loadSchedules(source.id)).map(schedule=>{const body=[schedule.schedule,schedule.title||'',schedule.referredToIn||'',...(schedule.items||[]).map(x=>[x.number,x.reference||'',x.text].join(' ')),...(schedule.lists||[]).flatMap(x=>[x.name,x.referredToIn||'',x.description||'',...x.items.map(i=>[i.number||'',i.reference||'',i.text].join(' '))])].join(' ');const searchable=body.toLocaleLowerCase('en');if(!tokens.every(token=>searchable.includes(token)))return null;let score=80;if(schedule.schedule.toLocaleLowerCase('en').includes(q))score+=500;if((schedule.title||'').toLocaleLowerCase('en').includes(q))score+=350;const at=searchable.indexOf(q),start=Math.max(0,at>=0?at-70:0);return {source,schedule,score,excerpt:body.slice(start,start+260)};}).filter((x):x is ConstitutionScheduleSearchResult=>Boolean(x))));return groups.flat().sort((a,b)=>b.score-a.score)}
 
-export interface SourceIntegrityIssue {sourceId:string;chapter?:string;file?:string;kind:'missing_chapter_index'|'missing_article'|'unreferenced_article'|'invalid_json';message:string}
-export interface SourceIntegrityReport {manifestFiles:number;jsonFiles:number;chapterIndexes:number;articleFiles:number;referencedArticles:number;issues:SourceIntegrityIssue[]}
+export interface SourceIntegrityIssue {sourceId:string;chapter?:string;file?:string;kind:'missing_chapter_index'|'missing_article'|'unreferenced_article'|'invalid_json'|'invalid_schedule'|'unverified_schedule';message:string}
+export interface SourceIntegrityReport {manifestFiles:number;jsonFiles:number;chapterIndexes:number;articleFiles:number;referencedArticles:number;scheduleFiles:number;verifiedSchedules:number;issues:SourceIntegrityIssue[]}
 
 export async function checkSourceIntegrity():Promise<SourceIntegrityReport>{
   const paths=await loadManifestPaths(),jsonPaths=paths.filter(p=>p.toLowerCase().endsWith('.json'));
-  const issues:SourceIntegrityIssue[]=[];let chapterIndexes=0,articleFiles=0,referencedArticles=0;
+  const issues:SourceIntegrityIssue[]=[];let chapterIndexes=0,articleFiles=0,referencedArticles=0,scheduleFiles=0,verifiedSchedules=0;
   for(const source of constitutionSources){
     const prefix=sourceManifestPrefix(source),sourcePaths=jsonPaths.filter(p=>p.startsWith(prefix));
     const chapters=new Map<string,Set<string>>();
-    for(const path of sourcePaths){const rest=path.slice(prefix.length),parts=rest.split('/');if(parts.length<2)continue;const [chapter,file]=parts;if(!chapters.has(chapter))chapters.set(chapter,new Set());chapters.get(chapter)!.add(file);if(/^(?:Ibara|Article) .+\.json$/i.test(file))articleFiles++}
+    for(const path of sourcePaths){const rest=path.slice(prefix.length),parts=rest.split('/');if(parts.length<2)continue;const [chapter,file]=parts;if(chapter==='Schedules'){scheduleFiles++;try{const schedule=await fetchJson<ConstitutionSchedule>('/katiba/'+path);if(!schedule.documentId||!schedule.schedule||schedule.documentId!==source.id)issues.push({sourceId:source.id,chapter,file,kind:'invalid_schedule',message:'Schedule metadata haijakamilika au documentId hailingani.'});else if(schedule.chanzo?.verificationStatus==='verified')verifiedSchedules++;else issues.push({sourceId:source.id,chapter,file,kind:'unverified_schedule',message:'Schedule ipo kwenye manifest lakini source verification haijakamilika.'})}catch{issues.push({sourceId:source.id,chapter,file,kind:'invalid_json',message:'Schedule haiwezi kusomwa kama JSON.'})}continue}if(!chapters.has(chapter))chapters.set(chapter,new Set());chapters.get(chapter)!.add(file);if(/^(?:Ibara|Article) .+\.json$/i.test(file))articleFiles++}
     for(const [chapter,files] of chapters){
       const indexFile=chapter+'.json';
       if(!files.has(indexFile)){issues.push({sourceId:source.id,chapter,file:indexFile,kind:'missing_chapter_index',message:'Chapter index haipo kwenye manifest.'});continue}
@@ -191,7 +191,7 @@ export async function checkSourceIntegrity():Promise<SourceIntegrityReport>{
       for(const file of files)if(/^(?:Ibara|Article) .+\.json$/i.test(file)&&!refs.has(file))issues.push({sourceId:source.id,chapter,file,kind:'unreferenced_article',message:'Article file ipo kwenye manifest lakini haijatajwa na chapter index.'});
     }
   }
-  return {manifestFiles:paths.length,jsonFiles:jsonPaths.length,chapterIndexes,articleFiles,referencedArticles,issues};
+  return {manifestFiles:paths.length,jsonFiles:jsonPaths.length,chapterIndexes,articleFiles,referencedArticles,scheduleFiles,verifiedSchedules,issues};
 }
 
 export function articleFileName(articleNumber:number|string){
