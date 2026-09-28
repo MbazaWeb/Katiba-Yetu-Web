@@ -1,0 +1,41 @@
+{
+  "documentId": "doc-union-1977-en",
+  "schedule": "Second Schedule",
+  "language": "en",
+  "lists": [
+    {
+      "name": "List One",
+      "referredToIn": "Article 98(1)(a)",
+      "description": "Laws the amendment of which requires to be supported by at least two-thirds of all Members of Parliament",
+      "items": [
+        {"reference": "Cap.500 (1965 Edition)", "text": "The Republic of Tanganyika (Consequential, Transitional and Temporary Provisions) Act, 1962 Sections 3, 17, 18, 23 and 26"},
+        {"reference": "Cap 508", "text": "The Judicial Service Act, 1962, [Repealed by Act No.2 of 2005]."},
+        {"reference": null, "text": "The Immigration Act, 1995 [the whole Act.]"},
+        {"reference": null, "text": "The Citizenship Act, 1995 [The whole Act]"},
+        {"reference": "Cap.509", "text": "The Civil Service Act, 1962, [Repealed by Act No.8 of 2002]."},
+        {"reference": "Cap.557 (1965 Edition)", "text": "The whole Act of Union between Tanganyika and Zanzibar of 1964."}
+      ]
+    },
+    {
+      "name": "List Two",
+      "referredToIn": "Article 98(1)(b)",
+      "description": "Matters the amendment of which requires to be supported by two-thirds of all Members of Parliament from Mainland Tanzania and two-thirds of all Members of Parliament from Tanzania Zanzibar",
+      "items": [
+        {"number": 1, "text": "The existence of the United Republic."},
+        {"number": 2, "text": "The existence of the Office of President of the United Republic."},
+        {"number": 3, "text": "The Authority of the Government of the United Republic."},
+        {"number": 4, "text": "The existence of the Parliament of the United Republic."},
+        {"number": 5, "text": "The Authority of the Government of Zanzibar."},
+        {"number": 6, "text": "The High Court of Zanzibar."},
+        {"number": 7, "text": "The list of Union Matters."},
+        {"number": 8, "text": "The number of Members of Parliament from Zanzibar."}
+      ]
+    }
+  ],
+  "chanzo": {
+    "sourceLocator": "Second Schedule — List One and List Two",
+    "verificationStatus": "verified",
+    "authoritativeSource": "Government of Tanzania Constitution publication",
+    "sourceDocument": "The Constitution of the United Republic of Tanzania of 1977"
+  }
+}
