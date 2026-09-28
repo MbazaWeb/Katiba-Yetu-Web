@@ -1,0 +1,47 @@
+﻿{
+    "generatedAt":  "2026-09-28T09:08:48",
+    "project":  "Katiba Yetu — Tanzania Constitution Library",
+    "documents":  [
+                      {
+                          "documentId":  "doc-katiba-1977-en",
+                          "title":  "The Constitution of the United Republic of Tanzania of 1977 (English)",
+                          "titleSw":  "Katiba ya Jamhuri ya Muungano wa Tanzania ya Mwaka 1977 (Kiingereza)",
+                          "language":  "en",
+                          "type":  "constitution",
+                          "path":  "Katiba/Tanzania-English/index.json",
+                          "totalChapters":  10,
+                          "totalArticles":  162,
+                          "status":  "verified"
+                      },
+                      {
+                          "documentId":  "doc-katiba-tanzania-sw",
+                          "title":  "Katiba ya Jamhuri ya Muungano wa Tanzania (Kiswahili)",
+                          "language":  "sw",
+                          "type":  "constitution",
+                          "path":  "Katiba/Tanzania/index.json",
+                          "totalChapters":  10,
+                          "totalArticles":  152,
+                          "status":  "pending"
+                      },
+                      {
+                          "documentId":  "doc-katiba-zanzibar-sw",
+                          "title":  "Katiba ya Zanzibar (Kiswahili)",
+                          "language":  "sw",
+                          "type":  "constitution",
+                          "path":  "Katiba/Zanzibar/index.json",
+                          "totalChapters":  12,
+                          "totalArticles":  135,
+                          "status":  "pending"
+                      },
+                      {
+                          "documentId":  "doc-rasimu-tanzania-sw",
+                          "title":  "Rasimu ya Katiba ya Tanzania (Kiswahili)",
+                          "language":  "sw",
+                          "type":  "draft",
+                          "path":  "Rasimu za Katiba/Tanzania/index.json",
+                          "totalChapters":  19,
+                          "totalArticles":  289,
+                          "status":  "pending"
+                      }
+                  ]
+}

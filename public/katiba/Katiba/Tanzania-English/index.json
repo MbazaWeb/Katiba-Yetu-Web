@@ -1,0 +1,1081 @@
+﻿{
+    "documentId":  "doc-katiba-1977-en",
+    "title":  "The Constitution of the United Republic of Tanzania of 1977",
+    "totalChapters":  10,
+    "totalArticles":  162,
+    "needsReview":  1,
+    "chapters":  [
+                     {
+                         "chapter":  "Chapter One",
+                         "title":  "The United Republic and the People",
+                         "chapterNumber":  1,
+                         "path":  "Chapter One/Chapter One.json",
+                         "parts":  3,
+                         "articlesCount":  32,
+                         "articles":  [
+                                          {
+                                              "article":  1,
+                                              "title":  "Tanzania is one State and is a sovereign United Republic",
+                                              "path":  "Chapter One/Article 1.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  2,
+                                              "title":  "The territory of the United Republic",
+                                              "path":  "Chapter One/Article 2.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  3,
+                                              "title":  "Declaration of Multi-Party State",
+                                              "path":  "Chapter One/Article 3.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  4,
+                                              "title":  "Exercise of State Authority of the United Republic",
+                                              "path":  "Chapter One/Article 4.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  5,
+                                              "title":  "The Franchise",
+                                              "path":  "Chapter One/Article 5.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  6,
+                                              "title":  "Interpretation",
+                                              "path":  "Chapter One/Article 6.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  7,
+                                              "title":  "Application of the provisions of Part II",
+                                              "path":  "Chapter One/Article 7.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  8,
+                                              "title":  "The Government and the People",
+                                              "path":  "Chapter One/Article 8.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  9,
+                                              "title":  "The pursuit of Ujamaa and Self-Reliance",
+                                              "path":  "Chapter One/Article 9.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  10,
+                                              "title":  "[Repealed]",
+                                              "path":  "Chapter One/Article 10.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  11,
+                                              "title":  "Right to work, to educational and other pursuits",
+                                              "path":  "Chapter One/Article 11.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter One/Article 12.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter One/Article 13.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter One/Article 14.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter One/Article 15.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  16,
+                                              "title":  "Right to privacy and personal security",
+                                              "path":  "Chapter One/Article 16.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter One/Article 17.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter One/Article 18.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter One/Article 19.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter One/Article 20.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter One/Article 21.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter One/Article 22.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter One/Article 23.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter One/Article 24.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter One/Article 25.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter One/Article 26.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter One/Article 27.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter One/Article 28.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  29,
+                                              "title":  "Fundamental rights and duties",
+                                              "path":  "Chapter One/Article 29.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter One/Article 30.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter One/Article 31.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter One/Article 32.json",
+                                              "status":  null
+                                          }
+                                      ]
+                     },
+                     {
+                         "chapter":  "Chapter Two",
+                         "title":  "The Executive of the United Republic",
+                         "chapterNumber":  2,
+                         "path":  "Chapter Two/Chapter Two.json",
+                         "parts":  3,
+                         "articlesCount":  34,
+                         "articles":  [
+                                          {
+                                              "article":  33,
+                                              "title":  "President of the United Republic",
+                                              "path":  "Chapter Two/Article 33.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  34,
+                                              "title":  "The Government of the United Republic and its Authority",
+                                              "path":  "Chapter Two/Article 34.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  35,
+                                              "title":  "Discharge of business of the Government",
+                                              "path":  "Chapter Two/Article 35.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  36,
+                                              "title":  "Authority to constitute offices and to appoint officers",
+                                              "path":  "Chapter Two/Article 36.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  37,
+                                              "title":  "Discharge of duties and functions of President",
+                                              "path":  "Chapter Two/Article 37.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  38,
+                                              "title":  "Election of President",
+                                              "path":  "Chapter Two/Article 38.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  39,
+                                              "title":  "Qualifications for election of President",
+                                              "path":  "Chapter Two/Article 39.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  40,
+                                              "title":  "Eligibility for re-election",
+                                              "path":  "Chapter Two/Article 40.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  41,
+                                              "title":  "Procedures for the election of President",
+                                              "path":  "Chapter Two/Article 41.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  42,
+                                              "title":  "Time of assumption and term of office of President",
+                                              "path":  "Chapter Two/Article 42.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  43,
+                                              "title":  "Terms of office of President",
+                                              "path":  "Chapter Two/Article 43.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  44,
+                                              "title":  "Power to declare war",
+                                              "path":  "Chapter Two/Article 44.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  45,
+                                              "title":  "Prerogative of mercy",
+                                              "path":  "Chapter Two/Article 45.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  46,
+                                              "title":  "Immunity from criminal and civil proceedings",
+                                              "path":  "Chapter Two/Article 46.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  46,
+                                              "title":  "Impeachment by the National Assembly",
+                                              "path":  "Chapter Two/Article 46A.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  46,
+                                              "title":  "Duty of principal leaders of organs with executive powers to preserve the Union",
+                                              "path":  "Chapter Two/Article 46B.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Two/Article 47.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Two/Article 48.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Two/Article 49.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Two/Article 50.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Two/Article 51.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Two/Article 52.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Two/Article 53.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Two/Article 53A.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Two/Article 54.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Two/Article 55.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Two/Article 56.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Two/Article 57.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Two/Article 58.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Two/Article 59.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Two/Article 59A.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Two/Article 59B.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Two/Article 60.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Two/Article 61.json",
+                                              "status":  null
+                                          }
+                                      ]
+                     },
+                     {
+                         "chapter":  "Chapter Three",
+                         "title":  "The Legislature of the United Republic",
+                         "chapterNumber":  3,
+                         "path":  "Chapter Three/Chapter Three.json",
+                         "parts":  3,
+                         "articlesCount":  40,
+                         "articles":  [
+                                          {
+                                              "article":  62,
+                                              "title":  "Parliament",
+                                              "path":  "Chapter Three/Article 62.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  63,
+                                              "title":  "Authority of Parliament",
+                                              "path":  "Chapter Three/Article 63.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  64,
+                                              "title":  "Legislative power",
+                                              "path":  "Chapter Three/Article 64.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  65,
+                                              "title":  "Life of Parliament",
+                                              "path":  "Chapter Three/Article 65.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 66.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 67.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 68.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 69.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 70.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 71.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 72.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 73.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 74.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 75.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 76.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 77.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 78.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 79.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 80.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 81.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 82.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 83.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 84.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 85.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 86.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 87.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 88.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 89.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 90.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 91.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 92.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 93.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 94.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 95.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 96.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 97.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 98.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 99.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 100.json",
+                                              "status":  null
+                                          },
+                                          {
+                                              "article":  null,
+                                              "title":  null,
+                                              "path":  "Chapter Three/Article 101.json",
+                                              "status":  null
+                                          }
+                                      ]
+                     },
+                     {
+                         "chapter":  "Chapter Four",
+                         "title":  "The Revolutionary Government of Zanzibar, the Zanzibar Revolutionary Council and the House of Representatives of Zanzibar",
+                         "chapterNumber":  4,
+                         "path":  "Chapter Four/Chapter Four.json",
+                         "parts":  3,
+                         "articlesCount":  6,
+                         "articles":  [
+                                          {
+                                              "article":  102,
+                                              "title":  "The Revolutionary Government of Zanzibar and its jurisdiction",
+                                              "path":  "Chapter Four/Article 102.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  103,
+                                              "title":  "Head of the Revolutionary Government of Zanzibar and his authority",
+                                              "path":  "Chapter Four/Article 103.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  104,
+                                              "title":  "Election of the Head of the Revolutionary Government of Zanzibar",
+                                              "path":  "Chapter Four/Article 104.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  105,
+                                              "title":  "The Zanzibar Revolutionary Council and its functions",
+                                              "path":  "Chapter Four/Article 105.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  106,
+                                              "title":  "The House of Representatives of Zanzibar and its legislative functions",
+                                              "path":  "Chapter Four/Article 106.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  107,
+                                              "title":  "Authority of House of Representatives",
+                                              "path":  "Chapter Four/Article 107.json",
+                                              "status":  "verified"
+                                          }
+                                      ]
+                     },
+                     {
+                         "chapter":  "Chapter Five",
+                         "title":  "Dispensation of Justice in the United Republic",
+                         "chapterNumber":  5,
+                         "path":  "Chapter Five/Chapter Five.json",
+                         "parts":  7,
+                         "articlesCount":  26,
+                         "articles":  [
+                                          {
+                                              "article":  107,
+                                              "title":  "Authority of dispensing justice",
+                                              "path":  "Chapter Five/Article 107A.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  107,
+                                              "title":  "Independence of the Judiciary",
+                                              "path":  "Chapter Five/Article 107B.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  108,
+                                              "title":  "High Court of the United Republic and its jurisdiction",
+                                              "path":  "Chapter Five/Article 108.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  109,
+                                              "title":  "Judges of the High Court and their appointment",
+                                              "path":  "Chapter Five/Article 109.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  110,
+                                              "title":  "Tenure of office of Judges of the High Court",
+                                              "path":  "Chapter Five/Article 110.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  110,
+                                              "title":  "Procedures relating to discipline of Judges of the High Court",
+                                              "path":  "Chapter Five/Article 110A.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  111,
+                                              "title":  "Judges\u0027 oath of office",
+                                              "path":  "Chapter Five/Article 111.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  112,
+                                              "title":  "Judicial Service Commission",
+                                              "path":  "Chapter Five/Article 112.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  113,
+                                              "title":  "Powers and functions of the Commission",
+                                              "path":  "Chapter Five/Article 113.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  113,
+                                              "title":  "Membership in political parties",
+                                              "path":  "Chapter Five/Article 113A.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  114,
+                                              "title":  "The High Court of Zanzibar",
+                                              "path":  "Chapter Five/Article 114.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  115,
+                                              "title":  "Jurisdiction of the High Court of Zanzibar",
+                                              "path":  "Chapter Five/Article 115.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  116,
+                                              "title":  "Interpretation",
+                                              "path":  "Chapter Five/Article 116.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  117,
+                                              "title":  "Court of Appeal of the United Republic and its jurisdiction",
+                                              "path":  "Chapter Five/Article 117.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  118,
+                                              "title":  "Chief Justice and Justices of Appeal and their appointment",
+                                              "path":  "Chapter Five/Article 118.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  119,
+                                              "title":  "Jurisdiction of Justices of Appeal",
+                                              "path":  "Chapter Five/Article 119.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  120,
+                                              "title":  "Tenure of office of Justices of Appeal",
+                                              "path":  "Chapter Five/Article 120.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  120,
+                                              "title":  "Procedures relating to discipline of Justices of Appeal",
+                                              "path":  "Chapter Five/Article 120A.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  121,
+                                              "title":  "Oath of office of Justices of Appeal",
+                                              "path":  "Chapter Five/Article 121.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  122,
+                                              "title":  "Quorum at sittings of the Court of Appeal",
+                                              "path":  "Chapter Five/Article 122.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  123,
+                                              "title":  "Jurisdiction of a single Justice of Appeal",
+                                              "path":  "Chapter Five/Article 123.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  124,
+                                              "title":  "Execution of court orders in the whole of Tanzania",
+                                              "path":  "Chapter Five/Article 124.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  125,
+                                              "title":  "Special Constitutional Court of the United Republic",
+                                              "path":  "Chapter Five/Article 125.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  126,
+                                              "title":  "Jurisdiction of the Special Constitutional Court",
+                                              "path":  "Chapter Five/Article 126.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  127,
+                                              "title":  "Composition of the Special Constitutional Court",
+                                              "path":  "Chapter Five/Article 127.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  128,
+                                              "title":  "Procedure at sittings of the Special Constitutional Court",
+                                              "path":  "Chapter Five/Article 128.json",
+                                              "status":  "verified"
+                                          }
+                                      ]
+                     },
+                     {
+                         "chapter":  "Chapter Six",
+                         "title":  "The Commission for Human Rights and Good Governance and the Public Leaders\u0027 Ethics Secretariat",
+                         "chapterNumber":  6,
+                         "path":  "Chapter Six/Chapter Six.json",
+                         "parts":  2,
+                         "articlesCount":  4,
+                         "articles":  [
+                                          {
+                                              "article":  129,
+                                              "title":  "Commission for Human Rights and Good Governance",
+                                              "path":  "Chapter Six/Article 129.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  130,
+                                              "title":  "Functions of the Commission and performance procedures",
+                                              "path":  "Chapter Six/Article 130.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  131,
+                                              "title":  "Powers of the Commission and procedures for its duties",
+                                              "path":  "Chapter Six/Article 131.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  132,
+                                              "title":  "Public Leaders\u0027 Ethics Secretariat",
+                                              "path":  "Chapter Six/Article 132.json",
+                                              "status":  "verified"
+                                          }
+                                      ]
+                     },
+                     {
+                         "chapter":  "Chapter Seven",
+                         "title":  "Provisions Regarding the Finances of the United Republic",
+                         "chapterNumber":  7,
+                         "path":  "Chapter Seven/Chapter Seven.json",
+                         "parts":  2,
+                         "articlesCount":  12,
+                         "articles":  [
+                                          {
+                                              "article":  133,
+                                              "title":  "Joint Finance Account",
+                                              "path":  "Chapter Seven/Article 133.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  134,
+                                              "title":  "Joint Finance Commission",
+                                              "path":  "Chapter Seven/Article 134.json",
+                                              "status":  "needs_review"
+                                          },
+                                          {
+                                              "article":  135,
+                                              "title":  "Consolidated Fund of the Government of the United Republic",
+                                              "path":  "Chapter Seven/Article 135.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  136,
+                                              "title":  "Conditions for withdrawal of moneys from Consolidated Fund",
+                                              "path":  "Chapter Seven/Article 136.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  137,
+                                              "title":  "Procedure for authorising expenditure out of Consolidated Fund",
+                                              "path":  "Chapter Seven/Article 137.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  138,
+                                              "title":  "Conditions of taxation",
+                                              "path":  "Chapter Seven/Article 138.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  139,
+                                              "title":  "Procedure for authorisation of expenditure in advance of appropriation",
+                                              "path":  "Chapter Seven/Article 139.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  140,
+                                              "title":  "Contingencies Fund and virement",
+                                              "path":  "Chapter Seven/Article 140.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  141,
+                                              "title":  "Public Debt",
+                                              "path":  "Chapter Seven/Article 141.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  142,
+                                              "title":  "Remuneration of certain holders of public offices to be a charge on Consolidated Fund",
+                                              "path":  "Chapter Seven/Article 142.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  143,
+                                              "title":  "Controller and Auditor-General of the United Republic",
+                                              "path":  "Chapter Seven/Article 143.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  144,
+                                              "title":  "Removal from office of Controller and Auditor-General",
+                                              "path":  "Chapter Seven/Article 144.json",
+                                              "status":  "verified"
+                                          }
+                                      ]
+                     },
+                     {
+                         "chapter":  "Chapter Eight",
+                         "title":  "Public Authorities",
+                         "chapterNumber":  8,
+                         "path":  "Chapter Eight/Chapter Eight.json",
+                         "parts":  1,
+                         "articlesCount":  2,
+                         "articles":  [
+                                          {
+                                              "article":  145,
+                                              "title":  "The local government authorities",
+                                              "path":  "Chapter Eight/Article 145.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  146,
+                                              "title":  "Functions of local government authorities",
+                                              "path":  "Chapter Eight/Article 146.json",
+                                              "status":  "verified"
+                                          }
+                                      ]
+                     },
+                     {
+                         "chapter":  "Chapter Nine",
+                         "title":  "The Armed Forces",
+                         "chapterNumber":  9,
+                         "path":  "Chapter Nine/Chapter Nine.json",
+                         "parts":  1,
+                         "articlesCount":  2,
+                         "articles":  [
+                                          {
+                                              "article":  147,
+                                              "title":  "Prohibition to raise and maintain armed forces",
+                                              "path":  "Chapter Nine/Article 147.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  148,
+                                              "title":  "Powers of Commander-in-Chief",
+                                              "path":  "Chapter Nine/Article 148.json",
+                                              "status":  "verified"
+                                          }
+                                      ]
+                     },
+                     {
+                         "chapter":  "Chapter Ten",
+                         "title":  "Miscellaneous Provisions",
+                         "chapterNumber":  10,
+                         "path":  "Chapter Ten/Chapter Ten.json",
+                         "parts":  1,
+                         "articlesCount":  4,
+                         "articles":  [
+                                          {
+                                              "article":  149,
+                                              "title":  "Provisions relating to resignation from various offices established by this Constitution",
+                                              "path":  "Chapter Ten/Article 149.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  150,
+                                              "title":  "Provisions relating to procedure of succession to office in Government service",
+                                              "path":  "Chapter Ten/Article 150.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  151,
+                                              "title":  "Interpretation",
+                                              "path":  "Chapter Ten/Article 151.json",
+                                              "status":  "verified"
+                                          },
+                                          {
+                                              "article":  152,
+                                              "title":  "Title, commencement and application of this Constitution",
+                                              "path":  "Chapter Ten/Article 152.json",
+                                              "status":  "verified"
+                                          }
+                                      ]
+                     }
+                 ]
+}

@@ -1,0 +1,33 @@
+﻿{
+    "documentId":  "doc-katiba-1977-en",
+    "title":  "The Constitution of the United Republic of Tanzania of 1977",
+    "titleSw":  "Katiba ya Jamhuri ya Muungano wa Tanzania ya Mwaka 1977",
+    "language":  "en",
+    "chapterNumber":  "Chapter 2 of the Laws",
+    "enactedDate":  "1977-04-26",
+    "lastAmendment":  "14th Amendment of 2005",
+    "totalChapters":  10,
+    "totalArticles":  162,
+    "partsCount":  33,
+    "schedules":  [
+                      {
+                          "schedule":  "First Schedule",
+                          "title":  "Union Matters",
+                          "items":  22
+                      },
+                      {
+                          "schedule":  "Second Schedule",
+                          "title":  "Laws and Matters requiring special majority for amendment",
+                          "lists":  [
+                                        "List One",
+                                        "List Two"
+                                    ]
+                      }
+                  ],
+    "source":  {
+                   "pdfPath":  "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
+                   "revisionType":  "Official Revised English Version",
+                   "verificationStatus":  "verified",
+                   "verifiedAt":  "2026-09-28"
+               }
+}
