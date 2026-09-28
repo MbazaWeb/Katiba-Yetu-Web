@@ -194,3 +194,29 @@ export async function checkSourceIntegrity():Promise<SourceIntegrityReport>{
 export function articleFileName(articleNumber:number|string){
   return `Ibara ${articleNumber}.json`;
 }
+
+
+export interface ConstitutionSchedule {
+  documentId:string;
+  schedule:string;
+  title?:string;
+  referredToIn?:string;
+  language?:'sw'|'en';
+  items?:Array<{number?:number;reference?:string|null;text:string}>;
+  lists?:Array<{name:string;referredToIn?:string;description?:string;items:Array<{number?:number;reference?:string|null;text:string}>}>;
+  chanzo:SourceInfo&{authoritativeSource?:string;sourceDocument?:string};
+}
+
+export async function loadSchedules(documentId:string){
+  const source=getSource(documentId);if(!source)return [];
+  let paths:string[]=[];try{paths=await loadManifestPaths()}catch{return []}
+  const prefix=sourceManifestPrefix(source)+'Schedules/';
+  const files=paths.filter(p=>p.startsWith(prefix)&&p.toLowerCase().endsWith('.json'));
+  const rows=await Promise.all(files.map(async p=>{try{return await fetchJson<ConstitutionSchedule>('/katiba/'+p)}catch{return undefined}}));
+  return rows.filter((x):x is ConstitutionSchedule=>Boolean(x));
+}
+
+export async function loadSchedule(documentId:string,scheduleName:string){
+  const rows=await loadSchedules(documentId),needle=decodeURIComponent(scheduleName).toLocaleLowerCase('en');
+  return rows.find(x=>x.schedule.toLocaleLowerCase('en')===needle);
+}
