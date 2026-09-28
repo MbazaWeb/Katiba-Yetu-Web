@@ -1,20 +1,18 @@
-{
-  "sura": "Chapter Two",
-  "sehemu": "Part I: The President",
-  "ibara": "46B",
-  "jina": "Duty of principal leaders of executive organs to preserve the Union",
-  "maudhui": "(1) Without prejudice to the duty of every citizen referred to in Article 28, the principal leaders of the executive organs of the United Republic referred to in Article 4 shall each, in exercising the authority vested in him, be responsible for ensuring that he protects, strengthens and preserves the unity of the United Republic. (2) For the purposes of subarticle (1), each principal leader of an executive organ shall, before assuming office, take an oath to defend and preserve the unity of the United Republic. (3) The principal leaders to whom this Article applies are - (a) the President of the United Republic; (b) the Vice-President of the United Republic; (c) the President of Zanzibar; and (d) the Prime Minister of the United Republic.",
-  "vifungu": [
-    "(1) Without prejudice to the duty of every citizen referred to in Article 28, the principal leaders of the executive organs of the United Republic referred to in Article 4 shall each, in exercising the authority vested in him, be responsible for ensuring that he protects, strengthens and preserves the unity of the United Republic.",
-    "(2) For the purposes of subarticle (1), each principal leader of an executive organ shall, before assuming office, take an oath to defend and preserve the unity of the United Republic.",
-    "(3) The principal leaders to whom this Article applies are - (a) the President of the United Republic; (b) the Vice-President of the United Republic; (c) the President of Zanzibar; and (d) the Prime Minister of the United Republic."
-  ],
-  "language": "en",
-  "chanzo": {
-    "documentId": "doc-union-1977-en",
-    "sourceLocator": "Article 46B",
-    "verificationStatus": "verified",
-    "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
-    "verificationNote": "Audited against the official revised English Constitution published by the Government of Tanzania; article wording retained after source comparison."
-  }
+﻿{
+    "chapter":  "Chapter Two",
+    "part":  "Part I: The President",
+    "article":  46,
+    "title":  "Duty of principal leaders of organs with executive powers to preserve the Union",
+    "content":  "(1) Without prejudice to the duty of every citizen which is stipulated in Article 28 of this Constitution, the principal executive leaders of the organs vested with executive powers in the United Republic mentioned in Article 4 of this Constitution shall, each one of them in the exercise of the powers conferred by this Constitution or the Constitution of Zanzibar 1984 have the duty to ensure that he protects, strengthens and preserves the unity of the United Republic.\n\n(2) For the purposes of the provisions of subarticle (1), each of the principal leaders of the organs vested with executive powers of the United Republic shall, before assuming office in accordance with this Constitution, take oath to defend and preserve the unity of the United Republic in accordance with this Constitution.\n\n(3) The principal leaders to whom the provisions of this Article apply are: (a) the President of the United Republic; (b) the Vice-President of the United Republic; (c) the President of Zanzibar; and (d) the Prime Minister of the United Republic.",
+    "subArticles":  [
+                        "(1) Without prejudice to the duty of every citizen which is stipulated in Article 28 of this Constitution, the principal executive leaders of the organs vested with executive powers in the United Republic mentioned in Article 4 of this Constitution shall, each one of them in the exercise of the powers conferred by this Constitution or the Constitution of Zanzibar 1984 have the duty to ensure that he protects, strengthens and preserves the unity of the United Republic.",
+                        "(2) For the purposes of the provisions of subarticle (1), each of the principal leaders of the organs vested with executive powers of the United Republic shall, before assuming office in accordance with this Constitution, take oath to defend and preserve the unity of the United Republic in accordance with this Constitution.",
+                        "(3) The principal leaders to whom the provisions of this Article apply are: (a) the President of the United Republic; (b) the Vice-President of the United Republic; (c) the President of Zanzibar; and (d) the Prime Minister of the United Republic."
+                    ],
+    "source":  {
+                   "documentId":  "doc-katiba-1977-en",
+                   "sourceLocator":  "Chapter Two, Article 46B",
+                   "verificationStatus":  "verified",
+                   "notes":  "Restored full Article 46B from PDF \u0027constitution.pdf\u0027. Previous version had (1) cut off at \u0027...have the duty\u0027 and sub-articles (2), (3) completely missing."
+               }
 }

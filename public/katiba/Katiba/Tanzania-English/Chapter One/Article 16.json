@@ -1,18 +1,17 @@
-{
-  "sura": "Chapter One",
-  "ibara": 16,
-  "jina": "Right to privacy and personal security",
-  "maudhui": "(1) Every person is entitled to respect and protection of his person, the privacy of his own person, his family and of his matrimonial life, and respect and protection of his residence and private communications. (2) For the purpose of preserving the person’s right in accordance with this Article, the state authority shall lay down legal procedures regarding the circumstances, manner and extent to which the right to privacy, security of his person, his property and residence may be encroached upon without prejudice to the provisions of this Article.",
-  "vifungu": [
-    "(1) Every person is entitled to respect and protection of his person, the privacy of his own person, his family and of his matrimonial life, and respect and protection of his residence and private communications.",
-    "(2) For the purpose of preserving the person’s right in accordance with this Article, the state authority shall lay down legal procedures regarding the circumstances, manner and extent to which the right to privacy, security of his person, his property and residence may be encroached upon without prejudice to the provisions of this Article."
-  ],
-  "language": "en",
-  "chanzo": {
-    "documentId": "doc-union-1977-en",
-    "sourceLocator": "Article 16",
-    "verificationStatus": "verified",
-    "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
-    "verificationNote": "Checked against official Government English Constitution source."
-  }
+﻿{
+    "chapter":  "Chapter One",
+    "part":  "Part III: Basic Rights and Duties",
+    "article":  16,
+    "title":  "Right to privacy and personal security",
+    "content":  "(1) Every person is entitled to respect and protection of his person, the privacy of his own person, his family and of his matrimonial life, and respect and protection of his residence and private communications.\n\n(2) For the purpose of preserving the person\u0027s right in accordance with this Article, the state authority shall lay down legal procedures regarding the circumstances, manner and extent to which the right to privacy, security of his person, his property and residence may be encroached upon without prejudice to the provisions of this Article.",
+    "subArticles":  [
+                        "(1) Every person is entitled to respect and protection of his person, the privacy of his own person, his family and of his matrimonial life, and respect and protection of his residence and private communications.",
+                        "(2) For the purpose of preserving the person\u0027s right in accordance with this Article, the state authority shall lay down legal procedures regarding the circumstances, manner and extent to which the right to privacy, security of his person, his property and residence may be encroached upon without prejudice to the provisions of this Article."
+                    ],
+    "source":  {
+                   "documentId":  "doc-katiba-1977-en",
+                   "sourceLocator":  "Chapter One, Article 16",
+                   "verificationStatus":  "verified",
+                   "notes":  "Restored full Article 16 from PDF \u0027constitution.pdf\u0027. Previous version had only (1) beginning."
+               }
 }

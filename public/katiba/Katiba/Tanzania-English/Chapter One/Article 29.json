@@ -1,21 +1,20 @@
-{
-  "sura": "Chapter One",
-  "ibara": 29,
-  "jina": "Fundamental rights and duties",
-  "maudhui": "(1) Every person in the United Republic has the right to enjoy fundamental human rights and to enjoy the benefits accruing from the fulfilment by every person of this duty to society, as stipulated under Articles 12 to 28 of this Part of this Chapter of the Constitution. (2) Every person in the United Republic has the right to equal protection under the laws of the United Republic. (3) A citizen of the United Republic shall not have a right, status or special position on the basis of his lineage, tradition or descent. (4) It is hereby prohibited for any law to confer any right, status or special position upon any citizen of the United Republic on the basis of lineage, tradition or descent. (5) In order that all persons may benefit from the rights and freedoms guaranteed by this Constitution, every person has the duty to so conduct himself and his affairs in the manner that does not infringe upon the rights and freedoms of others or the public interest.",
-  "vifungu": [
-    "(1) Every person in the United Republic has the right to enjoy fundamental human rights and to enjoy the benefits accruing from the fulfilment by every person of this duty to society, as stipulated under Articles 12 to 28 of this Part of this Chapter of the Constitution.",
-    "(2) Every person in the United Republic has the right to equal protection under the laws of the United Republic.",
-    "(3) A citizen of the United Republic shall not have a right, status or special position on the basis of his lineage, tradition or descent.",
-    "(4) It is hereby prohibited for any law to confer any right, status or special position upon any citizen of the United Republic on the basis of lineage, tradition or descent.",
-    "(5) In order that all persons may benefit from the rights and freedoms guaranteed by this Constitution, every person has the duty to so conduct himself and his affairs in the manner that does not infringe upon the rights and freedoms of others or the public interest."
-  ],
-  "language": "en",
-  "chanzo": {
-    "documentId": "doc-union-1977-en",
-    "sourceLocator": "Article 29",
-    "verificationStatus": "verified",
-    "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
-    "verificationNote": "Audited against the official Government English Constitution source; article wording retained after source comparison."
-  }
+﻿{
+    "chapter":  "Chapter One",
+    "part":  "Part III: Basic Rights and Duties",
+    "article":  29,
+    "title":  "Fundamental rights and duties",
+    "content":  "(1) Every person in the United Republic has the right to enjoy fundamental human rights and to enjoy the benefits accruing from the fulfillment by every person of this duty to society, as stipulated under Article 12 to 28 of this Part of this Chapter of the Constitution.\n\n(2) Every person in the United Republic has the right to equal protection under the laws of the United Republic.\n\n(3) A citizen of the United Republic shall not have a right, status or special position on the basis of his lineage, tradition or descent.\n\n(4) It is hereby prohibited for any law to confer any right, status, or special position upon any citizen of the United Republic on the basis of lineage, tradition or descent.\n\n(5) In order that all persons may benefit from the rights and freedoms guaranteed by this Constitution, every person has the duty to so conduct himself...",
+    "subArticles":  [
+                        "(1) Every person in the United Republic has the right to enjoy fundamental human rights and to enjoy the benefits accruing from the fulfillment by every person of this duty to society, as stipulated under Article 12 to 28 of this Part of this Chapter of the Constitution.",
+                        "(2) Every person in the United Republic has the right to equal protection under the laws of the United Republic.",
+                        "(3) A citizen of the United Republic shall not have a right, status or special position on the basis of his lineage, tradition or descent.",
+                        "(4) It is hereby prohibited for any law to confer any right, status, or special position upon any citizen of the United Republic on the basis of lineage, tradition or descent.",
+                        "(5) In order that all persons may benefit from the rights and freedoms guaranteed by this Constitution, every person has the duty to so conduct himself..."
+                    ],
+    "source":  {
+                   "documentId":  "doc-katiba-1977-en",
+                   "sourceLocator":  "Chapter One, Article 29",
+                   "verificationStatus":  "needs_review",
+                   "notes":  "Restored sub-articles (1)–(5) from PDF \u0027constitution.pdf\u0027. Sub-article (5) is cut off in the PDF at \u0027every person has the duty to so conduct himself\u0027. Needs verification from another source."
+               }
 }

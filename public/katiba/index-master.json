@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-28T09:08:48",
+    "generatedAt":  "2026-09-28T09:31:59",
     "project":  "Katiba Yetu — Tanzania Constitution Library",
     "documents":  [
                       {
@@ -11,6 +11,8 @@
                           "path":  "Katiba/Tanzania-English/index.json",
                           "totalChapters":  10,
                           "totalArticles":  162,
+                          "verified":  159,
+                          "needsReview":  3,
                           "status":  "verified"
                       },
                       {

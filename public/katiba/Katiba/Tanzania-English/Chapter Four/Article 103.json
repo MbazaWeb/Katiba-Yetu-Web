@@ -1,20 +1,16 @@
-{
-  "sura": "Chapter Four",
-  "sehemu": "Part I: Revolutionary Government of Zanzibar and President of Zanzibar",
-  "ibara": 103,
-  "jina": "Head of the Revolutionary Government of Zanzibar and his authority",
-  "maudhui": "(1) There shall be a Head of the Revolutionary Government of Zanzibar who shall be the President of Zanzibar and Head of the Revolutionary Government of Zanzibar and also Chairman of the Revolutionary Council of Zanzibar. (2) Before assuming office, the Head of the Revolutionary Government of Zanzibar shall take before the Chief Justice of Zanzibar the oath to protect and defend the Constitution of the United Republic, and any other oath prescribed by the Constitution of Zanzibar in relation to the discharge of his functions, and shall thereafter hold and exercise those powers in accordance with this Constitution and the Constitution of Zanzibar, 1984. (3) In addition to his other powers, the Head of the Revolutionary Government of Zanzibar shall appoint and assign responsibilities to Ministers and Deputy Ministers of the Revolutionary Government of Zanzibar.",
-  "vifungu": [
-    "(1) There shall be a Head of the Revolutionary Government of Zanzibar who shall be the President of Zanzibar and Head of the Revolutionary Government of Zanzibar and also Chairman of the Revolutionary Council of Zanzibar.",
-    "(2) Before assuming office, the Head of the Revolutionary Government of Zanzibar shall take before the Chief Justice of Zanzibar the oath to protect and defend the Constitution of the United Republic, and any other oath prescribed by the Constitution of Zanzibar in relation to the discharge of his functions, and shall thereafter hold and exercise those powers in accordance with this Constitution and the Constitution of Zanzibar, 1984.",
-    "(3) In addition to his other powers, the Head of the Revolutionary Government of Zanzibar shall appoint and assign responsibilities to Ministers and Deputy Ministers of the Revolutionary Government of Zanzibar."
-  ],
-  "language": "en",
-  "chanzo": {
-    "documentId": "doc-union-1977-en",
-    "sourceLocator": "Article 103",
-    "verificationStatus": "verified",
-    "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
-    "verificationNote": "Provision and clause structure checked against the official OSG revised English Constitution; historical office terminology retained as printed in the source edition."
-  }
+﻿{
+    "chapter":  "Chapter Four",
+    "part":  "Part I: The Revolutionary Government of Zanzibar and the President of Zanzibar",
+    "article":  103,
+    "title":  "Head of the Revolutionary Government of Zanzibar and his authority",
+    "content":  "(3) In addition to his other powers, the Head of the Revolutionary Government of Zanzibar shall have the power to appoint and assign responsibilities to Ministers and Deputy Ministers of the Revolutionary Government of Zanzibar.",
+    "subArticles":  [
+                        "(3) In addition to his other powers, the Head of the Revolutionary Government of Zanzibar shall have the power to appoint and assign responsibilities to Ministers and Deputy Ministers of the Revolutionary Government of Zanzibar."
+                    ],
+    "source":  {
+                   "documentId":  "doc-katiba-1977-en",
+                   "sourceLocator":  "Chapter Four, Article 103",
+                   "verificationStatus":  "verified",
+                   "notes":  "Restored sub-article (3) from PDF \u0027constitution.pdf\u0027. Previous version was cut off at \u0027...Ministers of the Revolutionary\u0027."
+               }
 }

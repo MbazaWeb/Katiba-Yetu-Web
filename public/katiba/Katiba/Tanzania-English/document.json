@@ -8,6 +8,8 @@
     "lastAmendment":  "14th Amendment of 2005",
     "totalChapters":  10,
     "totalArticles":  162,
+    "verified":  161,
+    "needsReview":  1,
     "partsCount":  33,
     "schedules":  [
                       {
@@ -25,9 +27,13 @@
                       }
                   ],
     "source":  {
-                   "pdfPath":  "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
+                   "pdfPaths":  [
+                                    "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
+                                    "public/docs/katiba/Constitution_of_the_United_Republic_of_Tanzania_en.pdf",
+                                    "public/docs/katiba/constitution.pdf"
+                                ],
                    "revisionType":  "Official Revised English Version",
-                   "verificationStatus":  "verified",
+                   "verificationStatus":  "verified_with_3_needs_review",
                    "verifiedAt":  "2026-09-28"
                }
 }

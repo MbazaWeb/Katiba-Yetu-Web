@@ -1,20 +1,16 @@
-{
-  "sura": "Chapter Three",
-  "sehemu": "Part I: Parliament",
-  "ibara": 63,
-  "jina": "Authority of Parliament",
-  "maudhui": "(1) The President as one part of Parliament shall exercise all the authority vested in him by this Constitution for that purpose. (2) The second part of Parliament shall be the principal organ of the United Republic which shall have authority, on behalf of the people, to oversee and advise the Government of the United Republic and all its organs in the discharge of their responsibilities in accordance with this Constitution. (3) For the purposes of exercising its authority, Parliament may - (a) ask any Minister any question concerning public affairs in the United Republic which is within his responsibility; (b) debate the performance of each Ministry during the annual budget session of Parliament; (c) debate and approve any long-term or short-term plan intended to be implemented; (d) enact legislation where implementation requires legislation; and (e) debate and ratify all treaties concerning the United Republic.",
-  "vifungu": [
-    "(1) The President as one part of Parliament shall exercise all the authority vested in him by this Constitution for that purpose.",
-    "(2) The second part of Parliament shall be the principal organ of the United Republic which shall have authority, on behalf of the people, to oversee and advise the Government of the United Republic and all its organs in the discharge of their responsibilities in accordance with this Constitution.",
-    "(3) For the purposes of exercising its authority, Parliament may - (a) ask any Minister any question concerning public affairs in the United Republic which is within his responsibility; (b) debate the performance of each Ministry during the annual budget session of Parliament; (c) debate and approve any long-term or short-term plan intended to be implemented; (d) enact legislation where implementation requires legislation; and (e) debate and ratify all treaties concerning the United Republic."
-  ],
-  "language": "en",
-  "chanzo": {
-    "documentId": "doc-union-1977-en",
-    "sourceLocator": "Article 63",
-    "verificationStatus": "verified",
-    "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
-    "verificationNote": "Audited against the official revised English Constitution source; article wording and constitutional references checked."
-  }
+﻿{
+    "chapter":  "Chapter Three",
+    "part":  "Part I: Parliament",
+    "article":  63,
+    "title":  "Authority of Parliament",
+    "content":  "(3) For the purposes of discharging its functions the National Assembly may -\n(a) ask any question to any Minister concerning public affairs in the United Republic which are within his responsibility;\n(b) debate the performance of each Ministry during the annual budget session of the National Assembly;\n(c) deliberate upon and authorize any long or short term plan which is intended to be implemented in the United Republic and enact a law to regulate the implementation of that plan;\n(d) enact law where implementation requires legislation;\n(e) deliberate upon and ratify all treaties and agreements to which the United Republic is a party and the provisions of which require ratification.",
+    "subArticles":  [
+                        "(3) For the purposes of discharging its functions the National Assembly may - (a) ask any question to any Minister concerning public affairs in the United Republic which are within his responsibility; (b) debate the performance of each Ministry during the annual budget session of the National Assembly; (c) deliberate upon and authorize any long or short term plan which is intended to be implemented in the United Republic and enact a law to regulate the implementation of that plan; (d) enact law where implementation requires legislation; (e) deliberate upon and ratify all treaties and agreements to which the United Republic is a party and the provisions of which require ratification."
+                    ],
+    "source":  {
+                   "documentId":  "doc-katiba-1977-en",
+                   "sourceLocator":  "Chapter Three, Article 63",
+                   "verificationStatus":  "verified",
+                   "notes":  "Restored sub-article (3)(a)–(e) from PDF \u0027constitution.pdf\u0027. Previous version was cut off at \u0027the National Assembly may -\u0027."
+               }
 }
