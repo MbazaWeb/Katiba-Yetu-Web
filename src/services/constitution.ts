@@ -136,7 +136,9 @@ export async function loadAllArticles(documentId:string){
   const chapters=await loadChapters(documentId);
   const rows:ConstitutionArticle[]=[];
   for(const chapter of chapters){
-    const loaded=await Promise.all(chapter.ibara.map(file=>loadArticle(documentId,chapter.sura,file)));
+    const chapterName=chapter.sura||chapter.chapter;
+    if(!chapterName) continue;
+    const loaded=await Promise.all(chapter.ibara.map(file=>loadArticle(documentId,chapterName,file)));
     rows.push(...loaded.filter((x):x is ConstitutionArticle=>Boolean(x)));
   }
   return rows;
