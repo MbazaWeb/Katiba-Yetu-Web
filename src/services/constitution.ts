@@ -16,6 +16,18 @@ export interface ConstitutionArticle {
   chanzo:SourceInfo;
 }
 
+export interface ConstitutionExplanation {
+  plainLanguage?:string;
+  meaning?:string;
+  keyPoints?:string[];
+  legalTerms?:Array<{term:string;meaning:string}>;
+  examples?:Array<{title?:string;scenario?:string;analysis?:string}|string>;
+  history?:{summary?:string;notes?:string[];sourceUrl?:string}|string;
+  expertPerspectives?:Array<{label?:string;focus?:string;view?:string}|string>;
+  debateQuestion?:string;
+  disclaimer?:string;
+}
+
 export interface ConstitutionChapter {
   sura?:string;
   chapter?:string;
@@ -128,6 +140,19 @@ export async function loadArticleByNumber(documentId:string,articleNumber:string
       if(article) return {article,chapter,fileName:file};
     }
   }
+  return undefined;
+}
+
+export async function loadConstitutionExplanation(documentId:string,articleNumber:string|number){
+  const source=getSource(documentId);if(!source)return undefined;
+  const number=String(articleNumber).replace(/^(?:Ibara|Article)\s+/i,'').replace(/\.json$/i,'');
+  const candidates=[
+    source.basePath+'/Explanations/Ibara '+number+'.json',
+    source.basePath+'/Explanations/Article '+number+'.json',
+    source.basePath+'/explanations/Ibara '+number+'.json',
+    source.basePath+'/explanations/Article '+number+'.json'
+  ];
+  for(const url of candidates){try{return await fetchJson<ConstitutionExplanation>(url)}catch{}}
   return undefined;
 }
 
