@@ -1,0 +1,31 @@
+{
+  "plainLanguage": "Ibara hii inaeleza jinsi waamuzi katika Baraza la Wawakilishi wanavyopigwa kura. Kwa kawaida, uamuzi unapitishwa kwa kura ya wengi. Mwenyekiti wa kikao anaweza kutoa kura ya uamuzi ikiwa kuna usawa wa kura, na kulingana na mamlaka yake anaweza kutoa kura ya pili. Pia, Mjumbe anaweza kuzuiliwa kupiga kura kama ana maslahi katika jambo linalopigiwa kura.",
+  "meaning": "Ibara hii inaunda kanuni za msingi za upigaji kura katika Baraza la Wawakilishi. Inafafanua jinsi uamuzi unavyopitishwa kupitia kura ya wengi, na mamlaka maalum ya mwenyekiti wa kikao kutoa kura ya uamuzi wakati wa usawa. Pia inatoa uwezekano wa kuzuia Mjumbe kupiga kura kwa sababu ya maslahi, hii inaonyesha uhuru wa Baraza la Wawakilishi kuweza kufanya kanuni zake za ndani.",
+  "keyPoints": [
+    "Uamuzi katika Baraza la Wawakilishi unahitaji kura ya wengi ya Wajumbe waliohudhuria",
+    "Mwenyekiti wa kikao anaweza kutoa kura ya uamuzi, na kulingana na mamlaka yake, kura ya pili",
+    "Baraza linaweza kuweza kuzuia Mjumbe kupiga kura kama ana maslahi katika jambo linalopigiwa kura"
+  ],
+  "legalTerms": [
+    {
+      "term": "kura ya uamuzi",
+      "meaning": "kura inayotolewa na mwenyekiti wa kikao wakati wa usawa wa kura ili kumaliza kikao"
+    },
+    {
+      "term": "kura ya asili",
+      "meaning": "kura ya kwanza inayotolewa na mwenyekiti wa kikao kama mwanachama wa kawaida wa Baraza"
+    },
+    {
+      "term": "maslahi fulani",
+      "meaning": "hali ambapo Mjumbe ana shauku au faida binafsi katika jambo linalopigiwa kura"
+    }
+  ],
+  "examples": [],
+  "history": {
+    "summary": "Historia na marekebisho ya Ibara hii bado hayajaongezwa mpaka vyanzo rasmi vihakikiwe.",
+    "notes": []
+  },
+  "expertPerspectives": [],
+  "debateQuestion": "Je, kura ya uamuzi inayotolewa na Spika inaweza kusababisha kudhuru uhuru wa Wajumbe wa kawaida katika Baraza la Wawakilishi?",
+  "disclaimer": "Ufafanuzi huu unarahisisha maandishi ya Ibara yaliyopo kwenye source ya mradi. Si maandishi rasmi ya Katiba wala ushauri wa kisheria."
+}

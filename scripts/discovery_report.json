@@ -1146,167 +1146,167 @@
     "source_root": "public/katiba/Katiba/Zanzibar",
     "explanation_dir": "public/katiba/Katiba/Zanzibar/Explanations",
     "total_articles": 146,
-    "existing_explanations": 0,
-    "missing_explanations": 146,
+    "existing_explanations": 33,
+    "missing_explanations": 113,
     "articles": [
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 63.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 63.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 63.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 64.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 64.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 64.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 65.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 65.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 65.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 66.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 66.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 66.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 67.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 67.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 67.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 68.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 68.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 68.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 69.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 69.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 69.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 70.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 70.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 70.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 71.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 71.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 71.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 72.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 72.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 72.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 73.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 73.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 73.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 74.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 74.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 74.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 75.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 75.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 75.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 76.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 76.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 76.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 77.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 77.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 77.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 78.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 78.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 78.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 79.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 79.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 79.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 80.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 80.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 80.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 80A.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 80A.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 80A.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 81.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 81.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 81.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 82.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 82.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 82.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 83.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 83.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 83.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 84.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 84.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 84.json",
         "dataset": "zanzibar"
       },
@@ -1334,70 +1334,70 @@
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 88.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 88.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 88.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 89.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 89.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 89.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 90.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 90.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 90.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 91.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 91.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 91.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Tano/Ibara 92.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 92.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 92.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Nane/Ibara 116.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 116.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 116.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Nane/Ibara 117.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 117.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 117.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Nane/Ibara 118.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 118.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 118.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Pili/Ibara 10.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 10.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 10.json",
         "dataset": "zanzibar"
       },
       {
         "article_path": "public/katiba/Katiba/Zanzibar/Sura ya Pili/Ibara 10A.json",
         "explanation_path": "public/katiba/Katiba/Zanzibar/Explanations/Ibara 10A.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 10A.json",
         "dataset": "zanzibar"
       },
