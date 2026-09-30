@@ -1,0 +1,108 @@
+timestamp,dataset,article_path,status,error
+2026-09-30T07:26:55,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 107A.json,ok,
+2026-09-30T07:27:05,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 107B.json,ok,
+2026-09-30T07:27:30,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 108.json,ok,
+2026-09-30T07:27:40,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 109.json,ok,
+2026-09-30T07:27:50,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 110.json,ok,
+2026-09-30T07:27:57,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 110A.json,ok,
+2026-09-30T07:28:06,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 111.json,ok,
+2026-09-30T07:28:12,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 112.json,ok,
+2026-09-30T07:28:23,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 113.json,ok,
+2026-09-30T07:28:34,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 113A.json,ok,
+2026-09-30T07:28:42,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 114.json,ok,
+2026-09-30T07:28:50,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 115.json,ok,
+2026-09-30T07:28:59,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 116.json,ok,
+2026-09-30T07:29:11,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 117.json,ok,
+2026-09-30T07:31:37,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 118.json,ok,
+2026-09-30T07:31:47,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 119.json,ok,
+2026-09-30T07:31:58,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 120.json,ok,
+2026-09-30T07:32:08,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 120A.json,ok,
+2026-09-30T07:32:20,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 121.json,ok,
+2026-09-30T07:32:38,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 122.json,ok,
+2026-09-30T07:32:49,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 123.json,ok,
+2026-09-30T07:47:32,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 124.json,ok,
+2026-09-30T07:47:39,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 125.json,ok,
+2026-09-30T07:47:46,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 126.json,ok,
+2026-09-30T07:47:53,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 127.json,ok,
+2026-09-30T07:48:01,union,public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 128.json,ok,
+2026-09-30T07:48:11,union,public/katiba/Katiba/Tanzania/Sura ya Nane/Ibara 145.json,ok,
+2026-09-30T07:48:17,union,public/katiba/Katiba/Tanzania/Sura ya Nane/Ibara 146.json,ok,
+2026-09-30T07:48:24,union,public/katiba/Katiba/Tanzania/Sura ya Pili/Ibara 46A.json,ok,
+2026-09-30T07:48:33,union,public/katiba/Katiba/Tanzania/Sura ya Pili/Ibara 46B.json,ok,
+2026-09-30T07:48:39,union,public/katiba/Katiba/Tanzania/Sura ya Pili/Ibara 53A.json,ok,
+2026-09-30T07:48:47,union,public/katiba/Katiba/Tanzania/Sura ya Pili/Ibara 56.json,ok,
+2026-09-30T07:48:52,union,public/katiba/Katiba/Tanzania/Sura ya Pili/Ibara 57.json,ok,
+2026-09-30T07:48:59,union,public/katiba/Katiba/Tanzania/Sura ya Pili/Ibara 58.json,ok,
+2026-09-30T07:49:05,union,public/katiba/Katiba/Tanzania/Sura ya Pili/Ibara 59.json,ok,
+2026-09-30T07:49:15,union,public/katiba/Katiba/Tanzania/Sura ya Pili/Ibara 59A.json,ok,
+2026-09-30T07:49:21,union,public/katiba/Katiba/Tanzania/Sura ya Pili/Ibara 59B.json,ok,
+2026-09-30T07:49:29,union,public/katiba/Katiba/Tanzania/Sura ya Pili/Ibara 60.json,ok,
+2026-09-30T07:49:35,union,public/katiba/Katiba/Tanzania/Sura ya Pili/Ibara 61.json,ok,
+2026-09-30T07:49:43,union,public/katiba/Katiba/Tanzania/Sura ya Nne/Ibara 102.json,ok,
+2026-09-30T07:49:49,union,public/katiba/Katiba/Tanzania/Sura ya Nne/Ibara 103.json,ok,
+2026-09-30T07:49:58,union,public/katiba/Katiba/Tanzania/Sura ya Nne/Ibara 104.json,ok,
+2026-09-30T07:50:06,union,public/katiba/Katiba/Tanzania/Sura ya Nne/Ibara 105.json,ok,
+2026-09-30T07:50:15,union,public/katiba/Katiba/Tanzania/Sura ya Nne/Ibara 106.json,ok,
+2026-09-30T07:50:25,union,public/katiba/Katiba/Tanzania/Sura ya Nne/Ibara 107.json,ok,
+2026-09-30T07:50:33,union,public/katiba/Katiba/Tanzania/Sura ya Kumi/Ibara 149.json,ok,
+2026-09-30T07:50:42,union,public/katiba/Katiba/Tanzania/Sura ya Kumi/Ibara 150.json,ok,
+2026-09-30T07:50:53,union,public/katiba/Katiba/Tanzania/Sura ya Kumi/Ibara 151.json,ok,
+2026-09-30T07:51:04,union,public/katiba/Katiba/Tanzania/Sura ya Kumi/Ibara 152.json,ok,
+2026-09-30T07:51:09,union,public/katiba/Katiba/Tanzania/Sura ya Tisa/Ibara 147.json,ok,
+2026-09-30T07:51:17,union,public/katiba/Katiba/Tanzania/Sura ya Tisa/Ibara 148.json,ok,
+2026-09-30T07:51:27,union,public/katiba/Katiba/Tanzania/Sura ya Sita/Ibara 129.json,ok,
+2026-09-30T07:51:39,union,public/katiba/Katiba/Tanzania/Sura ya Sita/Ibara 130.json,ok,
+2026-09-30T07:51:49,union,public/katiba/Katiba/Tanzania/Sura ya Sita/Ibara 131.json,ok,
+2026-09-30T07:51:58,union,public/katiba/Katiba/Tanzania/Sura ya Sita/Ibara 132.json,ok,
+2026-09-30T07:52:08,union,public/katiba/Katiba/Tanzania/Sura ya Saba/Ibara 133.json,ok,
+2026-09-30T07:52:16,union,public/katiba/Katiba/Tanzania/Sura ya Saba/Ibara 134.json,ok,
+2026-09-30T07:52:24,union,public/katiba/Katiba/Tanzania/Sura ya Saba/Ibara 135.json,ok,
+2026-09-30T07:52:30,union,public/katiba/Katiba/Tanzania/Sura ya Saba/Ibara 136.json,fail,Expecting ':' delimiter: line 12 column 74 (char 1366)
+2026-09-30T07:52:39,union,public/katiba/Katiba/Tanzania/Sura ya Saba/Ibara 137.json,ok,
+2026-09-30T07:52:48,union,public/katiba/Katiba/Tanzania/Sura ya Saba/Ibara 138.json,ok,
+2026-09-30T07:52:54,union,public/katiba/Katiba/Tanzania/Sura ya Saba/Ibara 139.json,ok,
+2026-09-30T07:53:03,union,public/katiba/Katiba/Tanzania/Sura ya Saba/Ibara 140.json,ok,
+2026-09-30T07:53:10,union,public/katiba/Katiba/Tanzania/Sura ya Saba/Ibara 141.json,ok,
+2026-09-30T07:53:18,union,public/katiba/Katiba/Tanzania/Sura ya Saba/Ibara 142.json,ok,
+2026-09-30T07:53:28,union,public/katiba/Katiba/Tanzania/Sura ya Saba/Ibara 143.json,ok,
+2026-09-30T07:53:38,union,public/katiba/Katiba/Tanzania/Sura ya Saba/Ibara 144.json,ok,
+2026-09-30T07:53:48,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 100.json,ok,
+2026-09-30T07:53:54,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 101.json,ok,
+2026-09-30T07:53:59,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 62.json,ok,
+2026-09-30T07:54:06,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 63.json,ok,
+2026-09-30T07:54:14,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 64.json,ok,
+2026-09-30T07:54:20,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 65.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:20,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 66.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:21,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 67.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:21,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 68.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:21,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 69.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:22,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 70.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:22,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 71.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:22,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 72.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:22,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 73.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:22,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 74.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:23,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 75.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:23,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 76.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:23,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 77.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:23,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 78.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:23,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 79.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:24,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 80.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:24,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 81.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:24,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 82.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:24,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 83.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:24,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 84.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:25,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 85.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:25,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 86.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:25,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 87.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:25,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 88.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:25,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 89.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:26,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 90.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:26,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 91.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:26,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 92.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:26,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 93.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:26,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 94.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:27,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 95.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:27,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 96.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:27,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 97.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:28,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 98.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T07:54:28,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 99.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
