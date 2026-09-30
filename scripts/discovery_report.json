@@ -3,8 +3,8 @@
     "source_root": "public/katiba/Katiba/Tanzania",
     "explanation_dir": "public/katiba/Katiba/Tanzania/Explanations",
     "total_articles": 162,
-    "existing_explanations": 155,
-    "missing_explanations": 7,
+    "existing_explanations": 162,
+    "missing_explanations": 0,
     "articles": [
       {
         "article_path": "public/katiba/Katiba/Tanzania/Sura ya Tano/Ibara 107A.json",
@@ -800,7 +800,7 @@
       {
         "article_path": "public/katiba/Katiba/Tanzania/Sura ya Saba/Ibara 136.json",
         "explanation_path": "public/katiba/Katiba/Tanzania/Explanations/Ibara 136.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 136.json",
         "dataset": "union"
       },
@@ -898,14 +898,14 @@
       {
         "article_path": "public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 65.json",
         "explanation_path": "public/katiba/Katiba/Tanzania/Explanations/Ibara 65.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 65.json",
         "dataset": "union"
       },
       {
         "article_path": "public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 66.json",
         "explanation_path": "public/katiba/Katiba/Tanzania/Explanations/Ibara 66.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 66.json",
         "dataset": "union"
       },
@@ -1115,28 +1115,28 @@
       {
         "article_path": "public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 96.json",
         "explanation_path": "public/katiba/Katiba/Tanzania/Explanations/Ibara 96.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 96.json",
         "dataset": "union"
       },
       {
         "article_path": "public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 97.json",
         "explanation_path": "public/katiba/Katiba/Tanzania/Explanations/Ibara 97.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 97.json",
         "dataset": "union"
       },
       {
         "article_path": "public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 98.json",
         "explanation_path": "public/katiba/Katiba/Tanzania/Explanations/Ibara 98.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 98.json",
         "dataset": "union"
       },
       {
         "article_path": "public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 99.json",
         "explanation_path": "public/katiba/Katiba/Tanzania/Explanations/Ibara 99.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 99.json",
         "dataset": "union"
       }

@@ -138,3 +138,13 @@ timestamp,dataset,article_path,status,error
 2026-09-30T08:04:41,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 93.json,ok,
 2026-09-30T08:04:51,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 94.json,ok,
 2026-09-30T08:05:02,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 95.json,ok,
+2026-09-30T08:05:59,union,public/katiba/Katiba/Tanzania/Sura ya Saba/Ibara 136.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T08:07:01,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 65.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T08:08:03,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 66.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T08:10:04,union,public/katiba/Katiba/Tanzania/Sura ya Saba/Ibara 136.json,ok,
+2026-09-30T08:10:17,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 65.json,ok,
+2026-09-30T08:10:27,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 66.json,ok,
+2026-09-30T08:10:40,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 96.json,ok,
+2026-09-30T08:10:49,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 97.json,ok,
+2026-09-30T08:11:02,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 98.json,ok,
+2026-09-30T08:11:14,union,public/katiba/Katiba/Tanzania/Sura ya Tatu/Ibara 99.json,ok,
