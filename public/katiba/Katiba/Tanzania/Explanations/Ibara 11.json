@@ -1,0 +1,32 @@
+{
+  "plainLanguage": "Ibara hii inaelekeza Mamlaka ya Nchi kuweka utaratibu unaosaidia watu kupata fursa ya kufanya kazi, kujipatia elimu na kupata msaada wa jamii katika hali kama uzee, maradhi, ulemavu au kutokuwa na uwezo wa kujitegemea.",
+  "meaning": "Maandishi yanaunganisha wajibu wa Mamlaka ya Nchi kuhusu kazi, elimu na msaada wa kijamii. Pia yanatambua haki ya kila mtu kujielimisha na uhuru wa raia kutafuta elimu kulingana na stahili na uwezo wake.",
+  "keyPoints": [
+    "Mamlaka ya Nchi itaweka utaratibu unaofaa kuhusu haki ya kufanya kazi.",
+    "Ibara inazungumzia haki ya kujipatia elimu.",
+    "Msaada wa jamii katika uzee, maradhi, ulemavu na hali nyingine za kutokuwa na uwezo umetajwa.",
+    "Kila mtu ana haki ya kujielimisha.",
+    "Raia yuko huru kutafuta elimu katika fani anayopenda kulingana na stahili na uwezo wake.",
+    "Serikali inapaswa kufanya jitihada za kuwezesha fursa sawa na za kutosha za elimu na mafunzo ya ufundi."
+  ],
+  "legalTerms": [
+    {
+      "term": "Mamlaka ya Nchi",
+      "meaning": "Mamlaka ambayo Ibara inaelekeza kuweka utaratibu unaofaa wa kufanikisha malengo yaliyotajwa."
+    },
+    {
+      "term": "Haki ya kujielimisha",
+      "meaning": "Haki inayotajwa moja kwa moja katika Ibara ya 11(2)."
+    }
+  ],
+  "examples": [
+    "Mpango wa Serikali wa kuongeza upatikanaji wa elimu au mafunzo ya ufundi unaweza kusomwa kwa kuzingatia lengo la fursa sawa na za kutosha lililotajwa katika Ibara hii."
+  ],
+  "history": {
+    "summary": "Historia mahsusi ya Ibara hii bado haijaongezwa kwenye dataset iliyohakikiwa.",
+    "notes": []
+  },
+  "expertPerspectives": [],
+  "debateQuestion": "Ni hatua zipi zinaweza kuonyesha kwa vitendo kwamba fursa za elimu na mafunzo zinapatikana kwa usawa na kwa kiwango cha kutosha?",
+  "disclaimer": "Ufafanuzi huu unatokana na maandishi ya Ibara ya 11 yaliyopo kwenye source ya mradi. Soma pia masharti yanayohusiana katika Katiba; huu si ushauri wa kisheria."
+}
