@@ -1158,3 +1158,28 @@ button.lawDashboardCard{transition:transform .16s ease,box-shadow .16s ease}
   background:#2a2116;
   border-color:#614a2b;
 }
+
+
+/* Dark mode coverage — resource source-of-truth safeguard */
+:root[data-theme="dark"] .resourceSourceNote{
+  background:#13251c;
+  border-color:#284737;
+  color:#e8eeeb;
+}
+:root[data-theme="dark"] .resourceSourceNote>svg{
+  color:#4ade80;
+}
+:root[data-theme="dark"] .resourceSourceNote b{
+  color:#f5f7f6;
+  opacity:1;
+}
+:root[data-theme="dark"] .resourceSourceNote p,
+:root[data-theme="dark"] .resourceSourceNote code{
+  color:#aab8b1;
+  opacity:1;
+}
+:root[data-theme="dark"] .integrityTraceHead b,
+:root[data-theme="dark"] .integrityTraceHead button,
+:root[data-theme="dark"] .integritySourceLinks a b{
+  color:#f5f7f6;
+}
