@@ -1080,3 +1080,81 @@ button.lawDashboardCard{transition:transform .16s ease,box-shadow .16s ease}
   border-color:#2a7950;
   color:#4ade80;
 }
+
+
+/* Dark mode coverage — Resources / Maktaba */
+:root[data-theme="dark"] .resourceStats>div,
+:root[data-theme="dark"] .resourceCard,
+:root[data-theme="dark"] .integrityPanel,
+:root[data-theme="dark"] .integrityResults>div,
+:root[data-theme="dark"] .integrityIssues>div{
+  background:#111815;
+  border-color:#26342f;
+  color:#f5f7f6;
+}
+:root[data-theme="dark"] .resourceStats b,
+:root[data-theme="dark"] .resourceMeta h2,
+:root[data-theme="dark"] .resourceCounts b,
+:root[data-theme="dark"] .integrityPanel h2,
+:root[data-theme="dark"] .integrityResults b,
+:root[data-theme="dark"] .integrityIssues b{
+  color:#f5f7f6;
+  opacity:1;
+}
+:root[data-theme="dark"] .resourceStats span,
+:root[data-theme="dark"] .resourceMeta p,
+:root[data-theme="dark"] .resourceMeta code,
+:root[data-theme="dark"] .resourceCounts span,
+:root[data-theme="dark"] .integrityPanel>div:first-child p,
+:root[data-theme="dark"] .integrityResults span,
+:root[data-theme="dark"] .integrityIssues span,
+:root[data-theme="dark"] .integrityIssues p,
+:root[data-theme="dark"] .sourceStatus{
+  color:#aab8b1;
+  opacity:1;
+}
+:root[data-theme="dark"] .resourceMeta>span,
+:root[data-theme="dark"] .explanationLabel{
+  color:#4ade80;
+  opacity:1;
+}
+:root[data-theme="dark"] .resourceToolbar>input{
+  background:#111815;
+  border-color:#3a4943;
+  color:#f5f7f6;
+}
+:root[data-theme="dark"] .resourceToolbar>input::placeholder{
+  color:#9aa9a2;
+  opacity:1;
+}
+:root[data-theme="dark"] .resourceToolbar .pills button{
+  background:#111815;
+  border-color:#2d3b36;
+  color:#e4ebe8;
+}
+:root[data-theme="dark"] .resourceToolbar .pills button.active{
+  background:var(--green);
+  border-color:var(--green);
+  color:#07110b;
+}
+:root[data-theme="dark"] .resourceIcon{
+  background:#eaf8f1;
+}
+:root[data-theme="dark"] .resourceCounts{
+  border-color:#2b3833;
+}
+:root[data-theme="dark"] .integrityPanel>.secondary{
+  background:#16201c;
+  border-color:#3b4b44;
+  color:#f5f7f6;
+}
+:root[data-theme="dark"] .integrityResults .clean,
+:root[data-theme="dark"] .integrityClean{
+  background:#13251c;
+  border-color:#284737;
+  color:#8be4b0;
+}
+:root[data-theme="dark"] .integrityResults .hasIssues{
+  background:#2a2116;
+  border-color:#614a2b;
+}
