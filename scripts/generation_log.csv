@@ -300,3 +300,11 @@ timestamp,dataset,article_path,status,error
 2026-09-30T08:54:45,zanzibar,public/katiba/Katiba/Zanzibar/Sura ya Tatu/Ibara 18.json,ok,
 2026-09-30T08:54:53,zanzibar,public/katiba/Katiba/Zanzibar/Sura ya Tatu/Ibara 19.json,ok,
 2026-09-30T08:55:02,zanzibar,public/katiba/Katiba/Zanzibar/Sura ya Tatu/Ibara 20.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T08:58:25,zanzibar,public/katiba/Katiba/Zanzibar/Sura ya Tatu/Ibara 20.json,fail,z-ai exited 1: Failed to make API request:  98 |                 headers: headers;  99 |                 body: JSON.stringify(requestBody); 100 |             }); 101 |             if (!response.ok) { 102 |                 const errorBody = await response.text(); 103 |                 throw new Error
+2026-09-30T08:59:59,zanzibar,public/katiba/Katiba/Zanzibar/Sura ya Tatu/Ibara 21.json,ok,
+2026-09-30T09:00:43,zanzibar,public/katiba/Katiba/Zanzibar/Sura ya Tatu/Ibara 22.json,ok,
+2026-09-30T09:00:54,zanzibar,public/katiba/Katiba/Zanzibar/Sura ya Tatu/Ibara 23.json,ok,
+2026-09-30T09:01:07,zanzibar,public/katiba/Katiba/Zanzibar/Sura ya Tatu/Ibara 24.json,ok,
+2026-09-30T09:01:18,zanzibar,public/katiba/Katiba/Zanzibar/Sura ya Tatu/Ibara 25.json,ok,
+2026-09-30T09:01:31,zanzibar,public/katiba/Katiba/Zanzibar/Sura ya Tatu/Ibara 25A.json,ok,
+2026-09-30T09:01:48,zanzibar,public/katiba/Katiba/Zanzibar/Sura ya Tatu/Ibara 20.json,ok,
