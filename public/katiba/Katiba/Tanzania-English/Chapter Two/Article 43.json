@@ -1,17 +1,19 @@
-﻿{
-    "chapter":  "Chapter Two",
-    "part":  "Part I: The President",
-    "article":  43,
-    "title":  "Terms of office of President",
-    "content":  "(1) The President shall be paid such salary and other remuneration, and on retirement he shall receive such pension, gratuity or allowances as may be determined by the National Assembly, and the salary, other benefits, pension and gratuity shall be charged on the Consolidated Fund of the United Republic and shall be paid in accordance with the provisions of this Article.\n\n(2) The salary and all other payments due to the President shall not be reduced while he is in office in accordance with the provisions of this Constitution.",
-    "subArticles":  [
-                        "(1) The President shall be paid such salary and other remuneration, and on retirement he shall receive such pension, gratuity or allowances as may be determined by the National Assembly, and the salary, other benefits, pension and gratuity shall be charged on the Consolidated Fund of the United Republic and shall be paid in accordance with the provisions of this Article.",
-                        "(2) The salary and all other payments due to the President shall not be reduced while he is in office in accordance with the provisions of this Constitution."
-                    ],
-    "source":  {
-                   "documentId":  "doc-katiba-1977-en",
-                   "sourceLocator":  "Chapter Two, Article 43",
-                   "verificationStatus":  "verified",
-                   "notes":  "Restored full Article 43 from PDF \u0027constitution.pdf\u0027. Previous version was interleaved with Article 44."
-               }
+{
+  "sura": "Chapter Two",
+  "sehemu": "Part I: The President",
+  "ibara": 43,
+  "jina": "Terms of office of President",
+  "maudhui": "(1) The President shall be paid such salary and other remuneration, and on retirement he shall receive such pension, gratuity or allowances as may be determined by the National Assembly, and the salary, other benefits, pension and gratuity shall be charged on the Consolidated Fund of the United Republic and shall be paid in accordance with the provisions of this Article. (2) The salary and all other payments due to the President shall not be reduced while he is in office in accordance with the provisions of this Constitution.",
+  "vifungu": [
+    "(1) The President shall be paid such salary and other remuneration, and on retirement he shall receive such pension, gratuity or allowances as may be determined by the National Assembly, and the salary, other benefits, pension and gratuity shall be charged on the Consolidated Fund of the United Republic and shall be paid in accordance with the provisions of this Article.",
+    "(2) The salary and all other payments due to the President shall not be reduced while he is in office in accordance with the provisions of this Constitution."
+  ],
+  "language": "en",
+  "chanzo": {
+    "documentId": "doc-union-1977-en",
+    "sourceLocator": "Article 43",
+    "verificationStatus": "pending",
+    "sourceDocument": "public/docs/katiba/THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA  OF 1977.pdf",
+    "verificationNote": "Restored to the canonical Constitution reader schema from the PDF-converted local JSON. Exact textual verification against OSG remains pending."
+  }
 }
