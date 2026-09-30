@@ -2177,8 +2177,8 @@
     "source_root": "public/katiba/Rasimu za Katiba/Tanzania",
     "explanation_dir": "public/katiba/Rasimu za Katiba/Tanzania/Explanations",
     "total_articles": 289,
-    "existing_explanations": 32,
-    "missing_explanations": 257,
+    "existing_explanations": 36,
+    "missing_explanations": 253,
     "articles": [
       {
         "article_path": "public/katiba/Rasimu za Katiba/Tanzania/Sura ya Kumi na Tano/Ibara 222.json",
@@ -2344,21 +2344,21 @@
       {
         "article_path": "public/katiba/Rasimu za Katiba/Tanzania/Sura ya Tano/Ibara 33.json",
         "explanation_path": "public/katiba/Rasimu za Katiba/Tanzania/Explanations/Ibara 33.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 33.json",
         "dataset": "rasimu"
       },
       {
         "article_path": "public/katiba/Rasimu za Katiba/Tanzania/Sura ya Tano/Ibara 34.json",
         "explanation_path": "public/katiba/Rasimu za Katiba/Tanzania/Explanations/Ibara 34.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 34.json",
         "dataset": "rasimu"
       },
       {
         "article_path": "public/katiba/Rasimu za Katiba/Tanzania/Sura ya Tano/Ibara 35.json",
         "explanation_path": "public/katiba/Rasimu za Katiba/Tanzania/Explanations/Ibara 35.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 35.json",
         "dataset": "rasimu"
       },
@@ -2428,7 +2428,7 @@
       {
         "article_path": "public/katiba/Rasimu za Katiba/Tanzania/Sura ya Tano/Ibara 45.json",
         "explanation_path": "public/katiba/Rasimu za Katiba/Tanzania/Explanations/Ibara 45.json",
-        "explanation_exists": false,
+        "explanation_exists": true,
         "filename": "Ibara 45.json",
         "dataset": "rasimu"
       },
