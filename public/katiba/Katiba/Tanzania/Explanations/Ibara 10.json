@@ -1,0 +1,25 @@
+{
+  "plainLanguage": "Kwa source iliyopo kwenye mradi, Ibara ya 10 imefutwa.",
+  "meaning": "Dataset inaonyesha kwamba Ibara hii haina tena masharti ya msingi ya kusoma; badala yake ina taarifa kwamba ilifutwa na Sheria Na. 4 ya 1992.",
+  "keyPoints": [
+    "Ibara ya 10 imeoneshwa kuwa imefutwa.",
+    "Source ya mradi inataja Sheria Na. 4 ya 1992 kama sheria iliyofuta Ibara hii.",
+    "Maandishi ya zamani ya Ibara hayajawekwa kama maandishi yanayotumika katika record hii."
+  ],
+  "legalTerms": [
+    {
+      "term": "Imefutwa",
+      "meaning": "Inaonyesha kwamba Ibara hiyo haipo tena kama masharti yanayotumika katika toleo hili la Katiba."
+    }
+  ],
+  "examples": [
+    "Msomaji anayefungua Ibara ya 10 anapaswa kuona status yake ya kufutwa badala ya kupewa maelezo yanayoifanya ionekane kama bado ni masharti yanayotumika."
+  ],
+  "history": {
+    "summary": "Source ya Ibara inasema: “[Ibara ya 10 ya Katiba imefutwa na Sheria Na.4 ya 1992].” Historia zaidi ya marekebisho hayo bado haijaongezwa bila chanzo cha ziada kilichohakikiwa.",
+    "notes": []
+  },
+  "expertPerspectives": [],
+  "debateQuestion": "Kwa nyaraka za kikatiba za kidijitali, ni kwa namna gani Ibara zilizofutwa zinapaswa kuonyeshwa ili kuhifadhi historia bila kuwachanganya wasomaji kuhusu hali yake ya sasa?",
+  "disclaimer": "Ufafanuzi huu unaripoti status iliyoandikwa katika source ya mradi. Kwa historia kamili ya marekebisho, rejea nyaraka rasmi za marekebisho ya Katiba."
+}
