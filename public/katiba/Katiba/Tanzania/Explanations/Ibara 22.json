@@ -1,0 +1,29 @@
+{
+  "plainLanguage": "Ibara hii inatambua haki ya kila mtu kufanya kazi na haki ya raia kupata fursa sawa ya kushika nafasi za kazi na shughuli zilizo chini ya Mamlaka ya Nchi.",
+  "meaning": "Maandishi yanaweka haki ya kufanya kazi kwa kila mtu na, kwa raia, yanaongeza kanuni ya fursa na haki sawa katika nafasi na shughuli chini ya Mamlaka ya Nchi.",
+  "keyPoints": [
+    "Kila mtu ana haki ya kufanya kazi.",
+    "Kila raia anastahili fursa sawa katika nafasi za kazi zilizo chini ya Mamlaka ya Nchi.",
+    "Kila raia anastahili haki sawa kwa masharti ya usawa katika shughuli zilizo chini ya Mamlaka ya Nchi."
+  ],
+  "legalTerms": [
+    {
+      "term": "Haki ya kufanya kazi",
+      "meaning": "Haki inayotambuliwa kwa kila mtu katika Ibara ya 22(1)."
+    },
+    {
+      "term": "Masharti ya usawa",
+      "meaning": "Kanuni inayotajwa kuhusu fursa na haki ya raia kushika nafasi za kazi na shughuli chini ya Mamlaka ya Nchi."
+    }
+  ],
+  "examples": [
+    "Katika nafasi ya kazi iliyo chini ya Mamlaka ya Nchi, Ibara hii inaweka msingi wa kuzingatia fursa na haki sawa kwa raia kwa masharti ya usawa."
+  ],
+  "history": {
+    "summary": "Historia mahsusi ya Ibara hii bado haijaongezwa kwenye dataset iliyohakikiwa.",
+    "notes": []
+  },
+  "expertPerspectives": [],
+  "debateQuestion": "Fursa sawa katika nafasi za kazi chini ya Mamlaka ya Nchi inaweza kupimwa kwa vigezo gani vya uwazi na usawa?",
+  "disclaimer": "Huu ni ufafanuzi wa kielimu wa maandishi ya Ibara ya 22 yaliyopo kwenye source ya mradi; si ushauri wa kisheria."
+}
