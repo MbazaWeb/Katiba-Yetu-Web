@@ -1024,3 +1024,59 @@ button.lawDashboardCard{transition:transform .16s ease,box-shadow .16s ease}
 
 /* Constitution schedule reader */
 .scheduleReaderShell{max-width:980px;margin:0 auto}.scheduleReaderTop{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:18px}.scheduleHero{display:flex;justify-content:space-between;gap:32px;padding:28px;border:1px solid var(--border);border-radius:20px;background:var(--surface);margin-bottom:20px}.scheduleHero h2{margin:6px 0 8px;font-size:clamp(1.7rem,4vw,2.5rem)}.scheduleHero p{margin:0;color:var(--muted)}.scheduleSource{display:flex;gap:10px;align-items:flex-start;min-width:230px}.scheduleSource div{display:flex;flex-direction:column;gap:3px}.scheduleSource small{color:var(--muted)}.scheduleText{border:1px solid var(--border);border-radius:20px;background:var(--surface);overflow:hidden}.scheduleItem{display:grid;grid-template-columns:minmax(42px,auto) 1fr;gap:18px;padding:18px 22px;border-bottom:1px solid var(--border)}.scheduleItem:last-child{border-bottom:0}.scheduleItem>b{font-size:1.05rem}.scheduleItem p{margin:0;line-height:1.7}.scheduleRef{max-width:170px}.scheduleList>header{padding:24px 22px 14px;border-bottom:1px solid var(--border)}.scheduleList>header span{font-size:.78rem;color:var(--muted);font-weight:700;text-transform:uppercase}.scheduleList>header h2{margin:5px 0}.scheduleList>header p{margin:5px 0;color:var(--muted);line-height:1.55}.scheduleList+.scheduleList{border-top:10px solid var(--background)}.schedulePager{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:20px}.schedulePager>a{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:16px 18px;border:1px solid var(--border);border-radius:14px;text-decoration:none;background:var(--surface)}.schedulePager a:last-child{text-align:right}.schedulePager span{display:flex;flex-direction:column}.schedulePager small{color:var(--muted)}.articleScheduleReference{display:flex;align-items:center;gap:14px;padding:16px 18px;margin:16px 0;border:1px solid var(--border);border-radius:14px;background:var(--surface)}.articleScheduleReference>div{display:flex;flex:1;flex-direction:column;gap:2px}.articleScheduleReference span,.articleScheduleReference small{font-size:.76rem;color:var(--muted)}.articleScheduleReference>a{display:flex;align-items:center;gap:6px;font-weight:700;text-decoration:none}@media(max-width:700px){.scheduleReaderTop,.scheduleHero,.articleScheduleReference{align-items:flex-start;flex-direction:column}.scheduleHero{padding:20px}.scheduleSource{min-width:0}.scheduleItem{grid-template-columns:34px 1fr;padding:15px 16px;gap:10px}.scheduleRef{font-size:.78rem;overflow-wrap:anywhere}.schedulePager{grid-template-columns:1fr}.schedulePager>span:empty{display:none}.articleScheduleReference>a{width:100%;justify-content:space-between}}
+
+
+/* Dark mode readability — Constitution reader */
+:root[data-theme="dark"] .articleReader,
+:root[data-theme="dark"] .readerScopedSearch,
+:root[data-theme="dark"] .articleNavigator,
+:root[data-theme="dark"] .tabPlaceholder,
+:root[data-theme="dark"] .explanationPanel,
+:root[data-theme="dark"] .discussionPanel{
+  background:#111815;
+  border-color:#26342f;
+  color:#f5f7f6;
+}
+:root[data-theme="dark"] .articleReader h1,
+:root[data-theme="dark"] .articleReader h2,
+:root[data-theme="dark"] .articleReader h3,
+:root[data-theme="dark"] .articleContext,
+:root[data-theme="dark"] .readerSearchHead b,
+:root[data-theme="dark"] .articleProgress b{
+  color:#f5f7f6;
+  opacity:1;
+}
+:root[data-theme="dark"] .articleReader .articleText,
+:root[data-theme="dark"] .articleReader .clauses p,
+:root[data-theme="dark"] .clauseRow p{
+  color:#e8eeeb;
+  opacity:1;
+}
+:root[data-theme="dark"] .readerSearchHead span,
+:root[data-theme="dark"] .articleProgress>div:first-child,
+:root[data-theme="dark"] .articleJump span,
+:root[data-theme="dark"] .sourceLine,
+:root[data-theme="dark"] .articleBottomNav>b{
+  color:#aab8b1;
+}
+:root[data-theme="dark"] .readerSearchInput,
+:root[data-theme="dark"] .articleJump select{
+  background:#0f1714;
+  border-color:#31423a;
+  color:#f5f7f6;
+}
+:root[data-theme="dark"] .readerSearchInput input{
+  color:#f5f7f6;
+}
+:root[data-theme="dark"] .readerSearchInput input::placeholder{
+  color:#9aa9a2;
+  opacity:1;
+}
+:root[data-theme="dark"] .articleProgressTrack{
+  background:#26342f;
+}
+:root[data-theme="dark"] .status.sourceCopy{
+  background:#13251c;
+  border-color:#2a7950;
+  color:#4ade80;
+}
