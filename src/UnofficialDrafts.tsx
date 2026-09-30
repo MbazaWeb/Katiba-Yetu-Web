@@ -7,7 +7,7 @@ import {useLanguage} from './lib/language';
 type Clause={id:string,label:string,text:string};
 type Article={id:string,number:string,title:string,text:string,clauses:Clause[]};
 type Chapter={id:string,number:string,title:string,section?:string,articles:Article[]};
-type Draft={id:string;title:string;creator_name:string;creator_type:string;constitution_type:string;summary:string;status:'draft'|'submitted'|'published';chapters:Chapter[];created_at:string;updated_at:string;user_id?:string|null;certificate_token?:string|null;submitted_at?:string|null;published_at?:string|null};
+type Draft={id:string;title:string;creator_name:string;creator_type:string;constitution_type:string;summary:string;status:'draft'|'submitted'|'published';chapters:Chapter[];created_at:string;updated_at:string;user_id?:string|null;certificate_token?:string|null;review_status?:'not_submitted'|'pending'|'returned'|'approved';review_note?:string|null;reviewed_by?:string|null;reviewed_at?:string|null;submitted_at?:string|null;published_at?:string|null};
 const creatorTypes=[['citizen','Mwananchi','Citizen'],['political_party','Chama cha siasa','Political party'],['university','Chuo Kikuu','University'],['firm','Kampuni/Firm','Firm'],['institution','Taasisi','Institution'],['civil_society','Asasi ya kiraia','Civil society']];
 const constitutionTypes=[['full','Katiba kamili','Full constitution'],['amendment','Rasimu ya marekebisho','Amendment draft'],['thematic','Rasimu ya mada maalum','Thematic draft'],['model','Katiba mfano','Model constitution']];
 const uid=()=>crypto.randomUUID();
