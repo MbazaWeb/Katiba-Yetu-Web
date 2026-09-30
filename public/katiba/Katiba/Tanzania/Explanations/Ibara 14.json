@@ -1,0 +1,29 @@
+{
+  "plainLanguage": "Ibara hii inatambua haki ya kila mtu kuishi na kupata hifadhi ya maisha yake kutoka katika jamii, kwa mujibu wa sheria.",
+  "meaning": "Maandishi yanaweka haki ya kuishi na hifadhi ya maisha kama haki ya kila mtu, huku yakitaja kwamba hifadhi hiyo ni kwa mujibu wa sheria.",
+  "keyPoints": [
+    "Kila mtu ana haki ya kuishi.",
+    "Kila mtu ana haki ya kupata hifadhi ya maisha yake kutoka katika jamii.",
+    "Ibara inaunganisha hifadhi hiyo na masharti ya sheria."
+  ],
+  "legalTerms": [
+    {
+      "term": "Haki ya kuishi",
+      "meaning": "Haki inayotambuliwa moja kwa moja kwa kila mtu katika Ibara hii."
+    },
+    {
+      "term": "Kwa mujibu wa sheria",
+      "meaning": "Kauli inayoonyesha kwamba hifadhi ya maisha inayotajwa inapaswa kusomwa pamoja na sheria husika."
+    }
+  ],
+  "examples": [
+    "Suala linalohusu ulinzi wa maisha ya mtu linahitaji kusomwa kwa kuanzia haki inayotajwa katika Ibara hii pamoja na sheria nyingine zinazohusika."
+  ],
+  "history": {
+    "summary": "Historia mahsusi ya Ibara hii bado haijaongezwa kwenye dataset iliyohakikiwa.",
+    "notes": []
+  },
+  "expertPerspectives": [],
+  "debateQuestion": "Wajibu wa jamii na taasisi za umma katika kuhifadhi maisha ya mtu unawezaje kueleweka pamoja na kauli “kwa mujibu wa sheria”?",
+  "disclaimer": "Ufafanuzi huu unatokana na maandishi ya Ibara ya 14 yaliyopo kwenye source ya mradi. Si tafsiri rasmi ya mahakama wala ushauri wa kisheria."
+}
