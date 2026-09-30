@@ -1,0 +1,24 @@
+{
+  "plainLanguage": "Ibara hii inasema kwamba Tanzania ni nchi moja yenye muundo wa Jamhuri ya Muungano.",
+  "meaning": "Maandishi yanaweka utambulisho wa kikatiba wa Tanzania kama nchi moja na Jamhuri ya Muungano.",
+  "keyPoints": [
+    "Tanzania imetajwa kuwa nchi moja.",
+    "Mfumo wa nchi umetajwa kuwa Jamhuri ya Muungano."
+  ],
+  "legalTerms": [
+    {
+      "term": "Jamhuri ya Muungano",
+      "meaning": "Jina la muundo wa nchi kama lilivyotajwa katika Ibara hii."
+    }
+  ],
+  "examples": [
+    "Unapotaja hadhi ya kikatiba ya nchi, Ibara hii ndiyo msingi wa kauli kwamba Tanzania ni Jamhuri ya Muungano."
+  ],
+  "history": {
+    "summary": "Historia mahsusi ya Ibara hii bado haijaongezwa kwenye dataset iliyohakikiwa.",
+    "notes": []
+  },
+  "expertPerspectives": [],
+  "debateQuestion": "Kwa nini utambulisho wa nchi kama Jamhuri ya Muungano ni muhimu kuwekwa moja kwa moja ndani ya Katiba?",
+  "disclaimer": "Ufafanuzi huu umetolewa kwa lugha rahisi kutoka kwenye maandishi ya Ibara ya 1 yaliyopo kwenye chanzo cha mradi. Si maandishi rasmi ya Katiba wala ushauri wa kisheria."
+}
