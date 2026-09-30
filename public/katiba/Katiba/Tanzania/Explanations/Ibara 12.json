@@ -1,0 +1,30 @@
+{
+  "plainLanguage": "Ibara hii inasema kwamba binadamu wote huzaliwa huru na sawa, na kila mtu anastahili utu wake kutambuliwa na kuthaminiwa.",
+  "meaning": "Ibara inaweka usawa na heshima ya utu wa binadamu kama misingi ya kikatiba.",
+  "keyPoints": [
+    "Binadamu wote huzaliwa huru.",
+    "Binadamu wote ni sawa.",
+    "Kila mtu anastahili kutambuliwa utu wake.",
+    "Utu wa kila mtu unastahili kuthaminiwa."
+  ],
+  "legalTerms": [
+    {
+      "term": "Usawa wa binadamu",
+      "meaning": "Kanuni kwamba binadamu wote huzaliwa huru na sawa kama ilivyoelezwa katika Ibara hii."
+    },
+    {
+      "term": "Utu",
+      "meaning": "Thamani na heshima ya mtu ambayo Ibara inasema inapaswa kutambuliwa na kuthaminiwa."
+    }
+  ],
+  "examples": [
+    "Katika kutathmini namna mtu anavyotendewa, Ibara hii inaweka msingi wa kuzingatia usawa na heshima ya utu wake."
+  ],
+  "history": {
+    "summary": "Historia mahsusi ya Ibara hii bado haijaongezwa kwenye dataset iliyohakikiwa.",
+    "notes": []
+  },
+  "expertPerspectives": [],
+  "debateQuestion": "Kutambua na kuthamini utu wa kila mtu kunapaswa kuonekana kwa namna gani katika huduma na taasisi za umma?",
+  "disclaimer": "Huu ni ufafanuzi wa kielimu wa maandishi ya Ibara ya 12 yaliyopo kwenye source ya mradi; si tafsiri rasmi ya mahakama wala ushauri wa kisheria."
+}
