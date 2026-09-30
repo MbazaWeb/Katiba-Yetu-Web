@@ -1,0 +1,37 @@
+{
+  "plainLanguage": "Ibara hii inaweka wajibu wa kulinda mali asilia, mali ya Mamlaka ya Nchi, mali inayomilikiwa kwa pamoja na wananchi, na kuheshimu mali ya watu wengine.",
+  "meaning": "Maandishi yanaunganisha ulinzi wa rasilimali na mali za umma na wajibu wa watu kupinga uharibifu na ubadhirifu, pamoja na kuendesha uchumi wa taifa kwa makini.",
+  "keyPoints": [
+    "Kila mtu ana wajibu wa kulinda mali asilia ya Jamhuri ya Muungano.",
+    "Mali ya Mamlaka ya Nchi inapaswa kulindwa.",
+    "Mali inayomilikiwa kwa pamoja na wananchi inapaswa kulindwa.",
+    "Mali ya mtu mwingine inapaswa kuheshimiwa.",
+    "Watu wanatakiwa kutunza mali ya umma na ya pamoja.",
+    "Uharibifu na ubadhirifu vinapaswa kupigwa vita.",
+    "Ibara inataja kuendesha uchumi wa taifa kwa makini."
+  ],
+  "legalTerms": [
+    {
+      "term": "Mali asilia",
+      "meaning": "Rasilimali za asili za Jamhuri ya Muungano ambazo Ibara inaweka wajibu wa kuzilinda."
+    },
+    {
+      "term": "Mali ya Mamlaka ya Nchi",
+      "meaning": "Mali inayohusishwa na Mamlaka ya Nchi na ambayo Ibara inaagiza itunzwe."
+    },
+    {
+      "term": "Ubadhirifu",
+      "meaning": "Matumizi au upotevu usiofaa wa mali ambao Ibara inaelekeza watu kuupiga vita."
+    }
+  ],
+  "examples": [
+    "Uharibifu au matumizi mabaya ya mali inayomilikiwa kwa pamoja na wananchi yanaingia katika eneo la wajibu wa kuitunza na kupiga vita ubadhirifu unaotajwa katika Ibara hii."
+  ],
+  "history": {
+    "summary": "Historia mahsusi ya Ibara hii bado haijaongezwa kwenye dataset iliyohakikiwa.",
+    "notes": []
+  },
+  "expertPerspectives": [],
+  "debateQuestion": "Wananchi na taasisi za umma wanaweza kutekeleza kwa vitendo wajibu wa kulinda mali na rasilimali zinazomilikiwa kwa pamoja kwa njia zipi?",
+  "disclaimer": "Huu ni ufafanuzi wa kielimu wa maandishi ya Ibara ya 27 yaliyopo kwenye source ya mradi; si ushauri wa kisheria."
+}
