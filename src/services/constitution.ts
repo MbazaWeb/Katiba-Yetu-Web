@@ -39,7 +39,6 @@ export interface ConstitutionSource {
 
 export const constitutionSources:ConstitutionSource[]=[
   {id:'doc-union-1977',title:'Katiba ya Jamhuri ya Muungano wa Tanzania',family:'official',jurisdiction:'tanzania',language:'sw',basePath:'/katiba/Katiba/Tanzania',year:'1977',edition:'Toleo la 2000'},
-  {id:'doc-union-1977-en',title:'Constitution of the United Republic of Tanzania',family:'official',jurisdiction:'tanzania',language:'en',basePath:'/katiba/Katiba/Tanzania-English',year:'1977',edition:'English edition — conversion in progress'},
   {id:'doc-zanzibar-1984',title:'Katiba ya Zanzibar',family:'official',jurisdiction:'zanzibar',language:'sw',basePath:'/katiba/Katiba/Zanzibar',year:'1984',edition:'Toleo la 2020'},
   {id:'doc-rasimu-tanzania-2014',title:'Rasimu ya Katiba ya Tanzania',family:'draft',jurisdiction:'tanzania',language:'sw',basePath:'/katiba/Rasimu za Katiba/Tanzania',year:'2014',edition:'Rasimu / Toleo la 2014'}
 ];
