@@ -18,3 +18,5 @@ Any future search index or cache must be treated as disposable infrastructure on
 
 
 <!-- Deployment trigger: 2026-10-01 admin console build fixes -->
+
+<!-- Deployment retry: poll state scope fix -->
