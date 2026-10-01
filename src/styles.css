@@ -1429,3 +1429,10 @@ button.lawDashboardCard{transition:transform .16s ease,box-shadow .16s ease}
 .groupLocationFields{display:grid!important;grid-template-columns:1fr 1fr;gap:10px}
 .groupCreate select:disabled{opacity:.55;cursor:not-allowed}
 @media(max-width:640px){.menuBackdrop{inset:68px 0 0}.groupLocationFields{grid-template-columns:1fr}}
+
+/* Group management */
+.groupAdminActions{margin:18px 0;padding:18px;border:1px solid var(--line);border-radius:16px;background:var(--surface)}
+.groupAdminActionHead{display:flex;align-items:center;justify-content:space-between;gap:16px}.groupAdminActionHead span{font-size:11px;font-weight:900;letter-spacing:.08em}.groupAdminActionHead h3{margin:4px 0 0}
+.groupEditForm{display:grid;gap:12px;margin-top:16px}.groupEditForm label{display:grid;gap:6px;font-weight:750}.groupEditForm input,.groupEditForm textarea,.groupEditForm select{width:100%;border:1px solid var(--line);border-radius:10px;padding:10px 12px;background:var(--surface);color:var(--ink);font:inherit}
+.groupDangerZone{display:flex;align-items:center;justify-content:space-between;gap:18px;margin-top:18px;padding-top:16px;border-top:1px solid var(--line)}.groupDangerZone div{display:grid;gap:4px}.groupDangerZone small{opacity:.72}.groupDangerZone button{border:1px solid #b42318;color:#b42318;background:transparent;border-radius:10px;padding:9px 12px;font-weight:800}
+@media(max-width:640px){.groupAdminActionHead,.groupDangerZone{align-items:stretch;flex-direction:column}.groupDangerZone button{width:100%}}
