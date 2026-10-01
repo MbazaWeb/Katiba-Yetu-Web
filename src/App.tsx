@@ -1,6 +1,6 @@
 import {useEffect,useState} from 'react';
 import {NavLink,Outlet,useLocation} from 'react-router';
-import {Bell,Download,LayoutDashboard,Menu,Moon,Search,Settings,ShieldCheck,Sun,Users,X} from 'lucide-react';
+import {Bell,Download,Menu,Moon,Search,ShieldCheck,Sun,X} from 'lucide-react';
 import {supabase} from './lib/supabase';
 import {AppLanguage,LanguageContext} from './lib/language';
 const nav=[['/','Mwanzo','Home'],['/katiba','Katiba','Constitutions'],['/unda-rasimu','Unda Rasimu','Create Draft'],['/proposed','Katiba Inayopendekezwa','Proposed Constitution'],['/polls','Kura','Polls'],['/discussions','Majadiliano','Discussions'],['/history','Historia','History'],['/resources','Maktaba','Library']];
