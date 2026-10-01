@@ -1403,3 +1403,13 @@ button.lawDashboardCard{transition:transform .16s ease,box-shadow .16s ease}
  .nav>.brand{min-width:0}
  .brand strong{font-size:13px}
 }
+
+/* Make the shared Menu panel visible on desktop when rendered */
+@media(min-width:1101px){
+ .mobileNav{position:fixed;z-index:99;display:grid;gap:12px;top:70px;left:auto;right:18px;width:min(380px,calc(100vw - 36px));padding:14px 16px 18px;background:var(--surface);border:1px solid var(--line);border-radius:14px;box-shadow:0 18px 45px rgba(20,32,24,.18);max-height:calc(100dvh - 88px);overflow:auto}
+ .mobileNav nav,.mobileNavTools{display:grid;gap:4px}
+ .mobileNav a,.mobileNav button{display:flex;align-items:center;gap:10px;width:100%;padding:11px 12px;border:0;border-radius:10px;background:transparent;color:var(--ink);text-decoration:none;text-align:left;font:inherit;font-size:14px;font-weight:750}
+ .mobileNav a:hover,.mobileNav button:hover,.mobileNav a.active{background:var(--green-soft);color:var(--green-dark)}
+ .mobileNavTools{padding-top:10px;border-top:1px solid var(--line)}
+ .mobileNavTools b{margin-left:auto}
+}
