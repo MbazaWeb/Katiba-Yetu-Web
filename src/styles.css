@@ -1221,3 +1221,19 @@ button.lawDashboardCard{transition:transform .16s ease,box-shadow .16s ease}
  .pollCreateForm label{font-size:13px}
  .pollCreateForm>.notice.wide{padding:15px!important}
 }
+
+.pollSourceBuilder{display:grid!important;grid-template-columns:1fr!important;gap:16px!important;padding:18px;border:1px solid #dce8df;border-radius:16px;background:rgba(255,255,255,.58)}
+.pollSourceMode{display:flex!important;grid-template-columns:none!important;gap:8px!important;flex-wrap:wrap}
+.pollSourceMode button{border:1px solid #d6e1da;background:#fff;border-radius:999px;padding:9px 13px;font-weight:800;cursor:pointer}
+.pollSourceMode button.active{background:var(--green);border-color:var(--green);color:#fff}
+.pollSourceGrid,.pollManualGrid{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:14px!important}
+.pollManualGrid .wide{grid-column:1/-1}
+.pollSourceSearch{display:grid!important;grid-template-columns:1fr auto!important;gap:8px!important}
+.pollSourceSearch button{padding:0 18px;border:0;border-radius:10px;background:var(--green);color:#fff;font-weight:800}
+.pollSourceResults{display:grid!important;grid-template-columns:1fr!important;gap:7px!important;max-height:260px;overflow:auto}
+.pollSourceResults button{text-align:left;padding:11px 13px;border:1px solid #dce6df;border-radius:11px;background:#fff;display:flex;flex-direction:column;gap:3px;cursor:pointer}
+.pollSourceResults button b{font-size:11px}.pollSourceResults button span{font-size:10px;color:#66716a}
+.pollArticlePreview{display:block!important;padding:18px!important;border:1px solid #bfe6d2;border-radius:14px;background:#f3fbf7}
+.pollArticlePreview div{display:flex;flex-direction:column;gap:3px}.pollArticlePreview span{font-size:9px;font-weight:900;color:var(--green)}.pollArticlePreview b{font-size:14px}.pollArticlePreview p{margin:10px 0 0;line-height:1.65;font-size:12px}
+.pollChoiceConfig{display:grid!important;grid-template-columns:minmax(220px,.4fr) minmax(0,1fr)!important;gap:16px!important;align-items:start}.pollChoiceConfig small{grid-column:2;color:#687069;line-height:1.5}
+@media(max-width:760px){.pollSourceGrid,.pollManualGrid,.pollChoiceConfig{grid-template-columns:1fr!important}.pollChoiceConfig small{grid-column:1}.pollSourceSearch{grid-template-columns:1fr!important}.pollSourceSearch button{min-height:44px}}
