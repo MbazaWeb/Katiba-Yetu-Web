@@ -1253,3 +1253,14 @@ button.lawDashboardCard{transition:transform .16s ease,box-shadow .16s ease}
 .publicPollArticle b{font-size:14px;color:var(--ink)}
 .publicPollArticle small{font-size:10px;color:#778078}
 .publicPollArticle p{margin:0;white-space:pre-line;font-size:12px;line-height:1.75;color:#39433d}
+
+/* Poll listing: remove desktop dead space while preserving readable text measure */
+.centralPollList{grid-template-columns:repeat(auto-fit,minmax(min(100%,520px),1fr))!important}
+.centralPollList>.centralPollCard:only-child{grid-column:1/-1;width:100%;max-width:none}
+.centralPollList>.centralPollCard:only-child .publicPollArticle p{max-width:980px}
+.centralPollList>.centralPollCard:only-child .centralPollHeader>div{max-width:1050px}
+@media(min-width:1200px){
+ .centralPollList>.centralPollCard:only-child{padding:28px 30px}
+ .centralPollList>.centralPollCard:only-child .pollOptions,
+ .centralPollList>.centralPollCard:only-child .pollMetrics{max-width:1050px}
+}
