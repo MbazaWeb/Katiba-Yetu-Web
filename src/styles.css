@@ -1490,3 +1490,26 @@ button.lawDashboardCard{transition:transform .16s ease,box-shadow .16s ease}
 .groupMediaUrlOptions{border-top:1px solid var(--line);padding-top:10px}.groupMediaUrlOptions>summary{cursor:pointer;font-size:10px;font-weight:800;color:var(--muted,#667)}.groupMediaUrlOptions>div{display:grid;grid-template-columns:1fr 1fr auto;align-items:end;gap:10px;padding-top:12px}.groupMediaUrlOptions label{display:grid;gap:5px;font-size:10px;font-weight:800}.groupMediaUrlOptions input{width:100%;min-height:42px;border:1px solid var(--line);border-radius:9px;padding:9px 11px;background:var(--surface);color:var(--ink)}.groupMediaUrlOptions button{min-height:42px;padding:9px 13px;border:1px solid var(--line);border-radius:9px;background:var(--surface);color:var(--ink);font-weight:850}
 .groupMediaHint{margin:0!important;font-size:9px!important;color:var(--muted,#667)}
 @media(max-width:760px){.groupMediaUploadGrid{grid-template-columns:1fr}.groupMediaUrlOptions>div{grid-template-columns:1fr}.groupMediaUrlOptions button{width:100%}.groupMediaSettings>summary>small{display:none}.coverPreview{width:105px}}
+
+/* Mobile constitution / draft chapter cards */
+@media(max-width:640px){
+ .referenceChapters{gap:10px;margin-top:18px}
+ .referenceChapters .chapterCard{border-radius:16px}
+ .referenceChapters .chapterCard summary{grid-template-columns:36px minmax(0,1fr) 18px;gap:11px;align-items:center;padding:16px 14px}
+ .referenceChapters .chapterIndex{align-self:start;padding-top:22px;font-size:18px;line-height:1;font-weight:850;letter-spacing:-.03em}
+ .referenceChapters .chapterSummary{min-width:0}
+ .referenceChapters .chapterSummary span{display:block;font-size:8px;line-height:1.2;letter-spacing:.11em}
+ .referenceChapters .chapterSummary h3{margin:5px 0 5px;font-family:inherit;font-size:17px!important;line-height:1.22!important;font-weight:850;letter-spacing:-.025em;overflow-wrap:normal;word-break:normal;hyphens:none}
+ .referenceChapters .chapterSummary small{display:block;font-size:10px;line-height:1.35;color:#77736d}
+ .referenceChapters .chapterArrow{width:18px;height:18px}
+ .referenceChapters .articleLinks{grid-template-columns:repeat(2,minmax(0,1fr));gap:7px;padding:12px 14px 15px}
+ .referenceChapters .articleLinks a{min-width:0;padding:10px 8px;border-radius:9px}
+ .referenceChapters .articleLinks a span{font-size:7px}
+ .referenceChapters .articleLinks a b{font-size:12px}
+}
+@media(max-width:380px){
+ .referenceChapters .chapterCard summary{grid-template-columns:30px minmax(0,1fr) 16px;gap:8px;padding:14px 11px}
+ .referenceChapters .chapterIndex{font-size:16px}
+ .referenceChapters .chapterSummary h3{font-size:15px!important;line-height:1.24!important}
+ .referenceChapters .articleLinks{padding:10px 11px 13px}
+}
