@@ -15,3 +15,6 @@ These files are the source of truth. They are not merged, rewritten, normalized,
 Chapter files list the article files that belong to each chapter. The web service loads each chapter and then fetches the referenced original article JSON file.
 
 Any future search index or cache must be treated as disposable infrastructure only; the original files remain authoritative.
+
+
+<!-- Deployment trigger: 2026-10-01 admin console build fixes -->
