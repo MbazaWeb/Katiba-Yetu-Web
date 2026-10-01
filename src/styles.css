@@ -1520,3 +1520,11 @@ button.lawDashboardCard{transition:transform .16s ease,box-shadow .16s ease}
 .desktopInstallPrompt>div:nth-child(2){display:grid;gap:2px}.desktopInstallPrompt b{font-size:11px}.desktopInstallPrompt span{font-size:8px;line-height:1.4;color:var(--muted,#667)}
 .desktopInstallAction{min-height:36px;padding:7px 11px;border:0;border-radius:9px;background:var(--green);color:#fff;font-weight:850;cursor:pointer}.desktopInstallClose{width:28px;height:28px;border:0;background:transparent;color:var(--muted,#667);font-size:20px;cursor:pointer}
 @media(max-width:700px){.desktopInstallPrompt{display:none}}
+
+/* Homepage audience analytics */
+.audienceAnalytics{padding-top:10px}.audienceAnalyticsGrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px}.audienceAnalyticsGrid>article{padding:18px;border:1px solid var(--line);border-radius:16px;background:var(--surface)}
+.audienceCardHead{display:grid;gap:3px;padding-bottom:13px;border-bottom:1px solid var(--line)}.audienceCardHead span{font-size:8px;font-weight:900;letter-spacing:.12em;color:var(--green)}.audienceCardHead b{font-size:14px}
+.audienceBars{display:grid;gap:11px;padding-top:14px}.audienceBar{display:grid;gap:5px}.audienceBar>div{display:flex;align-items:center;justify-content:space-between;gap:10px}.audienceBar span{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:10px;font-weight:750}.audienceBar b{font-size:10px}.audienceBar>i{display:block;height:6px;overflow:hidden;border-radius:999px;background:var(--green-soft)}.audienceBar>i>em{display:block;height:100%;min-width:2px;border-radius:inherit;background:var(--green)}
+.audienceBars>small{padding:12px 0;color:var(--muted,#667);font-size:10px}.audiencePrivacyNote{margin:12px 0 0;font-size:9px;line-height:1.5;color:var(--muted,#667)}
+@media(max-width:900px){.audienceAnalyticsGrid{grid-template-columns:1fr 1fr}.audienceAnalyticsGrid>article:first-child{grid-column:1/-1}}
+@media(max-width:600px){.audienceAnalyticsGrid{grid-template-columns:1fr}.audienceAnalyticsGrid>article:first-child{grid-column:auto}.audienceAnalyticsGrid>article{padding:15px;border-radius:14px}}
