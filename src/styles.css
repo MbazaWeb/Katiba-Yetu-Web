@@ -1237,3 +1237,12 @@ button.lawDashboardCard{transition:transform .16s ease,box-shadow .16s ease}
 .pollArticlePreview div{display:flex;flex-direction:column;gap:3px}.pollArticlePreview span{font-size:9px;font-weight:900;color:var(--green)}.pollArticlePreview b{font-size:14px}.pollArticlePreview p{margin:10px 0 0;line-height:1.65;font-size:12px}
 .pollChoiceConfig{display:grid!important;grid-template-columns:minmax(220px,.4fr) minmax(0,1fr)!important;gap:16px!important;align-items:start}.pollChoiceConfig small{grid-column:2;color:#687069;line-height:1.5}
 @media(max-width:760px){.pollSourceGrid,.pollManualGrid,.pollChoiceConfig{grid-template-columns:1fr!important}.pollChoiceConfig small{grid-column:1}.pollSourceSearch{grid-template-columns:1fr!important}.pollSourceSearch button{min-height:44px}}
+
+.pollSourceBuilder.simple{gap:14px!important}
+.pollSourceBuilder.simple>.pollSourceGrid{grid-template-columns:1fr!important}
+.pollAdvanced{border-top:1px solid #e1e9e4;padding-top:12px}
+.pollAdvanced summary{cursor:pointer;font-size:11px;font-weight:900;color:#657169;list-style:none}
+.pollAdvanced summary::-webkit-details-marker{display:none}
+.pollAdvanced summary:after{content:' +';font-weight:900}
+.pollAdvanced[open] summary:after{content:' −'}
+.pollAdvancedBody{display:grid;gap:14px;margin-top:14px}
