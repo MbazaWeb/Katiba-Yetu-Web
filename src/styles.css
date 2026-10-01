@@ -1292,3 +1292,5 @@ button.lawDashboardCard{transition:transform .16s ease,box-shadow .16s ease}
 @media(max-width:650px){.groupCover{height:130px}.groupCover+.groupHero{margin:0 8px}.groupMediaSettings form{grid-template-columns:1fr}}
 
 .groupMediaSettings label{display:grid;gap:5px;font-size:10px;font-weight:800}.groupMediaSettings input[type=file]{padding:7px;background:#fafafa}.publicProfileAvatar{position:relative}.avatarUpload{position:absolute;right:-3px;bottom:-3px;width:24px;height:24px;display:grid;place-items:center;border-radius:50%;background:var(--green);color:#fff;border:2px solid #fff;cursor:pointer;font-size:16px}.avatarUpload input{display:none}
+
+.communityHeaderLink{position:relative;display:inline-flex;align-items:center;gap:5px;color:inherit;text-decoration:none;font-size:10px;font-weight:800;white-space:nowrap}.inviteHeaderLink .notificationCount{position:static;min-width:17px;height:17px;font-size:8px}.mobileNavTools>a b{margin-left:auto;min-width:20px;height:20px;display:grid;place-items:center;border-radius:999px;background:var(--green);color:#fff;font-size:9px}
