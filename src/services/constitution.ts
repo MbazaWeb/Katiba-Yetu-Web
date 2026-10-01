@@ -100,6 +100,8 @@ async function fetchJson<T>(url:string):Promise<T>{
   return request as Promise<T>;
 }
 
+export function normalizeArticleText(article:Pick<ConstitutionArticle,'maudhui'|'vifungu'>){const summary=String(article.maudhui||'').trim(),clauses=(article.vifungu||[]).map(x=>String(x||'').trim()).filter(Boolean);if(!clauses.length)return summary;if(!summary)return clauses.join('\n');const compact=(s:string)=>s.replace(/\s+/g,' ').trim();const normalizedSummary=compact(summary),normalizedClauses=compact(clauses.join(' '));if(normalizedSummary===normalizedClauses||clauses.every(x=>normalizedSummary.includes(compact(x))))return clauses.join('\n');return [summary,...clauses.filter(x=>!normalizedSummary.includes(compact(x)))].filter(Boolean).join('\n')}
+
 export function getSource(documentId:string){
   return constitutionSources.find(s=>s.id===documentId);
 }
@@ -176,7 +178,7 @@ export async function searchConstitution(query:string,documentId?:string){
   const groups=await Promise.all(sources.map(async source=>{
     const articles=await loadAllArticles(source.id);
     return articles.map(article=>{
-      const number=String(article.ibara).toLocaleLowerCase('sw'),title=(article.jina||'').toLocaleLowerCase('sw'),chapter=(article.sura||'').toLocaleLowerCase('sw'),part=(article.sehemu||'').toLocaleLowerCase('sw'),body=[article.maudhui,...(article.vifungu||[])].join(' ').toLocaleLowerCase('sw');
+      const number=String(article.ibara).toLocaleLowerCase('sw'),title=(article.jina||'').toLocaleLowerCase('sw'),chapter=(article.sura||'').toLocaleLowerCase('sw'),part=(article.sehemu||'').toLocaleLowerCase('sw'),body=normalizeArticleText(article).toLocaleLowerCase('sw');
       const searchable=[number,title,chapter,part,body].join(' ');
       if(!tokens.every(token=>searchable.includes(token))) return null;
       let score=0;
