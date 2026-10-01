@@ -1472,3 +1472,11 @@ button.lawDashboardCard{transition:transform .16s ease,box-shadow .16s ease}
 .groupMemberControls{margin:14px 0 18px}.groupMemberControls button{background:var(--surface);border:1px solid var(--line);border-radius:999px;font-weight:750}
 .groupInvite>div:first-of-type{max-width:680px}.groupActivity{grid-template-columns:repeat(auto-fit,minmax(min(100%,330px),1fr))}
 @media(max-width:700px){.groupSection,.groupWorkspace{padding:14px;border-radius:14px}.groupHero .communityAvatar.large{width:68px;height:68px}.groupCapabilities{overflow-x:auto;flex-wrap:nowrap;padding-bottom:12px}.groupCapabilities span{white-space:nowrap}.groupMembers,.groupActivity{grid-template-columns:1fr}.groupDangerZone{flex-direction:row;align-items:center}.groupDangerZone .groupDeleteIconBtn{width:42px}.groupSection>h2,.groupWorkspace>h2{font-size:15px}}
+
+/* Compact group management actions */
+.groupAdminActionHead{display:grid;grid-template-columns:minmax(0,1fr) auto auto;align-items:center;gap:8px;padding:14px 16px}
+.groupAdminActionHead>button{margin:0}.groupAdminActionHead .groupEditIconBtn{display:inline-flex;align-items:center;justify-content:center;gap:7px;min-height:40px;padding:8px 12px}
+.groupAdminActionHead .groupHeaderDeleteBtn{width:40px;min-width:40px;height:40px;padding:0;border-radius:10px;border-color:rgba(180,35,24,.24);background:rgba(180,35,24,.06);color:#b42318}
+.groupAdminActionHead .groupHeaderDeleteBtn:hover{background:#b42318;color:#fff;border-color:#b42318}
+.groupAdminActions>.groupDangerZone{display:none!important}
+@media(max-width:560px){.groupAdminActionHead{grid-template-columns:minmax(0,1fr) 40px 40px}.groupAdminActionHead .groupEditIconBtn{width:40px;padding:0}.groupAdminActionHead .groupEditIconBtn span{display:none}.groupAdminActionHead>div{min-width:0}.groupAdminActionHead h3{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}}
