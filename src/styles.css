@@ -1372,3 +1372,34 @@ button.lawDashboardCard{transition:transform .16s ease,box-shadow .16s ease}
 .desktopMoreBtn{display:flex;align-items:center;gap:6px;border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:9px 11px;border-radius:10px;font-weight:800;white-space:nowrap}
 @media(max-width:1180px){.desktopMoreBtn{display:none}}
 @media(min-width:1181px){.mobileNav{left:auto;right:18px;top:70px;width:min(360px,calc(100vw - 36px));border:1px solid var(--line);border-radius:14px;box-shadow:0 18px 45px rgba(20,32,24,.18)}}
+
+/* Final simplified application header */
+.nav{display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;column-gap:24px;height:74px}
+.nav>.brand{min-width:205px}
+.nav>nav{justify-content:flex-start;gap:20px;overflow:hidden}
+.nav>nav>a{font-size:13px;font-weight:750}
+.navActions{display:flex;align-items:center;gap:8px}
+.navActions .searchLink{display:flex;align-items:center;gap:7px;padding:9px 11px;border-radius:10px;white-space:nowrap}
+.desktopMoreBtn{min-width:92px;justify-content:center}
+.menuBadge{display:grid;place-items:center;min-width:18px;height:18px;padding:0 5px;border-radius:999px;background:#111;color:#fff;font-size:10px}
+@media(max-width:1380px){
+ .nav{column-gap:14px}
+ .nav>.brand{min-width:auto}
+ .nav>.brand span{display:none}
+ .nav>nav{gap:13px}
+ .nav>nav>a{font-size:12px}
+}
+@media(max-width:1100px){
+ .nav{display:flex}
+ .nav>nav{display:none}
+ .nav>.brand{flex:1}
+ .desktopMoreBtn{display:none}
+ .mobileMenuBtn{display:grid;place-items:center}
+ .navActions .searchLink span{display:none}
+ .navActions .searchLink{padding:9px}
+}
+@media(max-width:640px){
+ .navActions .searchLink{display:none}
+ .nav>.brand{min-width:0}
+ .brand strong{font-size:13px}
+}
