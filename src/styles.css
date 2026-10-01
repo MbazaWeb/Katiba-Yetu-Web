@@ -1246,3 +1246,10 @@ button.lawDashboardCard{transition:transform .16s ease,box-shadow .16s ease}
 .pollAdvanced summary:after{content:' +';font-weight:900}
 .pollAdvanced[open] summary:after{content:' −'}
 .pollAdvancedBody{display:grid;gap:14px;margin-top:14px}
+
+.publicPollArticle{margin:18px 0;padding:18px 20px;border:1px solid #cfe4d8;border-radius:16px;background:#f7fbf9}
+.publicPollArticle>div{display:flex;align-items:baseline;gap:9px;flex-wrap:wrap;margin-bottom:10px}
+.publicPollArticle span{font-size:9px;font-weight:900;letter-spacing:.08em;color:var(--green)}
+.publicPollArticle b{font-size:14px;color:var(--ink)}
+.publicPollArticle small{font-size:10px;color:#778078}
+.publicPollArticle p{margin:0;white-space:pre-line;font-size:12px;line-height:1.75;color:#39433d}
