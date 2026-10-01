@@ -1413,3 +1413,11 @@ button.lawDashboardCard{transition:transform .16s ease,box-shadow .16s ease}
  .mobileNavTools{padding-top:10px;border-top:1px solid var(--line)}
  .mobileNavTools b{margin-left:auto}
 }
+
+/* Persistent header utilities */
+.headerLanguage,.headerAdminLink,.headerAccountLink{white-space:nowrap}
+.headerAdminLink,.headerAccountLink{padding:9px 10px;border-radius:10px;font-size:13px;font-weight:800}
+.headerAdminLink{color:var(--green)!important}
+@media(max-width:1250px){.navActions .searchLink span{display:none}.navActions .searchLink{padding:9px}}
+@media(max-width:1100px){.headerAdminLink{display:none}.headerAccountLink{display:none}.headerLanguage{display:inline-flex}}
+@media(max-width:640px){.headerLanguage{padding:7px 8px;font-size:11px}}
