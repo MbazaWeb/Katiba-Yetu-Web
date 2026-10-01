@@ -1264,3 +1264,10 @@ button.lawDashboardCard{transition:transform .16s ease,box-shadow .16s ease}
  .centralPollList>.centralPollCard:only-child .pollOptions,
  .centralPollList>.centralPollCard:only-child .pollMetrics{max-width:1050px}
 }
+
+.pollDiscussion{margin-top:28px;padding-top:26px;border-top:1px solid var(--line)}
+.pollDiscussionHead{display:flex;justify-content:space-between;align-items:flex-end;gap:18px}.pollDiscussionHead h2{margin:4px 0 0;font-size:22px}.pollDiscussionHead>b{font-size:11px;color:#6f756f}
+.pollDiscussionIntro{max-width:760px;color:#666d67;font-size:12px;line-height:1.6}
+.pollCommentComposer{display:grid;gap:10px;margin:18px 0 22px}.pollCommentComposer textarea{width:100%;min-height:92px;box-sizing:border-box;border:1px solid var(--line);border-radius:14px;padding:14px;font:inherit;resize:vertical}.pollCommentComposer>div{display:flex;justify-content:space-between;align-items:center;gap:12px}.pollCommentComposer label{font-size:11px;color:#676d68}
+.pollThread{display:grid;gap:14px}.pollThreadItem{border:1px solid var(--line);border-radius:16px;padding:17px;background:#fff}.pollThreadItem>p{font-size:13px;line-height:1.65;margin:12px 0}.pollThreadItem .publicDiscussionMeta small{display:block}.replyLike{border:0;background:transparent;padding:0;color:#6c716d;cursor:pointer;font-size:11px}
+@media(max-width:640px){.pollDiscussionHead{align-items:flex-start}.pollCommentComposer>div{align-items:flex-start;flex-direction:column}.pollCommentComposer button{width:100%}}
